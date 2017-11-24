@@ -12,6 +12,7 @@
   - [Kaleidoscope#241][kaleidoscope/241]: Ready-ish, but needs a small update. Asked the author, but if he does not have the time, or does not respond in a day or two, I'll do the changes myself.
   - [MouseKeys#11][mousekeys/11]: Needs to be updated once [Kaleidoscope#241][kaleidoscope/241] above is updated.
 - Reviewed [Model01-Firmware#26][model01-firmware/26]: My gut feeling is that while the change is useful, it is not worth including it.
+- Closed [Model01-Firmware#22][model01-firmware/22]: The root cause was elsewhere, thus there is no need for this workaround.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -19,7 +20,8 @@
  [keyboardiohid/12]: https://github.com/keyboardio/KeyboardioHID/pull/12
  [kaleidoscope/241]: https://github.com/keyboardio/Kaleidoscope/pull/241
  [mousekeys/11]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/11
- [model01-firmware/26]: https://github.com/keyboardio/Model01-Firmware/pull/26
+ [model01-firmware/26]: https://github.com/keyboardio/Model01-Firmware/pull/26]
+ [model01-firmware/22]: https://github.com/keyboardio/Model01-Firmware/pull/22
 
 ## TODO for @obra
 
