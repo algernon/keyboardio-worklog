@@ -4,7 +4,7 @@
 
 ## Work log
 
-- Merged keyboardio/Kaleidoscope-EEPROM-Keymap#7.
+- Merged [EEPROM-Keymap#7][eeprom-keymap/7].
 - Reviewed and tested keyboardio/Kaleidoscope#244.
 - Merged keyboardio/Arduino-Boards#11.
 - Reviewed and tested the horizontal mousewheel patches:
@@ -12,6 +12,8 @@
   - keyboardio/Kaleidoscope#241: Ready-ish, but needs a small update. Asked the author, but if he does not have the time, or does not respond in a day or two, I'll do the changes myself.
   - keyboardio/Kaleidoscope-MouseKeys#11: Needs to be updated once keyboardio/Kaleidoscope#241 above is updated.
 - Reviewed keyboardio/Model01-Firmware#26: My gut feeling is that while the change is useful, it is not worth including it.
+
+ [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
 
 ## TODO for @obra
 
