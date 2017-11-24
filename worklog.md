@@ -19,6 +19,7 @@
 - Tried to reproduce [Kaleidoscope#239][kaleidoscope/239], to no avail. This is starting to sound like a hardware issue, requested a bit more information.
 - Spent some time trying to figure out if [LED-ActiveModColor#7][activemodcolor/7] is doable - but it isn't.
 - Looked at [Kaleidoscope#176][kaleidoscope/176], and found a way that will hopefully fix this on all platforms. [KeyboardioHID#13][keyboardiohid/13] and [Kaleidoscope#251][kaleidoscope/251] should be tried on platforms other than Linux.
+- Started looking into suspend issues. Having left my laptop at work didn't help. I'm starting to have a reasonable idea how this can - and should be - done, but no visible progress yet.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -51,3 +52,10 @@ There are a few things where I do not feel I can make a decision, and would like
 
  [model01-firmware/23]: https://github.com/keyboardio/Model01-Firmware/issues/23
  [arduino-boards/1]: https://github.com/keyboardio/Arduino-Boards/issues/1
+
+## TODO for @algernon
+
+* Research suspend issues further.
+* Send the `getLEDs()` stuff from Arduino-HID upstream ([Arduino-HID#1][arduino-hid/1]).
+
+ [arduino-hid/1]: https://github.com/keyboardio/Arduino-HID/pull/1
