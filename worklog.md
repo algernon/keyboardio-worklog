@@ -18,6 +18,7 @@
 - Did a pass through all open issues, labeling them appropriately.
 - Tried to reproduce [Kaleidoscope#239][kaleidoscope/239], to no avail. This is starting to sound like a hardware issue, requested a bit more information.
 - Spent some time trying to figure out if [LED-ActiveModColor#7][activemodcolor/7] is doable - but it isn't.
+- Looked at [Kaleidoscope#176][kaleidoscope/176], but concluded that this is much easier to test once [Kaleidoscope#242][kaleidoscope/242] is merged.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -31,6 +32,8 @@
  [spacecadet/8]: https://github.com/keyboardio/Kaleidoscope-SpaceCadet/pull/8
  [kaleidoscope/239]: https://github.com/keyboardio/Kaleidoscope/issues/239
  [activemodcolor/7]: https://github.com/keyboardio/Kaleidoscope-LED-ActiveModColor/issues/7
+ [kaleidoscope/176]: https://github.com/keyboardio/Kaleidoscope/issues/176
+ [kaleidoscope/242]: https://github.com/keyboardio/Kaleidoscope/issues/242
 
 ## TODO for @obra
 
@@ -42,6 +45,7 @@ There are a few things where I do not feel I can make a decision, and would like
 * [avr_keyscanner#1][avr_keyscanner/1]: Not sure how to test it, and the debounce code is not something I'm familiar with (yet), so I'm not comfortable merging this myself.
 * [Model01-Firmware#23][model01-firmware/23]: I proposed a possible solution for the issue a while ago, but implementing that is non-trivial, and adds considerable complexity. Should I go ahead anyway?
 * [Arduino-Boards#1][arduino-boards/1]: What license should we use for `boards.txt` & co? What about the small scripts all around the repo? Is GPLv3 or LGPLv3 a reasonable choice? (I'll handle the rest, just need these questions answered)
+* [Kaleidoscope#242][kaleidoscope/242]: Appears to be merge-ready.
 
  [model01-firmware/23]: https://github.com/keyboardio/Model01-Firmware/issues/23
  [arduino-boards/1]: https://github.com/keyboardio/Arduino-Boards/issues/1
