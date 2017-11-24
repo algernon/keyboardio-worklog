@@ -21,7 +21,9 @@
 - Looked at [Kaleidoscope#176][kaleidoscope/176], and found a way that will hopefully fix this on all platforms. [KeyboardioHID#13][keyboardiohid/13] and [Kaleidoscope#251][kaleidoscope/251] should be tried on platforms other than Linux.
 - Started looking into suspend issues. Having left my laptop at work didn't help. I'm starting to have a reasonable idea how this can - and should be - done, but no visible progress yet.
 - Started working on upstreaming the `getLEDs()` stuff from Arduino-HID ([Arduino-HID#1][arduino-hid/1]). The issue is, this is dependent on whether we are using SingleReport or MultiReport, and Arduino's HID doesn't know that. Our fork assumes we use MultiReport. Upstreaming this is not going to be trivial.
+- Reproduced [MouseKeys#10][mousekeys/10], and found a way to fix it (fix in progress).
 
+ [mousekeys/10]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/10
  [arduino-hid/1]: https://github.com/keyboardio/Arduino-HID/pull/1
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
