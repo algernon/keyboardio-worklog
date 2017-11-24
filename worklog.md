@@ -16,6 +16,7 @@
 - Reviewed [avr_keyscanner#1][avr_keyscanner/1]: Useful comments, simplified code. All looks good.
 - Reviewed [SpaceCadet#8][spacecadet/8]: Minor change requested, but otherwise a great fix.
 - Did a pass through all open issues, labeling them appropriately.
+- Tried to reproduce [Kaleidoscope#239][kaleidoscope/239], to no avail. This is starting to sound like a hardware issue, requested a bit more information.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -27,6 +28,7 @@
  [model01-firmware/22]: https://github.com/keyboardio/Model01-Firmware/pull/22
  [avr_keyscanner/1]: https://github.com/keyboardio/avr_keyscanner/pull/1
  [spacecadet/8]: https://github.com/keyboardio/Kaleidoscope-SpaceCadet/pull/8
+ [kaleidoscope/239]: https://github.com/keyboardio/Kaleidoscope/issues/239
 
 ## TODO for @obra
 
