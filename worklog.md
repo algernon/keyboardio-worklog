@@ -14,6 +14,7 @@
 - Reviewed [Model01-Firmware#26][model01-firmware/26]: My gut feeling is that while the change is useful, it is not worth including it.
 - Closed [Model01-Firmware#22][model01-firmware/22]: The root cause was elsewhere, thus there is no need for this workaround.
 - Reviewed [avr_keyscanner#1][avr_keyscanner/1]: Useful comments, simplified code. All looks good.
+- Reviewed [SpaceCadet#8][spacecadet/8]: Minor change requested, but otherwise a great fix.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -24,6 +25,7 @@
  [model01-firmware/26]: https://github.com/keyboardio/Model01-Firmware/pull/26]
  [model01-firmware/22]: https://github.com/keyboardio/Model01-Firmware/pull/22
  [avr_keyscanner/1]: https://github.com/keyboardio/avr_keyscanner/pull/1
+ [spacecadet/8]: https://github.com/keyboardio/Kaleidoscope-SpaceCadet/pull/8
 
 ## TODO for @obra
 
