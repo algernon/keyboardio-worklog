@@ -1,1 +1,1 @@
-This is my work log for @keyboardio. See [worklog.md] for details.
+This is my work log for @keyboardio. See [worklog.md](worklog.md) for details.
