@@ -18,7 +18,7 @@
 - Did a pass through all open issues, labeling them appropriately.
 - Tried to reproduce [Kaleidoscope#239][kaleidoscope/239], to no avail. This is starting to sound like a hardware issue, requested a bit more information.
 - Spent some time trying to figure out if [LED-ActiveModColor#7][activemodcolor/7] is doable - but it isn't.
-- Looked at [Kaleidoscope#176][kaleidoscope/176], but concluded that this is much easier to test once [Kaleidoscope#242][kaleidoscope/242] is merged.
+- Looked at [Kaleidoscope#176][kaleidoscope/176], and found a way that will hopefully fix this on all platforms. [KeyboardioHID#13][keyboardiohid/13] and [Kaleidoscope#251][kaleidoscope/251] should be tried on platforms other than Linux.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -34,6 +34,8 @@
  [activemodcolor/7]: https://github.com/keyboardio/Kaleidoscope-LED-ActiveModColor/issues/7
  [kaleidoscope/176]: https://github.com/keyboardio/Kaleidoscope/issues/176
  [kaleidoscope/242]: https://github.com/keyboardio/Kaleidoscope/issues/242
+ [keyboardiohid/13]: https://github.com/keyboardio/KeyboardioHID/pull/13
+ [kaleidoscope/251]: https://github.com/keyboardio/Kaleidoscope/pull/251
 
 ## TODO for @obra
 
