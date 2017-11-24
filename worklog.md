@@ -13,6 +13,7 @@
   - [MouseKeys#11][mousekeys/11]: Needs to be updated once [Kaleidoscope#241][kaleidoscope/241] above is updated.
 - Reviewed [Model01-Firmware#26][model01-firmware/26]: My gut feeling is that while the change is useful, it is not worth including it.
 - Closed [Model01-Firmware#22][model01-firmware/22]: The root cause was elsewhere, thus there is no need for this workaround.
+- Reviewed [avr_keyscanner#1][avr_keyscanner/1]: Useful comments, simplified code. All looks good.
 
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
@@ -22,6 +23,7 @@
  [mousekeys/11]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/11
  [model01-firmware/26]: https://github.com/keyboardio/Model01-Firmware/pull/26]
  [model01-firmware/22]: https://github.com/keyboardio/Model01-Firmware/pull/22
+ [avr_keyscanner/1]: https://github.com/keyboardio/avr_keyscanner/pull/1
 
 ## TODO for @obra
 
@@ -30,3 +32,4 @@ There are a few things where I do not feel I can make a decision, and would like
 * [Kaleidoscope#244][kaleidoscope/244] introduces `CREATE_KEYMAP(...)` and `LayerCount`, in a backwards-compatible way. Helps in many cases, makes things no worse in every other case, and is fully backwards compatible. Should be merged, in my opinion.
 * [KeyboardioHID#12][keyboardiohid/12] is safe to go in, even without the rest of the horizontal mousewheel patches. This is the foundation of the rest anyway.
 * [Model01-Firmware#26][model01-firmware/26]: Figure out if including scroll wheel support on the default keymap is worth it, whether it needs an update to the printed & laminated sheet.
+* [avr_keyscanner#1][avr_keyscanner/1]: Not sure how to test it, and the debounce code is not something I'm familiar with (yet), so I'm not comfortable merging this myself.
