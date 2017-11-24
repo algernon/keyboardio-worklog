@@ -21,7 +21,7 @@
 - Looked at [Kaleidoscope#176][kaleidoscope/176], and found a way that will hopefully fix this on all platforms. [KeyboardioHID#13][keyboardiohid/13] and [Kaleidoscope#251][kaleidoscope/251]. I tested it under Linux, @jamesnvc under OSX, both worked.
 - Started looking into suspend issues. Having left my laptop at work didn't help. I'm starting to have a reasonable idea how this can - and should be - done, but no visible progress yet.
 - Started working on upstreaming the `getLEDs()` stuff from Arduino-HID ([Arduino-HID#1][arduino-hid/1]). The issue is, this is dependent on whether we are using SingleReport or MultiReport, and Arduino's HID doesn't know that. Our fork assumes we use MultiReport. Upstreaming this is not going to be trivial.
-- Reproduced [MouseKeys#10][mousekeys/10], and found a way to fix it (fix in progress).
+- Reproduced [MouseKeys#10][mousekeys/10], and found a way to fix it: like for `Keyboard` and `ConsumerControl`: report & clear each cycle instead of precise tracking. PRs: [KeyboardioHID#14][keyboardiohid/14], [Kaleidoscope#252][kaleidoscope/252], and [MouseKeys#12][mousekeys/12].
 
  [mousekeys/10]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/10
  [arduino-hid/1]: https://github.com/keyboardio/Arduino-HID/pull/1
@@ -41,6 +41,9 @@
  [kaleidoscope/242]: https://github.com/keyboardio/Kaleidoscope/issues/242
  [keyboardiohid/13]: https://github.com/keyboardio/KeyboardioHID/pull/13
  [kaleidoscope/251]: https://github.com/keyboardio/Kaleidoscope/pull/251
+ [keyboardiohid/14]: https://github.com/keyboardio/KeyboardioHID/pull/14
+ [kaleidoscope/252]: https://github.com/keyboardio/Kaleidoscope/pull/251
+ [mousekeys/12]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/12
 
 ## TODO for @obra
 
