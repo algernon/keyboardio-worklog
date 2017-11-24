@@ -20,7 +20,9 @@
 - Spent some time trying to figure out if [LED-ActiveModColor#7][activemodcolor/7] is doable - but it isn't.
 - Looked at [Kaleidoscope#176][kaleidoscope/176], and found a way that will hopefully fix this on all platforms. [KeyboardioHID#13][keyboardiohid/13] and [Kaleidoscope#251][kaleidoscope/251] should be tried on platforms other than Linux.
 - Started looking into suspend issues. Having left my laptop at work didn't help. I'm starting to have a reasonable idea how this can - and should be - done, but no visible progress yet.
+- Started working on upstreaming the `getLEDs()` stuff from Arduino-HID ([Arduino-HID#1][arduino-hid/1]). The issue is, this is dependent on whether we are using SingleReport or MultiReport, and Arduino's HID doesn't know that. Our fork assumes we use MultiReport. Upstreaming this is not going to be trivial.
 
+ [arduino-hid/1]: https://github.com/keyboardio/Arduino-HID/pull/1
  [eeprom-keymap/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/7
  [kaleidoscope/244]: https://github.com/keyboardio/Kaleidoscope/pull/244
  [arduino-boards/11]: https://github.com/keyboardio/Arduino-Boards/pull/11
@@ -56,6 +58,3 @@ There are a few things where I do not feel I can make a decision, and would like
 ## TODO for @algernon
 
 * Research suspend issues further.
-* Send the `getLEDs()` stuff from Arduino-HID upstream ([Arduino-HID#1][arduino-hid/1]).
-
- [arduino-hid/1]: https://github.com/keyboardio/Arduino-HID/pull/1
