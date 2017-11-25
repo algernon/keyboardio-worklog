@@ -64,3 +64,13 @@ There are a few things where I do not feel I can make a decision, and would like
 ## TODO for @algernon
 
 * Research suspend issues further.
+
+# 2017-11-25
+
+## Suspend/wakeup research
+
+I found that when I suspend my desktop, the Model01 is not able to wake it up. When I wake the host in any other way, the keyboard remains functional though. Trying to back out parts of USBCore, that are related to suspend did not yield better results.
+
+Meanwhile, I found a [pull request][arduino/4241] that implements suspend/wakeup callbacks. Will see if I can at least make some progres on disabling LEDs, that'd be half a success.
+
+ [arduino/4241]: https://github.com/arduino/Arduino/pull/4241
