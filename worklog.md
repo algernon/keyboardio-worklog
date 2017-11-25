@@ -93,3 +93,5 @@ if (USBDevice.isSuspended()) {
 
  [arduino/4241]: https://github.com/arduino/Arduino/pull/4241
  [arduino/6964]: https://github.com/arduino/Arduino/pull/6964
+
+Further research showed that Arduino never puts the MCU to sleep. Verified this by having a breathe effect on a key during sleep - works as it normally would. Still, `USBDevice.wakeupHost()` does not seem to have any effect.
