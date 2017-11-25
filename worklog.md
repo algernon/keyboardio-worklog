@@ -71,6 +71,25 @@ There are a few things where I do not feel I can make a decision, and would like
 
 I found that when I suspend my desktop, the Model01 is not able to wake it up. When I wake the host in any other way, the keyboard remains functional though. Trying to back out parts of USBCore, that are related to suspend did not yield better results.
 
-Meanwhile, I found a [pull request][arduino/4241] that implements suspend/wakeup callbacks. Will see if I can at least make some progres on disabling LEDs, that'd be half a success.
+Meanwhile, I found a [pull request][arduino/4241] that implements suspend/wakeup callbacks. Rebased that on top of Arduino master, but found the callbacks to not be reliable: suspend was, wakeup fired even when it shouldn't, and at that point, I wasn't able to make a distinction between a real wakeup and an accidental one. So I picked out the `USBDevice.isSuspended()` part of that old PR, and resubmitted only that as [Arduino#6964][arduino/6964]. This can be used to disable LEDs on suspend, and re-enable them on wakeup, with code something like this:
+
+```c++
+static bool wasSuspended = false;
+static bool initialSuspend = true;
+
+if (USBDevice.isSuspended()) {
+  if (!initialSuspend) {
+    wasSuspended = true;
+    LEDOff.activate();
+  }
+} else {
+  if (initialSuspend)
+    initialSuspend = false;
+  if (wasSuspended) {
+    wasSuspended = false;
+  }
+}
+```
 
  [arduino/4241]: https://github.com/arduino/Arduino/pull/4241
+ [arduino/6964]: https://github.com/arduino/Arduino/pull/6964
