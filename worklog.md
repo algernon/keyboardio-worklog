@@ -102,3 +102,7 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 
  [avr_keyscanner/2]: https://github.com/keyboardio/avr_keyscanner/pull/2
  [avr_keyscanner/3]: https://github.com/keyboardio/avr_keyscanner/pull/3
+
+## TODO for @algernon
+
+* Upstream the Arduino-HID LED stuff: check the size, and skip the report id if it turns out to be a singlereport keyboard. Upstream after this is done & tested.
