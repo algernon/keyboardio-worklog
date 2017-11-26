@@ -95,3 +95,10 @@ if (USBDevice.isSuspended()) {
  [arduino/6964]: https://github.com/arduino/Arduino/pull/6964
 
 Further research showed that Arduino never puts the MCU to sleep. Verified this by having a breathe effect on a key during sleep - works as it normally would. Still, `USBDevice.wakeupHost()` does not seem to have any effect.
+
+# 2017-11-26
+
+Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement][avr_keyscanner/2] and [refactoring][avr_keyscanner/3].
+
+ [avr_keyscanner/2]: https://github.com/keyboardio/avr_keyscanner/pull/2
+ [avr_keyscanner/3]: https://github.com/keyboardio/avr_keyscanner/pull/3
