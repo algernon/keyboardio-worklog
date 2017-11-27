@@ -106,3 +106,9 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 ## TODO for @algernon
 
 * Upstream the Arduino-HID LED stuff: check the size, and skip the report id if it turns out to be a singlereport keyboard. Upstream after this is done & tested.
+
+# 2017-11-27
+
+* Submitted [Arduino-HID#2][arduino-hid/2], enabling the functionality on single-report devices too. This is in preparation for upstreaming the change.
+
+ [arduino-hid/2]: https://github.com/keyboardio/Arduino-HID/pull/2
