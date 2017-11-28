@@ -112,3 +112,7 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 * Submitted [Arduino-HID#2][arduino-hid/2], enabling the functionality on single-report devices too. This is in preparation for upstreaming the change.
 
  [arduino-hid/2]: https://github.com/keyboardio/Arduino-HID/pull/2
+
+# 2017-11-28
+
+* Adjusted [KeyboardioHID#13][keyboardiohid/13] (`ConsumerControl.sendReport` decoupling) and [KeyboardioHID#14][keyboardiohid/14] (`Mouse.sendReport` decoupling) so that both of them guard the report, and only send one when there is change, just like `Keyboard.sendReport`.
