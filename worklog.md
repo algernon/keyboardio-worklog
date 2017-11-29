@@ -120,4 +120,6 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 # 2017-11-29
 
 * Adjusted [KeyboardioHID#14][keyboardiohid/14] to do guard the report after all, but only skip the report if it is not only unchanged, but empty too.
-* Discovered that something broke the absolute mouse keys, currently investigating.
+* Discovered that something broke the absolute mouse keys, turns out it was the horizontal wheel support. Removing support for that from `AbsoluteMouse` only (and leaving it on for `Mouse`) fixes the issue. [KeyboardioHID#16][keyboardiohid/16] does just that.
+
+ [keyboardiohid/16]: https://github.com/keyboardio/KeyboardioHID/pull/16
