@@ -116,3 +116,8 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 # 2017-11-28
 
 * Adjusted [KeyboardioHID#13][keyboardiohid/13] (`ConsumerControl.sendReport` decoupling) and [KeyboardioHID#14][keyboardiohid/14] (`Mouse.sendReport` decoupling) so that both of them guard the report, and only send one when there is change, just like `Keyboard.sendReport`. Ended up reverting the `Mouse.sendReport` guard, because mice need the same report to be sent every time, even if it did not change, otherwise holding mousekeys will stop working. `ConsumerControl` appears to behave well with the change applied, though.
+
+# 2017-11-29
+
+* Adjusted [KeyboardioHID#14][keyboardiohid/14] to do guard the report after all, but only skip the report if it is not only unchanged, but empty too.
+* Discovered that something broke the absolute mouse keys, currently investigating.
