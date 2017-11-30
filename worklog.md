@@ -127,6 +127,7 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 # 2017-11-30
 
 * Another [KeyboardioHID#14][keyboardiohid/14] adjustment, to make the code nicer, safer.
-* Currently trying to figure out [KeyboardioHID#18][keyboardiohid/18].
+* Spent way too much time on figuring out [KeyboardioHID#18][keyboardiohid/18], and learning a lot more about USB descriptors than I ever wanted to. The culmination of that is [KeyboardioHID#19][keyboardiohid/19], which makes things a lot better on Linux. Waiting for feedback whether it helps on OSX too.
 
  [keyboardiohid/18]: https://github.com/keyboardio/KeyboardioHID/issues/18
+ [keyboardiohid/19]: https://github.com/keyboardio/KeyboardioHID/pull/19
