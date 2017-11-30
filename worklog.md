@@ -123,3 +123,10 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 * Discovered that something broke the absolute mouse keys, turns out it was the horizontal wheel support. Removing support for that from `AbsoluteMouse` only (and leaving it on for `Mouse`) fixes the issue. [KeyboardioHID#16][keyboardiohid/16] does just that.
 
  [keyboardiohid/16]: https://github.com/keyboardio/KeyboardioHID/pull/16
+
+# 2017-11-30
+
+* Another [KeyboardioHID#14][keyboardiohid/14] adjustment, to make the code nicer, safer.
+* Currently trying to figure out [KeyboardioHID#18][keyboardiohid/18].
+
+ [keyboardiohid/18]: https://github.com/keyboardio/KeyboardioHID/issues/18
