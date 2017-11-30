@@ -129,6 +129,9 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 * Another [KeyboardioHID#14][keyboardiohid/14] adjustment, to make the code nicer, safer.
 * Spent way too much time on figuring out [KeyboardioHID#18][keyboardiohid/18], and learning a lot more about USB descriptors than I ever wanted to. The culmination of that is [KeyboardioHID#19][keyboardiohid/19], which makes things a lot better on Linux. @TheBaronHimself tested on OSX and Win10, appears to work there too. Promising!
 * Merged [SpaceCadet#8][spacecadet/8], and did the minor fix after the merge myself.
+* Started exploring [KeyboardioHID#10][keyboardiohid/10], boot/NKRO-mode negotiation with the host. Jesse has a [branch][keyboardiohid/boot-wip], which looks reasonable too. Need to test things.
 
  [keyboardiohid/18]: https://github.com/keyboardio/KeyboardioHID/issues/18
  [keyboardiohid/19]: https://github.com/keyboardio/KeyboardioHID/pull/19
+ [keyboardiohid/10]: https://github.com/keyboardio/KeyboardioHID/issues/10
+ [keyboardiohid/boot-wip]: https://github.com/keyboardio/KeyboardioHID/commit/ad3819614590d5a6710dc19a4c9bbbf7f5676444
