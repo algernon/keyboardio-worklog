@@ -138,8 +138,16 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 
 # 2017-12-01
 
-* Working on [KeyboardioHID#10][keyboardiohid/10], got as far as having the basics working, currently with great hacks.
 * Noticed that FreeBSD does not support keyboard & mice on the same node, we should do something about that.
 * Also noticed that `Mouse` and `SingleAbsoluteMouse` are always compiled in (due to the `kaleidoscope::hid` facade), even when MouseKeys are disabled. Opened [Kaleidoscope#257][kaleidoscope/257] as a note to address this at some point.
 
  [kaleidoscope/257]: https://github.com/keyboardio/Kaleidoscope/issues/257
+
+## Boot report protocol support
+
+The main task for today was to implement boot report protocol support ([KeyboardioHID#10](keyboardiohid/10)), so the keyboard will work with older BIOSes and OSes that do not support NKRO (such as FreeBSD). I started with @obra's [prior work][keyboardiohid/boot-wip], rebased it on top of master, made it compile. Then I went to try on FreeBSD, and noticed that it does not send a `SET_PROTOCOL` request, so we never switch from the default report mode to boot. Thus, I implemented a way to have a default (after first forcing it to boot, to try if the whole thing works at all - it did). Then I cleaned up `BootKeyboard` a little, removing unused and unimplemented parts. Finally, I made it optional, because it is a big piece of code, something not everyone needs.
+
+The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [Kaleidoscope#258][kaleidoscope/258].
+
+ [keyboardiohid/20]: https://github.com/keyboardio/KeyboardioHID/pull/20
+ [kaleidoscope/258]: https://github.com/keyboardio/Kaleidoscope/pull/257
