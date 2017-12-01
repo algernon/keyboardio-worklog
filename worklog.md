@@ -140,8 +140,11 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
 
 * Noticed that FreeBSD does not support keyboard & mice on the same node, we should do something about that.
 * Also noticed that `Mouse` and `SingleAbsoluteMouse` are always compiled in (due to the `kaleidoscope::hid` facade), even when MouseKeys are disabled. Opened [Kaleidoscope#257][kaleidoscope/257] as a note to address this at some point. One half of the fix is in [KeyboardioHID#21][keyboardiohid/21], the other part, `SingleAbsoluteMouse` is less important. This does not make the factory firmware work out of the box on FreeBSD yet, but it allows building a sketch that does work there (assuming the boot protocol stuff is in, too).
+* Relaxed a bit with [Kaleidoscope#249][kaleidoscope/249], renaming a few things in `Layer`. Work in progress PR in [Kaleidoscope#260][kaleidoscope/260].
 
  [kaleidoscope/257]: https://github.com/keyboardio/Kaleidoscope/issues/257
+ [kaleidoscope/249]: https://github.com/keyboardio/Kaleidoscope/issues/249
+ [kaleidoscope/260]: https://github.com/keyboardio/Kaleidoscope/pull/260
  [keyboardiohid/21]: https://github.com/keyboardio/KeyboardioHID/pull/21
 
 ## Boot report protocol support
