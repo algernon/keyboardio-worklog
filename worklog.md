@@ -135,3 +135,11 @@ Split [avr_keyscanner#1][avr_keyscanner/1] into two parts, [comment improvement]
  [keyboardiohid/19]: https://github.com/keyboardio/KeyboardioHID/pull/19
  [keyboardiohid/10]: https://github.com/keyboardio/KeyboardioHID/issues/10
  [keyboardiohid/boot-wip]: https://github.com/keyboardio/KeyboardioHID/commit/ad3819614590d5a6710dc19a4c9bbbf7f5676444
+
+# 2017-12-01
+
+* Working on [KeyboardioHID#10][keyboardiohid/10], got as far as having the basics working, currently with great hacks.
+* Noticed that FreeBSD does not support keyboard & mice on the same node, we should do something about that.
+* Also noticed that `Mouse` and `SingleAbsoluteMouse` are always compiled in (due to the `kaleidoscope::hid` facade), even when MouseKeys are disabled. Opened [Kaleidoscope#257][kaleidoscope/257] as a note to address this at some point.
+
+ [kaleidoscope/257]: https://github.com/keyboardio/Kaleidoscope/issues/257
