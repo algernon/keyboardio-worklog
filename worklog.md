@@ -162,3 +162,9 @@ The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [K
 * Started looking into FreeBSD not sending `SET_PROTOCOL`: turns out it does send it, but only sometimes. Forcing it to send had weird consequences. Need to debug further.
 
  [asylum/progress-report/1]: https://asylum.madhouse-project.org/blog/2017/12/02/kaleidoscope-progress-report/
+
+# 2017-12-05
+
+* Started reviewing @obra's [builder-cleanup][kaleidoscope/builder-cleanup] branch. Needs a bit of work before merging, but it's a significant step forward. Will continue later today.
+
+ [kaleidoscope/builder-cleanup]: https://github.com/keyboardio/Kaleidoscope/tree/f/builder-cleanup
