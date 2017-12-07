@@ -168,3 +168,10 @@ The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [K
 * Started reviewing @obra's [builder-cleanup][kaleidoscope/builder-cleanup] branch. Needs a bit of work before merging, but it's a significant step forward. Will continue later today.
 
  [kaleidoscope/builder-cleanup]: https://github.com/keyboardio/Kaleidoscope/tree/f/builder-cleanup
+
+# 2017-12-07
+
+* Finally fixed [OneShot#17][oneshot/17] and [Escape-OneShot/2].
+
+ [oneshot/17]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/17
+ [escape-oneshot/2]: https://github.com/keyboardio/Kaleidoscope-Escape-OneShot/issues/2
