@@ -178,3 +178,7 @@ The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [K
  [escape-oneshot/2]: https://github.com/keyboardio/Kaleidoscope-Escape-OneShot/issues/2
  [kaleidoscope/264]: https://github.com/keyboardio/Kaleidoscope/pull/264
  [arduino-boards/13]: https://github.com/keyboardio/Arduino-Boards/pull/13
+
+## Core, supported, third-party, etc... plugins
+
+There's a desire to have different levels of plugins: those we consider core, those we still support, experimental ones, and so on. Multiple levels, basically. Unfortunately, while we can easily make this work with `kaleidoscope-builder`, the Arduino IDE won't budge. We can't tell it to look for libraries in custom paths. So we need to find another way to structure different plugin categories in a way that lets both the CLI tools *and* the IDE work with them. At the same time, this should be easy for the end user.
