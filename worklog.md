@@ -173,11 +173,13 @@ The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [K
 
 * Finally fixed [OneShot#17][oneshot/17] and [Escape-OneShot/2].
 * Went through @obra's [builder-cleanup][kaleidoscope/builder-cleanup] branch, rebased it on top of master, and made it grab the vendor and product IDs from `boards.txt`. The result is [Kaleidoscope#264][kaleidoscope/264] and [Arduino-Boards#13][arduino-boards/13].
+* Un-did the `Mouse` USB HID descriptor change, and fixed the horizontal wheel properly. See [KeyboardioHID#22][keyboardiohid/22], and my [progress report][asylum/progress-report/1] for details. Works on Linux, needs OSX & Windows testing to be 100% sure.
 
  [oneshot/17]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/17
  [escape-oneshot/2]: https://github.com/keyboardio/Kaleidoscope-Escape-OneShot/issues/2
  [kaleidoscope/264]: https://github.com/keyboardio/Kaleidoscope/pull/264
  [arduino-boards/13]: https://github.com/keyboardio/Arduino-Boards/pull/13
+ [keyboardiohid/22]: https://github.com/keyboardio/KeyboardioHID/pull/22
 
 ## Core, supported, third-party, etc... plugins
 
