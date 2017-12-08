@@ -187,6 +187,8 @@ There's a desire to have different levels of plugins: those we consider core, th
 
 # 2017-12-08
 
+* Noticed yesterday that the boot protocol changes ([KeyboardioHID#20][keyboardiohid/20]) are expensive, very expensive, even with the fallback turned off. As in, half a kilobyte of extra program space. This is simply unacceptable. Gave it a try, turned things into templated stuff. The result is that we are down to 124 bytes extra, but the code is so ugly that I don't even want to show it to anybody. Luckily, I have another idea, which involves references and weak objects, and a common API. See the PR for more details.
+
 ## Plugin categories
 
 Jesse laid out his idea [on the forums][forum:plugin-categories], and the big task of this day is to figure out a way to support that setup, preferably in a backwards compatible manner. I want to come up with a list of plugins we can consider core, another set we consider official & supported (with various levels of stability), and have an extensible list of third party plugins.
