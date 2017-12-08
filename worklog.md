@@ -197,8 +197,98 @@ As we can't have library bundles with Arduino, the best way to get the bundles t
 
 First step though: propose plugins for core and contributed, and figure out if we want to keep `Arduino-Boards` backwards compatible (it currently includes pretty much all of core + contributed).
 
-Another goal here would be to allow different vendors to have different sets of plugins, and allow them to just bundle everything up, if so they wish. For this reason, I'm proposing three new repositories:
+Another goal here would be to allow different vendors to have different sets of plugins, and allow them to just bundle everything up, if so they wish. For this reason, I'm proposing four new repositories:
 
 * `Keyboardio/Plugins-Core`: Core plugins, for Keyboardio.
 * `Keyboardio/Plugins-Extra`: Extra, contributed plugins. I like the name "extra" more, because plugins here may very well be vendor-provided (thus not technically "contributed"), but still not core.
+* `Keyboardio/Plugins-Experimental`: For plugins that would be extra, but for one reason or another, we consider experimental, so support is at a lower level.
 * `Keyboardio/Plugins-ThirdParty`: Third party plugins. Everyone can open a PR to have theirs included as a submodule, or perhaps submodules is the wrong approach here, as that puts the burden of updating a plugin on the author (it should perhaps be automatic). Perhaps just a list, and a script to assemble a tarball from them?
+
+Perhaps a rogue idea, but we could split the `keyboardio` organization too: `Kaleidoscope-Firmware` for the vendor-neutral stuff, `keyboardio` for Keyboardio-related things. We could have most of the plugins in `Kaleidoscope-Firmware`, and `keyboardio/Plugins-Core` would then clearly convey that this is a vendor-specific set of plugins.
+
+In the meantime, I'm proposing the following plugins for the various categories, with Keyboardio in mind. The list *will* lack a few plugins needed for Shortcut and Raise, they won't even be in `Plugins-ThirdParty`, because those are entirely different keyboards.
+
+Each set should only use plugins from the same set, or sets above it. So `Core` only uses core plugins, `Extra` can use core plugins and other extras, `Experimental` can use any of the above, and other experimental plugins, `ThirdParty` can use anything.
+
+### Core plugins
+
+The core set is a small set of plugins, those that are required for core functionality. The keyboard can function without some of them, but we consider the board fully functional with all of these plugins present. This does *not* include every plugin the factory firmware uses. Some of those I'll put into `Plugins-Extra`, because while they are part of the factory firmware, they are not core functionality. Losing them does not impact the keyboard in a significant way.
+
+* `HID`: For obvious reasons.
+* `Kaleidoscope`: We kinda need the core firmware for core functionality.
+* `Kaleidoscope-Hardware`: The hardware base class, for obvious reasons again.
+* `Kaleidoscope-Hardware-Model01`: This is the list of core plugins for Keyboardio. The Model01 is the flagship product. 1+1=2.
+* `Kaleidoscope-Model01-TestMode`: Perhaps not required for core functionality, it is a huge help for debugging and tests.
+* `Kaleidoscope-LEDControl`: Because the LEDs are an integral part of the Model01.
+* `Kaleidoscope-Macros`: Macros are an important part of any decent keyboard firmware, and Kaleidoscope should be no exception.
+* `Kaleidoscope-MouseKeys`: One of the big perks of the Model01 is that it can act as a mouse, and the warp keys are something unique, too. For that reason, the plugin deserves to be part of core.
+* `KeyboardioHID`: No need to explain, I hope.
+* `KeyboardioScanner`: Same.
+
+#### Possible other candidates
+
+* `Kaleidoscope-Focus`, `Kaleidoscope-EEPROM-Settings`, and `Kaleidoscope-EEPROM-Keymap`: These are required for Chrysalis to work. Not currently part of the factory firmware, but if these could graduate to core at some point in the future, that would make it easier for end-users to use Chrysalis. I do not currently recommend pulling these into core, mind you. This is something to consider down the road.
+
+### Extra plugins
+
+* `Model01-Firmware`: The factory firmware. I'd put this in extra, because it uses plugins outside of the core set.
+* `Kaleidoscope-LEDEffect-BootGreeting`: Simple, used by the factory firmware too.
+* `Kaleidoscope-LEDEffect-Breathe`: Same.
+* `Kaleidoscope-LEDEffect-Chase`: Same.
+* `Kaleidoscope-LEDEffect-Rainbow`: Same.
+* `Kaleidoscope-LEDEffect-SolidColor`: Same.
+* `Kaleidoscope-LED-AlphaSquare`: Used by the factory firmware.
+* `Kaleidoscope-LED-Stalker`: Same.
+* `Kaleidoscope-Numpad`: Same.
+* `Kaleidoscope-Ranges`: Used by a lot of other plugins.
+* `Kaleidoscope-Focus`: Required for Chrysalis (and see above, this would be a candidate for Core later on).
+* `Kaleidoscope-EEPROM-Settings`: Same.
+* `Kaleidoscope-EEPROM-Keymap`: Same.
+* `Kaleidoscope-LED-Palette-Theme`: Required for `Colormap`, which is used by Chrysalis.
+* `Kaleidoscope-Colormap`: Used by Chrysalis (though not required by it).
+* `Kaleidoscope-OneShot`: Reasonably stable, has users, and is generally useful.
+* `Kaleidoscope-Escape-OneShot`: OneShot's companion.
+* `Kaleidoscope-LED-ActiveModColor`: Same, goes well with OneShot.
+* `Kaleidoscope-TapDance`: Another plugin that has a few users, and adds interesting, desirable functionality.
+* `Kaleidoscope-Leader`: A useful one, that has been working well enough that I feel confident at supporting it at a reasonable level.
+* `Kaleidoscope-MagicCombo`: Same.
+* `Kaleidoscope-TypingBreaks`: Same.
+
+### Experimental plugins
+
+* `FingerprintUSBHost`: A brittle host OS guesser. It's not exactly reliable. Used by the `HostOS` plugin.
+* `Kaleidoscope-HostOS`: Would be Extra, if not for using `FingerprintUSBHost` optionally.
+* `Kaleidoscope-Unicode`: Same, because it uses `Kaleidoscope-HostOS`.
+* `Kaleidoscope-Cycle`: User-requested, but has seen little to no testing. As such, offering to support it with the rest seems wrong. It may graduate to Extra later.
+* `Kaleidoscope-CycleTimeReport`: A debugging aid, and not a generally useful one either, unlike the test mode. I'd offer this as an official, but experimental plugin for this reason.
+* `Kaleidoscope-DualUse`: While a desirable feature, the code is pretty buggy. `Qukeys` (currently third-party) is a better solution for the same problem.
+* `Kaleidoscope-SpaceCadet`: While in a better shape than `DualUse`, I still don't feel it is mature enough to leave experimental.
+* `Kaleidoscope-EEPROM-Keymap-Programmer`: A quick hack, has seen little use or testing. I'm not comfortable supporting it at the same level as other Extra plugins. Hence, experimental.
+* `Kaleidoscope-FingerPainter`: Same as `EEPROM-Keymap-Programmer`.
+* `Kaleidoscope-ShapeShifter`: Useful, but has a few issues making it more experimental than not.
+* `Kaleidoscope-TopsyTurvy`: Same.
+* `Kaleidoscope-Syster`: Interesting and useful, but only little testing done. Also a bit too easy to break.
+* `Kaleidoscope-Steno`: Very new, little testing, and none by anyone who is more fluent in Steno. As such, a perfect candidate for Experimental.
+* `Kaleidoscope-GhostInTheFirmware`: Only useful for demo purposes. I do not think that is enough reason to have it in Extra. Would perhaps even consider it moving out of the official sets, to third-party.
+* `Kaleidoscope-IgnoranceIsBliss`: Same. Likely third-party material in the end.
+
+### Third-party plugins
+
+There are some plugins that are currently in `Arduino-Boards`, some because of historical reasons, some for other reasons. A few of them, I'd move out to either experimental, or third party, because supporting them as the other, more important plugins may not be the best of ideas.
+
+#### keyboardio org => Third party
+
+* `Kaleidoscope-LEDEffects`: A few extra LED effects. I do not think these belong to the official set, and are better off as third party. Under a new name, too, perhaps merged with `Kaleidoscope-LEDEffect-Borealis`.
+* `Kaleidoscope-KeyLogger`: Not included in Arduino-Boards anymore, nor should it be part of any of the sets. It is best moved out of the organization completely.
+
+#### Third party initial set
+
+* `Kaleidoscope-Qukeys`: `DualUse` done right. I'm working on a way to use the DualUse markup, but with Qukeys under the hood. A migration plan, of sorts. I think this would be a great candidate to move to experimental, then to extra.
+* `Kaleidoscope-MacrosOnTheFly`: Another terrific plugin, that should eventually graduate to experimental, then to extra, perhaps even core.
+* `Kaleidoscope-Hardware-Virtual`: This should eventually graduate to experimental, then extra. Perhaps even core, because in the long run, we can hopefully build a testing infrastructure on top of this.
+* `Kaleidoscope-PrefixLayer`
+* `Kaleidoscope-ToIfAlone`
+* `Kaleidoscope-LED-WavePool`
+* `Kaleidoscope-LED-DigitalRain`
+* `Kaleidoscope-LED-LetterGuesser`
+* `Kaleidoscope-LEDEffect-Borealis`
