@@ -196,3 +196,9 @@ Jesse laid out his idea [on the forums][forum:plugin-categories], and the big ta
 As we can't have library bundles with Arduino, the best way to get the bundles to the users is a zip/tar file they can extract to their `$SKETCHDIR/libraries` folder. This zip file would contain all the libraries in the given set. For more advanced users who want to use git, we can provide a small tool and documentation that just merges the bundle repos. This needs a bit of experimentation.
 
 First step though: propose plugins for core and contributed, and figure out if we want to keep `Arduino-Boards` backwards compatible (it currently includes pretty much all of core + contributed).
+
+Another goal here would be to allow different vendors to have different sets of plugins, and allow them to just bundle everything up, if so they wish. For this reason, I'm proposing three new repositories:
+
+* `Keyboardio/Plugins-Core`: Core plugins, for Keyboardio.
+* `Keyboardio/Plugins-Extra`: Extra, contributed plugins. I like the name "extra" more, because plugins here may very well be vendor-provided (thus not technically "contributed"), but still not core.
+* `Keyboardio/Plugins-ThirdParty`: Third party plugins. Everyone can open a PR to have theirs included as a submodule, or perhaps submodules is the wrong approach here, as that puts the burden of updating a plugin on the author (it should perhaps be automatic). Perhaps just a list, and a script to assemble a tarball from them?
