@@ -184,3 +184,15 @@ The results are a few pull requests, [KeyboardioHID#20][keyboardiohid/20] and [K
 ## Core, supported, third-party, etc... plugins
 
 There's a desire to have different levels of plugins: those we consider core, those we still support, experimental ones, and so on. Multiple levels, basically. Unfortunately, while we can easily make this work with `kaleidoscope-builder`, the Arduino IDE won't budge. We can't tell it to look for libraries in custom paths. So we need to find another way to structure different plugin categories in a way that lets both the CLI tools *and* the IDE work with them. At the same time, this should be easy for the end user.
+
+# 2017-12-08
+
+## Plugin categories
+
+Jesse laid out his idea [on the forums][forum:plugin-categories], and the big task of this day is to figure out a way to support that setup, preferably in a backwards compatible manner. I want to come up with a list of plugins we can consider core, another set we consider official & supported (with various levels of stability), and have an extensible list of third party plugins.
+
+ [forum:plugin-categories]: https://community.keyboard.io/t/managing-core-and-contributed-kaleidoscope-plugins/408/4?u=algernon
+
+As we can't have library bundles with Arduino, the best way to get the bundles to the users is a zip/tar file they can extract to their `$SKETCHDIR/libraries` folder. This zip file would contain all the libraries in the given set. For more advanced users who want to use git, we can provide a small tool and documentation that just merges the bundle repos. This needs a bit of experimentation.
+
+First step though: propose plugins for core and contributed, and figure out if we want to keep `Arduino-Boards` backwards compatible (it currently includes pretty much all of core + contributed).
