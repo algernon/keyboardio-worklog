@@ -307,4 +307,12 @@ Said plugin will - by default - turn LEDs off when the host suspends, and turn t
  [ledcontrol/16]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/16
  [myoldfriend/2]: https://github.com/keyboardio/Kaleidoscope-MyOldFriend/pull/2
 
-Waking up the host on key press does not work yet, that will be coming later.
+When I explicitly enable wakeup for the device, pressing a key correctly wakes up the host. To explicitly enable wakeup, something like the following is required on Linux:
+
+```
+echo enabled | sudo tee /sys/bus/usb/devices/3-14.1/power/wakeup
+```
+
+For some reason it defaults to "disabled". My ErgoDox EZ defaults to "enabled" by the looks of it, so telling the host is definitely possible. Both the EZ and Kaleidoscope set the `REMOTE_WAKEUP` attribute in the USB configurator thingamajiggy, so that's not it... Tried to find in the kernel how it sets wakeup, but everything points to `device->power.can_wakeup` being true. Which leaves `device->power.wakeup` false... Now, where do we set that in the kernel? [Here](https://github.com/torvalds/linux/blob/c9b012e5f4a1d01dfa8abc6318211a67ba7d5db2/drivers/hid/usbhid/hid-core.c#L1161-L1172), and that explains why we were defaulting to disabled, while the EZ defaulted to true: we do not currently provide a boot keyboard.
+
+Lets see if I can cheat around that!
