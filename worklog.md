@@ -294,3 +294,17 @@ There are some plugins that are currently in `Arduino-Boards`, some because of h
 * [Kaleidoscope-LED-DigitalRain](https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain)
 * [Kaleidoscope-LED-LetterGuesser](https://github.com/cdisselkoen/Kaleidoscope-LED-LetterGuesser)
 * [Kaleidoscope-LEDEffect-Borealis](https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis)
+
+# 2017-12-09
+
+## Host suspend/resume
+
+Went back to figure out if we can fix [Kaleidoscope#217][kaleidoscope/217] without having to patch Arduino - turns out we can! The `_usbSuspendState` symbol in `USBCore.cpp` of Arduino is not static. It is merely not public. If we declare it `extern` in a plugin, we can access it, and implement suspend-checking ourselves, without having to wait for Arduino to introduce `USBDevice.isSuspended()`! And this is exactly what the new [Kaleidoscope-MyOldFriend](https://github.com/keyboardio/Kaleidoscope-MyOldFriend) plugin does.
+
+Said plugin will - by default - turn LEDs off when the host suspends, and turn them back on when it resumes. At the moment, this is done by activating `LEDOff`, but [LEDControl#16][ledcontrol/16] will allow us to do it better, by pausing LED mode updates ([MyOldFriend#2][myoldfriend/2] does just that).
+
+ [kaleidoscope/217]: https://github.com/keyboardio/Kaleidoscope/issues/217
+ [ledcontrol/16]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/16
+ [myoldfriend/2]: https://github.com/keyboardio/Kaleidoscope-MyOldFriend/pull/2
+
+Waking up the host on key press does not work yet, that will be coming later.
