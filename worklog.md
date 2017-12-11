@@ -318,3 +318,9 @@ For some reason it defaults to "disabled". My ErgoDox EZ defaults to "enabled" b
 [MyOldFriend](https://github.com/keyboardio/Kaleidoscope-MyOldFriend) includes a `WakeupKeyboard` from now on, a minimal, single-report, boot keyboard implementation, that does the bare minimum needed to be recognised as such. This tricks Linux into marking our whole device wakeup-enabled. Hopefully the other operating systems do something similar, and the same trick will work there too. If all goes well, this will fix [Kaleidoscope#237][kaleidoscope/237].
 
  [kaleidoscope/237]: https://github.com/keyboardio/Kaleidoscope/issues/237
+
+# 2017-12-11
+
+Not much progress today. I started to explore power negotiation ([Kaleidoscope#14][kaleidoscope/14]), but didn't get too far. Will need to find a device that requires low power, or fake it and hope for the best. The resources in the issue are educational, and based on my experience with suspend & resume, I have a feeling that this can also be done entirely in a plugin. Perhaps even in [MyOldFriend][myoldfriend]...
+
+ [myoldfriend]: https://github.com/keyboardio/Kaleidoscope-MyOldFriend
