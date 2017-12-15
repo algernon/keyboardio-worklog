@@ -342,3 +342,5 @@ Continued exploring power negotiation ([Kaleidoscope#14][kaleidoscope/14]), but 
 Had a look at a few PRs waiting for my review, such as [Kaleidoscope#254][kaleidoscope/254]. Reviewed & approved as appropriate.
 
  [kaleidoscope/254]: https://github.com/keyboardio/Kaleidoscope/pull/254
+
+Started going through [Kaleidoscope#240][kaleidoscope/240], but I'm not finished yet. There are very good parts of it, which we will definitely want, but there are others where I'm not entirely happy, or convinced. I will write a through review once I'm done. I have my notes, but prefer not making those public until they form a coherent whole.
