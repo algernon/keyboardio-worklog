@@ -336,3 +336,5 @@ It's been a long day, so I thought I'd relax with [Arduino-Boards#1][arduino-boa
 Gave [Kaleidoscope#205][kaleidoscope/205] a try at long last, and a through review and testing with various plugins. It appears to be goot do go.
 
  [kaleidoscope/205]: https://github.com/keyboardio/Kaleidoscope/pull/205
+
+Continued exploring power negotiation ([Kaleidoscope#14][kaleidoscope/14]), but decided to leave it for now, and come back to it later. I'm not seeing how we could do this automatically in a reasonable way. We pretty much need to detect if the host fails to enumerate us, and reset + restart with a lower `maxPower` setting, until it finally works.
