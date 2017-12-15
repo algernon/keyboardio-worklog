@@ -330,3 +330,9 @@ Not much progress today. I started to explore power negotiation ([Kaleidoscope#1
 It's been a long day, so I thought I'd relax with [Arduino-Boards#1][arduino-boards/1], and started documenting the licenses used, adding headers where required, and having a top-level LICENSE file. It's going to be a bit of work, and some files need clarification, such as [build-tools/doxygen-deploy.sh](https://github.com/keyboardio/Arduino-Boards/blob/d59e670fd3f24babe1abb214cf8f9676e5b71e57/build-tools/doxygen-deploy.sh). Most things should be finished by tomorrow, and we can tick this off our list too!
 
  [arduino-boards/1]: https://github.com/keyboardio/Arduino-Boards/issues/1
+
+# 2017-12-15
+
+Gave [Kaleidoscope#205][kaleidoscope/205] a try at long last, and a through review and testing with various plugins. It appears to be goot do go.
+
+ [kaleidoscope/205]: https://github.com/keyboardio/Kaleidoscope/pull/205
