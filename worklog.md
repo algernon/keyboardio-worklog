@@ -353,7 +353,7 @@ Also talked a bunch with Jesse about breaking changes and the way forward.
 
 # 2017-12-16
 
-Renamed the `MyOldFriend` plugin to [HostPowerManagement][hostpowermanagement], cleaned it up a little, so it does not depend on LEDControl anymore. Submitted a PR against `Arduino-Boards` ([Arduino-Boards#14][arduino-boards/14]) to include it there, and another against `Model01-Firmware` (Model01-Firmware#41)[model01-firmware/41] to have it in the factory firmware too.
+Renamed the `MyOldFriend` plugin to [HostPowerManagement][hostpowermanagement], cleaned it up a little, so it does not depend on LEDControl anymore. Submitted a PR against `Arduino-Boards` ([Arduino-Boards#14][arduino-boards/14]) to include it there, and another against `Model01-Firmware` ([Model01-Firmware#41][model01-firmware/41]) to have it in the factory firmware too.
 
  [arduino-boards/14]: https://github.com/keyboardio/Arduino-Boards/pull/14
  [model01-firmware/41]: https://github.com/keyboardio/Model01-Firmware/pull/41
