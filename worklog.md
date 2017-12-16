@@ -339,6 +339,8 @@ Gave [Kaleidoscope#205][kaleidoscope/205] a try at long last, and a through revi
 
 Continued exploring power negotiation ([Kaleidoscope#14][kaleidoscope/14]), but decided to leave it for now, and come back to it later. I'm not seeing how we could do this automatically in a reasonable way. We pretty much need to detect if the host fails to enumerate us, and reset + restart with a lower `maxPower` setting, until it finally works.
 
+ [kaleidoscope/14]: https://github.com/keyboardio/Kaleidoscope/issues/14
+
 Had a look at a few PRs waiting for my review, such as [Kaleidoscope#254][kaleidoscope/254]. Reviewed & approved as appropriate.
 
  [kaleidoscope/254]: https://github.com/keyboardio/Kaleidoscope/pull/254
