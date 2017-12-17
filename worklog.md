@@ -359,3 +359,9 @@ Renamed the `MyOldFriend` plugin to [HostPowerManagement][hostpowermanagement], 
  [model01-firmware/41]: https://github.com/keyboardio/Model01-Firmware/pull/41
 
 Simon-Claudius tested `HostPowerManagement` on both OSX and Windows, and it worked on both, the wakeup too. This means that it supports all three major platforms!
+
+# 2017-12-17
+
+At one point, we will have breaking changes, without backwards compatibility. To better prepare for that, we could introduce `KALEIDOSCOPE_API_VERSION`, so that plugins can either provide a helpful error message when they do not support the current API, or support more than one API. [Kaleidoscope#270][kaleidoscope/270] does just this.
+
+ [kaleidoscope/270]: https://github.com/keyboardio/Kaleidoscope/pull/270
