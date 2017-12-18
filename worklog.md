@@ -365,3 +365,5 @@ Simon-Claudius tested `HostPowerManagement` on both OSX and Windows, and it work
 At one point, we will have breaking changes, without backwards compatibility. To better prepare for that, we could introduce `KALEIDOSCOPE_API_VERSION`, so that plugins can either provide a helpful error message when they do not support the current API, or support more than one API. [Kaleidoscope#270][kaleidoscope/270] does just this.
 
  [kaleidoscope/270]: https://github.com/keyboardio/Kaleidoscope/pull/270
+
+The rest of the day was spent trying to find a common ground between three PRs (hook rework, eventdispatcher, and key index), trying to find a way to have all of them work nicely together, with minimal magic. At this time, backwards compatibility is not considered. Progress was made, but it does not compile yet.
