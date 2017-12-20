@@ -371,3 +371,12 @@ The rest of the day was spent trying to find a common ground between three PRs (
 # 2017-12-20
 
 No meaningful progress in the past two days, as I have not been feeling well. There are a lot of ideas swirling around in my head, but I need to put them into code. Hopefully tomorrow!
+
+I ended up looking at low-level HID stuff again, because of [Kaleidoscope#273][kaleidoscope/273]. Went down a little rabbit hole from there, diving into the Linux kernel, to try and figure out why `NONUS_POUND` ends up being the same keycode as `BACKSLASH`. No luck so far. But there is a pending pull request against `KeyboardioHID`: [KeyboardioHID#23][keyboardiohid/23].
+
+ [kaleidoscope/273]: https://github.com/keyboardio/Kaleidoscope/issues/273
+ [keyboardiohid/23]: https://github.com/keyboardio/KeyboardioHID/pull/23
+
+Meanwhile, I found where it gets translated: in [hid-input.c](https://github.com/torvalds/linux/blob/c9b012e5f4a1d01dfa8abc6318211a67ba7d5db2/drivers/hid/hid-input.c#L39-L56). `KEY_BACKSLASH` is code `43` (appears twice), `KEY_DELETE` is 111 (appears three times). The `BACKSLASH` / `NONUS-POUND` thing is there since the first import to git, 13 years ago. `KEY_DELETE` gained two new entries 7 years ago. It is a safe bet that these will not change anytime soon. They'd require changes in userland too...
+
+Nevertheless, what this means is that the kernel will not choke when we have a descriptor that doesn't mask these. It will not break when they aren't, and appear in the report. They'd just be indistinguishable from `Backslash` and `Delete`, respectively. This is an acceptable thing, in my opinion. Other OSes may treat them as separate keycodes, and we should not punish them for the shortcomings of Linux.
