@@ -367,3 +367,7 @@ At one point, we will have breaking changes, without backwards compatibility. To
  [kaleidoscope/270]: https://github.com/keyboardio/Kaleidoscope/pull/270
 
 The rest of the day was spent trying to find a common ground between three PRs (hook rework, eventdispatcher, and key index), trying to find a way to have all of them work nicely together, with minimal magic. At this time, backwards compatibility is not considered. Progress was made, but it does not compile yet.
+
+# 2017-12-20
+
+No meaningful progress in the past two days, as I have not been feeling well. There are a lot of ideas swirling around in my head, but I need to put them into code. Hopefully tomorrow!
