@@ -380,3 +380,9 @@ I ended up looking at low-level HID stuff again, because of [Kaleidoscope#273][k
 Meanwhile, I found where it gets translated: in [hid-input.c](https://github.com/torvalds/linux/blob/c9b012e5f4a1d01dfa8abc6318211a67ba7d5db2/drivers/hid/hid-input.c#L39-L56). `KEY_BACKSLASH` is code `43` (appears twice), `KEY_DELETE` is 111 (appears three times). The `BACKSLASH` / `NONUS-POUND` thing is there since the first import to git, 13 years ago. `KEY_DELETE` gained two new entries 7 years ago. It is a safe bet that these will not change anytime soon. They'd require changes in userland too...
 
 Nevertheless, what this means is that the kernel will not choke when we have a descriptor that doesn't mask these. It will not break when they aren't, and appear in the report. They'd just be indistinguishable from `Backslash` and `Delete`, respectively. This is an acceptable thing, in my opinion. Other OSes may treat them as separate keycodes, and we should not punish them for the shortcomings of Linux.
+
+# 2017-12-21
+
+Most of my time today was spent on [Kaleidoscope#132][kaleidoscope/132], bringing it up to date, and understanding it. I... think I understand it, but want a wee bit more from it than what it provides. Not quite sure how best to set a routing policy. There were many failed attempts at it, but I should be able to push some reasonable code tomorrow. If all goes well, this will work beautifully with the boot protocol stuff.
+
+ [kaleidoscope/132]: https://github.com/keyboardio/Kaleidoscope/pull/132
