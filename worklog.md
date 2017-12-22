@@ -386,3 +386,10 @@ Nevertheless, what this means is that the kernel will not choke when we have a d
 Most of my time today was spent on [Kaleidoscope#132][kaleidoscope/132], bringing it up to date, and understanding it. I... think I understand it, but want a wee bit more from it than what it provides. Not quite sure how best to set a routing policy. There were many failed attempts at it, but I should be able to push some reasonable code tomorrow. If all goes well, this will work beautifully with the boot protocol stuff.
 
  [kaleidoscope/132]: https://github.com/keyboardio/Kaleidoscope/pull/132
+
+# 2017-12-22
+
+Rebased [Kaleidoscope#132][kaleidoscope/132] on [top of master][kaleidoscope:branch:f/eventdispatcher], fixed up a few things, and started moving things from the `kaleidoscope::hid` facade. During this, I noticed that this whole experiment adds 1.5kb of code even at its current state. That is a **lot**, while it provides no new functionality, juts paves the way. Ideally, I'd want something considerably smaller. I summed up my thoughts, and tried to describe an alternate solution in a [comment][kaleidoscope/132/alternative] on the PR.
+
+ [kaleidoscope:branch:f/eventdispatcher]: https://github.com/keyboardio/Kaleidoscope/tree/f/eventdispatcher
+ [kaleidoscope/132/alternative]: https://github.com/keyboardio/Kaleidoscope/pull/132#issuecomment-353684826
