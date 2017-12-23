@@ -393,3 +393,9 @@ Rebased [Kaleidoscope#132][kaleidoscope/132] on [top of master][kaleidoscope:bra
 
  [kaleidoscope:branch:f/eventdispatcher]: https://github.com/keyboardio/Kaleidoscope/tree/f/eventdispatcher
  [kaleidoscope/132/alternative]: https://github.com/keyboardio/Kaleidoscope/pull/132#issuecomment-353684826
+
+# 2017-12-23
+
+Having spent the night rolling around in my bed, and pondering about how to do event dispatching in a more efficient way, I ended up with a few issues that will make this much more complicated than first anticipated. First of all, there are cases where I want to route part of the events elsewhere, but keep other parts routed as-is. Like with BootKeyboard: I want mouse & absolutemouse traffic to remain unaffected. I do not want to end up having to implement the same routing in a BootKeyboard-supporting class as in the NKRO-supporting one.
+
+With this in mind, perhaps an array of handlers DOES make sense. We just need to filter them with better granularity. But then, we can't present a consistent interface: mice move, keys don't.
