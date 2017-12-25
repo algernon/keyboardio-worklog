@@ -1,49 +1,5 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
-
-- [2017-11-24](#2017-11-24)
-    - [Work log](#work-log)
-    - [TODO for @obra](#todo-for-obra)
-    - [TODO for @algernon](#todo-for-algernon)
-- [2017-11-25](#2017-11-25)
-    - [Suspend/wakeup research](#suspendwakeup-research)
-- [2017-11-26](#2017-11-26)
-    - [TODO for @algernon](#todo-for-algernon-1)
-- [2017-11-27](#2017-11-27)
-- [2017-11-28](#2017-11-28)
-- [2017-11-29](#2017-11-29)
-- [2017-11-30](#2017-11-30)
-- [2017-12-01](#2017-12-01)
-    - [Boot report protocol support](#boot-report-protocol-support)
-- [2017-12-02](#2017-12-02)
-- [2017-12-05](#2017-12-05)
-- [2017-12-07](#2017-12-07)
-    - [Core, supported, third-party, etc... plugins](#core-supported-third-party-etc-plugins)
-- [2017-12-08](#2017-12-08)
-    - [Plugin categories](#plugin-categories)
-        - [Core plugins](#core-plugins)
-            - [Possible other candidates](#possible-other-candidates)
-        - [Extra plugins](#extra-plugins)
-        - [Experimental plugins](#experimental-plugins)
-        - [Third-party plugins](#third-party-plugins)
-            - [keyboardio org => Third party](#keyboardio-org--third-party)
-            - [Third party initial set](#third-party-initial-set)
-- [2017-12-09](#2017-12-09)
-    - [Host suspend/resume](#host-suspendresume)
-- [2017-12-11](#2017-12-11)
-- [2017-12-13](#2017-12-13)
-- [2017-12-15](#2017-12-15)
-- [2017-12-16](#2017-12-16)
-- [2017-12-17](#2017-12-17)
-- [2017-12-20](#2017-12-20)
-- [2017-12-21](#2017-12-21)
-- [2017-12-22](#2017-12-22)
-- [2017-12-23](#2017-12-23)
-
-<!-- markdown-toc end -->
-
 # 2017-11-24
 
 ## Work log
