@@ -50,6 +50,7 @@ Renamed the `MyOldFriend` plugin to [HostPowerManagement][hostpowermanagement], 
 
  [arduino-boards/14]: https://github.com/keyboardio/Arduino-Boards/pull/14
  [model01-firmware/41]: https://github.com/keyboardio/Model01-Firmware/pull/41
+ [hostpowermanagement]: https://github.com/keyboardio/Kaleidoscope-HostPowerManagement
 
 Simon-Claudius tested `HostPowerManagement` on both OSX and Windows, and it worked on both, the wakeup too. This means that it supports all three major platforms!
 
