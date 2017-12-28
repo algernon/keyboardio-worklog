@@ -3,6 +3,9 @@
 # 2017-12-28
 
 * Updated [Kaleidoscope#270][kaleidoscope/270], a pull request that introduces `KALEIDOSCOPE_API_VERSION`. It now has an improved error message, thanks to @cdisselkoen and @noseglasses.
+* Continued working on lifting out the HID adaptors, and discovered a direct use of `Keyboard` in the process. [Kaleidoscope#278][kaleidoscope/278] fixes that.
+
+ [kaleidoscope/278]: https://github.com/keyboardio/Kaleidoscope/pull/278
 
 # 2017-12-27
 
