@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2017-12-28
+
+* Updated [Kaleidoscope#270][kaleidoscope/270], a pull request that introduces `KALEIDOSCOPE_API_VERSION`. It now has an improved error message, thanks to @cdisselkoen and @noseglasses.
+
+# 2017-12-27
+
+* Experimented with Jesse's keyscanner debouncing changes that were supposed to reduce chatter.
+* Started working on lifting the HID adaptors (the `kaleidoscope::hid` facade) out of Kaleidoscope, into small shim libraries. Shows great promise. The idea is to have `kaleidoscope/hid.h` in Kaleidoscope itself, but everything within the namespace be extern. This allows us to compile Kaleidoscope as a single unit, with the implementation of these elsewhere. Initial tests suggest that this result in byte-for-byte the same output, and that is very, very promising.
+
 # 2017-12-23
 
 Having spent the night rolling around in my bed, and pondering about how to do event dispatching in a more efficient way, I ended up with a few issues that will make this much more complicated than first anticipated. First of all, there are cases where I want to route part of the events elsewhere, but keep other parts routed as-is. Like with BootKeyboard: I want mouse & absolutemouse traffic to remain unaffected. I do not want to end up having to implement the same routing in a BootKeyboard-supporting class as in the NKRO-supporting one.
