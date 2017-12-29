@@ -5,10 +5,12 @@
 * Updated [Kaleidoscope#270][kaleidoscope/270], a pull request that introduces `KALEIDOSCOPE_API_VERSION`. It now has an improved error message, thanks to @cdisselkoen and @noseglasses.
 * Continued working on lifting out the HID adaptors, and discovered a direct use of `Keyboard` in the process. [Kaleidoscope#278][kaleidoscope/278] fixes that.
 * Still on the HID adaptors track, we now have [Kaleidoscope-HIDAdaptor-KeyboardioHID][k:hid:keyboardio], and an [f/hid/pluggable-with-default branch][k:branch:f/hid/pluggable-with-default] that makes use of it. It does not bring anything new to the table, but is a separate library, one which can be overridden by either including a different one, or implementing functions in the namespace ourselves. The branch is a work in progress for now, and is based on top of [Kaleidoscope#278][kaleidoscope/278].
+* Dropped [KeyboardioHID#20][keyboardiohid/20], because we are going to implement fallback in a different way. The parts of that PR that were still useful, were lifted out into a new PR, [KeyboardioHID#24][keyboardiohid/24].
 
  [kaleidoscope/278]: https://github.com/keyboardio/Kaleidoscope/pull/278
  [k:hid:keyboardio]: https://github.com/keyboardio/Kaleidoscope-HIDAdapor-KeyboardioHID
  [k:branch:f/hid/pluggable-with-default]: https://github.com/keyboardio/Kaleidoscope/tree/f/hid/pluggable-with-default
+ [keyboardiohid/24]: https://github.com/keyboardio/KeyboardioHID/pull/24
 
 # 2017-12-27
 
