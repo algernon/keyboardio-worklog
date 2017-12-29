@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2017-12-29
+
+* Implemented boot protocol fallback for `Kaleidoscope-HIDAdaptor-KeyboardioHID` ([Kaleidoscope-HIDAdaptor-KeyboardioHID#1][kaleidoscope-hidadaptor-keyboardiohid/1]). Depends on [KeyboardioHID#24][keyboardiohid/24], and on the [f/hid/pluggable-with-default][k:branch:f/hid/pluggable-with-default] branch for now.
+
+ [kaleidoscope-hidadaptor-keyboardiohid/1]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/1
+
 # 2017-12-28
 
 * Updated [Kaleidoscope#270][kaleidoscope/270], a pull request that introduces `KALEIDOSCOPE_API_VERSION`. It now has an improved error message, thanks to @cdisselkoen and @noseglasses.
