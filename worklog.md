@@ -3,6 +3,8 @@
 # 2017-12-29
 
 * Implemented boot protocol fallback for `Kaleidoscope-HIDAdaptor-KeyboardioHID` ([Kaleidoscope-HIDAdaptor-KeyboardioHID#1][kaleidoscope-hidadaptor-keyboardiohid/1]). Depends on [KeyboardioHID#24][keyboardiohid/24], and on the [f/hid/pluggable-with-default][k:branch:f/hid/pluggable-with-default] branch for now.
+* Tested the boot protocol fallback on FreeBSD (works, when forced), in an old BIOS (works, automatically).
+* Spent a bit of time trying to reduce the size of BootKeyboard, ended up saving 52 bytes.
 
  [kaleidoscope-hidadaptor-keyboardiohid/1]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/1
 
