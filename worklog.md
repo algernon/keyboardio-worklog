@@ -6,6 +6,19 @@
 
  [kaleidoscope-hidadaptor-keyboardiohid/1]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/1
 
+## Boot fallback: current state
+
+* [KeyboardioHID#24][keyboardiohid/24] implements some of the missing functionality in `BootKeyboard` that are needed to be able to fully support our wrappers.
+* [Kaleidoscope-HIDAdaptor-KeyboardioHID#1][kaleidoscope-hidadaptor-keyboardiohid/1] implements the fallback itself.
+* [Ardino-Boards#16][arduino-boards/16] adds the new library to our set.
+* [Kaleidoscope#278][kaleidoscope/278] fixes a direct use of `Keyboard`.
+* [Kaleidoscope#279][kaleidoscope/279] changes Kaleidoscope to use the `Kaleidoscope-HIDAdaptor-KeyboardioHID` library by default.
+
+ [arduino-boards/16]: https://github.com/keyboardio/Arduino-Boards/pull/16
+ [kaleidoscope/279]: https://github.com/keyboardio/Kaleidoscope/pull/279
+
+Once all of these are merged, and `Arduino-Boards` updated to the latest plugin versions after, we will have BootKeyboard fallback by default. It's cost is 1140 PROGMEM, and ~45 SRAM, an acceptable amount. If/when we break API compatibility, we should remove the default include, and should stop marking the symbols in the default adaptor weak. That will truly make it pluggable. For now, this is a compromise, but a useful and reasonable one.
+
 # 2017-12-28
 
 * Updated [Kaleidoscope#270][kaleidoscope/270], a pull request that introduces `KALEIDOSCOPE_API_VERSION`. It now has an improved error message, thanks to @cdisselkoen and @noseglasses.
