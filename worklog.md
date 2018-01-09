@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-01-09
+
+Since the last entry, most of my time was spent on reviewing, playing, and experimenting with [Kaleidoscope#276][kaleidoscope/276], a continuation of [Kaleidoscope#240][kaleidoscope/240], posted a very short summary to the issue, more to come later. The main takeaway is that I like most of it, and compatibility is the major thing I'd do differently. There are pros and cons for each approach, will have to talk that through with Jesse and everyone else involved.
+
+ [kaleidoscope/276]: https://github.com/keyboardio/Kaleidoscope/pull/276
+
 # 2017-12-29
 
 * Implemented boot protocol fallback for `Kaleidoscope-HIDAdaptor-KeyboardioHID` ([Kaleidoscope-HIDAdaptor-KeyboardioHID#1][kaleidoscope-hidadaptor-keyboardiohid/1]). Depends on [KeyboardioHID#24][keyboardiohid/24], and on the [f/hid/pluggable-with-default][k:branch:f/hid/pluggable-with-default] branch for now.
