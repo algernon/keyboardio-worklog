@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-01-16
+
+Briefly tested a new attiny firmware for @obra, and continued experimenting with a simplification of [Kaleidoscope#276][kaleidoscope/276].
+
 # 2018-01-15
 
 The past few days was spent between polishing a review, and trying to debug why horizontal scroll wheel support broke the whole keyboard on OSX ([KeyboardioHID#25][keyboardiohid/25]). Today, while looking for a cheap Mac I could buy or borrow, a friend of mine mentioned that he has a keyboard with TMK that has both vertical and horizontal scroll wheels, and as far as he remembers, it works under OSX. I asked him to test, and continued with looking at the HID descriptors TMK uses. Turns out, we were missing a `REPORT_COUNT` entry in the horizontal scroll wheel block. This rendered the HID descriptor invalid, and OSX defensively disabled the entire device. It seems Linux and Windows are a bit more permissive when it comes to buggy descriptors. [KeyboardioHID#27][keyboardiohid/27] is a quick fix for the issue, but needs testing. If that doesn't work, another difference between TMK's descriptor and ours is that they have the position and the wheel in separate `USAGE` blocks. [KeyboardioHID#28][keyboardiohid/28] spins ours out too, in case the former pull request is not enough.
