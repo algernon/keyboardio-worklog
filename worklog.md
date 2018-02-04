@@ -1,5 +1,26 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-04
+
+## Boot protocol
+
+Reworked the boot protocol support, based on comments from @obra. With the new setup ([Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2], [Kaleidoscope-Hardware-Model01#19][kaleidoscope-hardware-model01/19], and [Kaleidoscope#286][kaleidoscope/286]), the adaptor is included by the hardware plugin, and is not pushed down into user sketches. For this to be viable, and friendly towards advanced users (or those with big firmwares, like me), a few knobs were introduced that can be used to disable features with a compiler flag.
+
+ [kaleidoscope-hidadaptor-keyboardiohid/2]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/2
+ [kaleidoscope-hardware-model01/19]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/19
+ [kaleidoscope/286]: https://github.com/keyboardio/Kaleidoscope/pull/286
+
+There may still be room for improvement within the code itself, but the user-facing side of it should now be stable.
+
+## Miscellaneous
+
+* Manually merged [Kaleidoscope-LEDControl#17][kaleidoscope-ledcontrol/17].
+* Merged [Kaleidoscope-DualUse#12][kaleidoscope-dualuse/12].
+* Contributed to the discussion in [Kaleidoscope-Macros#19][kaleidoscope-macros/19].
+
+ [kaleidoscope-dualuse/12]: https://github.com/keyboardio/Kaleidoscope-DualUse/pull/12
+ [kaleidoscope-macros/19]: https://github.com/keyboardio/Kaleidoscope-Macros/issues/19
+
 # 2018-01-16
 
 Briefly tested a new attiny firmware for @obra, and continued experimenting with a simplification of [Kaleidoscope#276][kaleidoscope/276].
