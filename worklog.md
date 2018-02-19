@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-18
+
+Started diving into the USB specs deeper, to figure out how to do power negotiation properly. It feels like it should be doable, but will need more digging to figure out the how.
+
+# 2018-02-15
+
+Wrote a pretty big - for now internal - status report for @obra.
+
 # 2018-02-04
 
 ## Boot protocol
