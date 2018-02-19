@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-20
+
+Triaged a few open issues, [Kaleidoscope-Unicode#8][kaleidoscope-unicode/8], [Kaleidoscope-Model01-TestMode#4][kaleidoscope-model01-testmode/4], and [Kaleidoscope#292][kaleidoscope/292], [Kaleidoscope#275](kaleidoscope/275) among others, and tried to help a few people on the forums too.
+
+ [kaleidoscope-unicode/8]: https://github.com/keyboardio/Kaleidoscope-Unicode/pull/8
+ [kaleidoscope-model01-testmode/4]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/4
+ [kaleidoscope/292]: https://github.com/keyboardio/Kaleidoscope/pull/292
+ [kaleidoscope/275]: https://github.com/keyboardio/Kaleidoscope/pull/275
+
 # 2018-02-18
 
 Started diving into the USB specs deeper, to figure out how to do power negotiation properly. It feels like it should be doable, but will need more digging to figure out the how.
