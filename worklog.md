@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-21
+
+Tried to figure out how to negotiate power with the host, which led me to the following two specifications:
+
+ * [Usage Tables for HID Power Devices][usb/hid-pd]
+ * [USB Power Delivery][usb/pd]
+
+ [usb/hid-pd]: http://www.usb.org/developers/hidpage/pdcv10.pdf
+ [usb/pd]: http://www.usb.org/developers/powerdelivery/
+
+I quickly skimmed through both, and in the process, found an [Arduino library][github/usb-pd] that is supposed to implement Power Delivery. However, reading that library seems to suggest that we'd need special wiring for this to work, which is something we probably do not have.
+
+ [github/usb-pd]: https://github.com/ReclaimerLabs/USB_PD
+
+I have this bad feeling that I'll have to read the specs carefully, and won't be able to cheat my way out by only scanning for keywords.
+
 # 2018-02-20
 
 Triaged a few open issues, [Kaleidoscope-Unicode#8][kaleidoscope-unicode/8], [Kaleidoscope-Model01-TestMode#4][kaleidoscope-model01-testmode/4], and [Kaleidoscope#292][kaleidoscope/292], [Kaleidoscope#275](kaleidoscope/275) among others, and tried to help a few people on the forums too.
