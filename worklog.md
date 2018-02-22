@@ -10,9 +10,10 @@ Another option would be to send `NumLock` (or any of the other lock keys), and s
 
 In either case, as we are guessing, and neither method is 100%, we need to provide a way for the user to force 100mA mode. The easiest for this is to hold a key (or key combo) during boot, and go with 100mA if it is pressed. Perhaps `Fn + LED`?
 
-Digging into where and how we set up 500mA, it turns out that [Arduino Core][arduino/usbCore/power] does this, via `D_CONFIG`, which is used by `USBCore`. This is not going to be easy to work around, but... there's still hope. We send this stuff back in response to a `GET_DESCRIPTOR` request, which - I think - we can override, and send our own. Now, my biggest question is: if enumeration fails, due to power demands being too high, do we still get 100mA, so we can auto-retry? If we don't, we're toast.
+Digging into where and how we set up 500mA, it turns out that [Arduino Core][arduino/usbCore/power] does this, via `D_CONFIG`, which is used by `USBCore`. This is not going to be easy to work around, but... there's still hope. We send this stuff back in response to a `GET_DESCRIPTOR` request, which - I think - we can override, and send our own. Now, my biggest question is: if enumeration fails, due to power demands being too high, do we still get 100mA, so we can auto-retry? If we don't, we're toast. Looks like we do, because KiiboHD [does do negotiation][kiibohd/usb/power-neg]!
 
  [arduino/usbCore/power]: https://github.com/arduino/Arduino/blob/0175a4ee944ed07b44dcb16c9738268b7fb2f03c/hardware/arduino/avr/cores/arduino/USBCore.h#L269-L270
+ [kiibohd/usb/power-neg]: https://github.com/kiibohd/controller/blob/4d6c87f638375f4cbecb45b0448892ebc41ed596/Output/USB/arm/usb_dev.c#L222-L259
 
 ## Plugin API redesign
 
