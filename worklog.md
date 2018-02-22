@@ -1,5 +1,19 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-22
+
+## Power negotiation
+
+Turns out that USB-PD will not help us, so we have to use some other way. One such is to start with 500mA, and wait for a `SET_PROTOCOL` request from the host. If one does not come, revert to 100mA. The assumption here is that most OSes will send such a request soon after enumeration, and if we didn't receive one, then enumeration failed. This is non-trivial to implement, and the timeout must be well chosen, but seems like this is the best we can do.
+
+Another option would be to send `NumLock` (or any of the other lock keys), and see if we get a request back to set the lock LEDs. This might be a bit more reliable than the `SET_PROTOCOL` method, but needs further testing to see if it works as I hope it does. Quick tests under Linux suggest it does, but I need to research a bit further.
+
+In either case, as we are guessing, and neither method is 100%, we need to provide a way for the user to force 100mA mode. The easiest for this is to hold a key (or key combo) during boot, and go with 100mA if it is pressed. Perhaps `Fn + LED`?
+
+## Plugin API redesign
+
+I *think* I figured out a way to both simplify [Kaleidoscope#276][kaleidoscope/276], and still keep all of its benefits. More on this later, once I actually tested if my idea works at all.
+
 # 2018-02-21
 
 Tried to figure out how to negotiate power with the host, which led me to the following two specifications:
