@@ -1,5 +1,23 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-02-28
+
+After talking with Jesse about supporting languages and layouts, I opened [Kaleidoscope#303][kaleidoscope/303] to start a discussion about *how* we want to do it.
+
+ [kaleidoscope/303]: https://github.com/keyboardio/Kaleidoscope/issues/303
+
+# 2018-02-26
+
+Tried doing power negotiation without touching Arduino Core (because forking it is not something one should do lightly, even if that's the recommended way). While it is doable, it will increase code-size considerably, because the answer for the config request will have to be stored twice, and we'll have a bit of duplicate code as well. If we modify Arduino Core, we can be a lot smarter about it... not to mention that core is the right place to deal with this after all.
+
+So that's going to be the way forward.
+
+# 2018-02-23
+
+Managed to negotiate 100mA by modifying Arduino Core. We first set a flag so that we know we began to negotiate power, this is done statically, we start in this state. When we receive the first config request, we start a timer, and set `bMaxPower` to 500mA. If we receive another config request before the timeout, we stop negotiating, and happily go along with 500mA. If the timeout passes, we set a flag to negotiate 100mA, and restart the whole USB attachment process.
+
+Part of this is in Arduino Core, another part in Kaleidoscope. The current method is a huge hack for now, in need of cleaning up. Just wanted to verify that this is both doable, and that it works.
+
 # 2018-02-22
 
 ## Power negotiation
