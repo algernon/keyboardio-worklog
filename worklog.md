@@ -1,5 +1,27 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-05
+
+Triaged a bunch of open issues, [Kaleidoscope-Leader#6][kaleidoscope-leader/6] and [Kaleidoscope-Leader#7][kaleidoscope-leader/7]; [KeyboardioScanner#13][keyboardioscanner/13]; [Kaleidoscope-Numpad#5][kaleidoscope-numpad/5]; [Model01-Bootloader#4][model01-bootloader/4].
+
+ [kaleidoscope-leader/6]: https://github.com/keyboardio/Kaleidoscope-Leader/pull/6
+ [kaleidoscope-leader/7]: https://github.com/keyboardio/Kaleidoscope-Leader/pull/7
+ [keyboardioscanner/13]: https://github.com/keyboardio/KeyboardioScanner/pull/13
+ [kaleidoscope-numpad/5]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/5
+ [model01-bootloader/4]: https://github.com/keyboardio/Model01-Bootloader/issues/4
+
+The first two PRs were merged too.
+
+# 2018-03-02
+
+Mucking around in Arduino Core to implement Power Negotiation in a way we can later upstream. So far it isn't looking easy. Or if it is, then not efficient. I want to have both, and that's looking challenging. Or I'm going down on the wrong path, which very well may be the case.
+
+# 2018-03-01
+
+Reviewed [KeyboardioHID#29][keyboardiohid/29].
+
+ [keyboardiohid/29]: https://github.com/keyboardio/KeyboardioHID/pull/29
+
 # 2018-02-28
 
 After talking with Jesse about supporting languages and layouts, I opened [Kaleidoscope#303][kaleidoscope/303] to start a discussion about *how* we want to do it.
