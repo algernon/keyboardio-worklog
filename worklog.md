@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-07
+
+Fixed a warning in [Kaleidoscope-Unicode][kaleidoscope-unicode], and updated [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2] based on Jesse's review.
+
+ [kaleidoscope-unicode]: https://github.com/keyboardio/Kaleidoscope-Unicode
+
 # 2018-03-05
 
 Triaged a bunch of open issues, [Kaleidoscope-Leader#6][kaleidoscope-leader/6] and [Kaleidoscope-Leader#7][kaleidoscope-leader/7]; [KeyboardioScanner#13][keyboardioscanner/13]; [Kaleidoscope-Numpad#5][kaleidoscope-numpad/5]; [Model01-Bootloader#4][model01-bootloader/4].
