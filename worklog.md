@@ -2,9 +2,10 @@
 
 # 2018-03-07
 
-Fixed a warning in [Kaleidoscope-Unicode][kaleidoscope-unicode], and updated [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2] based on Jesse's review.
+Fixed a warning in [Kaleidoscope-Unicode][kaleidoscope-unicode], and updated [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2] based on Jesse's review. Opened [Model01-Firmware#46][model01-firmware/46] based on a bug report on the forums.
 
  [kaleidoscope-unicode]: https://github.com/keyboardio/Kaleidoscope-Unicode
+ [model01-firmware/46]: https://github.com/keyboardio/Model01-Firmware/pull/46
 
 # 2018-03-05
 
