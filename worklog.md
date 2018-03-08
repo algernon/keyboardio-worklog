@@ -4,6 +4,11 @@
 
 Merged [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2], [Kaleidoscope-Hardware-Model01#19][kaleidoscope-hardware-model01/19], and [Kaleidoscope#286][kaleidoscope/286], as Jesse OK'd the changes in the first.
 
+Left some review notes on [KeyboardioHID#30][keyboardiohid/30] and [Kaleidoscope#304][kaleidoscope/304].
+
+ [keyboardiohid/30]: https://github.com/keyboardio/KeyboardioHID/pull/30
+ [kaleidoscope/304]: https://github.com/keyboardio/Kaleidoscope/pull/304
+
 # 2018-03-07
 
 Fixed a warning in [Kaleidoscope-Unicode][kaleidoscope-unicode], and updated [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2] based on Jesse's review. Opened [Model01-Firmware#46][model01-firmware/46] based on a bug report on the forums.
