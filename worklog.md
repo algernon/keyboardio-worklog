@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-09
+
+* Proposed a merge plan for [Kaleidoscope#276][kaleidoscope/276].
+
 # 2018-03-08
 
 Merged [Kaleidoscope-HIDAdaptor-KeyboardioHID#2][kaleidoscope-hidadaptor-keyboardiohid/2], [Kaleidoscope-Hardware-Model01#19][kaleidoscope-hardware-model01/19], and [Kaleidoscope#286][kaleidoscope/286], as Jesse OK'd the changes in the first.
