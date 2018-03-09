@@ -7,6 +7,9 @@ actively pushing for acceptance.
   descriptors.
 - [Kaleidoscope#275][kaleidoscope/275]: Argument number checking for `KEYMAP` &
   friends (core part).
+- [Kaleidoscope#305][kaleidoscope/305]: `kaleidoscope-builder` improvements,
+  fixes.
 
+ [kaleidoscope/305]: https://github.com/keyboardio/Kaleidoscope/pull/305
  [kaleidoscope/275]: https://github.com/keyboardio/Kaleidoscope/pull/275
  [keyboardiohid/23]: https://github.com/keyboardio/KeyboardioHID/pull/23

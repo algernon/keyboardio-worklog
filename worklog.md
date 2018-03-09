@@ -6,11 +6,14 @@
 * Merged [Kaleidoscope-NumPad#2][kalediscope-numpad/2] and [Kaleidoscope-NumPad#3][kaleidoscope-numpad/3].
 * Commented on [Kaleidoscope#275][kaleidoscope/275].
 * Commented on [KeyboardioHID#23][keyboardiohid/23].
+* Opened [Kaleidoscope#305][kaleidoscope/305], based on [Kaleidoscope#299][kaleidoscope/299] and work done in that context.
 
  [kaleidoscope/275]: https://github.com/keyboardio/Kaleidoscope/pull/275
  [keyboardiohid/23]: https://github.com/keyboardio/KeyboardioHID/pull/23
  [kaleidoscope-numpad/2]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/2
  [kaleidoscope-numpad/3]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/3
+ [kaleidoscope/305]: https://github.com/keyboardio/Kaleidoscope/pull/305
+ [kaleidoscope/299]: https://github.com/keyboardio/Kaleidoscope/issues/299
 
 # 2018-03-08
 
