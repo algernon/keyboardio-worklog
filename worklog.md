@@ -4,7 +4,11 @@
 
 * Proposed a merge plan for [Kaleidoscope#276][kaleidoscope/276].
 * Merged [Kaleidoscope-NumPad#2][kalediscope-numpad/2] and [Kaleidoscope-NumPad#3][kaleidoscope-numpad/3].
+* Commented on [Kaleidoscope#275][kaleidoscope/275].
+* Commented on [KeyboardioHID#23][keyboardiohid/23].
 
+ [kaleidoscope/275]: https://github.com/keyboardio/Kaleidoscope/pull/275
+ [keyboardiohid/23]: https://github.com/keyboardio/KeyboardioHID/pull/23
  [kaleidoscope-numpad/2]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/2
  [kaleidoscope-numpad/3]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/3
 
