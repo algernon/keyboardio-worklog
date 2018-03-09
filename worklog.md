@@ -3,6 +3,10 @@
 # 2018-03-09
 
 * Proposed a merge plan for [Kaleidoscope#276][kaleidoscope/276].
+* Merged [Kaleidoscope-NumPad#2][kalediscope-numpad/2] and [Kaleidoscope-NumPad#3][kaleidoscope-numpad/3].
+
+ [kaleidoscope-numpad/2]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/2
+ [kaleidoscope-numpad/3]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/3
 
 # 2018-03-08
 
