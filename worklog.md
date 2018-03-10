@@ -3,8 +3,13 @@
 # 2018-03-10
 
 * Reviewed [Kaleidoscope-LEDEffect-Rainbow#2][kaleidoscope-ledeffect-rainbow/2].
+* Reviewed and requested changes on [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19].
+* Submitted a pull request to make `Key_Quote` on the `NUMPAD` layer transparent ([Model01-Firmware#49][model01-firmware/49]), as per [Model01-Firmware#48][model01-firmware/48].
 
   [kaleidoscope-ledeffect-rainbow/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/2
+  [kaleidoscope-ledcontrol/19]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/19
+  [model01-firmware/48]: https://github.com/keyboardio/Model01-Firmware/issues/48
+  [model01-firmware/49]: https://github.com/keyboardio/Model01-Firmware/pull/49
 
 # 2018-03-09
 
