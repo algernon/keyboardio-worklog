@@ -1,5 +1,10 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-12
+
+* Approved [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19].
+* Commented on [Kaleidoscope-LEDEffect-Rainbow#2][kaleidoscope-ledeffect-rainbow/2].
+
 # 2018-03-10
 
 * Reviewed [Kaleidoscope-LEDEffect-Rainbow#2][kaleidoscope-ledeffect-rainbow/2].
