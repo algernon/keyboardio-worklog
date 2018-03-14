@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-14
+
+* Opened [Kaleidoscope-Hardware-Model01#21][kaleidoscope-hardware-model01/21], which considerably speeds up our main loop when idle (and even improves the worst case too!). Based on an idea from @gedankenexperimenter.
+
+ [kaleidoscope-hardware-model01/21]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/21
+
 # 2018-03-12
 
 * Approved [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19].

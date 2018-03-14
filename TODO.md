@@ -18,3 +18,7 @@ actively pushing for acceptance.
   a single one, with mode-specific methods to set the brightness.
 
   [kaleidoscope-ledeffect-rainbow/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/2
+
+* Review [Kaleidoscope-Hardware-Model01#21][kaleidoscope-hardware-model01/21].
+
+  [kaleidoscope-hardware-model01/21]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/21
