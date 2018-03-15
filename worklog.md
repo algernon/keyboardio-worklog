@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-15
+
+* Opened [Kaleidoscope-Hardware-Model01#22][kaleidoscope-hardware-model01/22], with @obra's patch of further tweaking the bit walking.
+
+ [kaleidoscope-hardware-model01/22]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/22
+
 # 2018-03-14
 
 * Opened [Kaleidoscope-Hardware-Model01#21][kaleidoscope-hardware-model01/21], which considerably speeds up our main loop when idle (and even improves the worst case too!). Based on an idea from @gedankenexperimenter.
