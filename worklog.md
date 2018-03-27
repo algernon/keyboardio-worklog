@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-03-27
+
+* Fixed a few minor documentation errors in `Kaleidoscope-MouseKeys` and `Kaleidoscope-MagicCombo`.
+
 # 2018-03-17
 
 * Opened [Kaleidoscope#308][kaleidoscope/308], a documentation update related to [Kaleidoscope-Hardware-Model01#23][kaleidoscope-hardware-model01/23].
