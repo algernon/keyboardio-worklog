@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-03
+
+* Reviewed and requested changes on [Kaleidoscope-MouseKeys#15][kaleidoscope-mousekeys/15].
+
+ [kaleidoscope-mousekeys/15]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/15
+
 # 2018-03-27
 
 * Fixed a few minor documentation errors in `Kaleidoscope-MouseKeys` and `Kaleidoscope-MagicCombo`.
