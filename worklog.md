@@ -5,10 +5,12 @@
 * Merged [Kaleidoscope-LED-Stalker#16][kaleidoscope-led-stalker/16].
 * Took [Kaleidoscope#306][kaleidoscope/306], reworded it a bit, and committed to master with a reference to the original.
 * Merged [Kaleidoscope-Heatmap#6][kaleidoscope-heatmap/6].
+* Merged [Model01-Firmware#39][model01-firmware/39].
 
  [kaleidoscope-led-stalker/16]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/16
  [kaleidoscope/306]: https://github.com/keyboardio/Kaleidoscope/pull/306
  [kaleidoscope-heatmap/6]: https://github.com/keyboardio/Kaleidoscope-Heatmap/pull/6
+ [model01-firmware/39]: https://github.com/keyboardio/Model01-Firmware/pull/39
 
 # 2018-04-03
 
