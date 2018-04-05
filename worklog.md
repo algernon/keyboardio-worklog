@@ -8,8 +8,8 @@
 * Merged [Model01-Firmware#39][model01-firmware/39].
 * Merged [Kaleidoscope-Hardware-Model01#16][kaleidoscope-hardware-model01/16].
 * Merged [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19], and followed up with a tiny clean-up patch.
-* Reviewed [Kaleidoscope-SpaceCadet#10][kaleidoscope-spacecadet/10].
 * Merged [Kaleidoscope-LEDEffect-BootGreeting#6][kaleidoscope-ledeffect-bootgreeting/6].
+* Reviewed and merged [Kaleidoscope-SpaceCadet#10][kaleidoscope-spacecadet/10], and followed up with a tiny change to use `Kaleidoscope-Ranges` (which received an update as well.)
 
  [kaleidoscope-led-stalker/16]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/16
  [kaleidoscope/306]: https://github.com/keyboardio/Kaleidoscope/pull/306
