@@ -9,3 +9,9 @@ actively pushing for acceptance.
   a single one, with mode-specific methods to set the brightness.
 
   [kaleidoscope-ledeffect-rainbow/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/2
+
+## Waiting for @algernon
+
+* Follow up on [Kaleidoscope-SpaceCadet#10][kaleidoscope-spacecadet/10].
+
+ [kaleidoscope-spacecadet/10]: https://github.com/keyboardio/Kaleidoscope-SpaceCadet/pull/10
