@@ -7,6 +7,7 @@
 * Merged [Kaleidoscope-Heatmap#6][kaleidoscope-heatmap/6].
 * Merged [Model01-Firmware#39][model01-firmware/39].
 * Merged [Kaleidoscope-Hardware-Model01#16][kaleidoscope-hardware-model01/16].
+* Merged [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19], and followed up with a tiny clean-up patch.
 
  [kaleidoscope-led-stalker/16]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/16
  [kaleidoscope/306]: https://github.com/keyboardio/Kaleidoscope/pull/306

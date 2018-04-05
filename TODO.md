@@ -3,10 +3,6 @@ actively pushing for acceptance.
 
 ## Waiting for @obra
 
-* Have a look at [Kaleidoscope-LEDControl#19][kaleidoscope-ledcontrol/19], merge if agree.
-
-  [kaleidoscope-ledcontrol/19]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/19
-
 * Provide feedback on [Kaleidoscope-LEDEffect-Rainbow#2][kaleidoscope-ledeffect-rainbow/2]: there
   are two kinda conflicting methods here. One is to use N different
   LEDEffectRainbow instances for the different brightnesses, the other is to use
