@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-05
+
+* Merged [Kaleidoscope-LED-Stalker#16][kaleidoscope-led-stalker/16].
+* Took [Kaleidoscope#306][kaleidoscope/306], reworded it a bit, and committed to master with a reference to the original.
+
+ [kaleidoscope-led-stalker/16]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/16
+ [kaleidoscope/306]: https://github.com/keyboardio/Kaleidoscope/pull/306
+
 # 2018-04-03
 
 * Reviewed and requested changes on [Kaleidoscope-MouseKeys#15][kaleidoscope-mousekeys/15].
