@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-20
+
+## Power management
+
+A while ago, I entertained the idea of getting rid of `WakeupKeyboard`, to save space, and to simplify things. The idea was to change `BootKeyboard` to default to the boot protocol instead of report, so that the OS will mark it wakeup-capable by default. Sadly, it turns out, we'd need to do more than that. Simply setting the default does not have the desired effect. So we're stuck with `WakeupKeyboard` for the time being.
+
 # 2018-04-05
 
 * Merged [Kaleidoscope-LED-Stalker#16][kaleidoscope-led-stalker/16].
