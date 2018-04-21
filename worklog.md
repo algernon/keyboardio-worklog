@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-21
+
+* Made the `OneShot` plugin use the coordinates of the triggering key instead of unknown location when injecting events, fixing [Kaleidoscope-OneShot#13][kaleidoscope-oneshot/13].
+
+ [kaleidoscope-oneshot/13]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/13
+
 # 2018-04-20
 
 ## Power management
