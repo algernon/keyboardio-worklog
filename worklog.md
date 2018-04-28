@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-28
+
+* Transitioned `Kaleidoscope-LEDEffect-Rainbow` to use timers: [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
+
+ [kaleidoscope-ledeffect-rainbow#4]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/4
+
 # 2018-04-26
 
 Write a summary/status report about [Kaleidoscope#276][kaleidoscope/276] to Jesse.
