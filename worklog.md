@@ -3,8 +3,10 @@
 # 2018-04-28
 
 * Transitioned `Kaleidoscope-LEDEffect-Rainbow` to use timers: [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
+* Answered [KeyboardioHID#31][keyboardiohid/31].
 
  [kaleidoscope-ledeffect-rainbow#4]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/4
+ [keyboardiohid/31]: https://github.com/keyboardio/KeyboardioHID/issues/31
 
 # 2018-04-26
 
