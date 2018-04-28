@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-26
+
+Write a summary/status report about [Kaleidoscope#276][kaleidoscope/276] to Jesse.
+
+# 2018-04-24
+
+* Quickly wrote a new plugin - [Kaleidoscope-Redial][kaleidoscope-redial], based on a forum request.
+
+ [kaleidoscope-redial]: https://github.com/keyboardio/Kaleidoscope-Redial
+
 # 2018-04-21
 
 * Made the `OneShot` plugin use the coordinates of the triggering key instead of unknown location when injecting events, fixing [Kaleidoscope-OneShot#13][kaleidoscope-oneshot/13].
