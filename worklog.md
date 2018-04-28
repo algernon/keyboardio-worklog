@@ -4,9 +4,11 @@
 
 * Transitioned `Kaleidoscope-LEDEffect-Rainbow` to use timers: [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
 * Answered [KeyboardioHID#31][keyboardiohid/31].
+* Implemented double-tap timeouts for `OneShot`, [Kaleidoscope-OneShot#30][kaleidoscope-oneshot/30].
 
  [kaleidoscope-ledeffect-rainbow#4]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/4
  [keyboardiohid/31]: https://github.com/keyboardio/KeyboardioHID/issues/31
+ [kaleidoscope-oneshot/30]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/30
 
 # 2018-04-26
 
