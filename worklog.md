@@ -3,8 +3,11 @@
 # 2018-04-29
 
 * `KeyLogger` now prints a timestamp too, fixing [Kaleidoscope-KeyLogger#2][kaleidoscope-keylogger/2]. Updated the plugin's `Makefile` while there.
+* Updated `Arduino-Boards` to include `Qukeys` and `Redial`, and newer versions of some of the libraries.
+* Turned `DualUse` into a thin proxy class around `Qukeys`, fixing [Kaleidoscope-DualUse#13][kaleidoscope-dualuse/13], and possibly every other issue against the plugin.
 
  [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
+ [kaleidoscope-dualuse/13]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/13
 
 # 2018-04-28
 
