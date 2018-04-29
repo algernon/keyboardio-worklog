@@ -13,6 +13,7 @@
 * Added pre- and post-flash hooks to `kaleidoscope-builder`, fixing [Kaleidoscope#225][kaleidoscope/225], with [Kaleidoscope#314][kaleidoscope/314].
 * Reviewed, tested, and then merged [Kaleidoscope-MouseKeys#17][kaleidoscope-mousekeys/17].
 * Merged [Kaleidoscope-MouseKeys#16][kaleidoscope-mousekeys/16], as it already had a "Thanks!" from Jesse, and the PR works as advertised.
+* Merged [Model01-Firmware#45][model01-firmware/45].
 
  [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
  [kaleidoscope-dualuse/13]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/13
@@ -26,6 +27,7 @@
  [kaleidoscope/314]: https://github.com/keyboardio/Kaleidoscope/pull/314
  [kaleidoscope-mousekeys/17]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/17
  [kaleidoscope-mousekeys/16]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/16
+ [model01-firmware/45]: https://github.com/keyboardio/Model01-Firmware/pull/45
 
 # 2018-04-28
 
