@@ -8,12 +8,14 @@
 * Implemented [Kaleidoscope-OneShot#29][kaleidoscope-oneshot/29].
 * Based on comments received on [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4], I implemented a similar method in `Kaleidoscope-LED-Stalker`, which should fix [Kaleidoscope-LED-Stalker#8][kaleidoscope-led-stalker/8].
 * Reviewed and approved [Kaleidoscope-Macros#20][kaleidoscope-macros/20].
+* Tried reproducing [Kaleidoscope-OneShot#26][kaleidoscope-oneshot/26], but couldn't.
 
  [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
  [kaleidoscope-dualuse/13]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/13
  [kaleidoscope-oneshot/29]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/29
  [kaleidoscope-led-stalker/8]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/issues/8
  [kaleidoscope-macros/20]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/20
+ [kaleidoscope-oneshot/26]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/26
 
 # 2018-04-28
 
