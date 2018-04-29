@@ -17,3 +17,7 @@ actively pushing for acceptance.
 * Review [Kaleidoscope#313][kaleidoscope/313].
 
   [kaleidoscope/313]: https://github.com/keyboardio/Kaleidoscope/pull/313
+
+* Review [Kaleidoscope#314][kaleidoscope/314].
+
+  [kaleidoscope/314]: https://github.com/keyboardio/Kaleidoscope/pull/314
