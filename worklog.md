@@ -11,6 +11,7 @@
 * Tried reproducing [Kaleidoscope-OneShot#26][kaleidoscope-oneshot/26], but couldn't.
 * Reproduced [Kaleidoscope-Syster#3][kaleidoscope-syster/3], and opened [Kaleidoscope#313][kaleidoscope/313] to fix it.
 * Added pre- and post-flash hooks to `kaleidoscope-builder`, fixing [Kaleidoscope#225][kaleidoscope/225], with [Kaleidoscope#314][kaleidoscope/314].
+* Reviewed, tested, and then merged [Kaleidoscope-MouseKeys#17][kaleidoscope-mousekeys/17].
 
  [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
  [kaleidoscope-dualuse/13]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/13
@@ -22,6 +23,7 @@
  [kaleidoscope/313]: https://github.com/keyboardio/Kaleidoscope/pull/313
  [kaleidoscope/225]: https://github.com/keyboardio/Kaleidoscope/issues/225
  [kaleidoscope/314]: https://github.com/keyboardio/Kaleidoscope/pull/314
+ [kaleidoscope-mousekeys/17]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/17
 
 # 2018-04-28
 
