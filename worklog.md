@@ -14,6 +14,7 @@
 * Reviewed, tested, and then merged [Kaleidoscope-MouseKeys#17][kaleidoscope-mousekeys/17].
 * Merged [Kaleidoscope-MouseKeys#16][kaleidoscope-mousekeys/16], as it already had a "Thanks!" from Jesse, and the PR works as advertised.
 * Merged [Model01-Firmware#45][model01-firmware/45].
+* Did tons of work related to [Kaleidoscope#276][kaleidoscope/276]: I can now compile the factory firmware with all plugins it uses using the new API. The savings are impressive, even with the legacy API still in place, more so with it disabled. No pull requests yet, pushing to branches for now, until I have time to properly write down the path that led us here.
 
  [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
  [kaleidoscope-dualuse/13]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/13
