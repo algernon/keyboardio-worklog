@@ -25,3 +25,7 @@ actively pushing for acceptance.
 * Review [Kaleidoscope#301][kaleidoscope/301]
 
   [kaleidoscope/301]: https://github.com/keyboardio/Kaleidoscope/pull/301
+
+* Decide between `HAND_BIT` and `RIGHT_HAND_BIT` in [Kaleidoscope-Hardware-Model01#15][kaleidoscope-hardware-model01/15].
+
+  [kaleidoscope-hardware-model01/15]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/15
