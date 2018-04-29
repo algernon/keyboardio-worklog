@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-29
+
+* `KeyLogger` now prints a timestamp too, fixing [Kaleidoscope-KeyLogger#2][kaleidoscope-keylogger/2]. Updated the plugin's `Makefile` while there.
+
+ [kaleidoscope-keylogger/2]: https://github.com/keyboardio/Kaleidoscope-KeyLogger/issues/2
+
 # 2018-04-28
 
 * Transitioned `Kaleidoscope-LEDEffect-Rainbow` to use timers: [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
