@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-04-30
+
+* Merged [Kaleidoscope-Macros#20][kaleidoscope-macros/20].
+* Pushed `f/plugin-v2` branches for a lot of plugins, to implement the API outlined in [Kaleidoscope#276][kaleidoscope/276].
+* Talked a bit with Jesse about the plugin API, naming things, and a related topics. A bit of work is still required before I can turn it into a pull request.
+
 # 2018-04-29
 
 * `KeyLogger` now prints a timestamp too, fixing [Kaleidoscope-KeyLogger#2][kaleidoscope-keylogger/2]. Updated the plugin's `Makefile` while there.

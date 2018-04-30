@@ -10,10 +10,6 @@ actively pushing for acceptance.
 
   [kaleidoscope-ledeffect-rainbow/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/2
 
-* Have a look at, and possibly merge [Kaleidoscope-Macros#20][kaleidoscope-macros/20] (@algernon-approved).
-
-  [kaleidoscope-macros/20]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/20
-
 * Review [Kaleidoscope#313][kaleidoscope/313].
 
   [kaleidoscope/313]: https://github.com/keyboardio/Kaleidoscope/pull/313
