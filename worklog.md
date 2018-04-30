@@ -6,6 +6,7 @@
 * Pushed `f/plugin-v2` branches for a lot of plugins, to implement the API outlined in [Kaleidoscope#276][kaleidoscope/276].
 * Talked a bit with Jesse about the plugin API, naming things, and a related topics. A bit of work is still required before I can turn it into a pull request.
 * Closed [Kaleidoscope#313][kaleidoscope/313], the masking would have been too broad, and break use-cases more common than putting `Syster` on `Prog`. Instead, one can mask only the `Prog` key in their own `setup()` if need be.
+* Closed [Kaleidoscope-Syster#3][kaleidoscope-syster/3], suggesting a workaround as the permanent fix.
 
 # 2018-04-29
 
