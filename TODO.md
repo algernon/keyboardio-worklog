@@ -10,10 +10,6 @@ actively pushing for acceptance.
 
   [kaleidoscope-ledeffect-rainbow/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/2
 
-* Review [Kaleidoscope#313][kaleidoscope/313].
-
-  [kaleidoscope/313]: https://github.com/keyboardio/Kaleidoscope/pull/313
-
 * Review [Kaleidoscope#314][kaleidoscope/314].
 
   [kaleidoscope/314]: https://github.com/keyboardio/Kaleidoscope/pull/314
