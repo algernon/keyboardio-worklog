@@ -1,8 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-05
+
+* Continued the talk with Jesse about names. Fruitful discussion!
+
 # 2018-05-04
 
 * [Kaleidoscope#276][kaleidoscope/276]-related work, cleaning up, fixing a few issues here and there, removing parts that we do not immediately need. Also wrote an explanatory document about how it works under the hood. Results are on the [f/plugin-redesign-2.1][kaleidoscope:f/plugin-redesign-2.1] branch.
+* Talked with Jesse at length, about names.
 
   [kaleidoscope:f/plugin-redesign-2.1]: https://github.com/keyboardio/Kaleidoscope/tree/f/plugin-redesign-2.1
 
