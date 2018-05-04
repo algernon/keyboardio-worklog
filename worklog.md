@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-04
+
+* [Kaleidoscope#276][kaleidoscope/276]-related work, cleaning up, fixing a few issues here and there, removing parts that we do not immediately need. Also wrote an explanatory document about how it works under the hood. Results are on the [f/plugin-redesign-2.1][kaleidoscope:f/plugin-redesign-2.1] branch.
+
+  [kaleidoscope:f/plugin-redesign-2.1]: https://github.com/keyboardio/Kaleidoscope/tree/f/plugin-redesign-2.1
+
 # 2018-04-30
 
 * Merged [Kaleidoscope-Macros#20][kaleidoscope-macros/20].
