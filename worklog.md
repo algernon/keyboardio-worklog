@@ -1,12 +1,19 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-07
+
+* Reviewed, merged, and very slightly updated Jesses proposed updates into [Kaleidoscope#316][kaleidoscope/316].
+
+# 2018-05-06
+
+* Minor adjustments to [Kaleidoscope#316][kaleidoscope/316].
+
 # 2018-05-05
 
 * Continued the talk with Jesse about names. Fruitful discussion!
 * Updated [Kaleidoscope#316][kaleidoscope/316] (successor of [Kaleidoscope#276][kaleidoscope/276]) based on the naming discussion.
 * Updated every plugin I had access to for the new plugin APIs, and opened pull requests for each. Not going to list them here.
 * Further naming discussion with Jesse on IRC.
-* Minor adjustments to [Kaleidoscope#316][kaleidoscope/316].
 
   [kaleidoscope/316]: https://github.com/keyboardio/Kaleidoscope/pull/316
 
