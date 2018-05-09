@@ -1,8 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-09
+
+## [Kaleidoscope#316][kaleidoscope/316]
+
+* More renaming (perhaps a bit experimental).
+* Created a branch with the commits squashed, and with an improved commit message. Still work in progress, though.
+
 # 2018-05-08
 
-* Updated and merged a branch from Jesse, reducing code duplication in [Kaleidoscope#316][kaleidoscope/316] a little.
+## [Kaleidoscope#316][kaleidoscope/316]
+
+* Updated and merged a branch from Jesse, reducing code duplication a little.
 
 # 2018-05-08
 
