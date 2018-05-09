@@ -2,6 +2,10 @@
 
 # 2018-05-08
 
+* Updated and merged a branch from Jesse, reducing code duplication in [Kaleidoscope#316][kaleidoscope/316] a little.
+
+# 2018-05-08
+
 * Made all hook methods in [Kaleidoscope#316][kaleidoscope/316] have the same return type, which allows us to simplify the code considerably, at the cost of a handful of bytes of PROGMEM, and a tiny performance impact (not measureable in the grand scheme of things).
 * Updated all the plugin PRs to match the latest version of [Kaleidoscope#316][kaleidoscope/316].
 
