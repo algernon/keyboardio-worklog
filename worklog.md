@@ -12,6 +12,9 @@
   - [Kaleidoscope-LEDEffect-DigitalRain#2][kaleidoscope-ledeffect-digitalrain/2] adds an example sketch.
   - Prepared branches for, but did not open pull requests yet for:
     - [Kaleidoscope-ModifierLayers][k:ModiferLayers]
+* Ran into an issue where a V2 plugin was `Kaleidoscope.use()`'d and that didn't work, because the plugin was v2-only. Will have to redo all the plugins to support V1 as well. Spent quite a bit of time trying to figure out a way to do this in a generic way, but... it can't be done like that.
+* Deprecated `Kaleidoscope.use()`, message WIP.
+* Talked with @obra about an `UPGRADING.md`, deprecations, timelines, etc.
 
  [k:LEDEffect-Borealis]: https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis
  [kaleidoscope-ledeffect-digitalrain/2]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/2
