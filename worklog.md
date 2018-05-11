@@ -7,8 +7,11 @@
 * Squashed the branch together, made some last-minute fixups (thanks @noseglasses!), and removed the WIP status. It is now ready for merge.
 * Updated [Kaleidoscope-LEDEffect-Borealis][k:LEDEffect-Borealis] to work with current versions of Kaleidoscope, and also with the new plugin API.
 * Submitted a pull request for `Kaleidoscope-Qukeys`, updating it to the new API.
+* Started going through the third-party plugins to update them to the new APIs, and improve a thing or two while there:
+  - [Kaleidoscope-LEDEffect-DigitalRain#2][kaleidoscope-ledeffect-digitalrain/2] adds an example sketch.
 
  [k:LEDEffect-Borealis]: https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis
+ [kaleidoscope-ledeffect-digitalrain/2]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/2
 
 # 2018-05-09
 
