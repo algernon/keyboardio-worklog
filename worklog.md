@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-11
+
+## [Kaleidoscope#316][kaleidoscope/316]
+
+* Squashed the branch together, made some last-minute fixups (thanks @noseglasses!), and removed the WIP status. It is now ready for merge.
+* Updated [Kaleidoscope-LEDEffect-Borealis][k:LEDEffect-Borealis] to work with current versions of Kaleidoscope, and also with the new plugin API.
+
+ [k:LEDEffect-Borealis]: https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis
+
 # 2018-05-09
 
 ## [Kaleidoscope#316][kaleidoscope/316]
