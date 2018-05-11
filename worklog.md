@@ -9,9 +9,12 @@
 * Submitted a pull request for `Kaleidoscope-Qukeys`, updating it to the new API.
 * Started going through the third-party plugins to update them to the new APIs, and improve a thing or two while there:
   - [Kaleidoscope-LEDEffect-DigitalRain#2][kaleidoscope-ledeffect-digitalrain/2] adds an example sketch.
+  - Prepared branches for, but did not open pull requests yet for:
+    - [Kaleidoscope-ModifierLayers][k:ModiferLayers]
 
  [k:LEDEffect-Borealis]: https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis
  [kaleidoscope-ledeffect-digitalrain/2]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/2
+ [k:ModifierLayers]: https://github.com/nikitakit/Kaleidoscope-ModifierLayers
 
 # 2018-05-09
 
