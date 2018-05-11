@@ -7,6 +7,7 @@
 * Squashed the branch together, made some last-minute fixups (thanks @noseglasses!), and removed the WIP status. It is now ready for merge.
 * Updated [Kaleidoscope-LEDEffect-Borealis][k:LEDEffect-Borealis] to work with current versions of Kaleidoscope, and also with the new plugin API.
 * Submitted a pull request for `Kaleidoscope-Qukeys`, updating it to the new API.
+* Rewrote the document detailing the internals of the new plugin API, it's available on the [f/plugin-redesign-docs][kaleidoscope:f/plugin-redesign-docs] branch. No PR yet.
 * Started going through the third-party plugins to update them to the new APIs, and improve a thing or two while there:
   - [Kaleidoscope-LEDEffect-DigitalRain#2][kaleidoscope-ledeffect-digitalrain/2] adds an example sketch.
   - Prepared branches for, but did not open pull requests yet for:
@@ -15,6 +16,7 @@
  [k:LEDEffect-Borealis]: https://github.com/algernon/Kaleidoscope-LEDEffect-Borealis
  [kaleidoscope-ledeffect-digitalrain/2]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/2
  [k:ModifierLayers]: https://github.com/nikitakit/Kaleidoscope-ModifierLayers
+ [kaleidoscope:f/plugin-redesign-docs]: https://github.com/keyboardio/Kaleidoscope/tree/f/plugin-redesign-docs
 
 # 2018-05-09
 
