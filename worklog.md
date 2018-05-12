@@ -7,6 +7,7 @@
 * Wrote an `UPGRADING.md` file, and updated some of the deprecation texts to be friendlier.
 * Created a `1.x-MAINT` branch for `Kaleidoscope` and `Arduino-Boards` - will do so for the plugins too.
 * Merged [Kaleidoscope#316][kaleidoscope/316]!
+* Started to update all the plugins to support both the V1 and V2 plugin APIs. They will still require a sufficient version of Kaleidoscope, but one will be able to use them with `Kaleidoscope.use`. Got about halfway through so far.
 
 # 2018-05-11
 
