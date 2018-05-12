@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-12
+
+## [Kaleidoscope#316][kaleidoscope/316]
+
+* Wrote an `UPGRADING.md` file, and updated some of the deprecation texts to be friendlier.
+* Created a `1.x-MAINT` branch for `Kaleidoscope` - will do so for the plugins and `Arduino-Boards` too.
+
 # 2018-05-11
 
 ## [Kaleidoscope#316][kaleidoscope/316]
