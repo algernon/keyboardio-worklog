@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-13
+
+* Opened [Kaleidoscope#319][kaleidoscope/319], a PR that bumps the API version.
+
+ [kaleidoscope/319]: https://github.com/keyboardio/Kaleidoscope/pull/319
+
 # 2018-05-12
 
 ## [Kaleidoscope#316][kaleidoscope/316]
