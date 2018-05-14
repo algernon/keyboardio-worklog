@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-14
+
+* Created `1.x-MAINT` branches for every plugin under `keyboardio/`.
+
 # 2018-05-13
 
 * Opened [Kaleidoscope#319][kaleidoscope/319], a PR that bumps the API version.
