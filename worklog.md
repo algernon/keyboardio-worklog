@@ -3,6 +3,8 @@
 # 2018-05-14
 
 * Created `1.x-MAINT` branches for every plugin under `keyboardio/`.
+* Updated and merged [Kaleidoscope#319][kaleidoscope/319].
+* Made sure that `Model01-Firmware` master (v1) compiles **and** works with every plugin - and core Kaleidoscope - being v2.
 
 # 2018-05-13
 
