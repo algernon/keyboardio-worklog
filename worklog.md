@@ -3,6 +3,7 @@
 # 2018-05-13
 
 * Opened [Kaleidoscope#319][kaleidoscope/319], a PR that bumps the API version.
+* Updated the rest of the keyboardio plugins to support both the V1 and the V2 plugin APIs.
 
  [kaleidoscope/319]: https://github.com/keyboardio/Kaleidoscope/pull/319
 
