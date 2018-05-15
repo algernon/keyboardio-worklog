@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-15
+
+* Merged all of the `f/plugin-v2` pull requests.
+* Fixed `Kaleidoscope-KeyLogger`.
+* Updated `Arduino-Boards` to pull in all the v2 stuff.
+* Merged [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
+* Merged [Kaleidoscope#314][kaleidoscope/314].
+
 # 2018-05-14
 
 * Created `1.x-MAINT` branches for every plugin under `keyboardio/`.
