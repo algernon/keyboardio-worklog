@@ -8,8 +8,10 @@
 * Merged [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
 * Merged [Kaleidoscope#314][kaleidoscope/314].
 * Opened [Kaleidoscope#321][kaleidoscope/321], implementing `Kaleidoscope.millisAtCycleStart()`.
+* Opened [Kaleidoscope#322][kaleidoscope/322], updating the glossary a little.
 
  [kaleidoscope/321]: https://github.com/keyboardio/Kaleidoscope/pull/321
+ [kaleidoscope/322]: https://github.com/keyboardio/Kaleidoscope/pull/322
 
 # 2018-05-14
 
