@@ -7,6 +7,9 @@
 * Updated `Arduino-Boards` to pull in all the v2 stuff.
 * Merged [Kaleidoscope-LEDEffect-Rainbow#4][kaleidoscope-ledeffect-rainbow#4].
 * Merged [Kaleidoscope#314][kaleidoscope/314].
+* Opened [Kaleidoscope#321][kaleidoscope/321], implementing `Kaleidoscope.millisAtCycleStart()`.
+
+ [kaleidoscope/321]: https://github.com/keyboardio/Kaleidoscope/pull/321
 
 # 2018-05-14
 
