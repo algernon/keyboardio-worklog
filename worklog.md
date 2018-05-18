@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-18
+
+Ported Kaleidoscope to the ErgoDox, with the new [Kaleidoscope-Hardware-ErgoDox][k:Hardware-ErgoDox] plugin. The `Arduino-Boards` parts aren't there yet (the fragments are included with the plugin thtough). See [my layout][algernon:ErgoDox-sketch] for a reasonably complete example of a sketch with plugins.
+
+ [k:Hardware-ErgoDox]: https://github.com/keyboardio/Kaleidoscope-Hardware-ErgoDox
+ [algernon:ErgoDox-sketch]: https://github.com/algernon/ErgoDox-sketch
+
 # 2018-05-15
 
 * Merged all of the `f/plugin-v2` pull requests.
