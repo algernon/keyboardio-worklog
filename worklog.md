@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-20
+
+A number of small - but important - fixes for the ErgoDox port.
+
 # 2018-05-19
 
 Played a bit with various debouncing strategies of the ErgoDox, and with moving the key scanning into an interrupt handler so that it can run at consistent and predictable intervals. It's nowhere near useful yet, but I'm pretty sure we'll get there soon. The plan is to be able to use the same debouncers that are in `avr_keyscanner`, so we can share code.
