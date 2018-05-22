@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-22
+
+* Improved the OneShot plugin example.
+
 # 2018-05-20
 
 A number of small - but important - fixes for the ErgoDox port.
