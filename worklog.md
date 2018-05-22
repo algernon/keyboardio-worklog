@@ -3,6 +3,7 @@
 # 2018-05-22
 
 * Improved the OneShot plugin example.
+* Improved the MagicCombos plugin example (and the README).
 
 # 2018-05-20
 
