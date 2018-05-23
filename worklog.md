@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-23
+
+* Installed OSX on a Mac Mini, to test issues with the `BootKeyboard` fallback. I could easily reproduce the problem.
+
 # 2018-05-22
 
 * Improved the OneShot plugin example.
