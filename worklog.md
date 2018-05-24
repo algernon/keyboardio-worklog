@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-24
+
+Plenty of BootKeyboard testing, trying to narrow down to a minimal BootKeyboard that works at the OSX hdd password prompt - no luck so far.
+
 # 2018-05-23
 
 * Installed OSX on a Mac Mini, to test issues with the `BootKeyboard` fallback. I could easily reproduce the problem.
