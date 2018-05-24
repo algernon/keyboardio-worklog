@@ -3,6 +3,7 @@
 # 2018-05-23
 
 * Installed OSX on a Mac Mini, to test issues with the `BootKeyboard` fallback. I could easily reproduce the problem.
+* Set up a compiling & debugging environment on the Mac Mini, git, Emacs, Arduino & the rest.
 
 # 2018-05-22
 
