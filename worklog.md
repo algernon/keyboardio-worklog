@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-28
+
+* Fixed BootKeyboard on OSX, with [KeyboardioHID#32][keyboardiohid/32]: had to rearrange the HID descriptor a little, and add a padding byte to the report. Apparently, OSX seems to want a 8-byte report, and wants the modifiers to appear after the keys in the descriptors.
+* Made BootKeyboard use the HID descriptor macros, with [KeyboardioHID#34][keyboardiohid/34].
+
+ [keyboardiohid/32]: https://github.com/keyboardio/KeyboardioHID/pull/32
+ [keyboardiohid/34]: https://github.com/keyboardio/KeyboardioHID/pull/34
+
 # 2018-05-24
 
 Plenty of BootKeyboard testing, trying to narrow down to a minimal BootKeyboard that works at the OSX hdd password prompt - no luck so far.
