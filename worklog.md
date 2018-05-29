@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-29
+
+* Opened [Kaleidoscope#331][kaleidoscope/331], which fixes [Model01-Firmware#53][model01-firmware/53].
+
+ [kaleidoscopd/331]: https://github.com/keyboardio/Kaleidoscope/pull/331
+ [model01-firmware/53]: https://github.com/keyboardio/Model01-Firmware/issues/53
+
 # 2018-05-28
 
 * Fixed BootKeyboard on OSX, with [KeyboardioHID#32][keyboardiohid/32]: had to rearrange the HID descriptor a little, and add a padding byte to the report. Apparently, OSX seems to want a 8-byte report, and wants the modifiers to appear after the keys in the descriptors.
