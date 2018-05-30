@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-30
+
+* Experimented with a number of Grub2 versions, trying to see if any of them fail to work correctly with our most recent BootKeyboard + fallback combo, but no dice, they all worked for me.
+* Merged [Kaleidoscope-LEDEffect-Rainbow#6][kaleidoscope-ledeffect-rainbow/6].
+
+ [kaleidoscope-ledeffect-rainbow/6]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/6
+
 # 2018-05-29
 
 * Opened [Kaleidoscope#331][kaleidoscope/331], which fixes [Model01-Firmware#53][model01-firmware/53].
