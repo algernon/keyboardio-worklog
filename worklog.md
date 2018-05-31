@@ -1,9 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-05-31
+
+* Opened [Kaleidoscope-LEDControl#24][kaleidoscope-ledcontrol/24], to make the Focus hook use `Focus.readColor` for a bit of code size reduction.
+
+ [kaleidoscope-ledcontrol/24]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/24
+
 # 2018-05-30
 
 * Experimented with a number of Grub2 versions, trying to see if any of them fail to work correctly with our most recent BootKeyboard + fallback combo, but no dice, they all worked for me.
 * Merged [Kaleidoscope-LEDEffect-Rainbow#6][kaleidoscope-ledeffect-rainbow/6].
+* Implemented `Focus.readColor` to read `cRGB` triplets from Serial.
 
  [kaleidoscope-ledeffect-rainbow/6]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/pull/6
 
