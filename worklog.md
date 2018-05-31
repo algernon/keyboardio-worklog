@@ -3,6 +3,7 @@
 # 2018-05-31
 
 * Opened [Kaleidoscope-LEDControl#24][kaleidoscope-ledcontrol/24], to make the Focus hook use `Focus.readColor` for a bit of code size reduction.
+* Added getters for `brightness` and `update_delay` to `Kaleidoscope-LEDEffect-Rainbow`.
 
  [kaleidoscope-ledcontrol/24]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/24
 
