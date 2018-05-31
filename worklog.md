@@ -4,8 +4,10 @@
 
 * Opened [Kaleidoscope-LEDControl#24][kaleidoscope-ledcontrol/24], to make the Focus hook use `Focus.readColor` for a bit of code size reduction.
 * Added getters for `brightness` and `update_delay` to `Kaleidoscope-LEDEffect-Rainbow`.
+* Implemented `OneShot.isPressed()`, required for fixing [Kaleidoscope-Escape-OneShot#5][kaleidoscope-escape-oneshot/5].
 
  [kaleidoscope-ledcontrol/24]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/24
+ [kaleidoscope-escape-oneshot/5]: https://github.com/keyboardio/Kaleidoscope-Escape-OneShot/issues/5
 
 # 2018-05-30
 
