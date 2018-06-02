@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-02
+
+* Opened [KeyboardioHID#35][keyboardiohid/35], which makes boot proto the default for `BootKeyboard`. Many thanks to fjolnir on IRC for his experimentation, and setting me on the right track with them.
+* Opened [Kaleidoscope-HostPowerManagement#7][kaleidoscope-hostpowermanagement/7], a followup for the PR above, which drops WakeupKeyboard and deperactes `HostPowerManagement.enableWakeup`.
+
+ [keyboardiohid/35]: https://github.com/keyboardio/KeyboardioHID/pull/35
+ [kaleidoscope-hostpowermanagement/7]: https://github.com/keyboardio/Kaleidoscope-HostPowerManagement/pull/7
+
 # 2018-05-31
 
 * Opened [Kaleidoscope-LEDControl#24][kaleidoscope-ledcontrol/24], to make the Focus hook use `Focus.readColor` for a bit of code size reduction.
