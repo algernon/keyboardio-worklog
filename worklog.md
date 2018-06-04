@@ -1,5 +1,10 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-04
+
+* Merged [KeyboardioHID#35][keyboardiohid/35] after adding explanatory in-code comments.
+* Also merged [Kaleidoscope-HostPowerManagement#7][kaleidoscope-hostpowermanagement/7].
+
 # 2018-06-02
 
 * Opened [KeyboardioHID#35][keyboardiohid/35], which makes boot proto the default for `BootKeyboard`. Many thanks to fjolnir on IRC for his experimentation, and setting me on the right track with them.
