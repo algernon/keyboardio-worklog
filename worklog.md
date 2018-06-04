@@ -4,6 +4,7 @@
 
 * Merged [KeyboardioHID#35][keyboardiohid/35] after adding explanatory in-code comments.
 * Also merged [Kaleidoscope-HostPowerManagement#7][kaleidoscope-hostpowermanagement/7].
+* Updated `Model01-Firmware` in light of the above, and pulled all three into `Arduino-Boards`.
 
 # 2018-06-02
 
