@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-05
+
+* Fixed an issue in `BootKeyboard`, which prevented explicit modifier release, prior to clearing the report. ([KeyboardioHID#37][keyboardiohid/37]).
+* Discovered that defaulting to boot protocol has unwanted consequences: we stay in boot protocol under Linux, because it never asks us to go into report mode. Opened [KeyboardioHID#38][keyboardiohid/38] to track the issue.
+
+ [keyboardiohid/37]: https://github.com/keyboardio/KeyboardioHID/pull/37
+ [keyboardiohid/38]: https://github.com/keyboardio/KeyboardioHID/issues/38
+
 # 2018-06-04
 
 * Merged [KeyboardioHID#35][keyboardiohid/35] after adding explanatory in-code comments.
