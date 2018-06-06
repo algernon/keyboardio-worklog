@@ -5,10 +5,12 @@
 * Fixed an issue in `BootKeyboard`, which prevented explicit modifier release, prior to clearing the report. ([KeyboardioHID#37][keyboardiohid/37]).
 * Discovered that defaulting to boot protocol has unwanted consequences: we stay in boot protocol under Linux, because it never asks us to go into report mode. Opened [KeyboardioHID#38][keyboardiohid/38] to track the issue.
 * Disabled `Set_Idle` in `BootKeyboard`, because it causes chatter under OSX when implemented ([KeyboardioHID#39][keyboardiohid/39]).
+* Updated `Arduino-Boards` to pull in fixes for some plugins. This addresses [Kaleidoscope-LEDEffect-Rainbow#9][kaleidoscope-ledeffect-rainbow/9].
 
  [keyboardiohid/37]: https://github.com/keyboardio/KeyboardioHID/pull/37
  [keyboardiohid/38]: https://github.com/keyboardio/KeyboardioHID/issues/38
  [keyboardiohid/39]: https://github.com/keyboardio/KeyboardioHID/pull/39
+ [kaleidoscope-ledeffect-rainbow/9]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/issues/9
 
 # 2018-06-04
 
