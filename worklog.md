@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-06
+
+## Boot keyboard
+
+Tried [Soarer's workaround][deskthority:soarer-workaround], and ended up being sad. It worked under Linux (after I set the LED part of the report back to `D_DATA`; otherwise latency became terrible), but OSX doesn't parse the HID descriptors on boot keyboards it seems, so we got duplicated keys there, rendering the workaround useless.
+
+ [deskthority:soarer-workaround]: https://deskthority.net/wiki/USB#Workarounds
+
+Also experimented with initializing (well, plugging) `BootKeyboard` late, at `.begin()`-time, and that works. This is required for the manual trigger, so we have a chance to scan the keys first, and set up the default protocol based on that. This is - I believe - best done in the -Hardware plugin, because that has access to the low-level scan results, and the triggering keys are hardware-specific anyway.
+
+However, I want to be able to compile out `BootKeyboard`, so care must be taken to find an implementation that still allows this. Might need to extend `kaleidoscope::hid` a bit.
+
 # 2018-06-05
 
 * Fixed an issue in `BootKeyboard`, which prevented explicit modifier release, prior to clearing the report. ([KeyboardioHID#37][keyboardiohid/37]).
