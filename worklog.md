@@ -12,6 +12,13 @@ Also experimented with initializing (well, plugging) `BootKeyboard` late, at `.b
 
 However, I want to be able to compile out `BootKeyboard`, so care must be taken to find an implementation that still allows this. Might need to extend `kaleidoscope::hid` a bit.
 
+## Miscellaneous
+
+* Submitted [Kaleidoscope-Numpad#10][kaleidoscope-numpad/10], which fixes [Kaleidoscope-NumPad#9][kaleidoscope-numpad/9].
+
+ [kaleidoscope-numpad/10]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/10
+ [kaleidoscope-numpad/9]: https://github.com/keyboardio/Kaleidoscope-NumPad/issues/9
+
 # 2018-06-05
 
 * Fixed an issue in `BootKeyboard`, which prevented explicit modifier release, prior to clearing the report. ([KeyboardioHID#37][keyboardiohid/37]).
