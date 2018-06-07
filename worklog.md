@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-07
+
+## Boot keyboard
+
+* Made `BootKeyboard` plug in late ([KeyboardioHID#40][keyboardiohid/40]), so we can control when it plugs in, and change defaults before that.
+
+ [keyboardiohid/40]: https://github.com/keyboardio/KeyboardioHID/pull/40
+
 # 2018-06-06
 
 ## Boot keyboard
