@@ -29,6 +29,23 @@
  [kaieidoscope/323]: https://github.com/keyboardio/Kaleidoscope/issues/323
  [kaleidoscope/335]: https://github.com/keyboardio/Kaleidoscope/pull/335
 
+## RxCy macros
+
+There's an issue with the RxCy macros: their value is only unique within a hand. They are also hard to use when the keyboard has more than 32 keys per hand. Or if it isn't split anyway. This makes `IgnoranceIsBliss` and `MagicCombos` kinda unportable. I propose we redo these macros: instead of them being indexes into a bitmap, let them be real indexes, across the whole keyboard. The few places that do need the bitmap index, can get there in a different way. Like, if we had a `KeyboardHardware.getKeyswitchPositionAt(row, col)` and `KeyboardHardware.getKeyswitchPositionAt(index)` method, all users of the current `RxCy` macros could migrate to using that. It wouldn't be a performance hit on `IgnoranceIsBliss`. `TestMode` and `MagicCombos` might see a minor hit, but that shouldn't be noticable.
+
+The plan is to cook up a few PRs, and test if the idea works. If it does...
+
+## Reworking MagicCombos
+
+For `MagicCombos`, one needs to define three things: an enum, a map, and a handler method. This is daunting. We should only need an enum and a map (+ callbacks) - still three things, but much better separation.
+
+Proposed syntax:
+
+```c++
+USE_MAGIC_COMBOS([NAME] = {COMBO(R0C0, R1C1, ...), callback},
+                 ...);
+```
+
 # 2018-06-07
 
 ## Boot keyboard
