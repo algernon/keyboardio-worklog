@@ -19,6 +19,12 @@
  [k:Kaleidoscope-USB-Quirks]: https://github.com/keyboardio/Kaleidoscope-USB-Quirks
  [model01-firmware/55]: https://github.com/keyboardio/Model01-Firmware/pull/55
 
+## Miscellaneous
+
+* Improved the v1-plugin ifdefs in [Kaleidoscope#334][kaleidoscope/334].
+
+ [kaleidoscope/334]: https://github.com/keyboardio/Kaleidoscope/pull/334
+
 # 2018-06-07
 
 ## Boot keyboard
