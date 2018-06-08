@@ -22,8 +22,10 @@
 ## Miscellaneous
 
 * Improved the v1-plugin ifdefs in [Kaleidoscope#334][kaleidoscope/334].
+* Started working on [Kaleidoscope#323][kaleidoscope/323], which will be needed for the reworked `EEPROM-Layout` and `Focus` plugins.
 
  [kaleidoscope/334]: https://github.com/keyboardio/Kaleidoscope/pull/334
+ [kaieidoscope/323]: https://github.com/keyboardio/Kaleidoscope/issues/323
 
 # 2018-06-07
 
