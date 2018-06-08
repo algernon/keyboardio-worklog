@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-08
+
+## Boot keyboard
+
+* Implemented `KeyboardHardware.detachFromHost()` and `KeyboardHardware.attachToHost()` for the Model01 and the ErgoDox EZ; [Kaleidoscope-Hardware-Model01#24][kaleidoscope-hardware-model01/24] and [Kaleidoscope-Hardware-EZ-ErgoDox#7][kaleidoscope-hardware-ez-ergodox/7], respectively.
+* Wrapped the above two in Kaleidoscope ([Kaleidoscope#333][kaleidoscope/333]).
+* Reverted `BootKeyboard` defaulting to `BOOT` mode ([KeyboardioHID#41][keyboardiohid/41]).
+* Updated `Kaleidoscope-Hardware` to include the new methods with documentation.
+* Wrote [Kaleidoscope-USB-Quirks][k:Kaleidoscope-USB-Quirks], which implements a way to toggle between `Boot` and `Report` protocols.
+
+ [kaleidoscope-hardware-model01/24]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/24
+ [kaleidoscope-hardware-ez-ergodox/7]: https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox/pull/7
+ [kaleidoscope/333]: https://github.com/keyboardio/Kaleidoscope/pull/333
+ [keyboardiohid/41]: https://github.com/keyboardio/KeyboardioHID/pull/41
+ [k:Kaleidoscope-USB-Quirks]: https://github.com/keyboardio/Kaleidoscope-USB-Quirks
+
 # 2018-06-07
 
 ## Boot keyboard
