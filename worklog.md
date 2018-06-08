@@ -23,9 +23,11 @@
 
 * Improved the v1-plugin ifdefs in [Kaleidoscope#334][kaleidoscope/334].
 * Started working on [Kaleidoscope#323][kaleidoscope/323], which will be needed for the reworked `EEPROM-Layout` and `Focus` plugins.
+* Opened [Kaleidoscope#335][kaleidoscope/335], reverting the stable build directory use in `kaleidoscope-builder`, because it causes more problems than it solves.
 
  [kaleidoscope/334]: https://github.com/keyboardio/Kaleidoscope/pull/334
  [kaieidoscope/323]: https://github.com/keyboardio/Kaleidoscope/issues/323
+ [kaleidoscope/335]: https://github.com/keyboardio/Kaleidoscope/pull/335
 
 # 2018-06-07
 
