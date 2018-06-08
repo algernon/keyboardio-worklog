@@ -9,6 +9,7 @@
 * Reverted `BootKeyboard` defaulting to `BOOT` mode ([KeyboardioHID#41][keyboardiohid/41]).
 * Updated `Kaleidoscope-Hardware` to include the new methods with documentation.
 * Wrote [Kaleidoscope-USB-Quirks][k:Kaleidoscope-USB-Quirks], which implements a way to toggle between `Boot` and `Report` protocols.
+* Updated `Arduino-Boards` to include the new plugin, and the updated ones it depends on.
 
  [kaleidoscope-hardware-model01/24]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/24
  [kaleidoscope-hardware-ez-ergodox/7]: https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox/pull/7
