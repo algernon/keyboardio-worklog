@@ -24,6 +24,10 @@ Relevant pull requests:
  [kaleidoscope-hardware/4]: https://github.com/keyboardio/Kaleidoscope-Hardware/pull/4
  [kaleidoscope-hidadaptor-keyboardiohid/6]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/6
 
+## Miscellaneous
+
+* Rewrote the ErgoDox port's `KEYMAP_STACKED`, to use the Kaleidoscope naming convention.
+
 # 2018-06-08
 
 ## Boot keyboard
