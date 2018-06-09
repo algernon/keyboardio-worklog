@@ -17,12 +17,14 @@ Relevant pull requests:
  - [Kaleidoscope-MagicCombo#6][kaleidoscope-magiccombo/6]
  - [Kaleidoscope-Hardware#4][kaleidoscope-hardware/4]
  - [Kaleidoscope-HIDAdaptor-KeyboardioHID#6][kaleidoscope-hidadaptor-keyboardiohid/6]
+ - [Kaleidoscope-Hardware-EZ-ErgoDox#9][kaleidoscope-hardware-ez-ergodox/9]
 
  [kaleidoscope/336]: https://github.com/keyboardio/Kaleidoscope/pull/336
  [kaleidoscope-hardware-model01/25]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/25
  [kaleidoscope-magiccombo/6]: https://github.com/keyboardio/Kaleidoscope-MagicCombo/pull/6
  [kaleidoscope-hardware/4]: https://github.com/keyboardio/Kaleidoscope-Hardware/pull/4
  [kaleidoscope-hidadaptor-keyboardiohid/6]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/6
+ [kaleidoscope-hardware-ez-ergodox/9]: https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox/pull/9
 
 ## Miscellaneous
 
