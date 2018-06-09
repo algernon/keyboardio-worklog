@@ -1,5 +1,29 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-09
+
+## RxCy macros & MagicCombos
+
+Reworked the `RxCy` macros so that they are not indexes into a per-hand bitmap, rather a key index across the whole keyboard - starting at one. We start at one, because a number of plugins that use an array of key indexes want them to have a sentinel, and we want to avoid having to write the sentinel. In C++, if we initialize an array statically, any elements not given, will default to zero. So we need zero to be an invalid index. This is the primary reason it starts at one.
+
+We also need a way to ask the hardware - in a hardware-independent way - if a key at a position or index is pressed. The new `kaleidoscope::hid::getKeyswitchStateAtPosition` method does just that, via `KeyboardHardware`.
+
+I was able to rework `MagicCombos` on top of these, to have a lot friendlier API. And in turn, I updated [Model01-Firmware#55][model01-firmware/55] to make use of all of the above.
+
+Relevant pull requests:
+
+ - [Kaleidoscope#336][kaleidoscope/336]
+ - [Kaleidoscope-Hardware-Model01#25][kaleidoscope-hardware-model01/25]
+ - [Kaleidoscope-MagicCombo#6][kaleidoscope-magiccombo/6]
+ - [Kaleidoscope-Hardware#4][kaleidoscope-hardware/4]
+ - [Kaleidoscope-HIDAdaptor-KeyboardioHID#6][kaleidoscope-hidadaptor-keyboardiohid/6]
+
+ [kaleidoscope/336]: https://github.com/keyboardio/Kaleidoscope/pull/336
+ [kaleidoscope-hardware-model01/25]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/25
+ [kaleidoscope-magiccombo/6]: https://github.com/keyboardio/Kaleidoscope-MagicCombo/pull/6
+ [kaleidoscope-hardware/4]: https://github.com/keyboardio/Kaleidoscope-Hardware/pull/4
+ [kaleidoscope-hidadaptor-keyboardiohid/6]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/6
+
 # 2018-06-08
 
 ## Boot keyboard
