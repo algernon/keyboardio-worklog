@@ -3,8 +3,10 @@
 # 2018-06-10
 
 * Opened [Kaleidoscope-Model01-TestMode#6][kaleidoscope-model01-testmode/6], to migrate it to `hid::getKeyswitchStateAtPosition`.
+* Made [Kaleidoscope-IgnoranceIsBliss][k:ignoranceisbliss] obsolete, and removed it from `Arduino-Boards` too.
 
  [kaleidoscope-model01-testmode/6]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/6
+ [k:ignoranceisbliss]: https://github.com/keyboardio/Kaleidoscope-IgnoranceIsBliss
 
 # 2018-06-09
 
