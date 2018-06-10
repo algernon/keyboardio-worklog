@@ -7,7 +7,7 @@
 * Opened [Kaleidoscope-HIDAdaptor-KeyboardioHID#8][kaleidoscope-hidadaptor-keyboardiohid/8] for the same reason.
 * Opened [Kaleidoscope-Hardware#5][kaleidoscope-hardware/5], [Kaleidoscope-Hardware-Model01#26][kaleidoscope-hardware-model01/26], and [Kaleidoscope-Hardware-EZ-ErgoDox#10][kaleidoscope-hardware-ez-ergodox/10] to replace `getKeyswitchStateAtPosition` with `isKeyswitchPressed` and `pressedKeyswitchCount`.
 * Opened [Kaleidoscope-Model01-TestMode#6][kaleidoscope-model01-testmode/6], to migrate it to `.isKeyswitchPressed` and `.pressedKeyswitchCount`.
-* Updated [Kaleidoscope-MagicCombo#6][kaleidoscope-magiccombo/6] to use `.isKeyswitchPressed` and `.pressedKeyswitchCount`.
+* Updated [Kaleidoscope-MagicCombo#6][kaleidoscope-magiccombo/6] to use `.isKeyswitchPressed` and `.pressedKeyswitchCount`. Also added an `UPGRADING.md` document, and a helpful error for users of the old API pointing to it.
 
  [kaleidoscope/337]: https://github.com/keyboardio/Kaleidoscope/pull/337
  [kaleidoscope-model01-testmode/6]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/6
