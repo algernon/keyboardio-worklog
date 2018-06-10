@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-10
+
+* Opened [Kaleidoscope-Model01-TestMode#6][kaleidoscope-model01-testmode/6], to migrate it to `hid::getKeyswitchStateAtPosition`.
+
+ [kaleidoscope-model01-testmode/6]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/6
+
 # 2018-06-09
 
 ## RxCy macros & MagicCombos
