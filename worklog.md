@@ -8,6 +8,7 @@
 * Opened [Kaleidoscope-Hardware#5][kaleidoscope-hardware/5], [Kaleidoscope-Hardware-Model01#26][kaleidoscope-hardware-model01/26], and [Kaleidoscope-Hardware-EZ-ErgoDox#10][kaleidoscope-hardware-ez-ergodox/10] to replace `getKeyswitchStateAtPosition` with `isKeyswitchPressed` and `pressedKeyswitchCount`.
 * Opened [Kaleidoscope-Model01-TestMode#6][kaleidoscope-model01-testmode/6], to migrate it to `.isKeyswitchPressed` and `.pressedKeyswitchCount`.
 * Updated [Kaleidoscope-MagicCombo#6][kaleidoscope-magiccombo/6] to use `.isKeyswitchPressed` and `.pressedKeyswitchCount`. Also added an `UPGRADING.md` document, and a helpful error for users of the old API pointing to it.
+* Opened [Kaleidoscope#338][kaleidoscope/338], to remove some long-deprecated methods and symbols.
 
  [kaleidoscope/337]: https://github.com/keyboardio/Kaleidoscope/pull/337
  [kaleidoscope-model01-testmode/6]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/6
@@ -16,6 +17,7 @@
  [kaleidoscope-hardware/5]: https://github.com/keyboardio/Kaleidoscope-Hardware/pull/5
  [kaleidoscope-hardware-model01/26]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/26
  [kaleidoscope-hardware-ez-ergodox/10]: https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox/pull/10
+ [kaleidoscope/338]: https://github.com/keyboardio/Kaleidoscope/pull/338
 
 # 2018-06-09
 
