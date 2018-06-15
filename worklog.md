@@ -4,9 +4,11 @@
 
 * Opened [Kaleidoscope-LEDEffect-Breathe#4][kaleidoscope-ledeffect-breathe/4].
 * Opened [Kaleidoscope-NumPad#12][kaleidoscope-numpad/12].
+* Opened [Kaleidoscope-Numlock#15][kaleidoscope-numlock/15].
 
  [kaleidoscope-ledeffect-breathe/4]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/4
  [kaleidoscope-numpad/12]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/12
+ [kaleidoscope-numlock/15]: https://github.com/keyboardio/Kaleidoscope-Numlock/issues/15
 
 # 2018-06-10
 
