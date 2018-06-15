@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-15
+
+* Opened [Kaleidoscope-LEDEffect-Breathe#4][kaleidoscope-ledeffect-breathe/4].
+* Opened [Kaleidoscope-NumPad#12][kaleidoscope-numpad/12].
+
+ [kaleidoscope-ledeffect-breathe/4]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/4
+ [kaleidoscope-numpad/12]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/12
+
 # 2018-06-10
 
 * Made [Kaleidoscope-IgnoranceIsBliss][k:ignoranceisbliss] obsolete, and removed it from `Arduino-Boards` too.
