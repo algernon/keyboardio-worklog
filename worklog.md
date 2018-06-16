@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-16
+
+* Opened [Kaleidoscope#340][kaleidoscope/340].
+* Opened [Kaleidoscope#341][kaleidoscope/341].
+
+ [kaleidoscope/340]: https://github.com/keyboardio/Kaleidoscope/pull/340
+ [kaleidoscope/341]: https://github.com/keyboardio/Kaleidoscope/pull/341
+
 # 2018-06-15
 
 * Opened [Kaleidoscope-LEDEffect-Breathe#4][kaleidoscope-ledeffect-breathe/4].
