@@ -6,12 +6,14 @@
 * Opened [Kaleidoscope#341][kaleidoscope/341].
 * Closed [Kaleidoscope-LEDEffect-Rainbow#8][kaleidoscope-ledeffect-rainbow/8], because the question has been answered, and brightness getters implemented over two weeks ago.
 * Opened [Kaleidoscope-Hardware-Model01#28][kaleidoscope-hardware-model01/28] and [Kaleidoscope-EZ-ErgoDox#12][kaleidoscope-hardware-ez-ergodox/12].
+* Fixed [Kaleidoscope-OneShot#37][kaleidoscope-oneshot/37].
 
  [kaleidoscope/340]: https://github.com/keyboardio/Kaleidoscope/pull/340
  [kaleidoscope/341]: https://github.com/keyboardio/Kaleidoscope/pull/341
  [kaleidoscope-ledeffect-rainbow/8]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/issues/8
  [kaleidoscope-hardware-model01/28]: https://github.com/keyboardio/Kaleidoscope-Hardware-Model01/pull/28
  [kaleidoscope-hardware-ez-ergodox/12]: https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox/pull/12
+ [kaleidoscope-oneshot/37]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/37
 
 # 2018-06-15
 
