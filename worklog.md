@@ -4,9 +4,11 @@
 
 * Opened [Kaleidoscope#340][kaleidoscope/340].
 * Opened [Kaleidoscope#341][kaleidoscope/341].
+* Closed [Kaleidoscope-LEDEffect-Rainbow#8][kaleidoscope-ledeffect-rainbow/8], because the question has been answered, and brightness getters implemented over two weeks ago.
 
  [kaleidoscope/340]: https://github.com/keyboardio/Kaleidoscope/pull/340
  [kaleidoscope/341]: https://github.com/keyboardio/Kaleidoscope/pull/341
+ [kaleidoscope-ledeffect-rainbow/8]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Rainbow/issues/8
 
 # 2018-06-15
 
