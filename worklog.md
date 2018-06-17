@@ -27,8 +27,10 @@
   - `Kaleidoscope-TapDance`
   - `Kaleidoscope-TopsyTurvy`
   - `Kaleidoscope-TypingBreaks`
+* Fixed [Kaleidoscope-OneShot#34][kaleidoscope-oneshot/34].
 
  [kaleidoscope/329]: https://github.com/keyboardio/Kaleidoscope/issues/329
+ [kaleidoscope-oneshot/34]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/34
 
 # 2018-06-16
 
