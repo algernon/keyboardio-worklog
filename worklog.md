@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-17
+
+* Fixed `Kaleidoscope-MagicCombo`, so that it doesn't always error out.
+
 # 2018-06-16
 
 * Opened [Kaleidoscope#340][kaleidoscope/340].
