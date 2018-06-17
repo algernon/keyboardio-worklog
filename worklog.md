@@ -3,6 +3,32 @@
 # 2018-06-17
 
 * Fixed `Kaleidoscope-MagicCombo`, so that it doesn't always error out.
+* Fixed a number of plugins where event handlers ran twice (and updated `Arduino-Boards`) (see [Kaleidoscope#329][kaleidoscope/329]). Affected plugins:
+  - `Kaleidoscope-Cycle`
+  - `Kaleidoscope-EEPROM-Programmer`
+  - `Kaleidoscope-Escape-OneShot`
+  - `Kaleidoscope-Focus`
+  - `Kaleidoscope-GhostInTheFirmware`
+  - `Kaleidoscope-HostPowerManagement`
+  - `Kaleidoscope-KeyLogger`
+  - `Kaleidoscope-Leader`
+  - `Kaleidoscope-LED-ActiveModColor`
+  - `Kaleidoscope-LEDEffect-BootGreeting`
+  - `Kaleidoscope-LED-Stalker`
+  - `Kaleidoscope-Macros`
+  - `Kaleidoscope-MagicCombo`
+  - `Kaleidoscope-Model01-TestMode`
+  - `Kaleidoscope-OneShot`
+  - `Kaleidoscope-Redial`
+  - `Kaleidoscope-ShapeShifter`
+  - `Kaleidoscope-SpaceCadet`
+  - `Kaleidoscope-Steno`
+  - `Kaleidoscope-Syster`
+  - `Kaleidoscope-TapDance`
+  - `Kaleidoscope-TopsyTurvy`
+  - `Kaleidoscope-TypingBreaks`
+
+ [kaleidoscope/329]: https://github.com/keyboardio/Kaleidoscope/issues/329
 
 # 2018-06-16
 
