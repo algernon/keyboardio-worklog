@@ -29,6 +29,7 @@
   - `Kaleidoscope-TypingBreaks`
 * Fixed [Kaleidoscope-OneShot#34][kaleidoscope-oneshot/34].
 * Merged [Kaleidoscope-NumPad#13][kaleidoscope-numpad/13].
+* Triaged a number of old bugs - sadly, I was not able to reproduce some of them.
 
  [kaleidoscope/329]: https://github.com/keyboardio/Kaleidoscope/issues/329
  [kaleidoscope-oneshot/34]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/34
