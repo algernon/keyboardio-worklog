@@ -28,9 +28,11 @@
   - `Kaleidoscope-TopsyTurvy`
   - `Kaleidoscope-TypingBreaks`
 * Fixed [Kaleidoscope-OneShot#34][kaleidoscope-oneshot/34].
+* Merged [Kaleidoscope-NumPad#13][kaleidoscope-numpad/13].
 
  [kaleidoscope/329]: https://github.com/keyboardio/Kaleidoscope/issues/329
  [kaleidoscope-oneshot/34]: https://github.com/keyboardio/Kaleidoscope-OneShot/issues/34
+ [kaleidoscope-numpad/13]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/13
 
 # 2018-06-16
 
