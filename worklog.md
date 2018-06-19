@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-19
+
+* Posted a [User visible / major breaking changes coming in Kaleidoscope][forum:user-visible-changes] thread on the forums.
+* Postponed the removal of the V1 plugin API 'till late August, because it wasn't properly announced before.
+
+ [forum:user-visible-changes]: https://community.keyboard.io/t/user-visible-major-breaking-changes-coming-in-kaleidoscope/1665?u=algernon
+
 # 2018-06-17
 
 * Fixed `Kaleidoscope-MagicCombo`, so that it doesn't always error out.
