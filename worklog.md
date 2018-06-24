@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-24
+
+## EEPROMLayout
+
+The past few days, I've been working on a replacement for the `EEPROM-Settings` plugin, one that is more modern, more efficient, and more reliable. The idea of `EEPROM-Settings` was that we have a checksum and a version, and the firmware can adapt and perhaps automatically migrate. But we didn't make that easy. The layout was also hard to discover, because plugins could request slices on their own, without the user knowing, making the plugin a bit unreliable.
+
+So with the new system, I had a few goals in mind:
+
+* No headers or anything like that. One can still build upon this foundation and have them, if they want to, but it will not be enforced.
+* As a consequence, the full EEPROM is available for the user.
+* Use a `KALEIDOSCOPE_INIT_PLUGINS`-like system to set the layout. `KALEIDOSCOPE_EEPROM_LAYOUT(...)`, for example.
+* The `EEPROM-Keymap` plugin should allow the user to set how many layers they want to store in EEPROM. Likewise for `Colormap`.
+* Both plugins mentioned above should come with sensible defaults.
+* The layout should - preferably - be computed at compile-time.
+* We need to be able to dump the layout from a Focus hook: not just the ranges, but the plugins they belong to aswell.
+
 # 2018-06-19
 
 * Posted a [User visible / major breaking changes coming in Kaleidoscope][forum:user-visible-changes] thread on the forums.
