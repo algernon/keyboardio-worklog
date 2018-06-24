@@ -16,6 +16,22 @@ So with the new system, I had a few goals in mind:
 * The layout should - preferably - be computed at compile-time.
 * We need to be able to dump the layout from a Focus hook: not just the ranges, but the plugins they belong to aswell.
 
+### Current idea
+
+The current idea is that plugins that want to have a slice of EEPROM, will have to implement `kaleidoscope::eeprom::Plugin` (name not final), which has three properties: `name` in `PROGMEM`, `start_offset` and `size` (both uint16_t) - all of these static const, and determined at compile-time. We won't know the `start_offset` at the time we compile the plugin, and in some cases we won't know the size, either. So we mark them weak. Then, the `KALEIDOSCOPE_EEPROM_LAYOUT` stuff will be able to override them. This prevents us from using the same plugin twice, though.
+
+The `KALEIDOSCOPE_EEPROM_LAYOUT` macro will also create a focus hook that responds to `eeprom.layout`, so it can be discovered.
+
+The layout itself will be determined at compile-time (we may have to use a bit different hooking setup than in Kaleidoscope core...), using the `size` attribute. Or `eepromSize()` - a wrapper around it, whichever works. Plugins will be able to use `start_offset` to locate their stuff, and that's pretty much all they need.
+
+As an alternative, for plugins where the size is not set in stone (think keymap or colormap), we may end up providing a class only, with not default instance, and require the user to instantiate it:
+
+```c++
+kaleidoscope::EEPROMKeymap<7> EEPROMKeymap;
+// or...
+kaleidoscope::EEPROMKeymap EEPROMKeymap(7);
+```
+
 # 2018-06-19
 
 * Posted a [User visible / major breaking changes coming in Kaleidoscope][forum:user-visible-changes] thread on the forums.
