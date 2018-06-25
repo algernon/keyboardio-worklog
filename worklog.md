@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-25
+
+* Fixed `Kaleidoscope-LED-Stalker`, `Kaleidoscope-FingerPainter`, and `Kaleidoscope-LED-AlphaSquare`: they will all correctly register the LED mode, and run their hooks only once.
+
 # 2018-06-24
 
 ## EEPROMLayout
