@@ -1,5 +1,35 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-06-26
+
+## EEPROMLayout
+
+Talked with Jesse the other that about EEPROM stuff, and he made a couple of good points that change the plan slightly. One of his ideas were that we should put as much information into the new plugin as we can. Instead of storing the starting offset and the size in the "user" plugin, store it in `EEPROMLayer`. But then, I thought, we have a layer of indirection, and plugins that use this feature will always have to ask for their offset, have an ID, and so on - that won't be the most performant, nor elegant thing. And this is where his second idea comes into play (and solves another problem, see later): what if we provided and interface to access the EEPROM data? If we wrapped `EEPROM`?
+
+Compare these:
+
+```c++
+// Current, EEPROMSettings
+uint16_t offset = EEPROMSettings.requestSlice(4);
+uint8_t someData[4];
+
+EEPROM.get(offset, someData);
+
+// My previous proposal
+uint16_t offset = 0; // more complicated, but calculated at compile-time
+uint8_t someData[4];
+EEPROM.get(offset, someData);
+
+// Latest proposal
+uint8_t layout_id = 0; // calculated at compile-time(?)
+uint8_t someData[4];
+EEPROMLayout.get(layout_id, someData);
+```
+
+This last proposal also has the benefit of abstracting away the `EEPROM` implementation, which is useful because ARM does it differently. We can provide near zero-cost abstractions over both.
+
+Only thing to figure out now: how to calculate IDs and offsets at compile-time. I'm thinking something like `Kaleidoscope.use()` would do, but as of yet, unsure how to combine that with the `KALEIDOSCOPE_INIT_PLUGINS`-like mechanism.
+
 # 2018-06-25
 
 * Fixed `Kaleidoscope-LED-Stalker`, `Kaleidoscope-FingerPainter`, and `Kaleidoscope-LED-AlphaSquare`: they will all correctly register the LED mode, and run their hooks only once.
