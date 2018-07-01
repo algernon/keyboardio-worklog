@@ -2,6 +2,11 @@
 
 # 2018-07-01
 
+* Wrote a [blog post][b:progress-report-2] about some of the things between December and today.
+* Updated [Model01-Firmware#55][model01-firmware/55], based on feedback from @obra.
+
+ [b:progress-report-2]: https://asylum.madhouse-project.org/blog/2018/07/01/kaleidoscope-progress-report/
+
 ## EEPROM
 
 Lots of experimenting and brainstorming with Jesse. In the end, we arrived to the conclusion that EEPROM storage is best done in the core of Kaleidoscope, because that way we do not need another, explicit list of stuff that uses EEPROM, yet, we can do the layout reliably. We'll do this by having two new hooks: `onStorageReport` and `getStorageOffset`, both of which will be built on `.storageSize()` (and `.name()`, in case of `onStorageReport`). Plugins that want to store stuff in EEPROM, will have to implement `storageSize` and `name` - the `onStorageReport` and `getStorageOffset` methods will not be delegated to plugins, they'll be built up the same time we build the other plugins.
