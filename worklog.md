@@ -236,7 +236,7 @@ Relevant pull requests:
 * Opened [Kaleidoscope#335][kaleidoscope/335], reverting the stable build directory use in `kaleidoscope-builder`, because it causes more problems than it solves.
 
  [kaleidoscope/334]: https://github.com/keyboardio/Kaleidoscope/pull/334
- [kaieidoscope/323]: https://github.com/keyboardio/Kaleidoscope/issues/323
+ [kaleidoscope/323]: https://github.com/keyboardio/Kaleidoscope/issues/323
  [kaleidoscope/335]: https://github.com/keyboardio/Kaleidoscope/pull/335
 
 ## RxCy macros
