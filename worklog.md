@@ -1,5 +1,33 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-01
+
+## EEPROM
+
+Lots of experimenting and brainstorming with Jesse. In the end, we arrived to the conclusion that EEPROM storage is best done in the core of Kaleidoscope, because that way we do not need another, explicit list of stuff that uses EEPROM, yet, we can do the layout reliably. We'll do this by having two new hooks: `onStorageReport` and `getStorageOffset`, both of which will be built on `.storageSize()` (and `.name()`, in case of `onStorageReport`). Plugins that want to store stuff in EEPROM, will have to implement `storageSize` and `name` - the `onStorageReport` and `getStorageOffset` methods will not be delegated to plugins, they'll be built up the same time we build the other plugins.
+
+`onStorageReport` will map through all initialized plugins, and report the ranged used if the `storageSize` is non-zero. `getStorageOffset` will map through all plugins and add up the offsets up to - but not including - the requesting plugin.
+
+On top of `getStorageOffset`, we can build a wrapper, that hides it, and uses `EEPROM`, something along these lines:
+
+```c++
+struct {} something;
+kaleidoscope::MyPlugin myPlugin;
+
+EEPROMStorage.get(myPlugin, something);
+```
+
+Which, behind the scenes, translates to:
+
+```c++
+uint16_t offset = kaleidoscope::Hooks::getStorageOffset(myPlugin);
+EEPROM.get(offset, something);
+```
+
+Names are - of course - not final, and will likely change.
+
+The advantage of this setup is that we do not need to explicitly specify the layout, we have a way to "dump" it, and we do not waste space needlessly, either. We do this at the cost of a bit of run-time overhead, because every time we need a plugin offset, we need to calculate it. That should be a pretty short process though, safe to ignore compared to EEPROM traffic, most likely. Measurements will have to be made, and plugins that use the offset often, may want to cache it themselves. In that case, we may want to have an `onStorageReady` hook, so plugins can be sure that the layout is, at that time, final.
+
 # 2018-06-26
 
 ## EEPROMLayout
