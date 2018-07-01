@@ -420,7 +420,7 @@ Ported Kaleidoscope to the ErgoDox, with the new [Kaleidoscope-Hardware-ErgoDox]
 * Started going through the third-party plugins to update them to the new APIs, and improve a thing or two while there:
   - [Kaleidoscope-LEDEffect-DigitalRain#2][kaleidoscope-ledeffect-digitalrain/2] adds an example sketch.
   - Prepared branches for, but did not open pull requests yet for:
-    - [Kaleidoscope-ModifierLayers][k:ModiferLayers]
+    - [Kaleidoscope-ModifierLayers][k:ModifierLayers]
 * Ran into an issue where a V2 plugin was `Kaleidoscope.use()`'d and that didn't work, because the plugin was v2-only. Will have to redo all the plugins to support V1 as well. Spent quite a bit of time trying to figure out a way to do this in a generic way, but... it can't be done like that.
 * Deprecated `Kaleidoscope.use()`, message WIP.
 * Talked with @obra about an `UPGRADING.md`, deprecations, timelines, etc.
