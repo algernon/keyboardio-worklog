@@ -330,7 +330,7 @@ However, I want to be able to compile out `BootKeyboard`, so care must be taken 
 
 * Opened [Kaleidoscope#331][kaleidoscope/331], which fixes [Model01-Firmware#53][model01-firmware/53].
 
- [kaleidoscopd/331]: https://github.com/keyboardio/Kaleidoscope/pull/331
+ [kaleidoscope/331]: https://github.com/keyboardio/Kaleidoscope/pull/331
  [model01-firmware/53]: https://github.com/keyboardio/Model01-Firmware/issues/53
 
 # 2018-05-28
