@@ -614,7 +614,7 @@ Worked a lot on [Kaleidoscope#276][kaleidoscope/276], and found a way that *may*
 # 2018-03-09
 
 * Proposed a merge plan for [Kaleidoscope#276][kaleidoscope/276].
-* Merged [Kaleidoscope-NumPad#2][kalediscope-numpad/2] and [Kaleidoscope-NumPad#3][kaleidoscope-numpad/3].
+* Merged [Kaleidoscope-NumPad#2][kaleidoscope-numpad/2] and [Kaleidoscope-NumPad#3][kaleidoscope-numpad/3].
 * Commented on [Kaleidoscope#275][kaleidoscope/275].
 * Commented on [KeyboardioHID#23][keyboardiohid/23].
 * Opened [Kaleidoscope#305][kaleidoscope/305], based on [Kaleidoscope#299][kaleidoscope/299] and work done in that context.
