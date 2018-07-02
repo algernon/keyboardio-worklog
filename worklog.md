@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-02
+
+* Updated [Model01-Firmware#55][model01-firmware/55] again, based on feedback from @obra.
+
 # 2018-07-01
 
 * Wrote a [blog post][b:progress-report-2] about some of the things between December and today.
