@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-06
+
+Made some progress with EEPROM-related things in the past days, and started to draft a plan for Chrysalis. At the side, I played a little with running end-to-end tests mostly on real hardware (with only the analysis part being on the host). This is doable with our new, cheap hook system. \o/
+
 # 2018-07-02
 
 * Updated [Model01-Firmware#55][model01-firmware/55] again, based on feedback from @obra.
