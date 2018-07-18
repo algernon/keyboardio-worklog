@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-18
+
+Created a Docker-based build environment, currently at a proof of concept stage: [Kaleidoscope-Docker][kaleidoscope-docker].
+
+ [kaleidoscope-docker]: https://github.com/keyboardio/Kaleidoscope-Docker
+
 # 2018-07-06
 
 Made some progress with EEPROM-related things in the past days, and started to draft a plan for Chrysalis. At the side, I played a little with running end-to-end tests mostly on real hardware (with only the analysis part being on the host). This is doable with our new, cheap hook system. \o/
