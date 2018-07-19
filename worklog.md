@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-19
+
+Plenty more work on [Kaleidoscope-Docker][kaleidoscope-docker]. It can now help with flashing too.
+
 # 2018-07-18
 
 Created a Docker-based build environment, currently at a proof of concept stage: [Kaleidoscope-Docker][kaleidoscope-docker].
