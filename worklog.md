@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-20
+
+Lots of work on EEPROM storage, culminating in [Kaleidoscope#344][kaleidoscope/344].
+
+ [kaleidoscope/344]: https://github.com/keyboardio/Kaleidoscope/pull/344
+
+Also tweaked a few things about [Kaleidoscope-Docker][kaleidoscope-docker].
+
 # 2018-07-19
 
 Plenty more work on [Kaleidoscope-Docker][kaleidoscope-docker]. It can now help with flashing too.
