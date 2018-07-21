@@ -8,6 +8,10 @@ Lots of work on EEPROM storage, culminating in [Kaleidoscope#344][kaleidoscope/3
 
 Also tweaked a few things about [Kaleidoscope-Docker][kaleidoscope-docker].
 
+Talked with @obra a bit about `MagicCombos`, and that sadly we couldn't keep backwards compatibility, nor offer a reasonable error message. [Kaleidoscope-MagicCombo#8][kaleidoscope-magiccombo/8] was born out of this.
+
+ [kaleidoscope-magiccombo/8]: https://github.com/keyboardio/Kaleidoscope-MagicCombo/issues/8
+
 # 2018-07-19
 
 Plenty more work on [Kaleidoscope-Docker][kaleidoscope-docker]. It can now help with flashing too.
