@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-22
+
+Further work on [Kaleidoscope#344][kaleidoscope/344]. Also talked with @obra, and concluded that to have a compatible upgrade path, plugins that use the EEPROM now, will continue to use it the same way (without the new tools) when used via the V1 plugin API. When used via the V2 API, they'll use the new interfaces.
+
+This way, migrating for the end user would be as easy as using `KALEIDOSCOPE_INIT_PLUGINS` instead of `Kaleidoscope.use`. We won't have to fork the repos, and later abandon the old one, either. For the time being, we'll have a bunch of deprecation messages, but those are much nicer than hard errors or having to use an entirely different plugin.
+
+# 2018-07-21
+
+Worked on [Kaleidoscope#344][kaleidoscope/344], both on the PR, and updating plugins that use EEPROM to use the new infrastructure. No PRs for the latter yet, waiting for naming and whatnot to stabilize.
+
 # 2018-07-20
 
 Lots of work on EEPROM storage, culminating in [Kaleidoscope#344][kaleidoscope/344].
