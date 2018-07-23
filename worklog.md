@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-23
+
+Brainstormed about naming with regards to [Kaleidoscope#344][kaleidoscope/344] with @obra, arriving to final names. Also made a plan about merging the stuff.
+
+As part of that plan, [Kaleidoscope#345][kaleidoscope/345] was born, making `Kaleidoscope.use()` emit a nice, detailed error message when used while the V1 API is disabled. This is so that when the V1 API is sunset, we'd still have a nice error message for the end-user. It's just happens that this is an error then, not a deprecation warning.
+
 # 2018-07-22
 
 Further work on [Kaleidoscope#344][kaleidoscope/344]. Also talked with @obra, and concluded that to have a compatible upgrade path, plugins that use the EEPROM now, will continue to use it the same way (without the new tools) when used via the V1 plugin API. When used via the V2 API, they'll use the new interfaces.
