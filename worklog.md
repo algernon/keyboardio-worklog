@@ -4,7 +4,7 @@
 
 Went through some of the issues I haven't replied to yet, and made plans for Friday, to catch up with reported bugs. Mostly around OneShot and Lock LED handling - the latter is pretty important for NumPad too.
 
-Opened [Kaleidoscope#346][kaleidoscope/346].
+Opened [Kaleidoscope#346][kaleidoscope/346], and fixed [Kaleidoscope-MagicCombo#8][kaleidoscope-magiccombo/8] based on a similar idea.
 
  [kaleidoscope/346]: https://github.com/keyboardio/Kaleidoscope/pull/346
 
