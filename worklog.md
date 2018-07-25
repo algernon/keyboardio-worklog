@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-25
+
+Went through some of the issues I haven't replied to yet, and made plans for Friday, to catch up with reported bugs. Mostly around OneShot and Lock LED handling - the latter is pretty important for NumPad too.
+
 # 2018-07-23
 
 Brainstormed about naming with regards to [Kaleidoscope#344][kaleidoscope/344] with @obra, arriving to final names. Also made a plan about merging the stuff.
