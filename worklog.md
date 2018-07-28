@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-28
+
+Epiphany still with me. Though half the things I have are just proof of concepts, and need serious amounts of cleanup before I can push them, I now have an UI that allows me to edit the keymap on my Model01. Supports all the markup that can be added on a keymap. Can't write new macros or anything, but it can display them, rearrange their location, and so on.
+
+I hope to have it cleaned up and pushed over the course of the next few days.
+
+# 2018-07-27
+
+Had an epiphany, with regards to Chrysalis. A rewrite is happening. Pushed a few building blocks to GitHub.
+
 # 2018-07-25
 
 Went through some of the issues I haven't replied to yet, and made plans for Friday, to catch up with reported bugs. Mostly around OneShot and Lock LED handling - the latter is pretty important for NumPad too.
