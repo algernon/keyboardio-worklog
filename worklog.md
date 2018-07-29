@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-29
+
+Opened [Kaleidoscope-Macros#24][kaleidoscope-macros/24], to make it send a mouse report too, so mouse keys can be used in macros as well.
+
+ [kaleidoscope-macros/24]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/24
+
 # 2018-07-28
 
 Epiphany still with me. Though half the things I have are just proof of concepts, and need serious amounts of cleanup before I can push them, I now have an UI that allows me to edit the keymap on my Model01. Supports all the markup that can be added on a keymap. Can't write new macros or anything, but it can display them, rearrange their location, and so on.
