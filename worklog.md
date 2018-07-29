@@ -2,9 +2,10 @@
 
 # 2018-07-29
 
-Opened [Kaleidoscope-Macros#24][kaleidoscope-macros/24], to make it send a mouse report too, so mouse keys can be used in macros as well.
+Opened [Kaleidoscope-Macros#24][kaleidoscope-macros/24], to make it send a mouse report too, so mouse keys can be used in macros as well. Later on, still working on Macro + MouseKey interactions, opened [Kaleidoscope-MouseKeys#25][kaleidoscope-mousekeys/25] (and a few others that lay the foundation), to explicitly remove a direction from the report when releasing a mouse key.
 
  [kaleidoscope-macros/24]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/24
+ [kaleidoscope-mousekeys/25]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/25
 
 # 2018-07-28
 
