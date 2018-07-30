@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-30
+
+Updated [Kaleidoscope-MouseKeys#25][kaleidoscope-mousekeys/25] and related pull requests with documentation.
+
 # 2018-07-29
 
 Opened [Kaleidoscope-Macros#24][kaleidoscope-macros/24], to make it send a mouse report too, so mouse keys can be used in macros as well. Later on, still working on Macro + MouseKey interactions, opened [Kaleidoscope-MouseKeys#25][kaleidoscope-mousekeys/25] (and a few others that lay the foundation), to explicitly remove a direction from the report when releasing a mouse key.
