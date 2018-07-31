@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-07-31
+
+Updated the `Mouse.stop()` PRs - or rather, opened followup ones - based on feedback from @obra. These are [KeyboardioHID#46][keyboardiohid/46] and [Kaleidoscope-HIDAdaptor-KeyboardioHID#11][kaleidoscope-hidadaptor-keyboardiohid/11].
+
+ [keyboardiohid/46]: https://github.com/keyboardio/KeyboardioHID/pull/46
+ [kaleidoscope-hidadaptor-keyboardiohid/11]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/11
+
 # 2018-07-30
 
 Updated [Kaleidoscope-MouseKeys#25][kaleidoscope-mousekeys/25] and related pull requests with documentation.
