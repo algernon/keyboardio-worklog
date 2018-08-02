@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-02
+
+Chrysalis work, with a hint of Kaleidoscope-Docker fixups.
+
+# 2018-08-01
+
+Chrysalis work, mostly.
+
 # 2018-07-31
 
 Updated the `Mouse.stop()` PRs - or rather, opened followup ones - based on feedback from @obra. These are [KeyboardioHID#46][keyboardiohid/46] and [Kaleidoscope-HIDAdaptor-KeyboardioHID#11][kaleidoscope-hidadaptor-keyboardiohid/11].
