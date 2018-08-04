@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-04
+
+Started documenting the Chrysalis libraries, [chrysalis-focus][chrysalis:focus] is in a pretty nice shape.
+
+ [chrysalis:focus]: https://github.com/Lepidopterarium/chrysalis-focus
+
+# 2018-08-03
+
+Lots of Chrysalis work, the "demo" is somewhat functional.
+
 # 2018-08-02
 
 Chrysalis work, with a hint of Kaleidoscope-Docker fixups.
