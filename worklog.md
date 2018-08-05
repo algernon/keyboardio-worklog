@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-05
+
+Chrysalis library documentation. Set up a repo that does nothing else but collecting the other repos, for the purpose of generating documentation. Set up Travis so that pushing to any of the repos, will trigger a build of the collector repo (`chrysalis-api`), so the overview docs are always up to date, too.
+
+Collected docs are hosted on [GitHub Pages][chrysalis:api-docs].
+
+ [chrysalis:api-docs]: https://lepidopterarium.github.io/chrysalis-api/
+
 # 2018-08-04
 
 Started documenting the Chrysalis libraries, [chrysalis-focus][chrysalis:focus] is in a pretty nice shape.
