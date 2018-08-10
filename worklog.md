@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-10
+
+* Merged [Keyboardio-Hardware-EZ-ErgoDox#12][keyboardio-hardware-ez-ergodox/12].
+
 # 2018-08-05
 
 Chrysalis library documentation. Set up a repo that does nothing else but collecting the other repos, for the purpose of generating documentation. Set up Travis so that pushing to any of the repos, will trigger a build of the collector repo (`chrysalis-api`), so the overview docs are always up to date, too.
