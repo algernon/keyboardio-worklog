@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-11
+
+* Opened [jukben/keyboardio-led-custom-palette#3][jukben/keyboardio-led-custom-palette/3], adding a Linux AppImage build target, and a note to the readme.
+
+ [jukben/keyboardio-led-custom-palette/3]: https://github.com/jukben/keyboardio-led-custom-palette/pull/3
+
 # 2018-08-10
 
 * Merged [Keyboardio-Hardware-EZ-ErgoDox#12][keyboardio-hardware-ez-ergodox/12].
