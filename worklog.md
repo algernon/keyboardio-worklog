@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-16
+
+* Updated the `Kaleidoscope-Macros` README to include a few words about `Dc`, `Uc`, and `Tc`. This addresses the same thing [Kaleidoscope-Macros#28][kaleidoscope-macros/28] does, a bit differently.
+
+ [kaleidoscope-macros/28]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/28
+
 # 2018-08-11
 
 * Opened [jukben/keyboardio-led-custom-palette#3][jukben/keyboardio-led-custom-palette/3], adding a Linux AppImage build target, and a note to the readme.
