@@ -3,8 +3,10 @@
 # 2018-08-16
 
 * Updated the `Kaleidoscope-Macros` README to include a few words about `Dc`, `Uc`, and `Tc`. This addresses the same thing [Kaleidoscope-Macros#28][kaleidoscope-macros/28] does, a bit differently.
+* Reviewed and merged [Kaleidoscope#353][kaleidoscope/353].
 
  [kaleidoscope-macros/28]: https://github.com/keyboardio/Kaleidoscope-Macros/pull/28
+ [kaleidoscope/353]: https://github.com/keyboardio/Kaleidoscope/pull/353
 
 # 2018-08-11
 
