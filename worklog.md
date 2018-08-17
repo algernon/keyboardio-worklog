@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-17
+
+Fought a lot with Webpack and various other Javascript-y things, but in the end, I have a skeleton for the Chrysalis UI, with all the building blocks I need (Redux, react-router-redux, immutablejs, etc). Nothing really works yet, but there's a skeleton to hang UI pieces on!
+
 # 2018-08-16
 
 * Updated the `Kaleidoscope-Macros` README to include a few words about `Dc`, `Uc`, and `Tc`. This addresses the same thing [Kaleidoscope-Macros#28][kaleidoscope-macros/28] does, a bit differently.
