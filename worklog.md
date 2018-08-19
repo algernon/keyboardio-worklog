@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-19
+
+* Opened [Kaleidoscope#354][kaleidoscope/354], which removes the V1 plugin API (scheduled for removal on 2018-08-20).
+
+ [kaleidoscope/354]: https://github.com/keyboardio/Kaleidoscope/pull/354
+
 # 2018-08-17
 
 Fought a lot with Webpack and various other Javascript-y things, but in the end, I have a skeleton for the Chrysalis UI, with all the building blocks I need (Redux, react-router-redux, immutablejs, etc). Nothing really works yet, but there's a skeleton to hang UI pieces on!
