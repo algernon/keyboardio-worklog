@@ -1,5 +1,10 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-20
+
+* Created a `1.x-PLUGIN-API-COMPAT` branch for each plugin, `Kaleidoscope` itself, and `Arduino-Boards` too.
+* Merged [Kaleidoscope#354][kaleidoscope/354], and updated all the plugins to remove the V1 plugin API compatibility code. Updated `Arduino-Boards` afterwards, too.
+
 # 2018-08-19
 
 * Opened [Kaleidoscope#354][kaleidoscope/354], which removes the V1 plugin API (scheduled for removal on 2018-08-20).
