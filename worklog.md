@@ -4,6 +4,9 @@
 
 * Created a `1.x-PLUGIN-API-COMPAT` branch for each plugin, `Kaleidoscope` itself, and `Arduino-Boards` too.
 * Merged [Kaleidoscope#354][kaleidoscope/354], and updated all the plugins to remove the V1 plugin API compatibility code. Updated `Arduino-Boards` afterwards, too.
+* Opened [Kaleidoscope-MagicCombo#9][kaleidoscope-magiccombo/9].
+
+ [kaleidoscope-magiccombo/9]: https://github.com/keyboardio/Kaleidoscope-MagicCombo/issues/9
 
 # 2018-08-19
 
