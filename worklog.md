@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-21
+
+Started working on updating the license of Kaleidoscope & plugins (to GPLv3-only), and assigning my copyright to Keyboard.io, Inc wherever appropriate. So far, this resulted in [Kaleidoscope#355][kaleidoscope/355] and [Kaleidoscope-OneShot#46][kaleidoscope-oneshot/46].
+
+ [kaleidoscope/355]: https://github.com/keyboardio/Kaleidoscope/pull/355
+ [kaleidoscope-oneshot/46]: https://github.com/keyboardio/Kaleidoscope-OneShot/pull/46
+
 # 2018-08-20
 
 * Created a `1.x-PLUGIN-API-COMPAT` branch for each plugin, `Kaleidoscope` itself, and `Arduino-Boards` too.
