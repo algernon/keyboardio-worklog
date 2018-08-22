@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-22
+
+Updated `CONTRIBUTING.md` in `Kaleidoscope` and `Kaleidoscope-OneShot` with a short paragraph about how to accept the DCO.
+
 # 2018-08-21
 
 Started working on updating the license of Kaleidoscope & plugins (to GPLv3-only), and assigning my copyright to Keyboard.io, Inc wherever appropriate. So far, this resulted in [Kaleidoscope#355][kaleidoscope/355] and [Kaleidoscope-OneShot#46][kaleidoscope-oneshot/46].
