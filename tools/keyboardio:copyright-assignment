@@ -1,0 +1,15 @@
+#! /usr/bin/perl -wi
+use warnings;
+use strict;
+
+my $fn = $ARGV[0];
+
+while (<>) {
+  if ($fn =~ /library\.properties/) {
+    s/maintainer=Gergely Nagy.*/maintainer=Gergely Nagy <algernon\@keyboard.io>/;
+  } else {
+    s#\* Copyright \(C\) ([0-9, ]+)  Gergely Nagy#* Copyright (C) $1  Keyboard.io, Inc#;
+  }
+} continue {
+  print;
+}

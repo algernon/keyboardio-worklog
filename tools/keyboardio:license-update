@@ -1,0 +1,31 @@
+#! /usr/bin/perl -wi
+use warnings;
+use strict;
+
+my $fn = $ARGV[0];
+my $noprint = 0;
+
+while (<>) {
+  $noprint = 0;
+  if ($fn !~ /library\.properties/) {
+      ## GPLv3+ -> v3-only
+      s#\* This program is free software[:;] you can redistribute it and/or modify#* This program is free software: you can redistribute it and/or modify it under#;
+      s#\* it under the terms of the GNU General Public License as published by#* the terms of the GNU General Public License as published by the Free Software#;
+      s#\* the Free Software Foundation[,;] either version [23] of the License, or#* Foundation, version 3.#;
+      $noprint = 1 if /\* \(at your option\) any later version\./;
+      s#\* This program is distributed in the hope that it will be useful,#* This program is distributed in the hope that it will be useful, but WITHOUT#;
+      s#\* but WITHOUT ANY WARRANTY; without even the implied warranty of#* ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS#;
+      s#\* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE\.  See the#* FOR A PARTICULAR PURPOSE. See the GNU General Public License for more#;
+      s#\* GNU General Public License for more details\.#* details.#;
+      s#\* You should have received a copy of the GNU General Public License$#* You should have received a copy of the GNU General Public License along with#;
+      s#\* along with this program\.  If not, see <http://www\.gnu\.org/licenses/>\.#* this program. If not, see <http://www.gnu.org/licenses/>.#;
+
+      ## GPLv2+ -> v3-only
+
+      s#\* You should have received a copy of the GNU General Public License along$#* You should have received a copy of the GNU General Public License along with#;
+      s#\* with this program; if not, write to the Free Software Foundation, Inc\.,#* this program. If not, see <http://www.gnu.org/licenses/>.#;
+      $noprint = 1 if /\* 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA\./
+  }
+} continue {
+  print if !$noprint;
+}

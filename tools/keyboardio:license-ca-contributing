@@ -1,0 +1,49 @@
+#! /bin/sh
+set -e
+
+if grep -q algernon@keyboard.io library.properties; then
+    exit 0
+fi
+
+if [ -e "LICENSE" ]; then
+    license_file="LICENSE"
+else
+    license_file="COPYING"
+fi
+
+git checkout -b f/license-update-and-contributing
+
+## GPLv3-only
+find . -name '*.ino' -or -name '*.cpp' -or -name '*.h' -or -name 'library.properties' | xargs -n1 keyboardio:license-update
+cp /usr/share/common-licenses/GPL-3 $license_file
+git add .
+git commit -s -m "Relicense under the GPLv3 (only)" -S
+
+sleep 2s
+
+## Copyright assignment
+find . -name '*.ino' -or -name '*.cpp' -or -name '*.h' -or -name 'library.properties' | xargs -n1 keyboardio:copyright-assignment
+git add .
+git commit -s -m "Assign my copyright to Keyboard.io
+
+While the original plugin was written independently, significant developments
+were made while working for Keyboard.io. As such, I feel it is appropriate to
+assign copyright to the company." -S || true
+
+sleep 2s
+
+## CONTRIBUTING.md
+cp ../Kaleidoscope/CONTRIBUTING.md .
+git add .
+git commit -s -m "Add CONTRIBUTING.md
+
+Copied from Kaleidoscope, as it is applicable here too." -S
+
+exit 0
+
+## Push & open PR
+git push origin HEAD -u
+hub pull-request -r obra -m "License update, copyright assignment & CONTRIBUTING.md
+
+This changes the license to GPLv3-only, assigns my copyright to Keyboard.io Inc,
+and adds a CONTRIBUTING.md."
