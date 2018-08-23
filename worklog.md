@@ -1,8 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-23
+
+Continued the license clarification work.
+
 # 2018-08-22
 
-Updated `CONTRIBUTING.md` in `Kaleidoscope` and `Kaleidoscope-OneShot` with a short paragraph about how to accept the DCO.
+Updated `CONTRIBUTING.md` in `Kaleidoscope` and `Kaleidoscope-OneShot` with a short paragraph about how to accept the DCO. Opened pull request against most plugins that do the same.
 
 # 2018-08-21
 
