@@ -60,7 +60,7 @@ Copied from Kaleidoscope, as it is applicable here too." -S
 
         cp /usr/share/common-licenses/GPL-3 $license_file
 
-        find . -name '*.ino' -or -name '*.cpp' -or -name '*.h' -or -name 'library.properties' | xargs -n1 ${HELPERS}/license-gpl3
+        find . -name '*.ino' -or -name '*.cpp' -or -name '*.h' | xargs -n1 ${HELPERS}/license-gpl3
         git add .
 
         if [ $was_gpl2 -eq 1 ]; then
