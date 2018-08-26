@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-26
+
+Fixed [Kaleidoscope-TopsyTurvy#5][kaleidoscope-topsyturvy/5] (topsy + non-topsy chording) and [Kaleidoscope-TopsyTurvy#11][kaleidoscope-topsyturvy/11] (shifted topsies).
+
+ [kaleidoscope-topsyturvy/5]: https://github.com/keyboardio/Kaleidoscope-TopsyTurvy/issues/5
+ [kaleidoscope-topsyturvy/11]: https://github.com/keyboardio/Kaleidoscope-TopsyTurvy/issues/11
+
 # 2018-08-23
 
 Continued the license clarification work.
