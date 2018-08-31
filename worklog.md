@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-08-31
+
+* Triaged [Kaleidoscope-Macros#27][kaleidoscope-macros/27].
+
+ [kaleidoscope-macros/27]: https://github.com/keyboardio/Kaleidoscope-Macros/issues/27
+
 # 2018-08-26
 
 Fixed [Kaleidoscope-TopsyTurvy#5][kaleidoscope-topsyturvy/5] (topsy + non-topsy chording) and [Kaleidoscope-TopsyTurvy#11][kaleidoscope-topsyturvy/11] (shifted topsies).
