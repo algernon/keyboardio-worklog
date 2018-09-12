@@ -1,5 +1,23 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-09-12
+
+* Finished up the Atreus support, ending up in two PRs: [Kaleidoscope#357][kaleidoscope/357] and [Kaleidoscope-Bundle-Keyboardio#2][kaleidoscope-bundle-keyboardio/2].
+
+ [kaleidoscope-bundle-keyboardio/2]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/2
+ [kaleidoscope/357]: https://github.com/keyboardio/Kaleidoscope/pull/357
+
+# 2018-09-11
+
+I haven't been keeping good tabs on when and how much I worked the past week and a half. It was mostly on Chrysalis.
+
+The current state of Chrysalis is available in the [chrysalis-bundle-keyboard][chrysalis-bundle-keyboardio] repository.
+
+As a distraction, my Atreus arrived today, so I ported Kaleidoscope to it. See the [Kaleidoscope-Hardware-Technomancy-Atreus][kaleidoscope-hardware-technomancy-atreus] repo.
+
+ [chrysalis-bundle-keyboardio]: https://github.com/keyboardio/chrysalis-bundle-keyboardio
+ [kaleidoscope-hardware-technomancy-atreus]: https://github.com/keyboardio/Kaleidoscope-Hardware-Technomancy-Atreus
+
 # 2018-08-31
 
 * Triaged [Kaleidoscope-Macros#27][kaleidoscope-macros/27].
