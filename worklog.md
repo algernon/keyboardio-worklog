@@ -9,12 +9,14 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
 * Fixed [Kaleidoscope-USB-Quirks#1][kaleidoscope-usb-quirks/1].
 * Fixed the conflict in, and then merged [Kaleidoscope-Qukeys#51][kaleidoscope-qukeys/51].
 * Reviewed [Kaleidoscope-LEDControl#27][kaleidoscope-ledcontrol/27], requested changes.
+* Reviewed & merged [Kaleidoscope-LED-Stalker#20][kaleidoscope-led-stalker/20].
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
  [kaleidoscope-ledcontrol/25]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/25
  [kaleidoscope-usb-quirks/1]: https://github.com/keyboardio/Kaleidoscope-USB-Quirks/issues/1
  [kaleidoscope-qukeys/51]: https://github.com/keyboardio/Kaleidoscope-Qukeys/pull/51
  [kaleidoscope-ledcontrol/27]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/27
+ [kaleidoscope-led-stalker/20]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/20
 
 # 2018-09-12
 
