@@ -6,9 +6,11 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
 
 * Merged [Kaleidoscope-LEDEffect-Breathe#7][kaleidoscope-ledeffect-breathe/7], and followed up with some minor code cleanups.
 * Reviewed [Kaleidoscope-LEDControl#25][kaleidoscope-ledcontrol/25], and left a comment/suggestion.
+* Fixed [Kaleidoscope-USB-Quirks#1][kaleidoscope-usb-quirks/1].
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
  [kaleidoscope-ledcontrol/25]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/25
+ [kaleidoscope-usb-quirks/1]: https://github.com/keyboardio/Kaleidoscope-USB-Quirks/issues/1
 
 # 2018-09-12
 
