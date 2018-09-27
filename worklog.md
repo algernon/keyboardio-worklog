@@ -5,8 +5,10 @@
 I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keyboard][chrysalis-bundle-keyboardio] is in a better shape, and can update the keymap on the keyboard, I'll be spending a bit more time on firmware. Which means better logs too, because reasons.
 
 * Merged [Kaleidoscope-LEDEffect-Breathe#7][kaleidoscope-ledeffect-breathe/7], and followed up with some minor code cleanups.
+* Reviewed [Kaleidoscope-LEDControl#25][kaleidoscope-ledcontrol/25], and left a comment/suggestion.
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
+ [kaleidoscope-ledcontrol/25]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/25
 
 # 2018-09-12
 
