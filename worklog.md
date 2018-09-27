@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-09-27
+
+I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keyboard][chrysalis-bundle-keyboardio] is in a better shape, and can update the keymap on the keyboard, I'll be spending a bit more time on firmware. Which means better logs too, because reasons.
+
+* Merged [Kaleidoscope-LEDEffect-Breathe#7][kaleidoscope-ledeffect-breathe/7], and followed up with some minor code cleanups.
+
+ [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
+
 # 2018-09-12
 
 * Finished up the Atreus support, ending up in two PRs: [Kaleidoscope#357][kaleidoscope/357] and [Kaleidoscope-Bundle-Keyboardio#2][kaleidoscope-bundle-keyboardio/2].
