@@ -10,6 +10,7 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
 * Fixed the conflict in, and then merged [Kaleidoscope-Qukeys#51][kaleidoscope-qukeys/51].
 * Reviewed [Kaleidoscope-LEDControl#27][kaleidoscope-ledcontrol/27], requested changes.
 * Reviewed & merged [Kaleidoscope-LED-Stalker#20][kaleidoscope-led-stalker/20].
+* Commented on [Kaleidoscope-MouseKeys#30][kaleidoscope-mousekeys/30].
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
  [kaleidoscope-ledcontrol/25]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/25
@@ -17,6 +18,7 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
  [kaleidoscope-qukeys/51]: https://github.com/keyboardio/Kaleidoscope-Qukeys/pull/51
  [kaleidoscope-ledcontrol/27]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/27
  [kaleidoscope-led-stalker/20]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/20
+ [kaleidoscope-mousekeys/30]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/30
 
 # 2018-09-12
 
