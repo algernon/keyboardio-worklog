@@ -10,6 +10,7 @@
 * Reviewed & approved [Kaleidoscope-Languages#1][kaleidoscope-languages/1].
 * Approved [Kaleidoscope-LEDEffect-Chase#5][kaleidoscope-ledeffect-chase/5]. Incidentally, [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2] does something similar, but I think the former is a more complete, better documented fix.
 * Fixed [Kaleidoscope#287][kaleidoscope/287].
+* Opened [Kaleidoscope-Model01-TestMode#8][kaleidoscope-model01-testmode/8], which fixes [Kaleidoscope-Model01-TestMode#3][kaleidoscope-model01-testmode/3].
 * Closed [Kaleidoscope#307][kaleidoscope/307], [Kaleidoscope-DualUse#11][kaleidoscope-dualuse/11], [Kaleidoscope-MouseKeys#23][kaleidoscope-mousekeys/23] as they have been solved a while ago.
 
  [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
@@ -37,7 +38,6 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
 * Reviewed [Kaleidoscope-LEDControl#27][kaleidoscope-ledcontrol/27], requested changes.
 * Reviewed & merged [Kaleidoscope-LED-Stalker#20][kaleidoscope-led-stalker/20].
 * Commented on [Kaleidoscope-MouseKeys#30][kaleidoscope-mousekeys/30].
-* Opened [Kaleidoscope-Model01-TestMode#8][kaleidoscope-model01-testmode/8], which fixes [Kaleidoscope-Model01-TestMode#3][kaleidoscope-model01-testmode/3].
 * Closed [Kaleidoscope#285][kaleidoscope/285], it has been fixed for a while.
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
