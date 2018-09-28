@@ -9,7 +9,7 @@
 * Commented on [Kaleidoscope#350][kaleidoscope/350].
 * Reviewed & approved [Kaleidoscope-Languages#1][kaleidoscope-languages/1].
 * Approved [Kaleidoscope-LEDEffect-Chase#5][kaleidoscope-ledeffect-chase/5]. Incidentally, [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2] does something similar, but I think the former is a more complete, better documented fix.
-* Closed [Kaleidoscope#307][kaleidoscope/307], [Kaleidoscope-DualUse#11][kaleidoscope-dualuse/11], as they have been solved a while ago.
+* Closed [Kaleidoscope#307][kaleidoscope/307], [Kaleidoscope-DualUse#11][kaleidoscope-dualuse/11], [Kaleidoscope-MouseKeys#23][kaleidoscope-mousekeys/23] as they have been solved a while ago.
 
  [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
  [kaleidoscope-unicode/10]: https://github.com/keyboardio/Kaleidoscope-Unicode/issues/10
@@ -21,6 +21,7 @@
  [kaleidoscope-languages/1]: https://github.com/keyboardio/Kaleidoscope-Languages/pull/1
  [kaleidoscope-ledeffect-chase/5]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Chase/pull/5
  [kaleidoscope-ledeffect-chase/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Chase/pull/2
+ [kaleidoscope-mousekeys/23]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/23
 
 # 2018-09-27
 
