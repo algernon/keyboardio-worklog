@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-09-28
+
+* Reviewed [Kaleidoscope-LED-Stalker#19][kaleidoscope-led-stalker/19], requesting DCO.
+
+ [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
+
 # 2018-09-27
 
 I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keyboard][chrysalis-bundle-keyboardio] is in a better shape, and can update the keymap on the keyboard, I'll be spending a bit more time on firmware. Which means better logs too, because reasons.
