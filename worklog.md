@@ -9,6 +9,7 @@
 * Commented on [Kaleidoscope#350][kaleidoscope/350].
 * Reviewed & approved [Kaleidoscope-Languages#1][kaleidoscope-languages/1].
 * Approved [Kaleidoscope-LEDEffect-Chase#5][kaleidoscope-ledeffect-chase/5]. Incidentally, [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2] does something similar, but I think the former is a more complete, better documented fix.
+* Fixed [Kaleidoscope#287][kaleidoscope/287].
 * Closed [Kaleidoscope#307][kaleidoscope/307], [Kaleidoscope-DualUse#11][kaleidoscope-dualuse/11], [Kaleidoscope-MouseKeys#23][kaleidoscope-mousekeys/23] as they have been solved a while ago.
 
  [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
@@ -44,6 +45,7 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
  [kaleidoscope-led-stalker/20]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/20
  [kaleidoscope-mousekeys/30]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/30
  [kaleidoscope/285]: https://github.com/keyboardio/Kaleidoscope/issues/285
+ [kaleidoscope/287]: https://github.com/keyboardio/Kaleidoscope/issues/287
 
 # 2018-09-12
 
