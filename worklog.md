@@ -3,8 +3,10 @@
 # 2018-09-28
 
 * Reviewed [Kaleidoscope-LED-Stalker#19][kaleidoscope-led-stalker/19], requesting DCO.
+* Fixed [Kaleidoscope-Unicode#10][kaleidoscope-unicode/10].
 
  [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
+ [kaleidoscope-unicode/10]: https://github.com/keyboardio/Kaleidoscope-Unicode/issues/10
 
 # 2018-09-27
 
