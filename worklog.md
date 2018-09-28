@@ -6,6 +6,7 @@
 * Fixed [Kaleidoscope-Unicode#10][kaleidoscope-unicode/10].
 * Reveiwed [Kaleidoscope-LEDEffect-Rainbow#13][kaleidoscope-ledeffect-rainbow/13], requesting squashing & DCO.
 * Reviewed [Kaleidoscope#352][kaleidoscope/352], added my comments.
+* Commented on [Kaleidoscope#350][kaleidoscope/350].
 * Closed [Kaleidoscope#307][kaleidoscope/307], [Kaleidoscope-DualUse#11][kaleidoscope-dualuse/11], as they have been solved a while ago.
 
  [kaleidoscope-led-stalker/19]: https://github.com/keyboardio/Kaleidoscope-LED-Stalker/pull/19
@@ -14,6 +15,7 @@
  [kaleidoscope/307]: https://github.com/keyboardio/Kaleidoscope/issues/307
  [kaleidoscope-dualuse/11]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/11
  [kaleidoscope/352]: https://github.com/keyboardio/Kaleidoscope/pull/352
+ [kaleidoscope/350]: https://github.com/keyboardio/Kaleidoscope/issues/350
 
 # 2018-09-27
 
