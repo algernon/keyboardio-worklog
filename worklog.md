@@ -1466,3 +1466,9 @@ There are a few things where I do not feel I can make a decision, and would like
 ## TODO for @algernon
 
 * Research suspend issues further.
+
+<!--
+; Local variables:
+; eval: (variable-pitch-mode nil)
+; End:
+-->
