@@ -23,6 +23,8 @@
  [kaleidoscope-ledeffect-chase/5]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Chase/pull/5
  [kaleidoscope-ledeffect-chase/2]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Chase/pull/2
  [kaleidoscope-mousekeys/23]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/23
+ [kaleidoscope-model01-testmode/8]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/pull/8
+ [kaleidoscope-model01-testmode/3]: https://github.com/keyboardio/Kaleidoscope-Model01-TestMode/issues/3
 
 # 2018-09-27
 
@@ -35,6 +37,7 @@ I haven't been keeping a proper log lately, but now that [chrysalis-bundle-keybo
 * Reviewed [Kaleidoscope-LEDControl#27][kaleidoscope-ledcontrol/27], requested changes.
 * Reviewed & merged [Kaleidoscope-LED-Stalker#20][kaleidoscope-led-stalker/20].
 * Commented on [Kaleidoscope-MouseKeys#30][kaleidoscope-mousekeys/30].
+* Opened [Kaleidoscope-Model01-TestMode#8][kaleidoscope-model01-testmode/8], which fixes [Kaleidoscope-Model01-TestMode#3][kaleidoscope-model01-testmode/3].
 * Closed [Kaleidoscope#285][kaleidoscope/285], it has been fixed for a while.
 
  [kaleidoscope-ledeffect-breathe/7]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-Breathe/pull/7
