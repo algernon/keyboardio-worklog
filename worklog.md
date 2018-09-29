@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-09-29
+
+* Closed [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2].
+
 # 2018-09-28
 
 * Reviewed [Kaleidoscope-LED-Stalker#19][kaleidoscope-led-stalker/19], requesting DCO.
