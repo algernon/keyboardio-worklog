@@ -3,6 +3,7 @@
 # 2018-09-29
 
 * Closed [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2].
+* Worked a lot on Chrysalis, the keymap display now uses an SVG, and looks *much* nicer, and is still editable (although editing requires a bit more clicks/movement now).
 
 # 2018-09-28
 
