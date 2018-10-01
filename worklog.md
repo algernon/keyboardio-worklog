@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-01
+
+* Opened [Kaleidoscope#359][kaleidoscope/359], which fixes [Kaleidoscope#350][kaleidoscope/350].
+
+ [kaleidoscope/359]: https://github.com/keyboardio/Kaleidoscope/pull/359
+ [kaleidoscope/350]: https://github.com/keyboardio/Kaleidoscope/issues/350
+
 # 2018-09-29
 
 * Closed [Kaleidoscope-LEDEffect-Chase#2][kaleidoscope-ledeffect-chase/2].
