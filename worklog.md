@@ -3,9 +3,13 @@
 # 2018-10-01
 
 * Opened [Kaleidoscope#359][kaleidoscope/359], which fixes [Kaleidoscope#350][kaleidoscope/350].
+* Opened [Kaleidoscope-Build-Tools#2][kaleidoscope-build-tools/2] and [Kaleidoscope#360][kaleidoscope/360], the two together fixing [Kaleidoscope#356][kaleidoscope/356].
 
  [kaleidoscope/359]: https://github.com/keyboardio/Kaleidoscope/pull/359
  [kaleidoscope/350]: https://github.com/keyboardio/Kaleidoscope/issues/350
+ [kaleidoscope/356]: https://github.com/keyboardio/Kaleidoscope/issues/356
+ [kaleidoscope-build-tools/2]: https://github.com/keyboardio/Kaleidoscope-Build-Tools/pull/2
+ [kaleidoscope/360]: https://github.com/keyboardio/Kaleidoscope/pull/360
 
 # 2018-09-29
 
