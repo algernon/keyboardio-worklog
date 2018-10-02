@@ -5,11 +5,14 @@
 * Opened [Model01-Firmware#65][model01-firmware/65], which adds EEPROM keymap & Focus support to the factory firmware.
 * Closed [Kaleidoscope-MouseKeys#20][kaleidoscope-mousekeys/20], and [Kaleidoscope-MouseKeys#24][kaleidoscope-mousekeys/24].
 * Closed [Kaleidoscope-Unicode#5][kaleidoscope-unicode/5].
+* Opened [Kaleidoscope-MouseKeys#31][kaleidoscope-mousekeys/31], which fixes [Kaleidoscope-MouseKeys#28][kaleidoscope-mousekeys/28].
 
  [model01-firmware/65]: https://github.com/keyboardio/Model01-Firmware/pull/65
  [kaleidoscope-mousekeys/20]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/20
  [kaleidoscope-mousekeys/24]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/24
  [kaleidoscope-unicode/5]: https://github.com/keyboardio/Kaleidoscope-Unicode/issues/5
+ [kaleidoscope-mousekeys/31]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/pull/31
+ [kaleidoscope-mousekeys/28]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/28
 
 # 2018-10-01
 
