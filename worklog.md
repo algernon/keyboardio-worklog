@@ -6,6 +6,7 @@
 * Closed [Kaleidoscope-MouseKeys#20][kaleidoscope-mousekeys/20], and [Kaleidoscope-MouseKeys#24][kaleidoscope-mousekeys/24].
 * Closed [Kaleidoscope-Unicode#5][kaleidoscope-unicode/5].
 * Opened [Kaleidoscope-MouseKeys#31][kaleidoscope-mousekeys/31], which fixes [Kaleidoscope-MouseKeys#28][kaleidoscope-mousekeys/28].
+* Plenty of fruitful discussion with @obra on Discord, regarding Focus, EEPROM stuff, and moving forward with them.
 
  [model01-firmware/65]: https://github.com/keyboardio/Model01-Firmware/pull/65
  [kaleidoscope-mousekeys/20]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/20
