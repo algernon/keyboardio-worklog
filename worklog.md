@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-02
+
+* Opened [Model01-Firmware#65][model01-firmware/65], which adds EEPROM keymap & Focus support to the factory firmware.
+
+ [model01-firmware/65]: https://github.com/keyboardio/Model01-Firmware/pull/65
+
 # 2018-10-01
 
 * Opened [Kaleidoscope#359][kaleidoscope/359], which fixes [Kaleidoscope#350][kaleidoscope/350].
