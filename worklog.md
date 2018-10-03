@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-03
+
+* Merged [Kaleidoscope-EEPROM-Settings#5][kaleidoscope-eeprom-settings/5].
+* Opened [Kaleidoscope-EEPROM-Settings#6][kaleidoscope-eeprom-settings/6].
+
+ [kaleidoscope-eeprom-settings/5]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/5
+ [kaleidoscope-eeprom-settings/6]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/6
+
 # 2018-10-02
 
 * Opened [Model01-Firmware#65][model01-firmware/65], which adds EEPROM keymap & Focus support to the factory firmware.
