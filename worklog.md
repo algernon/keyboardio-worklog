@@ -4,9 +4,13 @@
 
 * Merged [Kaleidoscope-EEPROM-Settings#5][kaleidoscope-eeprom-settings/5].
 * Opened [Kaleidoscope-EEPROM-Settings#6][kaleidoscope-eeprom-settings/6].
+* Opened [Kaleidoscope#361][kaleidoscope/361].
+* Opened [Kaleidoscope-EEPROM-Keymap#12][kaleidoscope-eeprom-keymap/12].
 
  [kaleidoscope-eeprom-settings/5]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/5
  [kaleidoscope-eeprom-settings/6]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/6
+ [kaleidoscope/361]: https://github.com/keyboardio/Kaleidoscope/pull/361
+ [kaleidoscope-eeprom-keymap/12]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/12
 
 # 2018-10-02
 
