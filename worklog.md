@@ -6,11 +6,13 @@
 * Opened [Kaleidoscope-EEPROM-Settings#6][kaleidoscope-eeprom-settings/6].
 * Opened [Kaleidoscope#361][kaleidoscope/361].
 * Opened [Kaleidoscope-EEPROM-Keymap#12][kaleidoscope-eeprom-keymap/12].
+* Opened [Kaleidoscope-EEPROM-Keymap#13][kaleidoscope-eeprom-keymap/13].
 
  [kaleidoscope-eeprom-settings/5]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/5
  [kaleidoscope-eeprom-settings/6]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/6
  [kaleidoscope/361]: https://github.com/keyboardio/Kaleidoscope/pull/361
  [kaleidoscope-eeprom-keymap/12]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/12
+ [kaleidoscope-eeprom-keymap/13]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/13
 
 # 2018-10-02
 
