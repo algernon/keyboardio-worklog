@@ -1,5 +1,44 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-05
+
+## Focus-in-Core
+
+* Opened [Kaleidoscope#362][kaleidoscope/362], implementing `onFocusEvent`.
+* Created [Kaleidoscope-FocusSerial][kaleidoscope-fopcusserial], built on top of that.
+* Opened [Kaleidoscope-Bundle-Keyboardio#3][kaleidoscope-bundle-keyboardio/3], pulling the new plugin into the bundle.
+* Opened pull requests for all Focus-using plugins under Keyboardio control, to update them to the new APIs:
+  - [Kaleidoscope-LEDControl#29][kaleidoscope-ledcontrol/29]
+  - [Kaleidoscope-LED-Palette-Theme#7][kaleidoscope-led-palette-theme/7]
+  - [Kaleidoscope-Colormap#11][kaleidoscope-colormap/11]
+  - [Kaleidoscope-EEPROM-Settings#7][kaleidoscope-eeprom-settings/7]
+  - [Kaleidoscope-EERPOM-Keymap#14][kaleidoscope-eeprom-keymap/14]
+  - [Kaleidoscope-HostOS#7][kaleidoscope-hostos/7]
+  - [Kaleidoscope-EEPROM-Keymap-Programmer#7][kaleidoscope-eeprom-keymap-programmer/7]
+  - [Kaleidoscope-FingerPainter#10][kaleidoscope-fingerpainter/10]
+  - [Kaleidoscope-TypingBreaks#14][kaleidoscope-typingbreaks/14]
+
+ [kaleidoscope/362]: https://github.com/keyboardio/Kaleidoscope/pull/362
+ [kaleidoscope-focusserial]: https://github.com/keyboardio/Kaleidoscope-FocusSerial
+ [kaleidoscope-bundle-keyboardio/3]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/3
+ [kaleidoscope-ledcontrol/29]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/29
+ [kaleidoscope-led-palette-theme/7]: https://github.com/keyboardio/Kaleidoscope-LED-Palette-Theme/pull/7
+ [kaleidoscope-colormap/11]: https://github.com/keyboardio/Kaleidoscope-Colormap/pull/11
+ [kaleidoscope-eeprom-settings/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/7
+ [kaleidoscope-eeprom-keymap/14]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/14
+ [kaleidoscope-hostos/7]: https://github.com/keyboardio/Kaleidoscope-HostOS/pull/7
+ [kaleidoscope-eeprom-keymap-programmer/7]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap-Programmer/pull/7
+ [kaleidoscope-fingerpainter/10]: https://github.com/keyboardio/Kaleidoscope-FingerPainter/pull/10
+ [kaleidoscope-typingbreaks/14]: https://github.com/keyboardio/Kaleidoscope-TypingBreaks/pull/14
+
+## Miscellaneous
+
+* Opened [Kaleidoscope-EEPROM-Keymap-Programmer#8][kaleidoscope-eeprom-keymap-programmer/8].
+* Opened [Kaleidoscope-HostOS#8][kaleidoscope-hostos/8].
+
+ [kaleidoscope-eeprom-keymap-programmer/8]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap-Programmer/issues/8
+ [kaleidoscope-hostos/8]: https://github.com/keyboardio/Kaleidoscope-HostOS/issues/8
+
 # 2018-10-03
 
 * Merged [Kaleidoscope-EEPROM-Settings#5][kaleidoscope-eeprom-settings/5].
