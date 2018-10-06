@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-06
+
+* Opened [Kaleidoscope-EEPROM-Keymap#16][kaleidoscope-eeprom-keymap/16].
+* Started working on [Kaleidoscope-EEPROM-Keymap#15][kaleidoscope-eeprom-keymap/15].
+
+ [kaleidoscope-eeprom-keymap/16]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/16
+ [kaleidoscope-eeprom-keymap/15]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/issues/15
+
 # 2018-10-05
 
 ## Focus-in-Core
