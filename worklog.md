@@ -3,10 +3,11 @@
 # 2018-10-06
 
 * Opened [Kaleidoscope-EEPROM-Keymap#16][kaleidoscope-eeprom-keymap/16].
-* Started working on [Kaleidoscope-EEPROM-Keymap#15][kaleidoscope-eeprom-keymap/15].
 * Updated [Model01-Firmware#65][model01-firmware/65]: thanks to the Focus-in-Core work yesterday, this was greatly simplified.
+* Opened [Kaleidoscope-EEPROM-Keymap#17][kaleidoscope-eeprom-keymap/17], which (mostly) fixes [Kaleidoscope-EEPROM-Keymap#15][kaleidoscope-eeprom-keymap/15]. Still a work in progress, mind you.
 
  [kaleidoscope-eeprom-keymap/16]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/16
+ [kaleidoscope-eeprom-keymap/17]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/pull/17
  [kaleidoscope-eeprom-keymap/15]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Keymap/issues/15
 
 # 2018-10-05
