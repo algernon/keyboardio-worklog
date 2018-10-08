@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-09
+
+After a short discussion with @obra on Discord, I closed [Kaleidoscope-EEPROM-Keymap#16][kaleidoscope-eeprom-keymap/16], and reworked [Kaleidoscope-EEPROM-Keymap#17][kaleidoscope-eeprom-keymap/17] into a merge-able state instead. This required [Kaleidoscope-EEPROM-Settings#8][kaleidoscope-eeprom-settings/8] and [Kaleidoscope-EEPROM-Settings#9][kaleidoscope-eeprom-settings/9].
+
+Also updated [Model01-Firmware#65][model01-firmware/65] to work with the latest developments above.
+
+ [kaleidoscope-eeprom-settings/8]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/8
+ [kaleidoscope-eeprom-settings/9]: https://github.com/keyboardio/Kaleidoscope-EEPROM-Settings/pull/9
+
 # 2018-10-08
 
 * Updated [Kaleidoscope-EEPROM-Keymap#17][kaleidoscope-eeprom-keymap/17], fixing a subtle bug with `keymap.map` going possibly out of bounds.
