@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-08
+
+* Updated [Kaleidoscope-EEPROM-Keymap#17][kaleidoscope-eeprom-keymap/17], fixing a subtle bug with `keymap.map` going possibly out of bounds.
+
 # 2018-10-06
 
 * Opened [Kaleidoscope-EEPROM-Keymap#16][kaleidoscope-eeprom-keymap/16].
