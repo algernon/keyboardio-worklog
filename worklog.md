@@ -15,9 +15,11 @@ Also updated [Model01-Firmware#65][model01-firmware/65] to work with the latest 
 
 * Opened and fixed [Kaleidoscope-LED-Palette-Theme#8][kaleidoscope-led-palette-theme/8]: when updating the palette or the theme, the LEDs were not repainted.
 * Closed [Kaleidoscope-Colormap#7][kaleidoscope-colormap/7].
+* Opened [Kaleidoscope-LED-ActiveModcolor#13][kaleidoscope-led-activemodcolor/13].
 
  [kaleidoscope-led-palette-theme/8]: https://github.com/keyboardio/Kaleidoscope-LED-Palette-Theme/issues/8
  [kaleidoscope-colormap/7]: https://github.com/keyboardio/Kaleidoscope-Colormap/issues/7
+ [kaleidoscope-led-activemodcolor/13]: https://github.com/keyboardio/Kaleidoscope-LED-ActiveModColor/issues/13
 
 # 2018-10-08
 
