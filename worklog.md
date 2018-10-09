@@ -13,7 +13,9 @@ Also updated [Model01-Firmware#65][model01-firmware/65] to work with the latest 
 
 ## Miscellaneous
 
-* Fixed a bug in `Kaleidoscope-Colormap`, where the colors wouldn't refresh if we updated the colormap via Focus, not until we forced a repaint some other way. Now it repaints whenever handling a `colormap.map` command.
+* Opened and fixed [Kaleidoscope-LED-Palette-Theme#8][kaleidoscope-led-palette-theme/8]: when updating the palette or the theme, the LEDs were not repainted.
+
+ [kaleidoscope-led-palette-theme/8]: https://github.com/keyboardio/Kaleidoscope-LED-Palette-Theme/issues/8
 
 # 2018-10-08
 
