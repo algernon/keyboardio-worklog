@@ -17,11 +17,13 @@ Also updated [Model01-Firmware#65][model01-firmware/65] to work with the latest 
 * Closed [Kaleidoscope-Colormap#7][kaleidoscope-colormap/7].
 * Opened [Kaleidoscope-LED-ActiveModcolor#13][kaleidoscope-led-activemodcolor/13].
 * Opened [Kaleidoscope-LEDEffect-BootGreeting#10][kaleidoscope-ledeffect-bootgreeting/10].
+* Commented on [Kaleidoscope-TypingBreaks#12][kaleidoscope-typingbreaks/12], will be reworking the plugin a bit.
 
  [kaleidoscope-led-palette-theme/8]: https://github.com/keyboardio/Kaleidoscope-LED-Palette-Theme/issues/8
  [kaleidoscope-colormap/7]: https://github.com/keyboardio/Kaleidoscope-Colormap/issues/7
  [kaleidoscope-led-activemodcolor/13]: https://github.com/keyboardio/Kaleidoscope-LED-ActiveModColor/issues/13
  [kaleidoscope-ledeffect-bootgreeting/10]: https://github.com/keyboardio/Kaleidoscope-LEDEffect-BootGreeting/issues/10
+ [kaleidoscope-typingbreaks/12]: https://github.com/keyboardio/Kaleidoscope-TypingBreaks/pull/12
 
 # 2018-10-08
 
