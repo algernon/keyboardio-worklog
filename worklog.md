@@ -9,6 +9,7 @@
 * Fixed [Kaleidoscope-HostOS#8][kaleidoscope-hostos/8].
 * Closed [Kaleidoscope-EEPROM-Keymap-Programmer#8][kaleidoscope-eeprom-keymap-programmer/8].
 * Fixed [Kaleidoscope-TypingBreaks#12][kaleidoscope-typingbreaks/12], by cherry-picking the patch, resolving the conflict, and extending it a little.
+* Fixed [Kaleidoscope-LEDEffect-BootGreeting#10][kaleidoscope-ledeffect-bootgreeting/10].
 
  [kaleidoscope-hostos/10]: https://github.com/keyboardio/Kaleidoscope-HostOS/pull/10
 
