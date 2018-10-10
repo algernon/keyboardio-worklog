@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-10
+
+* Opened [Kaleidoscope-HostOS#10][kaleidoscope-hostos/10].
+* Cleaned up all the `.travis.yml` files, removing IRC notifications.
+* Also removed the `stable`/`experimental` badges from all READMEs that had it (they were way out of date, and not being kept up-to-date anyway).
+* There were a few plugins which used obsolete interfaces in their examples, those were corrected too.
+
+ [kaleidoscope-hostos/10]: https://github.com/keyboardio/Kaleidoscope-HostOS/pull/10
+
 # 2018-10-09
 
 ## EEPROM Keymap
