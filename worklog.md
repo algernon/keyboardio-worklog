@@ -6,8 +6,10 @@
 * Cleaned up all the `.travis.yml` files, removing IRC notifications.
 * Also removed the `stable`/`experimental` badges from all READMEs that had it (they were way out of date, and not being kept up-to-date anyway).
 * There were a few plugins which used obsolete interfaces in their examples, those were corrected too.
+* Fixed [Kaleidoscope-HostOS#8][kaleidoscope-hostos/8].
 
  [kaleidoscope-hostos/10]: https://github.com/keyboardio/Kaleidoscope-HostOS/pull/10
+ [kaleidoscope-hostos/8]: https://github.com/keyboardio/Kaleidoscope-HostOS/issues/8
 
 # 2018-10-09
 
