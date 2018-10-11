@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-11
+
+* Closed [AtmegaScanner#1][atmegascanner/1].
+
+ [atmegascanner/1]: https://github.com/keyboardio/AtmegaScanner/issues/1
+
 # 2018-10-10
 
 * Opened [Kaleidoscope-HostOS#10][kaleidoscope-hostos/10].
