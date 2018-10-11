@@ -2,6 +2,15 @@
 
 # 2018-10-11
 
+## Planning
+
+* Looked at [Kaleidoscope-MouseKeys#29][kaleidoscope-mousekeys/29], and I think I identified the problem.
+* Identified a possible fix for [Model01-Bootloader#1][model01-bootloader/1] and [Model01-Bootloader#4][model01-bootloader/4].
+
+ [model01-bootloader/1]: https://github.com/keyboardio/Model01-Bootloader/issues/1
+ [model01-bootloader/4]: https://github.com/keyboardio/Model01-Bootloader/issues/4
+ [kaleidoscope-mousekeys/29]: https://github.com/keyboardio/Kaleidoscope-MouseKeys/issues/29
+
 ## Issue cleanup
 
 * Closed [AtmegaScanner#1][atmegascanner/1].
