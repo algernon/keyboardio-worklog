@@ -2,9 +2,18 @@
 
 # 2018-10-11
 
+## Issue cleanup
+
 * Closed [AtmegaScanner#1][atmegascanner/1].
+* Closed remaining `DualUse` issues: [Kaleidoscope-DualUse#7][kaleidoscope-dualuse/7], [Kaleidoscope-DualUse#14][kaleidoscope-dualuse/14], and [Kaleidoscope-DualUse#15][kaleidoscope-dualuse/15].
+* Closed [Kaleidoscope-Focus#8][kaleidoscope-focus/8], and opened [Kaleidoscope-FocusSerial#1][kaleidoscope-focusserial/1] as a followup.
 
  [atmegascanner/1]: https://github.com/keyboardio/AtmegaScanner/issues/1
+ [kaleidoscope-dualuse/7]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/7
+ [kaleidoscope-dualuse/14]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/14
+ [kaleidoscope-dualuse/15]: https://github.com/keyboardio/Kaleidoscope-DualUse/issues/15
+ [kaleidoscope-focus/8]: https://github.com/keyboardio/Kaleidoscope-Focus/issues/8
+ [kaleidoscope-focusserial/1]: https://github.com/keyboardio/Kaleidoscope-FocusSerial/issues/1
 
 # 2018-10-10
 
