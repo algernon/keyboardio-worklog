@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-12
+
+Experimenting with merging the plugins into Kaleidoscope, thus forming a monorepo.
+
 # 2018-10-11
 
 ## Planning
