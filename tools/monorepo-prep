@@ -1,0 +1,64 @@
+#! /bin/bash
+set -e
+
+PLUGIN="$(basename $(pwd))"
+SHORTNAME="${PLUGIN#Kaleidoscope-}"
+HELPERS="$(dirname $(readlink -f $0))/helpers"
+
+if ! git checkout -b f/monorepo 2>/dev/null; then
+    git checkout master
+    git branch -D f/monorepo
+    git checkout -b f/monorepo
+fi
+
+install -d doc/plugin
+
+(echo "# ${PLUGIN}"; tail -n +7 README.md) > doc/plugin/${SHORTNAME}.md
+
+cat >README.md <<EOF
+# ${PLUGIN}
+
+[![Build Status][travis:image]][travis:status]
+
+ [travis:image]: https://travis-ci.org/keyboardio/${PLUGIN}.svg?branch=master
+ [travis:status]: https://travis-ci.org/keyboardio/${PLUGIN}
+
+See [doc/plugin/${SHORTNAME}.md](doc/plugin/${SHORTNAME}.md) for documentation.
+EOF
+
+git add README.md doc
+
+NEED_PLUGIN_NAMESPACE=1
+
+if [ -d src/Kaleidoscope ]; then
+    install -d src/kaleidoscope/plugin
+    mv src/Kaleidoscope/* src/kaleidoscope/plugin/
+elif [ ! -d src/kaleidoscope/plugin ]; then
+    install -d src/kaleidoscope/plugin
+    mv src/kaleidoscope/*.{cpp,h} src/kaleidoscope/plugin
+else
+    NEED_PLUGIN_NAMESPACE=0
+fi
+
+perl -wpi -e "s,include <Kaleidoscope/,include <kaleidoscope/," src/${PLUGIN}.h
+perl -wpi -e "s,include <kaleidoscope/${SHORTNAME}.h,include <kaleidoscope/plugin/${SHORTNAME}.h," src/${PLUGIN}.h
+
+if [ ${NEED_PLUGIN_NAMESPACE} -eq 1 ]; then
+    find src/kaleidoscope/plugin -name '*.cpp' -or -name '*.h' | xargs -n 1 ${HELPERS}/add-plugin-namespace.pl
+fi
+
+git add src
+
+git commit -s -m "Rearrange the file layout in preparation of becoming a monorepo
+
+Move the documentation to \`doc/plugin/${SHORTNAME}.md\`, sources under
+\`src/kaleidoscope/plugin/\` (appropriately namespaced). This is in preparation of
+merging plugins into a single monorepo."
+
+make
+
+git rm -f .gitignore .travis.yml README.md CONTRIBUTING.md COPYING Makefile library.properties
+
+git commit -s -m "Remove files we do not need in the monorepo"
+
+rm -rf output
