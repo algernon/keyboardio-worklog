@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-13
+
+* Started preparing the plugins for the monorepo-merge. See the `f/monorepo` branches for each. There will be no PRs made from this branch, the only PR will be against `Kaleidoscope` itself.
+
 # 2018-10-12
 
 Experimenting with merging the plugins into Kaleidoscope, thus forming a monorepo.
