@@ -40,10 +40,8 @@ else
     NEED_PLUGIN_NAMESPACE=0
 fi
 
-perl -wpi -e "s,include <Kaleidoscope/,include <kaleidoscope/," src/${PLUGIN}.h
-perl -wpi -e "s,include <kaleidoscope/${SHORTNAME}.h,include <kaleidoscope/plugin/${SHORTNAME}.h," src/${PLUGIN}.h
-
 if [ ${NEED_PLUGIN_NAMESPACE} -eq 1 ]; then
+    ${HELPERS}/add-plugin-namespace.pl src/*.h
     find src/kaleidoscope/plugin -name '*.cpp' -or -name '*.h' | xargs -n 1 ${HELPERS}/add-plugin-namespace.pl
 fi
 
