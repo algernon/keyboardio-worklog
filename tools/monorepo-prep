@@ -55,7 +55,8 @@ merging plugins into a single monorepo."
 
 make
 
-git rm -f .gitignore .travis.yml README.md CONTRIBUTING.md COPYING Makefile library.properties
+git rm -f .gitignore .travis.yml README.md COPYING Makefile library.properties
+git rm -f CONTRIBUTING.md 2>/dev/null || true
 
 git commit -s -m "Remove files we do not need in the monorepo"
 
