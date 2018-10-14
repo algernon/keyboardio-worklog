@@ -5,6 +5,7 @@
 ## Monorepo
 
 * Started preparing Kaleidoscope core itself for the monorepoification, with [Kaleidoscope#364][kaleidoscope/364].
+* Continued work on preparing existing plugins for monorepoification.
 
  [kaleidoscope/364]: https://github.com/keyboardio/Kaleidoscope/pull/364
 
@@ -13,6 +14,7 @@
 * Fixed [Kaleidoscope-Redial][kaleidoscope:redial], it used obsolete - and now removed - interfaces.
 * Opened [Kaleidoscope-NumPad#23][kaleidoscope-numpad/23].
 * Opened [Kaleidoscope-Qukeys#53][kaleidoscope-qukeys/53].
+* Added an `Upgrading` section to `Kaleidoscope-HostOS`'s README.md.
 
  [kaleidoscope-numpad/23]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/23
  [kaleidoscope-qukeys/53]: https://github.com/keyboardio/Kaleidoscope-Qukeys/pull/53
