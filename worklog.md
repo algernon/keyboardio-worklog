@@ -4,11 +4,16 @@
 
 ## Monorepo
 
-More progress towards the monorepo-merge.
+* Started preparing Kaleidoscope core itself for the monorepoification, with [Kaleidoscope#364][kaleidoscope/364].
+
+ [kaleidoscope/364]: https://github.com/keyboardio/Kaleidoscope/pull/364
 
 ## Miscellaneous
 
 * Fixed [Kaleidoscope-Redial][kaleidoscope:redial], it used obsolete - and now removed - interfaces.
+* Opened [Kaleidoscope-NumPad#23][kaleidoscope-numpad/23].
+
+ [kaleidoscope-numpad/23]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/23
 
 # 2018-10-13
 
