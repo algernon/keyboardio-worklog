@@ -6,8 +6,10 @@
 
 * Started preparing Kaleidoscope core itself for the monorepoification, with [Kaleidoscope#364][kaleidoscope/364].
 * Continued work on preparing existing plugins for monorepoification.
+* Opened [Kaleidoscope#365][kaleidoscope/365], which merges the essential plugins into Kaleidoscope itself.
 
  [kaleidoscope/364]: https://github.com/keyboardio/Kaleidoscope/pull/364
+ [kaleidoscope/365]: https://github.com/keyboardio/Kaleidoscope/pull/365
 
 ## Miscellaneous
 
