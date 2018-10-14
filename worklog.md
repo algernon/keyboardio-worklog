@@ -2,7 +2,13 @@
 
 # 2018-10-14
 
+## Monorepo
+
 More progress towards the monorepo-merge.
+
+## Miscellaneous
+
+* Fixed [Kaleidoscope-Redial][kaleidoscope:redial], it used obsolete - and now removed - interfaces.
 
 # 2018-10-13
 
