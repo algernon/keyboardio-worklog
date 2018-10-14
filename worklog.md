@@ -12,8 +12,10 @@
 
 * Fixed [Kaleidoscope-Redial][kaleidoscope:redial], it used obsolete - and now removed - interfaces.
 * Opened [Kaleidoscope-NumPad#23][kaleidoscope-numpad/23].
+* Opened [Kaleidoscope-Qukeys#53][kaleidoscope-qukeys/53].
 
  [kaleidoscope-numpad/23]: https://github.com/keyboardio/Kaleidoscope-NumPad/pull/23
+ [kaleidoscope-qukeys/53]: https://github.com/keyboardio/Kaleidoscope-Qukeys/pull/53
 
 # 2018-10-13
 
