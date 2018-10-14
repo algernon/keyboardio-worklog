@@ -13,7 +13,11 @@ fi
 
 install -d doc/plugin
 
-(echo "# ${PLUGIN}"; tail -n +7 README.md) > doc/plugin/${SHORTNAME}.md
+if grep -q "travis:status" README.md; then
+    (echo "# ${PLUGIN}"; tail -n +7 README.md) > doc/plugin/${SHORTNAME}.md
+else
+    cp README.md doc/plugin/${SHORTNAME}.md
+fi
 
 cat >README.md <<EOF
 # ${PLUGIN}
@@ -33,9 +37,21 @@ NEED_PLUGIN_NAMESPACE=1
 if [ -d src/Kaleidoscope ]; then
     install -d src/kaleidoscope/plugin
     mv src/Kaleidoscope/* src/kaleidoscope/plugin/
-elif [ ! -d src/kaleidoscope/plugin ]; then
+elif [ -d src/kaleidoscope ] && [ ! -d src/kaleidoscope/plugin ]; then
     install -d src/kaleidoscope/plugin
     mv src/kaleidoscope/*.{cpp,h} src/kaleidoscope/plugin
+elif [ ! -d src/kaleidoscope/plugin ]; then
+    install -d src/kaleidoscope/plugin
+    mv src/*.{cpp,h} src/kaleidoscope/plugin
+    mv src/kaleidoscope/plugin/${PLUGIN}.h src/kaleidoscope/plugin/${SHORTNAME}.h
+    mv src/kaleidoscope/plugin/${PLUGIN}.cpp src/kaleidoscope/plugin/${SHORTNAME}.cpp
+    cat >src/${PLUGIN}.h <<EOF
+$(head -n 16 src/kaleidoscope/plugin/${SHORTNAME}.h)
+
+#pragma once
+
+#include "kaleidoscope/plugin/${SHORTNAME}.h"
+EOF
 else
     NEED_PLUGIN_NAMESPACE=0
 fi
@@ -55,8 +71,17 @@ merging plugins into a single monorepo."
 
 make
 
-git rm -f .gitignore .travis.yml README.md COPYING Makefile library.properties
-git rm -f CONTRIBUTING.md 2>/dev/null || true
+for f in               \
+    .gitignore         \
+    .travis.yml        \
+    README.md          \
+    COPYING            \
+    Makefile           \
+    library.properties \
+    CONTRIBUTING.md    \
+    UPGRADING.md; do
+    git rm -f $f 2>/dev/null || true
+done
 
 git commit -s -m "Remove files we do not need in the monorepo"
 
