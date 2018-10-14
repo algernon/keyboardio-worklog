@@ -16,7 +16,9 @@ $data =~ s,^#include <kaleidoscope/plugin/hid.h>,#include <kaleidoscope/hid.h>,m
 $data =~ s#^namespace kaleidoscope \{#namespace kaleidoscope {\nnamespace plugin {#m;
 ## close the namespace
 $data =~ s#^\};\n+\};?\n#};\n}\n}\n#m;
-$data =~ s#^\}\n\s+};?\n#}\n\n}\n}\n#m;
+if ($ARGV[0] =~ /\.cpp/) {
+    $data =~ s#^\}\n\s?};?\n#}\n\n}\n}\n#m;
+}
 ## singleton
 $data =~ s#^(extern kaleidoscope::)#$1plugin::#mg;
 $data =~ s#^kaleidoscope::([^\s]+) #kaleidoscope::plugin::$1 #mg;
