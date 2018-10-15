@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-15
+
+## Monorepo
+
+Talking with @obra on Discord, he suggested rearranging the `src/kaleidoscope/plugin` directory, so it has less clutter. I went and updated the offending plugins, moving auxiliary files to `src/kaleidoscope/plugin/$name`. This made the directory a lot easier to skim through.
+
+Then, I rebuilt the `f/monorepo` branch of `Kaleidoscope`, thus updating [Kaleidoscope#365][kaleidoscope/365].
+
 # 2018-10-14
 
 ## Monorepo
