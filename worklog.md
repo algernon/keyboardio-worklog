@@ -9,7 +9,7 @@
 * Merged plugins that had no open issues or PRs left, were archived.
 * Opened [Kaleidoscope#385][kaleidoscope/385], and [Kaleidoscope#387][kaleidoscope/387] to fix it.
 * Opened [Kaleidoscope#386][kaleidoscope/386].
-* Opened [Kaleidoscope-Bundle-Keyboardio#4][kaleidoscope-bundle-keyboardio/4].
+* Opened [Kaleidoscope-Bundle-Keyboardio#4][kaleidoscope-bundle-keyboardio/4], and [Kaleidoscope-Build-Tools#4][kaleidoscope-build-tools/4] to fix it.
 * Opened [Kaleidoscope#388][kaleidoscope/388].
 * Made `cpplint` happy about `Kaleidoscope-Hardware-Technomancy-Atreus`, `Kaleidoscope-Hardware-EZ-ErgoDox`, and `Kaleidoscope-HIDAdaptor-KeyboardioHID`.
 
@@ -19,6 +19,7 @@
  [kaleidoscope/387]: https://github.com/keyboardio/Kaleidoscope/pull/387
  [kaleidoscope/388]: https://github.com/keyboardio/Kaleidoscope/pull/388
  [kaleidoscope-bundle-keyboardio/4]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/issues/4
+ [kaleidoscope-build-tools/4]: https://github.com/keyboardio/Kaleidoscope-Build-Tools/pull/4
 
 # 2018-10-15
 
