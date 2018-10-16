@@ -37,9 +37,11 @@ NEED_PLUGIN_NAMESPACE=1
 if [ -d src/Kaleidoscope ]; then
     install -d src/kaleidoscope/plugin
     mv src/Kaleidoscope/* src/kaleidoscope/plugin/
-elif [ -d src/kaleidoscope ] && [ ! -d src/kaleidoscope/plugin ]; then
+elif [ -d src/kaleidoscope ] && [ ! -d src/kaleidoscope/plugin ] && [ ! -d src/kaleidoscope/hardware ]; then
     install -d src/kaleidoscope/plugin
     mv src/kaleidoscope/*.{cpp,h} src/kaleidoscope/plugin
+elif [ -d src/kaleidoscope/hardware ]; then
+    NEED_PLUGIN_NAMESPACE=0
 elif [ ! -d src/kaleidoscope/plugin ]; then
     install -d src/kaleidoscope/plugin
     mv src/*.{cpp,h} src/kaleidoscope/plugin
