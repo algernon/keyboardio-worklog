@@ -10,11 +10,13 @@
 * Opened [Kaleidoscope#385][kaleidoscope/385], and [Kaleidoscope#387][kaleidoscope/387] to fix it.
 * Opened [Kaleidoscope#386][kaleidoscope/386].
 * Opened [Kaleidoscope-Bundle-Keyboardio#4][kaleidoscope-bundle-keyboardio/4].
+* Opened [Kaleidoscope#388][kaleidoscope/388].
 
  [kaleidoscope/367]: https://github.com/keyboardio/Kaleidoscope/pull/367
  [kaleidoscope/385]: https://github.com/keyboardio/Kaleidoscope/issues/385
  [kaleidoscope/386]: https://github.com/keyboardio/Kaleidoscope/pull/386
  [kaleidoscope/387]: https://github.com/keyboardio/Kaleidoscope/pull/387
+ [kaleidoscope/388]: https://github.com/keyboardio/Kaleidoscope/pull/388
  [kaleidoscope-bundle-keyboardio/4]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/issues/4
 
 # 2018-10-15
