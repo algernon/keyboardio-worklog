@@ -3,6 +3,9 @@
 # 2018-10-16
 
 * Updated `Kaleidoscope-Hardware-Technomancy-Atreus` and `Kaleidoscope-Hardware-EZ-ErgoDox` to follow up on the `macro_helpers.h` header move.
+* Opened and merged [Kaleidoscope#367][kaleidoscope/367], unbreaking non-Model01 boards.
+
+ [kaleidscope/367]: https://github.com/keyboardio/Kaleidoscope/pull/367
 
 # 2018-10-15
 
