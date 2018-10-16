@@ -4,6 +4,7 @@
 
 * Updated `Kaleidoscope-Hardware-Technomancy-Atreus` and `Kaleidoscope-Hardware-EZ-ErgoDox` to follow up on the `macro_helpers.h` header move.
 * Opened and merged [Kaleidoscope#367][kaleidoscope/367], unbreaking non-Model01 boards.
+* Migrated all open issues from the merged plugins (see [tools/issue-migrator](tools/issue-migrator)) to Kaleidoscope.
 
  [kaleidscope/367]: https://github.com/keyboardio/Kaleidoscope/pull/367
 
