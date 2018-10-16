@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-16
+
+* Updated `Kaleidoscope-Hardware-Technomancy-Atreus` and `Kaleidoscope-Hardware-EZ-ErgoDox` to follow up on the `macro_helpers.h` header move.
+
 # 2018-10-15
 
 ## Monorepo
