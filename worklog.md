@@ -7,12 +7,13 @@
 * Migrated all open issues from the merged plugins (see [tools/issue-migrator](tools/issue-migrator)) to Kaleidoscope.
 * Migrated all PRs I felt is safe to migrate.
 * Merged plugins that had no open issues or PRs left, were archived.
-* Opened [Kaleidoscope#385][kaleidoscope/385].
+* Opened [Kaleidoscope#385][kaleidoscope/385], and [Kaleidoscope#387][kaleidoscope/387] to fix it.
 * Opened [Kaleidoscope#386][kaleidoscope/386].
 
  [kaleidoscope/367]: https://github.com/keyboardio/Kaleidoscope/pull/367
  [kaleidoscope/385]: https://github.com/keyboardio/Kaleidoscope/issues/385
  [kaleidoscope/386]: https://github.com/keyboardio/Kaleidoscope/pull/386
+ [kaleidoscope/387]: https://github.com/keyboardio/Kaleidoscope/pull/387
 
 # 2018-10-15
 
