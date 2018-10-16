@@ -11,6 +11,7 @@
 * Opened [Kaleidoscope#386][kaleidoscope/386].
 * Opened [Kaleidoscope-Bundle-Keyboardio#4][kaleidoscope-bundle-keyboardio/4].
 * Opened [Kaleidoscope#388][kaleidoscope/388].
+* Made `cpplint` happy about `Kaleidoscope-Hardware-Technomancy-Atreus` and `Kaleidoscope-Hardware-EZ-ErgoDox`.
 
  [kaleidoscope/367]: https://github.com/keyboardio/Kaleidoscope/pull/367
  [kaleidoscope/385]: https://github.com/keyboardio/Kaleidoscope/issues/385
