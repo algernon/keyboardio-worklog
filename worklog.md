@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-17
+
+* Updated [Kaleidoscope#386][kaleidoscope/386], introducing a new plugin to replace `bootAnimation()` (but better).
+
 # 2018-10-16
 
 * Updated `Kaleidoscope-Hardware-Technomancy-Atreus` and `Kaleidoscope-Hardware-EZ-ErgoDox` to follow up on the `macro_helpers.h` header move.
