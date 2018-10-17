@@ -3,6 +3,13 @@
 # 2018-10-17
 
 * Updated [Kaleidoscope#386][kaleidoscope/386], introducing a new plugin to replace `bootAnimation()` (but better).
+* Opened [Kaleidoscope-Bundle-Keyboardio#5][kaleidoscope-bundle-keyboardio/5].
+* Fixed `Kaleidoscope-HostOS`, `Kaleidoscope-Syster`, `Kaleidoscope-TypingBreaks`, and `Kaleidoscope-Unicode`. They were failing because the examples did not initialize all of the dependencies first.
+* Updated all the other plugins (save the hardware and adaptor ones), in preparation of monorepoifying them.
+* Opened [Kaleidoscope#389][kaleidoscope/389].
+
+ [kaleidoscope-bundle-keyboardio/5]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/5
+ [kaleidoscope/389]: https://github.com/keyboardio/Kaleidoscope/pull/389
 
 # 2018-10-16
 
