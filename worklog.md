@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-18
+
+* Migrated all the issues from the stage2-merged plugins, and archived those without open PRs.
+
 # 2018-10-17
 
 * Updated [Kaleidoscope#386][kaleidoscope/386], introducing a new plugin to replace `bootAnimation()` (but better).
