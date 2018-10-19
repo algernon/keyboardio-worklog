@@ -7,11 +7,14 @@
 * Migrated the issues of the most recently merged plugins, archived them, and removed them from `Kaleidoscope-Bundle-Keyboardio`.
 * Updated the `Kaleidoscope-KeyLogger` plugin.
 * Plenty of issue triage, lots of labeling in an attempt to be able to make better sense of the issues we have open.
-* Closed [Kaleidoscope#387][kaleidoscope/387], I will be using a very different approach instead.
+* Closed [Kaleidoscope#387][kaleidoscope/387], I will be using a very different approach instead. Said approach was done in [Kaleidoscope#432][kaleidoscope/432].
+* Opened [Kaleidoscope#431][kaleidoscope/431].
 
  [kaleidoscope/425]: https://github.com/keyboardio/Kaleidoscope/issues/425
  [kaleidoscope/426]: https://github.com/keyboardio/Kaleidoscope/pull/426
  [kaleidoscope/427]: https://github.com/keyboardio/Kaleidoscope/pull/427
+ [kaleidoscope/431]: https://github.com/keyboardio/Kaleidoscope/pull/431
+ [kaleidoscope/432]: https://github.com/keyboardio/Kaleidoscope/pull/432
 
 # 2018-10-18
 
