@@ -2,9 +2,12 @@
 
 # 2018-10-19
 
-* Opened [Kaleidoscope#425][kaleidoscope/425]
+* Opened [Kaleidoscope#425][kaleidoscope/425], and [Kaleidoscope#426][kaleidoscope/426] fixing it.
+* Opened [Kaleidoscope#427][kaleidoscope/427], the last stage of the monorepoification.
 
  [kaleidoscope/425]: https://github.com/keyboardio/Kaleidoscope/issues/425
+ [kaleidoscope/426]: https://github.com/keyboardio/Kaleidoscope/pull/426
+ [kaleidoscope/427]: https://github.com/keyboardio/Kaleidoscope/pull/427
 
 # 2018-10-18
 
