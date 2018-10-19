@@ -6,6 +6,7 @@
 * Opened [Kaleidoscope#427][kaleidoscope/427], the last stage of the monorepoification.
 * Migrated the issues of the most recently merged plugins, archived them, and removed them from `Kaleidoscope-Bundle-Keyboardio`.
 * Updated the `Kaleidoscope-KeyLogger` plugin.
+* Plenty of issue triage, lots of labeling in an attempt to be able to make better sense of the issues we have open.
 
  [kaleidoscope/425]: https://github.com/keyboardio/Kaleidoscope/issues/425
  [kaleidoscope/426]: https://github.com/keyboardio/Kaleidoscope/pull/426
