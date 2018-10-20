@@ -3,6 +3,14 @@
 # 2018-10-20
 
 * Fixed a few documentation links in `Kaleiodoscope`.
+* Triaged a bunch of unlabeled issues, and older ones too, closing those that we fixed since.
+* Fixed [Kaleidoscope#374][kaleidoscope/374].
+* Closed [Kaleidoscope#410][kaleidoscope/410].
+* Closed [Kaleidoscope#422][kaleidoscope/422].
+
+ [kaleidoscope/374]: https://github.com/keyboardio/Kaleidoscope/issues/374
+ [kaleidoscope/410]: https://github.com/keyboardio/Kaleidoscope/issues/410
+ [kaleidoscope/422]: https://github.com/keyboardio/Kaleidoscope/issues/422
 
 # 2018-10-19
 
