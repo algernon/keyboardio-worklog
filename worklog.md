@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-20
+
+* Fixed a few documentation links in `Kaleiodoscope`.
+
 # 2018-10-19
 
 * Opened [Kaleidoscope#425][kaleidoscope/425], and [Kaleidoscope#426][kaleidoscope/426] fixing it.
