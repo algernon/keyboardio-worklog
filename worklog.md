@@ -9,6 +9,8 @@
 * Closed [Kaleidoscope#422][kaleidoscope/422].
 * Opened [Kaleidoscope#434][kaleidoscope/434], which fixes [Kaleidoscope#415][kaleidoscope/415].
 * Opened [Kaleidoscope#435][kaleidoscope/435], which fixes [Kaleidoscope#413][kaleidoscope/413]
+* Closed [Kaleidoscope#373][kaleidoscope/373].
+* Closed [Kaleidoscope#421][kaleidoscope/421].
 
  [kaleidoscope/374]: https://github.com/keyboardio/Kaleidoscope/issues/374
  [kaleidoscope/410]: https://github.com/keyboardio/Kaleidoscope/issues/410
@@ -17,6 +19,8 @@
  [kaleidoscope/415]: https://github.com/keyboardio/Kaleidoscope/issues/415
  [kaleidoscope/435]: https://github.com/keyboardio/Kaleidoscope/pull/435
  [kaleidoscope/413]: https://github.com/keyboardio/Kaleidoscope/issues/413
+ [kaleidoscope/373]: https://github.com/keyboardio/Kaleidoscope/issues/373
+ [kaleidoscope/421]: https://github.com/keyboardio/Kaleidoscope/issues/421
 
 # 2018-10-19
 
