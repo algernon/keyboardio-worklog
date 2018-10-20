@@ -7,10 +7,13 @@
 * Fixed [Kaleidoscope#374][kaleidoscope/374].
 * Closed [Kaleidoscope#410][kaleidoscope/410].
 * Closed [Kaleidoscope#422][kaleidoscope/422].
+* Opened [Kaleidoscope#434][kaleidoscope/434], which fixes [Kaleidoscope#415][kaleidoscope/415].
 
  [kaleidoscope/374]: https://github.com/keyboardio/Kaleidoscope/issues/374
  [kaleidoscope/410]: https://github.com/keyboardio/Kaleidoscope/issues/410
  [kaleidoscope/422]: https://github.com/keyboardio/Kaleidoscope/issues/422
+ [kaleidoscope/434]: https://github.com/keyboardio/Kaleidoscope/pull/434
+ [kaleidoscope/415]: https://github.com/keyboardio/Kaleidoscope/issues/415
 
 # 2018-10-19
 
