@@ -11,6 +11,7 @@
 * Opened [Kaleidoscope#435][kaleidoscope/435], which fixes [Kaleidoscope#413][kaleidoscope/413]
 * Closed [Kaleidoscope#373][kaleidoscope/373].
 * Closed [Kaleidoscope#421][kaleidoscope/421].
+* Opened [Kaleidoscope#436][kaleidoscope/436].
 
  [kaleidoscope/374]: https://github.com/keyboardio/Kaleidoscope/issues/374
  [kaleidoscope/410]: https://github.com/keyboardio/Kaleidoscope/issues/410
@@ -21,6 +22,7 @@
  [kaleidoscope/413]: https://github.com/keyboardio/Kaleidoscope/issues/413
  [kaleidoscope/373]: https://github.com/keyboardio/Kaleidoscope/issues/373
  [kaleidoscope/421]: https://github.com/keyboardio/Kaleidoscope/issues/421
+ [kaleidoscope/436]: https://github.com/keyboardio/Kaleidoscope/issues/436
 
 # 2018-10-19
 
