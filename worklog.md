@@ -7,6 +7,7 @@
 * Opened [Kaleidoscope#440][kaleidoscope/440].
 * Figured out what's up with [Kaleidoscope#414][kaleidoscope/414] and [Kaleidoscope#420][kaleidoscope/420].
 * Commented on [Kaleidoscope#418][kaleidoscope/418] - it is probably fixed.
+* Triaged [Kaleidoscope#368][kaleidoscope/368], turning it from a bug into a feature request.
 
  [kaleidoscope/438]: https://github.com/keyboardio/Kaleidoscope/pull/438
  [kaleidoscope/396]: https://github.com/keyboardio/Kaleidoscope/issues/396
@@ -16,6 +17,7 @@
  [kaleidoscope/414]: https://github.com/keyboardio/Kaleidoscope/issues/414
  [kaleidoscope/420]: https://github.com/keyboardio/Kaleidoscope/issues/420
  [kaleidoscope/418]: https://github.com/keyboardio/Kaleidoscope/issues/418
+ [kaleidoscope/368]: https://github.com/keyboardio/Kaleidoscope/issues/368
 
 # 2018-10-20
 
