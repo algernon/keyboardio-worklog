@@ -9,6 +9,7 @@
 * Commented on [Kaleidoscope#418][kaleidoscope/418] - it is probably fixed.
 * Triaged [Kaleidoscope#368][kaleidoscope/368], turning it from a bug into a feature request.
 * Closed [Kaleidoscope-OneShot#23][kaleidoscope-oneshot/23], and opened [Kaleidoscope#441][kaleidoscope/441] in its stead.
+* Extracted [Kaleidoscope#442][kaleidoscope/442] out of [Kaleidoscope-OneShot#45][kaleidoscope-oneshot/45].
 
  [kaleidoscope/438]: https://github.com/keyboardio/Kaleidoscope/pull/438
  [kaleidoscope/396]: https://github.com/keyboardio/Kaleidoscope/issues/396
@@ -21,6 +22,8 @@
  [kaleidoscope/368]: https://github.com/keyboardio/Kaleidoscope/issues/368
  [kaleidoscope-oneshot/23]: https://github.com/keyboardio/Kaleidoscope-OneShot/pull/23
  [kaleidoscope/441]: https://github.com/keyboardio/Kaleidoscope/pull/441
+ [kaleidoscope/442]: https://github.com/keyboardio/Kaleidoscope/pull/442
+ [kaleidoscope-oneshot/45]: https://github.com/keyboardio/Kaleidoscope-OneShot/pull/45
 
 # 2018-10-20
 
