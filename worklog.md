@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-21
+
+* Opened [Kaleidoscope#438][kaleidoscope/438], which hopefully fixes [Kaleidoscope#396][kaleidoscope/396].
+* Opened [Kaleidoscope#439][kaleidoscope/439], fixing [Kaleidoscope#401][kaleidoscope/401].
+
+ [kaleidoscope/438]: https://github.com/keyboardio/Kaleidoscope/pull/438
+ [kaleidoscope/396]: https://github.com/keyboardio/Kaleidoscope/issues/396
+ [kaleidoscope/439]: https://github.com/keyboardio/Kaleidoscope/pull/439
+ [kaleidoscope/401]: https://github.com/keyboardio/Kaleidoscope/issues/401
+
 # 2018-10-20
 
 * Fixed a few documentation links in `Kaleiodoscope`.
