@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-22
+
+* Opened [Model01-Firmware#67][model01-firmware/67].
+
+ [model01-firmware/67]: https://github.com/keyboardio/Model01-Firmware/pull/67
+
 # 2018-10-21
 
 * Opened [Kaleidoscope#438][kaleidoscope/438], which hopefully fixes [Kaleidoscope#396][kaleidoscope/396].
