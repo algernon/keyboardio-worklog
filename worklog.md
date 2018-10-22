@@ -3,8 +3,10 @@
 # 2018-10-22
 
 * Opened [Model01-Firmware#67][model01-firmware/67].
+* Opened [Kaleidoscope#443][kaleidoscope/443], fixing [Kaleidoscope#436][kaleidoscope/436].
 
  [model01-firmware/67]: https://github.com/keyboardio/Model01-Firmware/pull/67
+ [kaleidoscope/443]: https://github.com/keyboardio/Kaleidoscope/issues/443
 
 # 2018-10-21
 
