@@ -4,9 +4,11 @@
 
 * Opened [Model01-Firmware#67][model01-firmware/67].
 * Opened [Kaleidoscope#443][kaleidoscope/443], fixing [Kaleidoscope#436][kaleidoscope/436].
+* Updated [Lepidopterarium/Model01-Firmware][lepidopterarium/model01-firmware], so it's a single README pointing to the factory firmware. Also archived the project afterwards.
 
  [model01-firmware/67]: https://github.com/keyboardio/Model01-Firmware/pull/67
  [kaleidoscope/443]: https://github.com/keyboardio/Kaleidoscope/issues/443
+ [lepidopterarium/model01-firmware]: https://github.com/Lepidopterarium/Model01-Firmware
 
 # 2018-10-21
 
