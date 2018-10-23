@@ -2,9 +2,10 @@
 
 # 2018-10-23
 
-* Merged [chrysalis-bundle-keyboardio#8][chrysalis-bundle-keyboardio/8].
+* Merged [chrysalis-bundle-keyboardio#8][chrysalis-bundle-keyboardio/8] and [chrysalis-bundle-keyboardio#9][chrysalis-bundle-keyboardio/9].
 
  [chrysalis-bundle-keyboardio/8]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/8
+ [chrysalis-bundle-keyboardio/9]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/9
 
 # 2018-10-22
 
