@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-23
+
+* Merged [chrysalis-bundle-keyboardio#8][chrysalis-bundle-keyboardio/8].
+
+ [chrysalis-bundle-keyboardio/8]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/8
+
 # 2018-10-22
 
 * Opened [Model01-Firmware#67][model01-firmware/67].
