@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-25
+
+* Implemented a new plugin, `IdleLEDs`, for which I opened [Kaleidoscope#444][kaleidoscope/444].
+
+ [kaleidoscope/444]: https://github.com/keyboardio/Kaleidoscope/pull/444
+
 # 2018-10-23
 
 * Merged [chrysalis-bundle-keyboardio#8][chrysalis-bundle-keyboardio/8] and [chrysalis-bundle-keyboardio#9][chrysalis-bundle-keyboardio/9].
