@@ -3,8 +3,10 @@
 # 2018-10-25
 
 * Implemented a new plugin, `IdleLEDs`, for which I opened [Kaleidoscope#444][kaleidoscope/444].
+* Followed up by [Kaleidoscope#445][kaleidoscope/445], fixing an overflow in the `IdleLEDs` code. Oops.
 
  [kaleidoscope/444]: https://github.com/keyboardio/Kaleidoscope/pull/444
+ [kaleidoscope/445]: https://github.com/keyboardio/Kaleidoscope/pull/445
 
 # 2018-10-23
 
