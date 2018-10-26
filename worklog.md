@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-26
+
+Spent most of the day debugging why Chrysalis fails on OSX. The results are [Kaleidoscope-Bundle-Keyboardio#7][kaleidoscope-bundle-keyboardio/7] and [chrysalis-focus#1][chrysalis-focus/1].
+
+ [kaleidoscope-bundle-keyboardio/7]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/7
+ [chrysalis-focus/1]: https://github.com/Lepidopterarium/chrysalis-focus/pull/1
+
 # 2018-10-25
 
 * Implemented a new plugin, `IdleLEDs`, for which I opened [Kaleidoscope#444][kaleidoscope/444].
