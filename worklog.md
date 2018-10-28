@@ -3,8 +3,10 @@
 # 2018-10-28
 
 * Fixed [Kaleidoscope#448][kaleidoscope/448], via [Kaleidoscope#449][kaleidoscope/449].
+* Took [Kaleidoscope-LEDControl#27][kaleidoscope-ledcontrol/27], reworked it based on my review notes, and re-submitted as [Kaleidoscope#450][kaleidoscope/450].
 
  [kaleidoscope/449]: https://github.com/keyboardio/Kaleidoscope/pull/449
+ [kaleidoscope/450]: https://github.com/keyboardio/Kaleidoscope/pull/450
 
 # 2018-10-27
 
