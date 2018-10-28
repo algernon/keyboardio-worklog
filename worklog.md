@@ -1,11 +1,20 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-28
+
+* Fixed [Kaleidoscope#448][kaleidoscope/448], via [Kaleidoscope#449][kaleidoscope/449].
+
+ [kaleidoscope/449]: https://github.com/keyboardio/Kaleidoscope/pull/449
+
 # 2018-10-27
 
 * Added a bunch of debugging log messages to Chrysalis.
 * Reworked [Kaleidoscope-OneShot#45][kaleidoscope-oneshot/45], and turned it into [Kaleidoscope#447][kaleidoscope/447].
+* Opened [Kaleidoscope#448][kaleidoscope/448] based on a forum bug report.
 
  [kaleidoscope/447]: https://github.com/keyboardio/Kaleidoscope/pull/447
+ [kaleidoscope/448]: https://github.com/keyboardio/Kaleidoscope/issues/448
+
 
 # 2018-10-26
 
