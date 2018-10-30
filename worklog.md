@@ -3,6 +3,7 @@
 # 2018-10-30
 
 * Reviewed and merged [Model01-Firmware#68][model01-firmware/68].
+* Improved the keyboard detection in Chrysalis, now we also probe for Focus support.
 
  [model01-firmware/68]: https://github.com/keyboardio/Model01-Firmware/pull/68
 
