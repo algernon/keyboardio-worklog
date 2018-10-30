@@ -4,6 +4,8 @@
 
 * Reviewed and merged [Model01-Firmware#68][model01-firmware/68].
 * Improved the keyboard detection in Chrysalis, now we also probe for Focus support.
+* The `chrysalis-focus` library has been made a bit more robust, by making it empty r/w queues before starting a new command.
+* Chrysalis will also pull down the number of read-only layers now, though it doesn't do anything with that information yet.
 
  [model01-firmware/68]: https://github.com/keyboardio/Model01-Firmware/pull/68
 
