@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-10-31
+
+* Opened [Kaleidoscope#451][kaleidoscope/451].
+
+ [kaleidoscope/451]: https://github.com/keyboardio/Kaleidoscope/pull/451
+
 # 2018-10-30
 
 * Reviewed and merged [Model01-Firmware#68][model01-firmware/68].
