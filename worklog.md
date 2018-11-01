@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-01
+
+* Rebased [Kaleidoscope-Cycle#2][kaleidoscope-cycle/2] onto current Kaleidoscope master, and submitted the result as [Kaleidoscope#453][kaleidoscope/453].
+* Archived `Kaleidoscope-Cycle`.
+
+ [kaleidoscope-cycle-2]: https://github.com/keyboardio/Kaleidoscope-Cycle/pull/2
+ [kaleidoscope/453]: https://github.com/keyboardio/Kaleidoscope/pull/453
+
 # 2018-10-31
 
 * Opened [Kaleidoscope#451][kaleidoscope/451].
