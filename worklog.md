@@ -4,6 +4,11 @@
 
 * Changed Chrysalis to use spinners and toasts instead of `console.log`. It's not nice yet, but shows the general direction.
 * Changed Chrysalis to use a dropdown to select layers instead of using tabs.
+* Chrysalis now marks read-only layers as such, and disables the input box, fixing [chrysalis-bundle-keyboardio#15][chrysalis-bundle-keyboardio/15].
+* Chrysalis is now able to set the default layer, fixing [chrysalis-bundle-keyboardio#14][chrysalis-bundle-keyboardio/14].
+
+ [chrysalis-bundle-keyobardio/14]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/14
+ [chrysalis-bundle-keyobardio/15]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/15
 
 # 2018-11-01
 
