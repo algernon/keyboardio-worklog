@@ -6,6 +6,7 @@
 * Changed Chrysalis to use a dropdown to select layers instead of using tabs.
 * Chrysalis now marks read-only layers as such, and disables the input box, fixing [chrysalis-bundle-keyboardio#15][chrysalis-bundle-keyboardio/15].
 * Chrysalis is now able to set the default layer, fixing [chrysalis-bundle-keyboardio#14][chrysalis-bundle-keyboardio/14].
+* Chrysalis learned a whole lot of new keycodes.
 
  [chrysalis-bundle-keyobardio/14]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/14
  [chrysalis-bundle-keyobardio/15]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/15
