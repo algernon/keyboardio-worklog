@@ -1,5 +1,10 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-02
+
+* Changed Chrysalis to use spinners and toasts instead of `console.log`. It's not nice yet, but shows the general direction.
+* Changed Chrysalis to use a dropdown to select layers instead of using tabs.
+
 # 2018-11-01
 
 * Rebased [Kaleidoscope-Cycle#2][kaleidoscope-cycle/2] onto current Kaleidoscope master, and submitted the result as [Kaleidoscope#453][kaleidoscope/453].
