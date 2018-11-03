@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-03
+
+Lots of Chrysalis work. It's nearing a stage where it is both presentable and usable by the adventurous.
+
 # 2018-11-02
 
 * Changed Chrysalis to use spinners and toasts instead of `console.log`. It's not nice yet, but shows the general direction.
