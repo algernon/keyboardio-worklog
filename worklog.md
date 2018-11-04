@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-04
+
+Chrysalis polish, and some new features too.
+
 # 2018-11-03
 
 Lots of Chrysalis work. It's nearing a stage where it is both presentable and usable by the adventurous.
