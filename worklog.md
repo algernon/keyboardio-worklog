@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-05
+
+Chrysalis polish. Some of the code was made much, much nicer and easier to follow.
+
 # 2018-11-04
 
 Chrysalis polish, and some new features too.
