@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-07
+
+* Opened [Kaleidoscope#454][kaleidoscope/454], noticeable optimization for Atreus.
+
+ [kaleidoscope/454]: https://github.com/keyboardio/Kaleidoscope/pull/454
+
+# 2018-11-06
+
+Combed through Jesse's new hardware branch, looking for ideas and getting a feel for it. Had a nice discussion about future plans too.
+
 # 2018-11-05
 
 Chrysalis polish. Some of the code was made much, much nicer and easier to follow.
