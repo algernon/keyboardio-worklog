@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-08
+
+* Opened [Kaleidoscope#455][kaleidoscope/455] and [Kaleidoscope/456][kaleidoscope/456].
+
+ [kaleidoscope/455]: https://github.com/keyboardio/Kaleidoscope/issues/455
+ [kaleidoscope/456]: https://github.com/keyboardio/Kaleidoscope/issues/456
+
 # 2018-11-07
 
 * Opened [Kaleidoscope#454][kaleidoscope/454], noticeable optimization for Atreus.
