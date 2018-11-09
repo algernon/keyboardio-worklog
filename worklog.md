@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-09
+
+Plenty of Chrysalis polish. It can now recognize not only letters, digits, punctuation and spacing, but all those with any combination of modifiers pressed (any combination Kaleidoscope supports, that is). It also learned how to parse TapDance, Leader, and Steno keys.
+
+Parsing has been greatly improved too.
+
 # 2018-11-08
 
 * Opened [Kaleidoscope#455][kaleidoscope/455] and [Kaleidoscope/456][kaleidoscope/456].
