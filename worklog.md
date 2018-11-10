@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-10
+
+* Added SpaceCadet support to Chrysalis - well, parsing of SpaceCadet keys, anyway.
+* Opened [Kaleidoscope#458][kaleidoscope/458], updating the NEWS file.
+
+ [kaleidoscope/458]: https://github.com/keyboardio/Kaleidoscope/pull/458
+
 # 2018-11-09
 
 Plenty of Chrysalis polish. It can now recognize not only letters, digits, punctuation and spacing, but all those with any combination of modifiers pressed (any combination Kaleidoscope supports, that is). It also learned how to parse TapDance, Leader, and Steno keys.
