@@ -1,5 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-14
+
+Finished the [Chrysalis progress report][blog:chrysalis:3], and released [Chrysalis 0.0.5][chrysalis:0.0.5].
+
+ [blog:chrysalis:3]: https://asylum.madhouse-project.org/blog/2018/11/14/chrysalis-progress-report-3/
+ [chrysalis:0.0.5]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/releases/tag/chrysalis-bundle-keyboardio-0.0.5
+
+# 2018-11-13
+
+Wrote most of a Chrysalis progress report.
+
 # 2018-11-10
 
 * Added SpaceCadet support to Chrysalis - well, parsing of SpaceCadet keys, anyway.
