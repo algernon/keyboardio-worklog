@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-15
+
+Helped @obra with making `ATMegaKeyboard` functional and reasonable.
+
 # 2018-11-14
 
 Finished the [Chrysalis progress report][blog:chrysalis:3], and released [Chrysalis 0.0.5][chrysalis:0.0.5].
