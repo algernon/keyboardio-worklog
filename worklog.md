@@ -4,9 +4,11 @@
 
 * Cleaned up the work @obra and I did last night, and submitted it as [Kaleidoscope#461][kaleidoscope/461].
 * Opened [Kaleidoscope#462][kaleidoscope/462], documenting the Planck port.
+* Updated [Kaleidoscope#363][kaleidoscope/363], rebasing it on master and pulling in two extra commits to show a few use-cases.
 
  [kaleidoscope/461]: https://github.com/keyboardio/Kaleidoscope/pull/461
  [kaleidoscope/462]: https://github.com/keyboardio/Kaleidoscope/pull/462
+ [kaleidoscope/363]: https://github.com/keyboardio/Kaleidoscope/pull/363
 
 # 2018-11-15
 
