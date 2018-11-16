@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-16
+
+* Cleaned up the work @obra and I did last night, and submitted it as [Kaleidoscope#461][kaleidoscope/461].
+
+ [kaleidoscope/461]: https://github.com/keyboardio/Kaleidoscope/pull/461
+
 # 2018-11-15
 
 Helped @obra with making `ATMegaKeyboard` functional and reasonable.
