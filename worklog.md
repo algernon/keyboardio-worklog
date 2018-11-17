@@ -7,11 +7,13 @@
 * Opened [Kaleidoscope#465][kaleidoscope/465], documenting the `ATMegaKeyboard` helper a bit.
 * Closed [Kaleidoscope#411][kaleidoscope/411].
 * Opened [Kaleidoscope#466][kaleidoscope/466].
+* Opened [Kaleidoscope#467][kaleidoscope/467].
 
  [kaleidoscope/464]: https://github.com/keyboardio/Kaleidoscope/pull/464
  [kaleidoscope/465]: https://github.com/keyboardio/Kaleidoscope/pull/465
  [kaleidoscope/411]: https://github.com/keyboardio/Kaleidoscope/issues/411
  [kaleidoscope/466]: https://github.com/keyboardio/Kaleidoscope/pull/466
+ [kaleidoscope/467]: https://github.com/keyboardio/Kaleidoscope/pull/467
 
 # 2018-11-16
 
