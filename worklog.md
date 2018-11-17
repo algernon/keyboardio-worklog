@@ -4,8 +4,10 @@
 
 * Opened [Kaleidoscope#464][kaleidoscope/464], making `ATMegaKeyboard` easier to work with.
 * Cherry-picked the Planck parts of `boards.txt` to `Kaleidoscope-Bundle-Keyboardio`.
+* Opened [Kaleidoscope#465][kaleidoscope/465], documenting the `ATMegaKeyboard` helper a bit.
 
  [kaleidoscope/464]: https://github.com/keyboardio/Kaleidoscope/pull/464
+ [kaleidoscope/465]: https://github.com/keyboardio/Kaleidoscope/pull/465
 
 # 2018-11-16
 
