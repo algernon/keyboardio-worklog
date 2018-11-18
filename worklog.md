@@ -4,8 +4,12 @@
 
 * Opened [Kaleidoscope#468][kaleidoscope/468].
 * Updated Kaleidoscope's `.gitignore`.
+* Opened [Kaleidoscope#469][kaleidoscope/469].
+* Opened [Kaleidoscope#470][kaleidoscope/470].
 
  [kaleidoscope/468]: https://github.com/keyboardio/Kaleidoscope/issues/468
+ [kaleidoscope/469]: https://github.com/keyboardio/Kaleidoscope/pull/469
+ [kaleidoscope/470]: https://github.com/keyboardio/Kaleidoscope/pull/470
 
 # 2018-11-17
 
