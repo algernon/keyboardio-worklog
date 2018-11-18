@@ -3,6 +3,7 @@
 # 2018-11-18
 
 * Opened [Kaleidoscope#468][kaleidoscope/468].
+* Updated Kaleidoscope's `.gitignore`.
 
  [kaleidoscope/468]: https://github.com/keyboardio/Kaleidoscope/issues/468
 
