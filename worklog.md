@@ -1,10 +1,19 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-20
+
+* Assisted with [Kaleidoscope#472][kaleidoscope/472].
+
+ [kaleidoscope/472]: https://github.com/keyboardio/Kaleidoscope/pull/472
+
 # 2018-11-19
 
 * Opened [Kaleidoscope#471][kaleidoscope/471].
+* Created a [Shortcut` port][shortcut:port] (again), this time based on `ATMegaKeyboard`, along with a [bundle repo][shortcut:bundle].
 
  [kaleidoscope/471]: https://github.com/keyboardio/Kaleidoscope/pull/471
+ [shortcut:port]: https://git.madhouse-project.org/algernon/Kaleidoscope-Hardware-Dygma-Shortcut
+ [shortcut:bundle]: https://git.madhouse-project.org/algernon/Shortcut-Bundle
 
 # 2018-11-18
 
