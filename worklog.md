@@ -3,8 +3,10 @@
 # 2018-11-21
 
 * Reviewed [Kaleidoscope#473][kaleidoscope/473], and applied similar fixes & optimizations to the ErgoDox port.
+* Opened [Kaleidoscope#474][kaleidoscope/474].
 
  [kaleidoscope/473]: https://github.com/keyboardio/Kaleidoscope/pull/473
+ [kaleidoscope/474]: https://github.com/keyboardio/Kaleidoscope/pull/474
 
 # 2018-11-20
 
