@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-21
+
+* Reviewed [Kaleidoscope#473][kaleidoscope/473], and applied similar fixes & optimizations to the ErgoDox port.
+
+ [kaleidoscope/473]: https://github.com/keyboardio/Kaleidoscope/pull/473
+
 # 2018-11-20
 
 * Assisted with [Kaleidoscope#472][kaleidoscope/472].
