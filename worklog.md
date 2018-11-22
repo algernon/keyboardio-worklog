@@ -3,8 +3,10 @@
 # 2018-11-22
 
 * Opened [Kaleidoscope#475][kaleidoscope/475], porting the ErgoDox to `ATMegaKeyboard`.
+* Opened [Kaleidoscope#476][kaleidoscope/476], to discuss the Focus API and wire protocol.
 
  [kaleidoscope/475]: https://github.com/keyboardio/Kaleidoscope/pull/475
+ [kaleidoscope/476]: https://github.com/keyboardio/Kaleidoscope/issues/476
 
 # 2018-11-21
 
