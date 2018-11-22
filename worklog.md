@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-22
+
+* Opened [Kaleidoscope#475][kaleidoscope/475], porting the ErgoDox to `ATMegaKeyboard`.
+
+ [kaleidoscope/475]: https://github.com/keyboardio/Kaleidoscope/pull/475
+
 # 2018-11-21
 
 * Reviewed [Kaleidoscope#473][kaleidoscope/473], and applied similar fixes & optimizations to the ErgoDox port.
