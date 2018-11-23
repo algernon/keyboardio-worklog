@@ -4,8 +4,10 @@
 
 * Opened [Kaleidoscope#477][kaleidoscope/477].
 * Tried replacing [Kaleidoscope-Bundle-Keyboardio#7][kaleidoscope-bundle-keyboardio/7] with adding `delay` to `Focus.send()` (introduced by [Kaleidoscope#477][kaleidoscope/477]) - sadly it doesn't scale well.
+* Started working on [Kaleidoscope#430][kaleidoscope/430].
 
  [kaleidoscope/477]: https://github.com/keyboardio/Kaleidoscope/pull/477
+ [kaleidoscope/430]: https://github.com/keyboardio/Kaleidoscope/issues/430
 
 # 2018-11-22
 
