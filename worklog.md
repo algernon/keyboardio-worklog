@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-23
+
+* Opened [Kaleidoscope#477][kaleidoscope/477].
+* Tried replacing [Kaleidoscope-Bundle-Keyboardio#7][kaleidoscope-bundle-keyboardio/7] with adding `delay` to `Focus.send()` (introduced by [Kaleidoscope#477][kaleidoscope/477]) - sadly it doesn't scale well.
+
+ [kaleidoscope/477]: https://github.com/keyboardio/Kaleidoscope/pull/477
+
 # 2018-11-22
 
 * Opened [Kaleidoscope#475][kaleidoscope/475], porting the ErgoDox to `ATMegaKeyboard`.
