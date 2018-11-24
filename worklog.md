@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-24
+
+* Opened [Kaleidoscope#479][kaleidoscope/479].
+* Commented on [Kaleidoscope#373][kaleidoscope/373]: I think this should be closed for now.
+
+ [kaleidoscope/479]: https://github.com/keyboardio/Kaleidoscope/issues/479
+
 # 2018-11-23
 
 * Opened [Kaleidoscope#477][kaleidoscope/477].
