@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-29
+
+* Opened [Kaleidoscope#485][kaleidoscope/485].
+
+ [kaleidoscope/485]: https://github.com/keyboardio/Kaleidoscope/pull/485
+
 # 2018-11-26
 
 * Opened [Kaleidoscope#483][kaleidoscope/483], fixing [Kaleidoscope#479][kaleidoscope/479].
