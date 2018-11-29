@@ -3,8 +3,10 @@
 # 2018-11-29
 
 * Opened [Kaleidoscope#485][kaleidoscope/485].
+* Opened [Kaleidoscope#486][kaleidoscope/486].
 
  [kaleidoscope/485]: https://github.com/keyboardio/Kaleidoscope/pull/485
+ [kaleidoscope/486]: https://github.com/keyboardio/Kaleidoscope/pull/486
 
 # 2018-11-26
 
