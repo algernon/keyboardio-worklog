@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-11-30
+
+Rewrote the Chrysalis UI - at least most of it - on top of Material UI. Also added a colormap editor while there, and cleaned up the code a little.
+
 # 2018-11-29
 
 * Opened [Kaleidoscope#485][kaleidoscope/485].
