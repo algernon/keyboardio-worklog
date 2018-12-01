@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-01
+
+Lots of Chrysalis work, too many to list.
+
 # 2018-11-30
 
 Rewrote the Chrysalis UI - at least most of it - on top of Material UI. Also added a colormap editor while there, and cleaned up the code a little.
