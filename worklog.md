@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-02
+
+More Chrysalis work, see the video and the git log, really. Lots of polishing and bug fixing, some new features. It's looking nicer and nicer every day.
+
 # 2018-12-01
 
 Lots of Chrysalis work, too many to list. Also tried to get it working on Windows8.1, but ended up giving up. I could compile it on Windows after much fighting, but getting the COM port to show up was a huge pain in the backside. And then it didn't work properly.
