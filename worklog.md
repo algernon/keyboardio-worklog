@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-03
+
+Some more Chrysalis polish.
+
 # 2018-12-02
 
 More Chrysalis work, see the video and the git log, really. Lots of polishing and bug fixing, some new features. It's looking nicer and nicer every day.
