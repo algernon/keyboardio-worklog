@@ -2,7 +2,15 @@
 
 # 2018-12-04
 
+## Chrysalis
+
 Started the day with trying to set up Redux to be used by Chrysalis, so that we can have some global state store. I got halfway there, but Redux DevTools blew up, and because the devtools are an important part of the development workflow, I'm unable to go further. Decided to postpone this idea for a while, until I have the time and energy to plow through it.
+
+## Kaleidoscope
+
+* Commented on [Kaleidoscope#376][kaleidoscope/376]. We'll need to brainstorm it a bit further at some point.
+
+ [kaleidoscope/376]: https://github.com/keyboardio/Kaleidoscope/issues/376
 
 # 2018-12-03
 
