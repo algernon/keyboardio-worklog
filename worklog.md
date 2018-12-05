@@ -10,7 +10,7 @@ Continued redoing the key selector UI on the layout editor page. It's starting t
 
 ## Kaleidoscope
 
-* Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
+* Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues. Then closed it later after redoing [Kaleidoscope#489][kaleidoscope/489].
 * Opened [Model01-Firmware#71][model01-firmware/71].
 * Opened [Kaleidoscope#489][kaleidoscope/489], on the OSX vs Chrysalis topic still.
 * Opened [Kaleidoscope#490][kaleidoscope/490], fixing [Kaleidoscope#487][kaleidoscope/487].
