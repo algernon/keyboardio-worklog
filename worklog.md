@@ -2,6 +2,12 @@
 
 # 2018-12-05
 
+## Chrysalis
+
+Continued redoing the key selector UI on the layout editor page. It's starting to look usable, but it's just UI at the moment, without any functionality backing it at this time.
+
+## Kaleidoscope
+
 * Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
 * Opened [Model01-Firmware#71][model01-firmware/71].
 * Opened [Kaleidoscope#489][kaleidoscope/489], on the OSX vs Chrysalis topic still.
