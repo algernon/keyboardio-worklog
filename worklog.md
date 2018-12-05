@@ -4,17 +4,22 @@
 
 ## Chrysalis
 
-Continued redoing the key selector UI on the layout editor page. It's starting to look usable, but it's just UI at the moment, without any functionality backing it at this time.
+Continued redoing the key selector UI on the layout editor page. It's starting to look usable. Opened [chrysalis-bundle-keyboardio#40][chrysalis-bundle-keyboardio/40] with the work in progress state. It's already better and more usable than what we had before.
+
+ [chrysalis-bundle-keyboardio/40]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/40
 
 ## Kaleidoscope
 
 * Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
 * Opened [Model01-Firmware#71][model01-firmware/71].
 * Opened [Kaleidoscope#489][kaleidoscope/489], on the OSX vs Chrysalis topic still.
+* Opened [Kaleidoscope#490][kaleidoscope/490], fixing [Kaleidoscope#487][kaleidoscope/487].
 
  [model01-firmware/70]: https://github.com/keyboardio/Model01-Firmware/pull/70
  [model01-firmware/71]: https://github.com/keyboardio/Model01-Firmware/pull/71
  [kaleidoscope/489]: https://github.com/keyboardio/Kaleidoscope/pull/489
+ [kaleidoscope/490]: https://github.com/keyboardio/Kaleidoscope/pull/490
+ [kaleidoscope/487]: https://github.com/keyboardio/Kaleidoscope/issues/487
 
 # 2018-12-04
 
