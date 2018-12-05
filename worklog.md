@@ -4,9 +4,11 @@
 
 * Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
 * Opened [Model01-Firmware#71][model01-firmware/71].
+* Opened [Kaleidoscope#489][kaleidoscope/489], on the OSX vs Chrysalis topic still.
 
  [model01-firmware/70]: https://github.com/keyboardio/Model01-Firmware/pull/70
  [model01-firmware/71]: https://github.com/keyboardio/Model01-Firmware/pull/71
+ [kaleidoscope/489]: https://github.com/keyboardio/Kaleidoscope/pull/489
 
 # 2018-12-04
 
