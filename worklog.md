@@ -1,10 +1,18 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-05
+
+* Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
+
+ [model01-firmware/70]: https://github.com/keyboardio/Model01-Firmware/pull/70
+
 # 2018-12-04
 
 ## Chrysalis
 
 Started the day with trying to set up Redux to be used by Chrysalis, so that we can have some global state store. I got halfway there, but Redux DevTools blew up, and because the devtools are an important part of the development workflow, I'm unable to go further. Decided to postpone this idea for a while, until I have the time and energy to plow through it.
+
+Polished various areas of it instead.
 
 ## Kaleidoscope
 
