@@ -3,8 +3,10 @@
 # 2018-12-05
 
 * Opened [Model01-Firmware#70][model01-firmware/70], which - along with the CDC delays - appears to fix our Chrysalis vs OSX issues.
+* Opened [Model01-Firmware#71][model01-firmware/71].
 
  [model01-firmware/70]: https://github.com/keyboardio/Model01-Firmware/pull/70
+ [model01-firmware/71]: https://github.com/keyboardio/Model01-Firmware/pull/71
 
 # 2018-12-04
 
