@@ -6,7 +6,11 @@
 
 Continued redoing the key selector UI on the layout editor page. It's starting to look usable. Opened [chrysalis-bundle-keyboardio#40][chrysalis-bundle-keyboardio/40] with the work in progress state. It's already better and more usable than what we had before.
 
+- Opened [chrysalis-bundle-keyboardio#41][chrysalis-bundle-keyboardio/41], fixing [chrysalis-bundle-keyboardio#31][chrysalis-bundle-keyboardio/31].
+
  [chrysalis-bundle-keyboardio/40]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/40
+ [chrysalis-bundle-keyboardio/41]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/41
+ [chrysalis-bundle-keyboardio/31]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/31
 
 ## Kaleidoscope
 
