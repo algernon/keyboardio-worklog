@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-06
+
+## Kaleidoscope
+
+* Reworked [Kaleidoscope#475][kaleidoscope/475] pretty much from the ground up. It now subclasses `ATMegaKeyboard` into `ExpanderKeyboard`, and rebuilds the ErgoDox port on top of that.
+
 # 2018-12-05
 
 ## Chrysalis
