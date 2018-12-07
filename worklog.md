@@ -5,6 +5,10 @@
 ## Kaleidoscope
 
 * Reworked [Kaleidoscope#475][kaleidoscope/475] pretty much from the ground up. It now subclasses `ATMegaKeyboard` into `ExpanderKeyboard`, and rebuilds the ErgoDox port on top of that.
+* Ported Kaleidoscope to the SOFT/HRUF Splitography: [Kaleidoscope#491][kaleidoscope/491] & [Kaleidoscope-Bundle-Keyboardio#10][kaleidoscope-bundle-keyboardio/10].
+
+ [kaleidoscope/491]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/10
+ [kaleidoscope-bundle-keyboardio/10]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/10
 
 # 2018-12-05
 
