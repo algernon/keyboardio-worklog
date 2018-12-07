@@ -3,9 +3,11 @@
 # 2018-12-07
 
 * Opened [Kaleidoscope#493][kaleidoscope/493], that implements a new plugin, fixing [Kaleidoscope#492][kaleidoscope/492].
+* Opened [Kaleidoscope#494][kaleidoscope/494], which fixes a bunch of documentation links.
 
  [kaleidoscope/493]: https://github.com/keyboardio/Kaleidoscope/pull/493
  [kaleidoscope/492]: https://github.com/keyboardio/Kaleidoscope/issues/492
+ [kaleidoscope/494]: https://github.com/keyboardio/Kaleidoscope/pull/494
 
 # 2018-12-06
 
