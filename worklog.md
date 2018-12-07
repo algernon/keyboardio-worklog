@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-07
+
+* Opened [Kaleidoscope#493][kaleidoscope/493], that implements a new plugin, fixing [Kaleidoscope#492][kaleidoscope/492].
+
+ [kaleidoscope/493]: https://github.com/keyboardio/Kaleidoscope/pull/493
+ [kaleidoscope/492]: https://github.com/keyboardio/Kaleidoscope/issues/492
+
 # 2018-12-06
 
 ## Kaleidoscope
