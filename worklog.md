@@ -3,8 +3,10 @@
 # 2018-12-08
 
 * Reworked [Kaleidoscope#260][kaleidoscope/260].
+* Opened [chrysalis-bundle-keyboardio#44][chrysalis-bundle-keyboardio/44].
 
  [kaleidoscope/260]: https://github.com/keyboardio/Kaleidoscope/pull/260
+ [chrysalis-bundle-keyboardio/44]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/44
 
 # 2018-12-07
 
