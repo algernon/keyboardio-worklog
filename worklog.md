@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-08
+
+* Reworked [Kaleidoscope#260][kaleidoscope/260].
+
+ [kaleidoscope/260]: https://github.com/keyboardio/Kaleidoscope/pull/260
+
 # 2018-12-07
 
 * Opened [Kaleidoscope#493][kaleidoscope/493], that implements a new plugin, fixing [Kaleidoscope#492][kaleidoscope/492].
