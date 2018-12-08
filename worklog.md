@@ -5,10 +5,12 @@
 * Reworked [Kaleidoscope#260][kaleidoscope/260].
 * Opened [chrysalis-bundle-keyboardio#44][chrysalis-bundle-keyboardio/44].
 * Opened [chrysalis-bundle-keyboardio#45][chrysalis-bundle-keyboardio/45].
+* Opened [Kaleidoscope-Bundle-Keyboardio#11][kaleidoscope-bundle-keyboardio/11].
 
  [kaleidoscope/260]: https://github.com/keyboardio/Kaleidoscope/pull/260
  [chrysalis-bundle-keyboardio/44]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/44
  [chrysalis-bundle-keyboardio/45]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/45
+ [kaleidoscope-bundle-keyboardio/11]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/11
 
 # 2018-12-07
 
