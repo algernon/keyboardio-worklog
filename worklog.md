@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-09
+
+* Opened [Kaleidoscope#496][kaleidoscope/496].
+* Opened [Kaleidoscope#497][kaleidoscope/497].
+
+ [kaleidoscope/496]: https://github.com/keyboardio/Kaleidoscope/issues/496
+ [kaleidoscope/497]: https://github.com/keyboardio/Kaleidoscope/issues/497
+
 # 2018-12-08
 
 * Reworked [Kaleidoscope#260][kaleidoscope/260].
