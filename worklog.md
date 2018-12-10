@@ -3,6 +3,11 @@
 # 2018-12-10
 
 * Added a few ideas to [Kaleidoscope#497][kaleidoscope/497].
+* Ported an old Arduino patch to ArduinoCore-avr: [ArduinoCore-avr#54][arduinocore-avr/54].
+* Installed Windows10 to test Chrysalis with.
+* Figured out how to make Chrysalis work under Win10. `chrysalis-focus` changes are pending, they need to be cleaned up a little.
+
+ [arduinocore-avr/54]: https://github.com/arduino/ArduinoCore-avr/pull/54
 
 # 2018-12-09
 
