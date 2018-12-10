@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-10
+
+* Added a few ideas to [Kaleidoscope#497][kaleidoscope/497].
+
 # 2018-12-09
 
 * Opened [Kaleidoscope#496][kaleidoscope/496].
