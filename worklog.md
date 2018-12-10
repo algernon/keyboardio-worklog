@@ -6,8 +6,10 @@
 * Ported an old Arduino patch to ArduinoCore-avr: [ArduinoCore-avr#54][arduinocore-avr/54].
 * Installed Windows10 to test Chrysalis with.
 * Figured out how to make Chrysalis work under Win10. `chrysalis-focus` changes are pending, they need to be cleaned up a little.
+* Opened [chrysalis-bundle-keyboardio#46][chrysalis-bundle-keyboardio/46].
 
  [arduinocore-avr/54]: https://github.com/arduino/ArduinoCore-avr/pull/54
+ [chrysalis-bundle-keyboardio/46]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/46
 
 # 2018-12-09
 
