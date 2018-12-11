@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-11
+
+* Pushed an update to `chrysalis-focus` that makes it work on both Windows10 and Linux. It might break OSX, and we'll have to figure something out if it does.
+
 # 2018-12-10
 
 * Added a few ideas to [Kaleidoscope#497][kaleidoscope/497].
