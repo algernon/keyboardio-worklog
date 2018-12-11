@@ -3,6 +3,9 @@
 # 2018-12-11
 
 * Pushed an update to `chrysalis-focus` that makes it work on both Windows10 and Linux. It might break OSX, and we'll have to figure something out if it does.
+* Chrysalis UI polishing: moving stuff to a Speed Dial, and adding a screenshot action. [chrysalis-bundle-keyboardio#48][chrysalis-bundle-keyboardio/48].
+
+ [chrysalis-bundle-keyboardio/48]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/48
 
 # 2018-12-10
 
