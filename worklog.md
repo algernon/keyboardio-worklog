@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-13
+
+Chrysalis polishing, as per usual.
+
 # 2018-12-12
 
 A bit of Chrysalis polishing, and planning / setting up for the next release due this weekend.
