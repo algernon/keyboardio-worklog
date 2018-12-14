@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-14
+
+## Chrysalis
+
+Started preparing for the release over the weekend. Set up AppVeyor and Travis builds to produce the artifacts, just need to figure out where to publish them to.
+
+In preparation, I also did a bit of cleanup and polishing.
+
 # 2018-12-13
 
 Chrysalis polishing, as per usual.
