@@ -11,8 +11,10 @@ In preparation, I also did a bit of cleanup and polishing.
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#499][kaleidoscope/499].
+* Opened [Kaleidoscope#500][kaleidoscope/500].
 
  [kaleidoscope/499]: https://github.com/keyboardio/Kaleidoscope/pull/499
+ [kaleidoscope/500]: https://github.com/keyboardio/Kaleidoscope/pull/500
 
 # 2018-12-13
 
