@@ -8,6 +8,12 @@ Started preparing for the release over the weekend. Set up AppVeyor and Travis b
 
 In preparation, I also did a bit of cleanup and polishing.
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#499][kaleidoscope/499].
+
+ [kaleidoscope/499]: https://github.com/keyboardio/Kaleidoscope/pull/499
+
 # 2018-12-13
 
 Chrysalis polishing, as per usual.
