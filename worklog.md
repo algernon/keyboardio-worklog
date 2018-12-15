@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-15
+
+## Chrysalis
+
+* Opened [chrysalis-bundle-keyboardio#61][chrysalis-bundle-keyboardio/61].
+* Opened a few other issues, planned for the 0.1.0 alpha release by the end of the year.
+
+ [chrysalis-bundle-keyboardio/61]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/61
+
 # 2018-12-14
 
 ## Chrysalis
