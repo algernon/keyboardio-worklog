@@ -7,6 +7,16 @@
 * Released Chrysalis 0.0.6.
 * Opened a few more issues towards the 0.1.0 release by the end of the month.
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope-Bundle-Keyboardio#12][kaleidoscope-bundle-keyboardio/12], which reverts [Kaleidoscope-Bundle-Keyboardio#7][kaleidoscope-bundle-keyboardio/7].
+
+ [kaleidoscope-bundle-keyboardio/12]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/12
+
+## OSX
+
+Figured out why *reading* from the keyboard didn't work under OSX: we need the `clocal` flag set on the serial device. It is set on Linux and Windows by default, but is unset on OSX. Once set, reading form the keyboard works 100% reliably without the CDC hack. Writing.... writing still times out, and tweaking termios flags did not help yet.
+
 # 2018-12-15
 
 ## Chrysalis
