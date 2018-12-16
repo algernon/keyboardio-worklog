@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-16
+
+## Chrysalis
+
+* Released Chrysalis 0.0.6.
+* Opened a few more issues towards the 0.1.0 release by the end of the month.
+
 # 2018-12-15
 
 ## Chrysalis
