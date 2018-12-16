@@ -7,6 +7,7 @@
 * Released Chrysalis 0.0.6.
 * Opened a few more issues towards the 0.1.0 release by the end of the month.
 * Opened [chrysalis-bundle-keyboardio#71][chrysalis-bundle-keyboardio/71], fixing the OSX issues.
+* Opened a few PRs, fixing some of the low-hanging fruit on the 0.1.0 milestone.
 
  [chrysalis-bundle-keyboardio/71]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/71
 
