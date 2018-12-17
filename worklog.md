@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-17
+
+## Chrysalis
+
+* Opened a few pull requests with minor fixes.
+
 # 2018-12-16
 
 ## Chrysalis
