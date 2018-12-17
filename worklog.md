@@ -6,6 +6,12 @@
 
 * Opened a few pull requests with minor fixes.
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#503][kaleidoscope/503].
+
+ [kaleidoscope/503]: https://github.com/keyboardio/Kaleidoscope/pull/503
+
 # 2018-12-16
 
 ## Chrysalis
