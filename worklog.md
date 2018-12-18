@@ -15,6 +15,8 @@ Moved all of the `chrysalis-*` low-level libraries into a monorepo, [chrysalis-a
 
  [chrysalis-api]: https://github.com/Lepidopterarium/chrysalis-api
 
+While there, also started working on improving its documentation.
+
 # 2018-12-17
 
 ## Chrysalis
