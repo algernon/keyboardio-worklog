@@ -2,9 +2,10 @@
 
 # 2018-12-18
 
-* Opened [Kaleidoscope#504][kaleidoscope/504].
+* Opened [Kaleidoscope#504][kaleidoscope/504] and [Kaleidoscope-Bundle-Keyboardio#13][kaleidoscope-bundle-keyboardio/13].
 
  [kaleidoscope/504]: https://github.com/keyboardio/Kaleidoscope/pull/504
+ [kaleidoscope-bundle-keyboardio/13]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/13
 
 # 2018-12-17
 
