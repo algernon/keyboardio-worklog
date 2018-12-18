@@ -2,10 +2,18 @@
 
 # 2018-12-18
 
+## Kaleidoscope
+
 * Opened [Kaleidoscope#504][kaleidoscope/504] and [Kaleidoscope-Bundle-Keyboardio#13][kaleidoscope-bundle-keyboardio/13].
 
  [kaleidoscope/504]: https://github.com/keyboardio/Kaleidoscope/pull/504
  [kaleidoscope-bundle-keyboardio/13]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/13
+
+## Chrysalis
+
+Moved all of the `chrysalis-*` low-level libraries into a monorepo, [chrysalis-api][chrysalis-api], and published them on NPM, under the `@chrysalis-api` organisation. Also updated the keyboardio bundle to use the new packages.
+
+ [chrysalis-api]: https://github.com/Lepidopterarium/chrysalis-api
 
 # 2018-12-17
 
