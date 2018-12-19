@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-19
+
+## Chrysalis
+
+* Minor [chrysalis-api][chrysalis-api] polishing.
+
 # 2018-12-18
 
 ## Kaleidoscope
