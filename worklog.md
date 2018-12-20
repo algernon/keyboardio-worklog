@@ -2,6 +2,10 @@
 
 # 2018-12-20
 
+## Chrysalis
+
+* Fixed a few easy issues @obra noticed.
+
 ## Kaleidoscope
 
 * Updated [ToyKeeper's Wavepool][toykeeper:led-wavepool] plugin to work with the v2 API, and integrated most of the other pull request (smoother colors, ability to change hue to static). Work in progress, available on my [plugin/LED-Wavepool][algernon:plugin/wavepool] branch.
