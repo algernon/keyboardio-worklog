@@ -6,7 +6,9 @@
 
 * Updated [ToyKeeper's Wavepool][toykeeper:led-wavepool] plugin to work with the v2 API, and integrated most of the other pull request (smoother colors, ability to change hue to static). Work in progress, available on my [plugin/LED-Wavepool][algernon:plugin/wavepool] branch.
 * Collected all the third-party plugins I could find into a [wiki page][wiki:3rdparty].
+* Opened [Kaleidoscope#507][kaleidoscope/507].
 
+ [kaleidoscope/507]: https://github.com/keyboardio/Kaleidoscope/issues/507
  [toykeeper:led-wavepool]: https://github.com/ToyKeeper/Kaleidoscope-LED-Wavepool
  [algernon:plugin/wavepool]: https://github.com/algernon/Kaleidoscope/tree/plugin/LED-Wavepool
  [wiki:3rdparty]: https://github.com/keyboardio/Kaleidoscope/wiki/Third-Party-Plugins-and-Effects
