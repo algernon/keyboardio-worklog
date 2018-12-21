@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-21
+
+## Chrysalis
+
+* Opened [chrysalis-bundle-keyboardio#90][chrysalis-bundle-keyboardio/90].
+
+ [chrysalis-bundle-keyboardio/90]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/90
+
 # 2018-12-20
 
 ## Chrysalis
