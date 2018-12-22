@@ -6,8 +6,10 @@
 
 * Polishing, debugging flashing, rearranging priorities, triaging issues, etc.
 * Opened [chrysalis-bundle-keyboardio#95][chrysalis-bundle-keyboardio/95], fixing most - if not all - of the flasher roboustness issues.
+* Opened [chrysalis-bundle-keyboardio#96][chrysalis-bundle-keyboardio/96], which adds a way to flash a known-good factory firmware.
 
  [chrysalis-bundle-keyboardio/95]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/95
+ [chrysalis-bundle-keyboardio/96]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/96
 
 # 2018-12-21
 
