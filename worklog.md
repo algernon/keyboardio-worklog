@@ -6,7 +6,9 @@
 
 * Opened [chrysalis-bundle-keyboardio#90][chrysalis-bundle-keyboardio/90].
 * Opened [chrysalis-bundle-keyboardio#91][chrysalis-bundle-keyboardio/91].
+* Opened [chrysalis-bundle-keyboardio#92][chrysalis-bundle-keyboardio/92].
 
+ [chrysalis-bundle-keyboardio/92]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/92
  [chrysalis-bundle-keyboardio/91]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/91
  [chrysalis-bundle-keyboardio/90]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/90
 
