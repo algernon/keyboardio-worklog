@@ -4,7 +4,10 @@
 
 ## Chrysalis
 
-Polishing, debugging flashing, rearranging priorities, triaging issues, etc.
+* Polishing, debugging flashing, rearranging priorities, triaging issues, etc.
+* Opened [chrysalis-bundle-keyboardio#95][chrysalis-bundle-keyboardio/95], fixing most - if not all - of the flasher roboustness issues.
+
+ [chrysalis-bundle-keyboardio/95]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/95
 
 # 2018-12-21
 
