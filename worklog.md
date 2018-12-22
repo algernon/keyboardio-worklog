@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-22
+
+## Chrysalis
+
+Polishing, debugging flashing, rearranging priorities, triaging issues, etc.
+
 # 2018-12-21
 
 ## Chrysalis
