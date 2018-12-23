@@ -10,6 +10,18 @@
  [model01-firmware/73]: https://github.com/keyboardio/Model01-Firmware/pull/73
  [kaleidoscope/512]: https://github.com/keyboardio/Kaleidoscope/pull/512
 
+## Chrysalis
+
+* Opened [chrysalis-bundle-keyboardio#97][chrysalis-bundle-keyboardio/97].
+* Opened [chrysalis-bundle-keyboardio#98][chrysalis-bundle-keyboardio/98].
+* Opened [chrysalis-bundle-keyboardio#99][chrysalis-bundle-keyboardio/99].
+* Opened [chrysalis-bundle-keyboardio#100][chrysalis-bundle-keyboardio/100].
+
+ [chrysalis-bundle-keyboardio/97]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/97
+ [chrysalis-bundle-keyboardio/98]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/98
+ [chrysalis-bundle-keyboardio/99]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/99
+ [chrysalis-bundle-keyboardio/100]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/100
+
 # 2018-12-22
 
 ## Chrysalis
