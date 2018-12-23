@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-23
+
+## Kaleidoscope
+
+* Opened [Model01-Firmware#73][model01-firmware/73].
+
+ [model01-firmware/73]: https://github.com/keyboardio/Model01-Firmware/pull/73
+
 # 2018-12-22
 
 ## Chrysalis
