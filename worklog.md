@@ -16,11 +16,13 @@
 * Opened [chrysalis-bundle-keyboardio#98][chrysalis-bundle-keyboardio/98].
 * Opened [chrysalis-bundle-keyboardio#99][chrysalis-bundle-keyboardio/99].
 * Opened [chrysalis-bundle-keyboardio#100][chrysalis-bundle-keyboardio/100].
+* Opened [chrysalis-bundle-keyboardio#101][chrysalis-bundle-keyboardio/101].
 
  [chrysalis-bundle-keyboardio/97]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/97
  [chrysalis-bundle-keyboardio/98]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/98
  [chrysalis-bundle-keyboardio/99]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/99
  [chrysalis-bundle-keyboardio/100]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/100
+ [chrysalis-bundle-keyboardio/101]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/101
 
 # 2018-12-22
 
