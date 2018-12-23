@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [Model01-Firmware#73][model01-firmware/73].
+* Opened [Kaleidoscope#512][kaleidoscope/512].
 
  [model01-firmware/73]: https://github.com/keyboardio/Model01-Firmware/pull/73
+ [kaleidoscope/512]: https://github.com/keyboardio/Kaleidoscope/pull/512
 
 # 2018-12-22
 
