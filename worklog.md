@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-25
+
+* Opened [Kaleidoscope#514][kaleidoscope/514].
+
+ [kaleidoscope/514]: https://github.com/keyboardio/Kaleidoscope/pull/514
+
 # 2018-12-24
 
 Released Chrysalis 0.1.0.
