@@ -4,6 +4,7 @@
 
 * Opened [Kaleidoscope#514][kaleidoscope/514].
 * Opened [Kaleidoscope#515][kaleidoscope/515].
+* Started working on a way to get rid of kaleidoscope-builder, and have better support for multiple devices within the build system.
 
  [kaleidoscope/514]: https://github.com/keyboardio/Kaleidoscope/pull/514
  [kaleidoscope/515]: https://github.com/keyboardio/Kaleidoscope/pull/515
