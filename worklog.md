@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-24
+
+Released Chrysalis 0.1.0.
+
 # 2018-12-23
 
 ## Kaleidoscope
