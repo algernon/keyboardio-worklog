@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-26
+
+* Further work on the kaleidoscope-builder obsoleting build system.
+
 # 2018-12-25
 
 * Opened [Kaleidoscope#514][kaleidoscope/514].
