@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-27
+
+Finished up the new build system stuff: [Kaleidoscope#517][kaleidoscope/517] & [Kaleidoscope-Build-Tools#5][kaleidoscope-build-tools/5].
+
+ [kaleidoscope/517]: https://github.com/keyboardio/Kaleidoscope/pull/517
+ [kaleidoscope-build-tools/5]: https://github.com/keyboardio/Kaleidoscope-Build-Tools/pull/5
+
 # 2018-12-26
 
 * Further work on the kaleidoscope-builder obsoleting build system.
