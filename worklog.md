@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-28
+
+Various minor cleanups and whatnot around Chrysalis.
+
 # 2018-12-27
 
 Finished up the new build system stuff: [Kaleidoscope#517][kaleidoscope/517] & [Kaleidoscope-Build-Tools#5][kaleidoscope-build-tools/5].
