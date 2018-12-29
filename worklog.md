@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-29
+
+Some small code cleanups in chrysalis-api.
+
 # 2018-12-28
 
 Various minor cleanups and whatnot around Chrysalis.
