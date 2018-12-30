@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-30
+
+Started moving the hardware-specific parts of the Chrysalis bundle out of the bundle, and into the hardware library.
+
 # 2018-12-29
 
 Some small code cleanups in chrysalis-api.
