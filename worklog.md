@@ -2,7 +2,9 @@
 
 # 2018-12-30
 
-Started moving the hardware-specific parts of the Chrysalis bundle out of the bundle, and into the hardware library.
+Started moving the hardware-specific parts of the Chrysalis bundle out of the bundle, and into the hardware library. This went so well, that I ported Chrysalis to the Atreus: [chrysalis-bundle-keyboardio#104][chrysalis-bundle-keyboardio/104].
+
+ [chrysalis-bundle-keyboardio/104]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/104
 
 # 2018-12-29
 
