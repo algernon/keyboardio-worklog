@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2018-12-31
+
+* Opened [chrysalis-bundle-keyboardio#105][chrysalis-bundle-keyboardio/105], fixing [chrysalis-bundle-keyboardio#103][chrysalis-bundle-keyboardio/103].
+* Opened [chrysalis-api#6][chrysalis-api/6].
+* Working on some small UI polishments.
+
+ [chrysalis-api/6]: https://github.com/keyboardio/chrysalis-api/issues/6
+ [chrysalis-bundle-keyboardio/105]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/105
+ [chrysalis-bundle-keyboardio/103]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/103
+
 # 2018-12-30
 
 Started moving the hardware-specific parts of the Chrysalis bundle out of the bundle, and into the hardware library. This went so well, that I ported Chrysalis to the Atreus: [chrysalis-bundle-keyboardio#104][chrysalis-bundle-keyboardio/104].
