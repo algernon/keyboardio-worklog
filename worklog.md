@@ -2,6 +2,12 @@
 
 # 2019-01-01
 
+## Chrysalis
+
+Did a major UI overhaul, it now follows the Material Guidelines more closely. See [chrysalis-bundle-keyboardio#116][chrysalis-bundle-keyboardio/116] for more details.
+
+ [chrysalis-bundle-keyboardio/116]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/116
+
 <!--
 ; Local variables:
 ; eval: (variable-pitch-mode nil)
