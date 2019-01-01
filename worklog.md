@@ -8,12 +8,15 @@
 * Opened [chrysalis-api#6][chrysalis-api/6].
 * Working on some small UI polishments.
 * Added preliminary support for [Dygma Raise][raise]: [chrysalis-bundle-keyboardio#109][chrysalis-bundle-keyboardio/109]
+* Released [Chrysalis 0.2.0][chrysalis:0.2.0]
+* Started playing with a redesign of the UI, that follows the Material UI guidelines more closely.
 
  [chrysalis-api/6]: https://github.com/keyboardio/chrysalis-api/issues/6
  [chrysalis-bundle-keyboardio/105]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/105
  [chrysalis-bundle-keyboardio/103]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/103
  [chrysalis-bundle-keyboardio/109]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/109
  [raise]: https://www.dygma.com/raise/
+ [chrysalis:0.2.0]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/releases/tag/chrysalis-bundle-keyboardio-0.2.0
 
 # 2018-12-30
 
