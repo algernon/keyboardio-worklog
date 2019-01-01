@@ -6,7 +6,10 @@
 
 Did a major UI overhaul, it now follows the Material Guidelines more closely. See [chrysalis-bundle-keyboardio#116][chrysalis-bundle-keyboardio/116] for more details.
 
+Accidentally ported Chrysalis to the ErgoDox: [chrysalis-bundle-keyboardio#117][chrysalis-bundle-keyboardio/117].
+
  [chrysalis-bundle-keyboardio/116]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/116
+ [chrysalis-bundle-keyboardio/117]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/117
 
 <!--
 ; Local variables:
