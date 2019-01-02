@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-02
+
+## Chrysalis
+
+Opened a number of issues with ideas, bugs to fix, and so on, before I forget.
+
 # 2019-01-01
 
 ## Chrysalis
