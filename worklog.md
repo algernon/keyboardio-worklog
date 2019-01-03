@@ -1,10 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-03
+
+## Chrysalis
+
+Polish, polish, polish. Filed a few issues, some ideas, some bugs.
+
 # 2019-01-02
 
 ## Chrysalis
 
-Opened a number of issues with ideas, bugs to fix, and so on, before I forget.
+Opened a number of issues with ideas, bugs to fix, and so on, before I forget. Also fixed a bug or two.
 
 # 2019-01-01
 
