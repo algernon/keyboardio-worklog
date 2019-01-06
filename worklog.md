@@ -9,8 +9,11 @@
 * [Chrysalis#146][chrysalis/146]
 * [Chrysalis#147][chrysalis/147]
 * [Chrysalis#148][chrysalis/148]
+* [@chrysalis-api/keymap#12][chrysalis-api/12]
+* `@chrysalis-api/keymap` had its database improved, now it recognises DualUse keys and modified `Fx` keys.
 
  [chrysalis/145]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/145
+ [chrysalis-api/12]: https://github.com/keyboardio/chrysalis-api/issues/12
  [chrysalis-api/13]: https://github.com/keyboardio/chrysalis-api/issues/13
  [chrysalis/146]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/146
  [chrysalis/147]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/147
