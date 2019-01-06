@@ -11,6 +11,7 @@
 * [Chrysalis#148][chrysalis/148]
 * [@chrysalis-api/keymap#12][chrysalis-api/12]
 * `@chrysalis-api/keymap` had its database improved, now it recognises DualUse keys and modified `Fx` keys.
+* [Chrysalis#149][chrysalis/149]
 
  [chrysalis/145]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/145
  [chrysalis-api/12]: https://github.com/keyboardio/chrysalis-api/issues/12
@@ -18,6 +19,7 @@
  [chrysalis/146]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/146
  [chrysalis/147]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/147
  [chrysalis/148]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/148
+ [chrysalis/149]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/149
 
 # 2019-01-05
 
