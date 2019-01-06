@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-05
+
+## Chrysalis
+
+Moved the key selector and the palette to the bottom. Made it possible to connect to supported keyboards not running Kaleidoscope (to offer a Kaleidoscope-based firmware to upgrade to). Some polishing here and there.
+
+# 2019-01-04
+
+## Chrysalis
+
+Even more polishing and bug fixing.
+
 # 2019-01-03
 
 ## Chrysalis
