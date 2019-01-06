@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#145][chrysalis/145]
+* [@chrysalis-api/keymap#13][chrysalis-api/13]
 
  [chrysalis/145]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/145
+ [chrysalis-api/13]: https://github.com/keyboardio/chrysalis-api/issues/13
 
 # 2019-01-05
 
