@@ -8,11 +8,13 @@
 * [@chrysalis-api/keymap#13][chrysalis-api/13]
 * [Chrysalis#146][chrysalis/146]
 * [Chrysalis#147][chrysalis/147]
+* [Chrysalis#148][chrysalis/148]
 
  [chrysalis/145]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/145
  [chrysalis-api/13]: https://github.com/keyboardio/chrysalis-api/issues/13
  [chrysalis/146]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/146
  [chrysalis/147]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/issues/147
+ [chrysalis/148]: https://github.com/keyboardio/chrysalis-bundle-keyboardio/pull/148
 
 # 2019-01-05
 
