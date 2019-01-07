@@ -13,6 +13,8 @@
 * [Chrysalis#159][chrysalis/159]
 * [Chrysalis#160][chrysalis/160]
 * [Kaleidoscope#519][kaleidoscope/519]
+* [Chrysalis-Firmware-Bundle#1][cfb/1]
+* [Chrysalis-Firmware-Bundle#2][cfb/2]
 
  [chrysalis/153]: https://github.com/keyboardio/Chrysalis/pull/153
  [chrysalis/154]: https://github.com/keyboardio/Chrysalis/pull/154
@@ -23,6 +25,8 @@
  [chrysalis/159]: https://github.com/keyboardio/Chrysalis/issues/159
  [chrysalis/160]: https://github.com/keyboardio/Chrysalis/issues/160
  [kaleidoscope/519]: https://github.com/keyboardio/Kaleidoscope/issues/519
+ [cfb/1]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/1
+ [cfb/2]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/2
 
 # 2019-01-06
 
