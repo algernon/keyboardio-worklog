@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#153][chrysalis/153]
+* [Chrysalis#154][chrysalis/154]
 
  [chrysalis/153]: https://github.com/keyboardio/Chrysalis/pull/153
+ [chrysalis/154]: https://github.com/keyboardio/Chrysalis/pull/154
 
 # 2019-01-06
 
