@@ -7,10 +7,16 @@
 * [Chrysalis#153][chrysalis/153]
 * [Chrysalis#154][chrysalis/154]
 * [Chrysalis#155][chrysalis/155]
+* [Chrysalis#156][chrysalis/156]
+* [Chrysalis#157][chrysalis/157]
+* [Chrysalis#158][chrysalis/158]
 
  [chrysalis/153]: https://github.com/keyboardio/Chrysalis/pull/153
  [chrysalis/154]: https://github.com/keyboardio/Chrysalis/pull/154
  [chrysalis/155]: https://github.com/keyboardio/Chrysalis/issues/155
+ [chrysalis/156]: https://github.com/keyboardio/Chrysalis/issues/156
+ [chrysalis/157]: https://github.com/keyboardio/Chrysalis/issues/157
+ [chrysalis/158]: https://github.com/keyboardio/Chrysalis/issues/158
 
 # 2019-01-06
 
