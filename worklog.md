@@ -14,10 +14,12 @@
 * Closed [Chrysalis#81][chrysalis/81]
 * [Chrysalis#163][chrysalis/163]
 * Implemented `Meh` (`Ctrl+Alt+Shift`) and `Hyper` (`Ctrl+Alt+Shift+Gui`) in `@chrysalis-api/keymap`.
+* [Chrysalis#164][chrysalis/164]
 
  [chrysalis/162]: https://github.com/keyboardio/Chrysalis/pull/162
  [chrysalis/81]: https://github.com/keyboardio/Chrysalis/issues/81
  [chrysalis/163]: https://github.com/keyboardio/Chrysalis/pull/163
+ [chrysalis/164]: https://github.com/keyboardio/Chrysalis/pull/164
 
 # 2019-01-07
 
