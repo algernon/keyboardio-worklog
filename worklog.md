@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-08
+
+## Chrysalis
+
+* [Chrysalis#162][chrysalis/162]
+
+ [chrysalis/162]: https://github.com/keyboardio/Chrysalis/pull/162
+
 # 2019-01-07
 
 ## Chrysalis
@@ -12,6 +20,7 @@
 * [Chrysalis#158][chrysalis/158]
 * [Chrysalis#159][chrysalis/159]
 * [Chrysalis#160][chrysalis/160]
+* [Chrysalis#161][chrysalis/161]
 * [Kaleidoscope#519][kaleidoscope/519]
 * [Chrysalis-Firmware-Bundle#1][cfb/1]
 * [Chrysalis-Firmware-Bundle#2][cfb/2]
@@ -24,6 +33,7 @@
  [chrysalis/158]: https://github.com/keyboardio/Chrysalis/issues/158
  [chrysalis/159]: https://github.com/keyboardio/Chrysalis/issues/159
  [chrysalis/160]: https://github.com/keyboardio/Chrysalis/issues/160
+ [chrysalis/161]: https://github.com/keyboardio/Chrysalis/issues/161
  [kaleidoscope/519]: https://github.com/keyboardio/Kaleidoscope/issues/519
  [cfb/1]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/1
  [cfb/2]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/2
