@@ -2,6 +2,12 @@
 
 # 2019-01-08
 
+## Kaleidoscope
+
+* [Kaleidoscope#520][kaleidoscope/520]
+
+ [kaleidoscope/520]: https://github.com/keyboardio/Kaleidoscope/pull/520
+
 ## Chrysalis
 
 * [Chrysalis#162][chrysalis/162]
