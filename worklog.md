@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#162][chrysalis/162]
+* Closed [Chrysalis#81][chrysalis/81]
 
  [chrysalis/162]: https://github.com/keyboardio/Chrysalis/pull/162
+ [chrysalis/81]: https://github.com/keyboardio/Chrysalis/issues/81
 
 # 2019-01-07
 
