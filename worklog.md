@@ -19,11 +19,13 @@
 * [Chrysalis#164][chrysalis/164]
 * Fixed [Chrysalis-Firmware-Bundle#1][cfb/1]
 * Fixed [Chrysalis-Firmware-Bundle#2][cfb/2]
+* [Chrysalis#165][chrysalis/165]
 
  [chrysalis/162]: https://github.com/keyboardio/Chrysalis/pull/162
  [chrysalis/81]: https://github.com/keyboardio/Chrysalis/issues/81
  [chrysalis/163]: https://github.com/keyboardio/Chrysalis/pull/163
  [chrysalis/164]: https://github.com/keyboardio/Chrysalis/pull/164
+ [chrysalis/165]: https://github.com/keyboardio/Chrysalis/pull/165
 
 # 2019-01-07
 
