@@ -18,6 +18,7 @@
 * Implemented `Meh` (`Ctrl+Alt+Shift`) and `Hyper` (`Ctrl+Alt+Shift+Gui`) in `@chrysalis-api/keymap`
 * [Chrysalis#164][chrysalis/164]
 * Fixed [Chrysalis-Firmware-Bundle#1][cfb/1]
+* Fixed [Chrysalis-Firmware-Bundle#2][cfb/2]
 
  [chrysalis/162]: https://github.com/keyboardio/Chrysalis/pull/162
  [chrysalis/81]: https://github.com/keyboardio/Chrysalis/issues/81
