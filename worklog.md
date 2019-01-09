@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * [Chrysalis#169][chrysalis/169]
+* Fixed [Chrysalis#167][chrysalis/167]
 
  [chrysalis/169]: https://github.com/keyboardio/Chrysalis/pull/169
 
