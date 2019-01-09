@@ -6,6 +6,7 @@
 
 * [Chrysalis#169][chrysalis/169]
 * Fixed [Chrysalis#167][chrysalis/167]
+* Took another stab at [Chrysalis#164][chrysalis/164]
 
  [chrysalis/169]: https://github.com/keyboardio/Chrysalis/pull/169
 
