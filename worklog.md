@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#170][chrysalis/170], fixing [Chrysalis#157][chrysalis/157]
+* [Chrysalis#171][chrysalis/171], fixing [Chrysalis#159][chrysalis/159]
 
  [chrysalis/170]: https://github.com/keyboardio/Chrysalis/pull/170
+ [chrysalis/171]: https://github.com/keyboardio/Chrysalis/pull/171
 
 # 2019-01-09
 
