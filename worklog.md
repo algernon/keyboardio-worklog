@@ -7,9 +7,11 @@
 * [Chrysalis#170][chrysalis/170], fixing [Chrysalis#157][chrysalis/157]
 * [Chrysalis#171][chrysalis/171], fixing [Chrysalis#159][chrysalis/159]
 * Fixed the NEWS file, the ErgoDox news were at the wrong version.
+* Closed [Chrysalis#2][chrysalis/2] as wontfix.
 
  [chrysalis/170]: https://github.com/keyboardio/Chrysalis/pull/170
  [chrysalis/171]: https://github.com/keyboardio/Chrysalis/pull/171
+ [chrysalis/2]: https://github.com/keyboardio/Chrysalis/issues/2
 
 # 2019-01-09
 
