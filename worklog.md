@@ -10,6 +10,7 @@
 * Closed [Chrysalis#2][chrysalis/2] as wontfix
 * [Chrysalis#172][chrysalis/172], fixing [Chrysalis#156][chrysalis/156]
 * [Chrysalis#173][chrysalis/173], fixing [Chrysalis#110][chrysalis/110]
+* [Chrysalis#174][chrysalis/174]
 
  [chrysalis/170]: https://github.com/keyboardio/Chrysalis/pull/170
  [chrysalis/171]: https://github.com/keyboardio/Chrysalis/pull/171
@@ -17,6 +18,7 @@
  [chrysalis/2]: https://github.com/keyboardio/Chrysalis/issues/2
  [chrysalis/173]: https://github.com/keyboardio/Chrysalis/pull/173
  [chrysalis/110]: https://github.com/keyboardio/Chrysalis/issues/110
+ [chrysalis/174]: https://github.com/keyboardio/Chrysalis/issues/174
 
 # 2019-01-09
 
