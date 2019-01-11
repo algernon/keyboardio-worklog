@@ -5,11 +5,13 @@
 ## Chrysalis
 
 * Wrote a new library for flashing Teensies: [teensy-loader.js][teensy-loader.js]
-* [Chrysalis/175][chrysalis/175], fixing [Chrysalis#174][chrysalis/174]
-* Fixed a thinko on the `FirmwareUpdate` page which prevented us from uploading custom firmware.
+* [Chrysalis#175][chrysalis/175], fixing [Chrysalis#174][chrysalis/174]
+* Fixed a thinko on the `FirmwareUpdate` page which prevented us from uploading custom firmware
+* [Chrysalis#176][chrysalis/176]
 
  [chrysalis/175]: https://github.com/keyboardio/Chrysalis/pull/175
  [teensy-loader.js]: https://github.com/keyboardio/teensy-loader.js
+ [chrysalis/176]: https://github.com/keyboardio/Chrysalis/issues/176
 
 # 2019-01-10
 
