@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-11
+
+## Chrysalis
+
+* Wrote a new library for flashing Teensies: [teensy-loader.js][teensy-loader.js]
+* [Chrysalis/175][chrysalis/175], fixing [Chrysalis#174][chrysalis/174]
+
+ [chrysalis/175]: https://github.com/keyboardio/Chrysalis/pull/175
+ [teensy-loader.js]: https://github.com/keyboardio/teensy-loader.js
+
 # 2019-01-10
 
 ## Chrysalis
