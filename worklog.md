@@ -7,10 +7,12 @@
 * [Chrysalis#180][chrysalis/180], fixing [Chrysalis#179][chrysalis/179]
 * [Chrysalis#181][chrysalis/181]
 * [Chrysalis#182][chrysalis/182]
+* [Chrysalis#183][chrysalis/183]
 
  [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
  [chrysalis/181]: https://github.com/keyboardio/Chrysalis/pull/181
  [chrysalis/182]: https://github.com/keyboardio/Chrysalis/pull/182
+ [chrysalis/183]: https://github.com/keyboardio/Chrysalis/pull/183
 
 # 2019-01-11
 
