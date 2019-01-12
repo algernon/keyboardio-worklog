@@ -12,6 +12,7 @@
 * [Chrysalis#185][chrysalis/185]
 * [Chrysalis#187][chrysalis/187], fixing [Chrysalis#76][chrysalis/76]
 * [Chrysalis#188][chrysalis/188], fixing [Chrysalis#186][chrysalis/186]
+* Closed [Chrysalis#134][chrysalis/134] as `wontfix`.
 
  [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
  [chrysalis/181]: https://github.com/keyboardio/Chrysalis/pull/181
@@ -23,6 +24,7 @@
  [chrysalis/187]: https://github.com/keyboardio/Chrysalis/pull/187
  [chrysalis/76]: https://github.com/keyboardio/Chrysalis/issues/76
  [chrysalis/188]: https://github.com/keyboardio/Chrysalis/pull/188
+ [chrysalis/134]: https://github.com/keyboardio/Chrysalis/issues/134
 
 ## Kaleidoscope
 
