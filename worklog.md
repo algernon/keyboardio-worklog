@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-12
+
+## Chrysalis
+
+* [Chrysalis#180][chrysalis/180], fixing [Chrysalis#179][chrysalis/179]
+
+ [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
+
 # 2019-01-11
 
 ## Chrysalis
@@ -8,10 +16,17 @@
 * [Chrysalis#175][chrysalis/175], fixing [Chrysalis#174][chrysalis/174]
 * Fixed a thinko on the `FirmwareUpdate` page which prevented us from uploading custom firmware
 * [Chrysalis#176][chrysalis/176]
+* [Chrysalis#177][chrysalis/177], fixing [Chrysalis#143][chrysalis/143]
+* [Chrysalis#178][chrysalis/178]
+* [Chrysalis#179][chrysalis/179]
 
  [chrysalis/175]: https://github.com/keyboardio/Chrysalis/pull/175
  [teensy-loader.js]: https://github.com/keyboardio/teensy-loader.js
  [chrysalis/176]: https://github.com/keyboardio/Chrysalis/issues/176
+ [chrysalis/178]: https://github.com/keyboardio/Chrysalis/issues/178
+ [chrysalis/179]: https://github.com/keyboardio/Chrysalis/issues/179
+ [chrysalis/177]: https://github.com/keyboardio/Chrysalis/pull/177
+ [chrysalis/143]: https://github.com/keyboardio/Chrysalis/issues/143
 
 # 2019-01-10
 
