@@ -8,11 +8,13 @@
 * [Chrysalis#181][chrysalis/181]
 * [Chrysalis#182][chrysalis/182]
 * [Chrysalis#183][chrysalis/183]
+* [Chrysalis#184][chrysalis/184]
 
  [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
  [chrysalis/181]: https://github.com/keyboardio/Chrysalis/pull/181
  [chrysalis/182]: https://github.com/keyboardio/Chrysalis/pull/182
  [chrysalis/183]: https://github.com/keyboardio/Chrysalis/pull/183
+ [chrysalis/184]: https://github.com/keyboardio/Chrysalis/pull/184
 
 # 2019-01-11
 
