@@ -10,8 +10,8 @@
 * [Chrysalis#183][chrysalis/183]
 * [Chrysalis#184][chrysalis/184]
 * [Chrysalis#185][chrysalis/185]
-* [Chrysalis#186][chrysalis/186]
 * [Chrysalis#187][chrysalis/187], fixing [Chrysalis#76][chrysalis/76]
+* [Chrysalis#188][chrysalis/188], fixing [Chrysalis#186][chrysalis/186]
 
  [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
  [chrysalis/181]: https://github.com/keyboardio/Chrysalis/pull/181
@@ -22,6 +22,7 @@
  [chrysalis/186]: https://github.com/keyboardio/Chrysalis/issues/186
  [chrysalis/187]: https://github.com/keyboardio/Chrysalis/pull/187
  [chrysalis/76]: https://github.com/keyboardio/Chrysalis/issues/76
+ [chrysalis/188]: https://github.com/keyboardio/Chrysalis/pull/188
 
 ## Kaleidoscope
 
