@@ -10,6 +10,7 @@
 * [Chrysalis#183][chrysalis/183]
 * [Chrysalis#184][chrysalis/184]
 * [Chrysalis#185][chrysalis/185]
+* Started implementing support for DualUse keys ([Chrysalis#76][chrysalis/76])
 
  [chrysalis/180]: https://github.com/keyboardio/Chrysalis/pull/180
  [chrysalis/181]: https://github.com/keyboardio/Chrysalis/pull/181
@@ -17,6 +18,7 @@
  [chrysalis/183]: https://github.com/keyboardio/Chrysalis/pull/183
  [chrysalis/184]: https://github.com/keyboardio/Chrysalis/pull/184
  [chrysalis/185]: https://github.com/keyboardio/Chrysalis/pull/185
+ [chrysalis/76]: https://github.com/keyboardio/Chrysalis/issues/76
 
 # 2019-01-11
 
