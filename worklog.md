@@ -30,9 +30,12 @@
 
 ## Kaleidoscope
 
-* [Kaleidoscope#522][kaleidoscope/522]
+* [Kaleidoscope#523][kaleidoscope/523], fixing [Kaleidoscope#522][kaleidoscope/522]
+* [Kaleidoscope#524][kaleidoscope/524]
 
  [kaleidoscope/522]: https://github.com/keyboardio/Kaleidoscope/issues/522
+ [kaleidoscope/523]: https://github.com/keyboardio/Kaleidoscope/pull/523
+ [kaleidoscope/524]: https://github.com/keyboardio/Kaleidoscope/issues/524
 
 # 2019-01-11
 
