@@ -5,8 +5,11 @@
 ## Chrysalis
 
 * [Chrysalis#191][chrysalis/191], fixing [Chrysalis#190][chrysalis/190]
+* [Chrysalis#192][chrysalis/192], fixing [Chrysalis#119][chrysalis/119]
 
+ [chrysalis/192]: https://github.com/keyboardio/Chrysalis/pull/192
  [chrysalis/191]: https://github.com/keyboardio/Chrysalis/pull/191
+ [chrysalis/119]: https://github.com/keyboardio/Chrysalis/issues/119
 
 ## Kaleidoscope
 
