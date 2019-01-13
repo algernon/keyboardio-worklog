@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-13
+
+## Chrysalis
+
+* [Chrysalis#191][chrysalis/191], fixing [Chrysalis#190][chrysalis/190]
+
+ [chrysalis/191]: https://github.com/keyboardio/Chrysalis/pull/191
+
 # 2019-01-12
 
 ## Chrysalis
