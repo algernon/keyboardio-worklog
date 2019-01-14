@@ -9,6 +9,10 @@
 
  [chrysalis/196]: https://github.com/keyboardio/Chrysalis/pull/196
 
+## Kaleidoscope
+
+* Fixed the `MEH` and `HYPER` aliases, which weren't expanding correctly
+
 # 2019-01-13
 
 ## Chrysalis
