@@ -15,6 +15,7 @@
  [chrysalis/197]: https://github.com/keyboardio/Chrysalis/pull/197
  [chrysalis/198]: https://github.com/keyboardio/Chrysalis/issues/198
  [chrysalis/199]: https://github.com/keyboardio/Chrysalis/pull/199
+ [chrysalis/200]: https://github.com/keyboardio/Chrysalis/pull/200
 
 ## Kaleidoscope
 
