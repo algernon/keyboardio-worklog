@@ -10,12 +10,15 @@
 * [Chrysalis#198][chrysalis/198]
 * Minor updates to `Chrysalis-Firmware-Bundle`
 * [Chrysalis#199][chrysalis/199]
+* [Chrysalis#200][chrysalis/200]
+* [Chrysalis#201][chrysalis/201]
 
  [chrysalis/196]: https://github.com/keyboardio/Chrysalis/pull/196
  [chrysalis/197]: https://github.com/keyboardio/Chrysalis/pull/197
  [chrysalis/198]: https://github.com/keyboardio/Chrysalis/issues/198
  [chrysalis/199]: https://github.com/keyboardio/Chrysalis/pull/199
  [chrysalis/200]: https://github.com/keyboardio/Chrysalis/pull/200
+ [chrysalis/201]: https://github.com/keyboardio/Chrysalis/pull/201
 
 ## Kaleidoscope
 
