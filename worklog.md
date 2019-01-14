@@ -12,6 +12,7 @@
 * [Chrysalis#199][chrysalis/199]
 * [Chrysalis#200][chrysalis/200]
 * [Chrysalis#201][chrysalis/201]
+* [Chrysalis#202][chrysalis/202]
 
  [chrysalis/196]: https://github.com/keyboardio/Chrysalis/pull/196
  [chrysalis/197]: https://github.com/keyboardio/Chrysalis/pull/197
@@ -19,6 +20,7 @@
  [chrysalis/199]: https://github.com/keyboardio/Chrysalis/pull/199
  [chrysalis/200]: https://github.com/keyboardio/Chrysalis/pull/200
  [chrysalis/201]: https://github.com/keyboardio/Chrysalis/pull/201
+ [chrysalis/202]: https://github.com/keyboardio/Chrysalis/pull/202
 
 ## Kaleidoscope
 
