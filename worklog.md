@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-14
+
+## Chrysalis
+
+* Partially addressed [teensy-loader.js#1][tljs/1]: tested and fixed on Windows now.
+
 # 2019-01-13
 
 ## Chrysalis
