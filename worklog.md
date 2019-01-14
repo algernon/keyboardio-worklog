@@ -4,7 +4,10 @@
 
 ## Chrysalis
 
-* Partially addressed [teensy-loader.js#1][tljs/1]: tested and fixed on Windows now.
+* Partially addressed [teensy-loader.js#1][tljs/1]: tested and fixed on Windows now
+* [Chrysalis#196][chrysalis/196], fixing [Chrysalis#195][chrysalis/195]
+
+ [chrysalis/196]: https://github.com/keyboardio/Chrysalis/pull/196
 
 # 2019-01-13
 
