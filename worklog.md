@@ -10,6 +10,7 @@
 * [Chrysalis#194][chrysalis/194]
 * [Chrysalis#195][chrysalis/195]
 * [chrysalis-api#14][chrysalis-api/14]
+* [teensy-loader.js#1][tljs/1]
 
  [chrysalis/192]: https://github.com/keyboardio/Chrysalis/pull/192
  [chrysalis/191]: https://github.com/keyboardio/Chrysalis/pull/191
@@ -18,6 +19,7 @@
  [chrysalis/194]: https://github.com/keyboardio/Chrysalis/issues/194
  [chrysalis/195]: https://github.com/keyboardio/Chrysalis/issues/195
  [chrysalis-api/14]: https://github.com/keyboardio/chrysalis-api/issues/14
+ [tljs/1]: https://github.com/keyboardio/teensy-loader.js/issues/1
 
 ## Kaleidoscope
 
