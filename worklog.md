@@ -6,8 +6,13 @@
 
 * Partially addressed [teensy-loader.js#1][tljs/1]: tested and fixed on Windows now
 * [Chrysalis#196][chrysalis/196], fixing [Chrysalis#195][chrysalis/195]
+* [Chrysalis#197][chrysalis/197]
+* [Chrysalis#198][chrysalis/198]
+* Minor updates to `Chrysalis-Firmware-Bundle`
 
  [chrysalis/196]: https://github.com/keyboardio/Chrysalis/pull/196
+ [chrysalis/197]: https://github.com/keyboardio/Chrysalis/pull/197
+ [chrysalis/198]: https://github.com/keyboardio/Chrysalis/issues/198
 
 ## Kaleidoscope
 
