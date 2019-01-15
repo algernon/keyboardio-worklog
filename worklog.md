@@ -4,9 +4,13 @@
 
 ## Chrysalis
 
-* Released [Chrysalis 0.3.0][chrysalis:0.3.0].
+* Released [Chrysalis 0.3.0][chrysalis:0.3.0]
+* [teensy-loader.js#2][tljs/2]
+* [Chrysalis#203][chrysalis/203]
 
  [chrysalis:0.3.0]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.0
+ [chrysalis/203]: https://github.com/keyboardio/Chrysalis/issues/203
+ [tljs/2]: https://github.com/keyboardio/teensy-loader.js/issues/2
 
 # 2019-01-14
 
