@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-15
+
+## Chrysalis
+
+* Released [Chrysalis 0.3.0][chrysalis:0.3.0].
+
+ [chrysalis:0.3.0]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.0
+
 # 2019-01-14
 
 ## Chrysalis
