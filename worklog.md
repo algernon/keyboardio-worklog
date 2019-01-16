@@ -18,12 +18,14 @@
 
 * [Kaleidoscope-Hardware-Virtual#17][k:hw-virt/17]
 * Closed [Kaleidoscope#294][kaleidoscope/294]
-* Rebased [Kaleidoscope#272][kaleidoscope/272] on top of master, resulting in [Kaleidoscope#527][kaleidoscope/527].
+* Rebased [Kaleidoscope#272][kaleidoscope/272] on top of master, resulting in [Kaleidoscope#527][kaleidoscope/527]
+* [Kaleidoscope#528][kaleidoscope/528]
 
  [k:hw-virt/17]: https://github.com/keyboardio/Kaleidoscope-Hardware-Virtual/pull/17
  [kaleidoscope/294]: https://github.com/keyboardio/Kaleidoscope/pull/294
  [kaleidoscope/272]: https://github.com/keyboardio/Kaleidoscope/pull/272
  [kaleidoscope/527]: https://github.com/keyboardio/Kaleidoscope/pull/527
+ [kaleidoscope/528]: https://github.com/keyboardio/Kaleidoscope/pull/528
 
 # 2019-01-15
 
