@@ -5,8 +5,12 @@
 ## Chrysalis
 
 * [Chrysalis#204][chrysalis/204]
+* [Chrysalis#205][chrysalis/205]
+* [Chrysalis#206][chrysalis/206]
 
  [chrysalis/204]: https://github.com/keyboardio/Chrysalis/pull/204
+ [chrysalis/205]: https://github.com/keyboardio/Chrysalis/issues/205
+ [chrysalis/206]: https://github.com/keyboardio/Chrysalis/issues/206
 
 ## Kaleidoscope
 
