@@ -2,6 +2,12 @@
 
 # 2019-01-16
 
+## Chrysalis
+
+* [Chrysalis#204][chrysalis/204]
+
+ [chrysalis/204]: https://github.com/keyboardio/Chrysalis/pull/204
+
 ## Kaleidoscope
 
 * [Kaleidoscope-Hardware-Virtual#17][k:hw-virt/17]
