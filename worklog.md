@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-16
+
+## Kaleidoscope
+
+* [Kaleidoscope-Hardware-Virtual#17][k:hw-virt/17]
+
+ [k:hw-virt/17]: https://github.com/keyboardio/Kaleidoscope-Hardware-Virtual/pull/17
+
 # 2019-01-15
 
 ## Chrysalis
