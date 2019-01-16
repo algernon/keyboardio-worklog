@@ -7,10 +7,12 @@
 * [Chrysalis#204][chrysalis/204]
 * [Chrysalis#205][chrysalis/205]
 * [Chrysalis#206][chrysalis/206]
+* Started making an intro video. Rough script available [here][script:chrysalis:0.3.0]
 
  [chrysalis/204]: https://github.com/keyboardio/Chrysalis/pull/204
  [chrysalis/205]: https://github.com/keyboardio/Chrysalis/issues/205
  [chrysalis/206]: https://github.com/keyboardio/Chrysalis/issues/206
+ [script:chrysalis:0.3.0]: scripts/chrysalis-intro-0.3.0-20190116.md
 
 ## Kaleidoscope
 
