@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-17
+
+## Chrysalis
+
+* [Chrysalis-Firmware-Bundle#3][cfb/3]
+
+ [cfb/3]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/3
+
 # 2019-01-16
 
 ## Chrysalis
