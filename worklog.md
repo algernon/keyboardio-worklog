@@ -19,6 +19,12 @@
  [chrysalis:0.3.1]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.1
  [chrysalis/210]: https://github.com/keyboardio/Chrysalis/issues/210
 
+## Kaleidoscope
+
+* [Kaleidoscope#531][kaleidoscope/531]
+
+ [kaleidoscope/531]: https://github.com/keyboardio/Kaleidoscope/pull/531
+
 # 2019-01-16
 
 ## Chrysalis
