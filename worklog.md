@@ -5,6 +5,8 @@
 ## Chrysalis
 
 * [Chrysalis-Firmware-Bundle#3][cfb/3]
+* Fixed [Chrysalis#205][chrysalis/205], [Chrysalis#206][chrysalis/206]
+* Made the color picker wider so we don't truncate three-digit colors
 
  [cfb/3]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/3
 
