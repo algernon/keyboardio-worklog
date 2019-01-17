@@ -8,7 +8,7 @@
 * Fixed [Chrysalis#205][chrysalis/205], [Chrysalis#206][chrysalis/206]
 * Made the color picker wider so we don't truncate three-digit colors
 * [Chrysalis#208][chrysalis/208]
-* [teensy-loader.js#2][tljs/2]
+* [teensy-loader.js#2][tljs/2], this in turn makes flashing a Teensy work under OSX and Windows too (it already worked on Linux).
 
  [cfb/3]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/3
  [chrysalis/208]: https://github.com/keyboardio/Chrysalis/issues/208
