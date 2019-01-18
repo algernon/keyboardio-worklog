@@ -21,6 +21,10 @@
  [chrysalis/220]: https://github.com/keyboardio/Chrysalis/issues/220
  [chrysalis/222]: https://github.com/keyboardio/Chrysalis/issues/222
 
+## Kaleidoscope
+
+* Talked with Matt Venn about Dygma stuff, and started figuring out our convergence process.
+
 # 2019-01-17
 
 ## Chrysalis
