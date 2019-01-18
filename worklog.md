@@ -7,6 +7,7 @@
 * [Chrysalis#229][chrysalis/229], fixing [Chrysalis#211][chrysalis/211], [Chrysalis#212][chrysalis/212], [Chrysalis#213][chrysalis/213] and [Chrysalis#214][chrysalis/214]
 * [Chrysalis#230][chrysalis/230], fixing [Chrysalis#216][chrysalis/216], and [Chrysalis#217][chrysalis/217]
 * [Chrysalis#231][chrysalis/231], fixing [Chrysalis#219][chrysalis/219], [Chrysalis#220][chrysalis/220], and [Chrysalis#222][chrysalis/222]
+* [Chrysalis#232][chrysalis/232], fixing [Chrysalis#209][chrysalis/209]
 
  [chrysalis/230]: https://github.com/keyboardio/Chrysalis/pull/230
  [chrysalis/229]: https://github.com/keyboardio/Chrysalis/pull/229
@@ -20,6 +21,7 @@
  [chrysalis/219]: https://github.com/keyboardio/Chrysalis/issues/219
  [chrysalis/220]: https://github.com/keyboardio/Chrysalis/issues/220
  [chrysalis/222]: https://github.com/keyboardio/Chrysalis/issues/222
+ [chrysalis/232]: https://github.com/keyboardio/Chrysalis/pull/232
 
 ## Kaleidoscope
 
