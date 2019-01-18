@@ -1,5 +1,26 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-18
+
+## Chrysalis
+
+* [Chrysalis#229][chrysalis/229], fixing [Chrysalis#211][chrysalis/211], [Chrysalis#212][chrysalis/212], [Chrysalis#213][chrysalis/213] and [Chrysalis#214][chrysalis/214]
+* [Chrysalis#230][chrysalis/230], fixing [Chrysalis#216][chrysalis/216], and [Chrysalis#217][chrysalis/217]
+* [Chrysalis#231][chrysalis/231], fixing [Chrysalis#219][chrysalis/219], [Chrysalis#220][chrysalis/220], and [Chrysalis#222][chrysalis/222]
+
+ [chrysalis/230]: https://github.com/keyboardio/Chrysalis/pull/230
+ [chrysalis/229]: https://github.com/keyboardio/Chrysalis/pull/229
+ [chrysalis/231]: https://github.com/keyboardio/Chrysalis/pull/231
+ [chrysalis/211]: https://github.com/keyboardio/Chrysalis/issues/211
+ [chrysalis/212]: https://github.com/keyboardio/Chrysalis/issues/212
+ [chrysalis/213]: https://github.com/keyboardio/Chrysalis/issues/213
+ [chrysalis/214]: https://github.com/keyboardio/Chrysalis/issues/214
+ [chrysalis/216]: https://github.com/keyboardio/Chrysalis/issues/216
+ [chrysalis/217]: https://github.com/keyboardio/Chrysalis/issues/217
+ [chrysalis/219]: https://github.com/keyboardio/Chrysalis/issues/219
+ [chrysalis/220]: https://github.com/keyboardio/Chrysalis/issues/220
+ [chrysalis/222]: https://github.com/keyboardio/Chrysalis/issues/222
+
 # 2019-01-17
 
 ## Chrysalis
