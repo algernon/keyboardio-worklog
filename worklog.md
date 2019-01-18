@@ -12,6 +12,7 @@
 * Released [Chrysalis 0.3.1][chrysalis:0.3.1]
 * [Chrysalis#209][chrysalis/209]
 * [Chrysalis#210][chrysalis/210]
+* Talked a lot with Jesse on Discord with regards to UI/UX improvements
 
  [cfb/3]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/issues/3
  [chrysalis/208]: https://github.com/keyboardio/Chrysalis/issues/208
@@ -22,6 +23,7 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#531][kaleidoscope/531]
+* Closed [Kaleidoscope#524][kaleidoscope/524] as `wontfix`.
 
  [kaleidoscope/531]: https://github.com/keyboardio/Kaleidoscope/pull/531
 
