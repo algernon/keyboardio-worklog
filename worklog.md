@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-19
+
+## Chrysalis
+
+* [Chrysalis#241][chrysalis/241], fixing [Chrysalis#238][chrysalis/238] and [Chrysalis#240][chrysalis/240]
+* Fixed [chrysalis-api#15][chrysalis-api/15]
+
+ [chrysalis/241]: https://github.com/keyboardio/Chrysalis/pull/241
+ [chrysalis/240]: https://github.com/keyboardio/Chrysalis/issues/240
+ [chrysalis/238]: https://github.com/keyboardio/Chrysalis/issues/238
+ [chrysalis-api/15]: https://github.com/keyboardio/chrysalis-api/issues/15
+
 # 2019-01-18
 
 ## Chrysalis
