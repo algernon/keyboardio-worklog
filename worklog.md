@@ -10,7 +10,9 @@
 * [Chrysalis/243][chrysalis/243], fixing [Chrysalis#221][chrysalis/221]
 * [Chrysalis/244][chrysalis/244], fixing [Chrysalis#237][chrysalis/237]
 * Experimented with firmware flash retries ([Chrysalis#239][chrysalis/239]), concluded it is best done a few levels deeper, in the flasher libraries.
+* [Chrysalis/245][chrysalis/245]
 
+ [chrysalis/245]: https://github.com/keyboardio/Chrysalis/pull/245
  [chrysalis/239]: https://github.com/keyboardio/Chrysalis/issues/239
  [chrysalis/244]: https://github.com/keyboardio/Chrysalis/pull/244
  [chrysalis/243]: https://github.com/keyboardio/Chrysalis/pull/243
