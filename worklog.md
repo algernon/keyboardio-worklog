@@ -8,13 +8,16 @@
 * Fixed [chrysalis-api#15][chrysalis-api/15]
 * [Chrysalis/242][chrysalis/242]
 * [Chrysalis/243][chrysalis/243], fixing [Chrysalis#221][chrysalis/221]
+* [Chrysalis/244][chrysalis/244], fixing [Chrysalis#237][chrysalis/237]
 
+ [chrysalis/244]: https://github.com/keyboardio/Chrysalis/pull/244
  [chrysalis/243]: https://github.com/keyboardio/Chrysalis/pull/243
  [chrysalis/242]: https://github.com/keyboardio/Chrysalis/pull/242
  [chrysalis/241]: https://github.com/keyboardio/Chrysalis/pull/241
  [chrysalis/240]: https://github.com/keyboardio/Chrysalis/issues/240
  [chrysalis/221]: https://github.com/keyboardio/Chrysalis/issues/221
  [chrysalis/238]: https://github.com/keyboardio/Chrysalis/issues/238
+ [chrysalis/237]: https://github.com/keyboardio/Chrysalis/issues/237
  [chrysalis-api/15]: https://github.com/keyboardio/chrysalis-api/issues/15
 
 # 2019-01-18
