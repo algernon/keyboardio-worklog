@@ -12,6 +12,7 @@
 * Experimented with firmware flash retries ([Chrysalis#239][chrysalis/239]), concluded it is best done a few levels deeper, in the flasher libraries.
 * [Chrysalis/245][chrysalis/245]
 * [Chrysalis/246][chrysalis/246]
+* Pushed [Chrysalis#60][chrysalis/60] further.
 
  [chrysalis/246]: https://github.com/keyboardio/Chrysalis/pull/246
  [chrysalis/245]: https://github.com/keyboardio/Chrysalis/pull/245
