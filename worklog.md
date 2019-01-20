@@ -9,7 +9,9 @@
 * [Kaleidoscope#537][kaleidoscope/537]
 * [Model01-Firmware#75][fw:m01/75]
 * Gave feedback on [Kaleidoscope-LEDControl#25][plugin:ledcontrol/25], finally
+* Requested changes on [Kaleidoscope#511][kaleidoscope/511]
 
+ [kaleidoscope/511]: https://github.com/keyboardio/Kaleidoscope/pull/511
  [kaleidoscope/535]: https://github.com/keyboardio/Kaleidoscope/issues/535
  [kaleidoscope/536]: https://github.com/keyboardio/Kaleidoscope/pull/536
  [kaleidoscope/537]: https://github.com/keyboardio/Kaleidoscope/pull/537
