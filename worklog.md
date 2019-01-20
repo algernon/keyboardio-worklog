@@ -11,6 +11,7 @@
 * Gave feedback on [Kaleidoscope-LEDControl#25][plugin:ledcontrol/25], finally
 * Requested changes on [Kaleidoscope#511][kaleidoscope/511], and closed [Kaleidoscope#496][kaleidoscope/496]
 * Commented on [Kaleidoscope#292][kaleidoscope/292], and proposed an alternative
+* Closed [Kaleidoscope#359][kaleidoscope/359]
 
  [kaleidoscope/292]: https://github.com/keyboardio/Kaleidoscope/pull/292
  [kaleidoscope/496]: https://github.com/keyboardio/Kaleidoscope/issues/496
