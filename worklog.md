@@ -33,6 +33,15 @@
  [fw:m01/76]: https://github.com/keyboardio/Model01-Firmware/pull/76
  [plugin:ledcontrol/25]: https://github.com/keyboardio/Kaleidoscope-LEDControl/pull/25
 
+## Chrysalis
+
+* Opened [chrysalis-api#16][chrysalis-api/16]
+* Fixed the issue mentioned in [Kaleidoscope#516][kaleidoscope/516] in `Chrysalis-Firmware-Bundle`.
+* Prompted by [Chrysalis#248][chrysalis/248], disable `SpaceCadet` in the `Chrysalis-Firmware-Bundle` sketches. We still ship with it, and it can be enabled via special keys, but it is no longer on by default.
+* Updated the Atreus sketch in `Chrysalis-Firmware-Bundle` to include all the plugins we said it would include.
+
+ [chrysalis-api/16]: https://github.com/keyboardio/chrysalis-api/issues/16
+
 # 2019-01-19
 
 ## Chrysalis
