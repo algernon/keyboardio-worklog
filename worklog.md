@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#535][kaleidoscope/535]
+* [Model01-Firmware#75][fw:m01/75]
 
  [kaleidoscope/535]: https://github.com/keyboardio/Kaleidoscope/issues/535
+ [fw:m01/75]: https://github.com/keyboardio/Model01-Firmware/pull/75
 
 # 2019-01-19
 
