@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-20
+
+## Kaleidoscope
+
+* [Kaleidoscope#535][kaleidoscope/535]
+
+ [kaleidoscope/535]: https://github.com/keyboardio/Kaleidoscope/issues/535
+
 # 2019-01-19
 
 ## Chrysalis
