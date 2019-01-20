@@ -12,7 +12,11 @@
 * Requested changes on [Kaleidoscope#511][kaleidoscope/511], and closed [Kaleidoscope#496][kaleidoscope/496]
 * Commented on [Kaleidoscope#292][kaleidoscope/292], and proposed an alternative
 * Closed [Kaleidoscope#359][kaleidoscope/359]
+* Closed [Kaleidoscope#500][kaleidoscope/500]
+* Requested changes on [Kaleidoscope#506][kaleidoscope/506]
 
+ [kaleidoscope/506]: https://github.com/keyboardio/Kaleidoscope/pull/506
+ [kaleidoscope/500]: https://github.com/keyboardio/Kaleidoscope/pull/500
  [kaleidoscope/292]: https://github.com/keyboardio/Kaleidoscope/pull/292
  [kaleidoscope/496]: https://github.com/keyboardio/Kaleidoscope/issues/496
  [kaleidoscope/511]: https://github.com/keyboardio/Kaleidoscope/pull/511
