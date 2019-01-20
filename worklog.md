@@ -15,8 +15,10 @@
 * Closed [Kaleidoscope#500][kaleidoscope/500]
 * Requested changes on [Kaleidoscope#506][kaleidoscope/506]
 * Commented on [Kaleidoscope#481][kaleidoscope/481]
-* Went on to debug [Kaleidoscope#516][kaleidoscope/516], and identified the bug that prevented LEDs from turning off. Opened [Model01-Firmware#76][fw:m01/76] to fix it.
+* Went on to debug [Kaleidoscope#516][kaleidoscope/516], and identified the bug that prevented LEDs from turning off. Opened [Model01-Firmware#76][fw:m01/76] to fix it
+* Commented on [Kaleidoscope#498][kaleidoscope/498]
 
+ [kaleidoscope/498]: https://github.com/keyboardio/Kaleidoscope/issues/498
  [kaleidoscope/481]: https://github.com/keyboardio/Kaleidoscope/issues/481
  [kaleidoscope/506]: https://github.com/keyboardio/Kaleidoscope/pull/506
  [kaleidoscope/500]: https://github.com/keyboardio/Kaleidoscope/pull/500
