@@ -39,8 +39,15 @@
 * Fixed the issue mentioned in [Kaleidoscope#516][kaleidoscope/516] in `Chrysalis-Firmware-Bundle`.
 * Prompted by [Chrysalis#248][chrysalis/248], disable `SpaceCadet` in the `Chrysalis-Firmware-Bundle` sketches. We still ship with it, and it can be enabled via special keys, but it is no longer on by default.
 * Updated the Atreus sketch in `Chrysalis-Firmware-Bundle` to include all the plugins we said it would include.
+* [Chrysalis#249][chrysalis/249]
+* [Chrysalis#250][chrysalis/250]
+* Completely rearranged `Chrysalis-Firmware-Bundle`, sporting both "default" and "experimental" firmware.
+* Released [Chrysalis 0.3.2][chrysalis:0.3.2]
 
  [chrysalis-api/16]: https://github.com/keyboardio/chrysalis-api/issues/16
+ [chrysalis/249]: https://github.com/keyboardio/Chrysalis/pull/249
+ [chrysalis/250]: https://github.com/keyboardio/Chrysalis/pull/250
+ [chrysalis:0.3.2]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.2
 
 # 2019-01-19
 
