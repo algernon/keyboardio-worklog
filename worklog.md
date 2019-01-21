@@ -4,7 +4,9 @@
 
 ## Kaleidoscope
 
-* Started implementing a `firmware.dump` Focus command. It works, but I need to determine the bootloader size in order to make the dumped amount reliable. I'm not yet sure how to do that.
+* Started implementing a `firmware.dump` Focus command. It works, but I need to determine the bootloader size in order to make the dumped amount reliable. I'm not yet sure how to do that. [Kaleidoscope#538][kaleidoscope/538] is my summary.
+
+ [kaleidoscope/538]: https://github.com/keyboardio/Kaleidoscope/issues/538
 
 # 2019-01-20
 
