@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-21
+
+## Kaleidoscope
+
+* Started implementing a `firmware.dump` Focus command. It works, but I need to determine the bootloader size in order to make the dumped amount reliable. I'm not yet sure how to do that.
+
 # 2019-01-20
 
 ## Kaleidoscope
