@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-22
+
+## Kaleidoscope
+
+* [Kaleidoscope-Bundle-Keyboardio#14][bundle:k/14]
+* [Kaleidoscope#539][kaleidoscope/539]
+
+ [bundle:k/14]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/14
+ [kaleidoscope/539]: https://github.com/keyboardio/Kaleidoscope/pull/539
+
 # 2019-01-21
 
 ## Kaleidoscope
