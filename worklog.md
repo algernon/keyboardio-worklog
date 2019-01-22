@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Started implementing a `firmware.dump` Focus command. It works, but I need to determine the bootloader size in order to make the dumped amount reliable. I'm not yet sure how to do that. [Kaleidoscope#538][kaleidoscope/538] is my summary.
+* Started porting Kaleidoscope to new hardware. Mostly works, but got side-tracked by fighting WS2812 LEDs.
 
  [kaleidoscope/538]: https://github.com/keyboardio/Kaleidoscope/issues/538
 
