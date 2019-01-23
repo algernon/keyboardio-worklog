@@ -2,6 +2,12 @@
 
 # 2019-01-23
 
+## Kaleidoscope
+
+* [Kaleidoscope#543][kaleidoscope/543]
+
+ [kaleidoscope/543]: https://github.com/keyboardio/Kaleidoscope/pull/543
+
 ## Chrysalis
 
 * Commented on some of the open issues
