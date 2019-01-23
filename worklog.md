@@ -6,9 +6,13 @@
 
 * [Kaleidoscope-Bundle-Keyboardio#14][bundle:k/14]
 * [Kaleidoscope#539][kaleidoscope/539]
+* [Kaleidoscope#540][kaleidoscope/540]
+* [Kaleidoscope#541][kaleidoscope/541]
 
  [bundle:k/14]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/14
  [kaleidoscope/539]: https://github.com/keyboardio/Kaleidoscope/pull/539
+ [kaleidoscope/540]: https://github.com/keyboardio/Kaleidoscope/pull/540
+ [kaleidoscope/541]: https://github.com/keyboardio/Kaleidoscope/pull/541
 
 # 2019-01-21
 
