@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-23
+
+## Chrysalis
+
+* Commented on some of the open issues
+
 # 2019-01-22
 
 ## Kaleidoscope
