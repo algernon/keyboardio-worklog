@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#543][kaleidoscope/543]
+* Updated [Kaleidoscope#541][kaleidoscope/541], adding a way to select color order within LED pixels.
 
  [kaleidoscope/543]: https://github.com/keyboardio/Kaleidoscope/pull/543
 
