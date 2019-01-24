@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#548][kaleidoscope/548]
+* [Kaleidoscope#549][kaleidoscope/549], fixing [Kaleidoscope#544][kaleidoscope/544]
 
  [kaleidoscope/548]: https://github.com/keyboardio/Kaleidoscope/issues/548
+ [kaleidoscope/549]: https://github.com/keyboardio/Kaleidoscope/pull/549
 
 # 2019-01-23
 
