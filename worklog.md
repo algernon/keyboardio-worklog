@@ -6,7 +6,9 @@
 
 * [Kaleidoscope#548][kaleidoscope/548]
 * [Kaleidoscope#549][kaleidoscope/549], fixing [Kaleidoscope#544][kaleidoscope/544]
+* [Kaleidoscope#550][kaleidoscope/550], fixing [Kaleidoscope#545][kaleidoscope/545], [Kaleidoscope#546][kaleidoscope/546], and [Kaleidoscope#548][kaleidoscope/548]
 
+ [kaleidoscope/550]: https://github.com/keyboardio/Kaleidoscope/pull/550
  [kaleidoscope/548]: https://github.com/keyboardio/Kaleidoscope/issues/548
  [kaleidoscope/549]: https://github.com/keyboardio/Kaleidoscope/pull/549
 
