@@ -9,6 +9,7 @@
 * [Kaleidoscope#550][kaleidoscope/550], fixing [Kaleidoscope#545][kaleidoscope/545], [Kaleidoscope#546][kaleidoscope/546], and [Kaleidoscope#548][kaleidoscope/548]
 * Wrote docs and finished up [Kaleidoscope#541][kaleidoscope/541]
 * [Kaleidoscope#551][kaleidoscope/551], a WIP PR implementing Underglow.
+* Tested [Kaleidoscope#543][kaleidoscope/543] with different bootloaders, and pushed an updated version.
 
  [kaleidoscope/551]: https://github.com/keyboardio/Kaleidoscope/pull/551
  [kaleidoscope/550]: https://github.com/keyboardio/Kaleidoscope/pull/550
