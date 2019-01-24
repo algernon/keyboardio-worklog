@@ -15,6 +15,10 @@
  [kaleidoscope/548]: https://github.com/keyboardio/Kaleidoscope/issues/548
  [kaleidoscope/549]: https://github.com/keyboardio/Kaleidoscope/pull/549
 
+## Chrysalis
+
+* Minor fixes in `@chrysalis-api/keymap`
+
 # 2019-01-23
 
 ## Kaleidoscope
