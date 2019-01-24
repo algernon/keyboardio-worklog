@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-24
+
+## Kaleidoscope
+
+* [Kaleidoscope#548][kaleidoscope/548]
+
+ [kaleidoscope/548]: https://github.com/keyboardio/Kaleidoscope/issues/548
+
 # 2019-01-23
 
 ## Kaleidoscope
