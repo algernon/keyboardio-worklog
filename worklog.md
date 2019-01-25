@@ -5,7 +5,11 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#552][kaleidoscope/552]
+* Started picking up [Kaleidoscope#344][kaleidoscope/344] again
+* Also started working on EEPROM keymap stuff, towards [Chrysalis#228][chrysalis/228]
 
+ [chrysalis/228]: https://github.com/keyboardio/Chrysalis/issues/228
+ [kaleidoscope/344]: https://github.com/keyboardio/Kaleidoscope/pull/344
  [kaleidoscope/552]: https://github.com/keyboardio/Kaleidoscope/issues/552
 
 ## Chrysalis
