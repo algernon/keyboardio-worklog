@@ -14,8 +14,10 @@
 * Released [Chrysalis 0.3.3][chrysalis:0.3.3]
 * Fixed the Planck keymap in `chrysalis-api`
 * Added support for the KBDFans KBDx4 to `chrysalis-api`
+* [Chrysalis#262][chrysalis/262]
 
  [chrysalis/261]: https://github.com/keyboardio/Chrysalis/issues/261
+ [chrysalis/262]: https://github.com/keyboardio/Chrysalis/pull/262
  [chrysalis:0.3.3]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.3
 
 # 2019-01-24
