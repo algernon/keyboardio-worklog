@@ -2,11 +2,19 @@
 
 # 2019-01-25
 
+## Kaleidoscope
+
+* [Kaleidoscope#552][kaleidoscope/552]
+
+ [kaleidoscope/552]: https://github.com/keyboardio/Kaleidoscope/issues/552
+
 ## Chrysalis
 
 * [Chrysalis#261][chrysalis/261]
+* Released [Chrysalis 0.3.3][chrysalis:0.3.3]
 
  [chrysalis/261]: https://github.com/keyboardio/Chrysalis/issues/261
+ [chrysalis:0.3.3]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.3.3
 
 # 2019-01-24
 
