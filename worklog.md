@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-26
+
+## Kaleidoscope & Chrysalis
+
+* [Chrysalis#228][chrysalis/228]
+
 # 2019-01-25
 
 ## Kaleidoscope
