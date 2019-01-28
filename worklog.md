@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-28
+
+## Chrysalis
+
+* Merged [Chrysalis#265][chrysalis/265], after debugging Electron a bit.
+
+ [chrysalis/265]: https://github.com/keyboardio/Chrysalis/pull/265
+
 # 2019-01-27
 
 ## Kaleidoscope & Chrysalis
