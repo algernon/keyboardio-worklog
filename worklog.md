@@ -2,6 +2,12 @@
 
 # 2019-01-28
 
+## Kaleidoscope
+
+* [Kaleidoscope#553][kaleidoscope/553]
+
+ [kaleidoscope/553]: https://github.com/keyboardio/Kaleidoscope/pull/553
+
 ## Chrysalis
 
 * Merged [Chrysalis#265][chrysalis/265], after debugging Electron a bit.
