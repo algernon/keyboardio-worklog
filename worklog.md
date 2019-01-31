@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-01-31
+
+## Chrysalis
+
+* Fixed a bug in `@chrysalis-api/keymap`'s keycode database, some of the shifted punctuation were off by one.
+
 # 2019-01-29
 
 ## Kaleidoscope
