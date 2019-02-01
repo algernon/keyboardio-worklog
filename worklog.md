@@ -9,6 +9,9 @@
 ## Chrysalis
 
 * Tried to make artifact uploading to S3 work ([Chrysalis#60][chrysalis/60]), but no luck so far.
+* [Chrysalis#269][chrysalis/269]
+
+ [chrysalis/269]: https://github.com/keyboardio/Chrysalis/pull/269
 
 # 2019-01-31
 
