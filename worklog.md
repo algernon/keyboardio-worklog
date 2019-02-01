@@ -6,6 +6,10 @@
 
 * Updated [Kaleidoscope#553][kaleidoscope/553]
 
+## Chrysalis
+
+* Tried to make artifact uploading to S3 work ([Chrysalis#60][chrysalis/60]), but no luck so far.
+
 # 2019-01-31
 
 ## Chrysalis
