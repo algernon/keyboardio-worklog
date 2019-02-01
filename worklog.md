@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-01
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#553][kaleidoscope/553]
+
 # 2019-01-31
 
 ## Chrysalis
