@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-02
+
+## Chrysalis
+
+* Updated [Chrysalis#60][chrysalis/60], it is no longer WIP.
+
 # 2019-02-01
 
 ## Kaleidoscope
