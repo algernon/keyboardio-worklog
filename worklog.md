@@ -10,6 +10,12 @@
  [chrysalis/271]: https://github.com/keyboardio/Chrysalis/issues/271
  [chrysalis/272]: https://github.com/keyboardio/Chrysalis/issues/272
 
+## Kaleidoscope
+
+* [Kaleidoscope#557][kaleidoscope/557]
+
+ [kaleidoscope/557]: https://github.com/keyboardio/Kaleidoscope/pull/557
+
 ## Miscellaneous
 
 * Wrote a [blog post][asylum:nop-nop-nop] about a few fun things encountered while porting Kaleidoscope
