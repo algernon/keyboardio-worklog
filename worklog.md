@@ -9,6 +9,7 @@
 * [Chrysalis#273][chrysalis/273]
 * [Chrysalis#274][chrysalis/274]
 * [Chrysalis#275][chrysalis/275]
+* Started poking at [Chrysalis#210][chrysalis/210]
 
  [chrysalis/271]: https://github.com/keyboardio/Chrysalis/issues/271
  [chrysalis/272]: https://github.com/keyboardio/Chrysalis/issues/272
