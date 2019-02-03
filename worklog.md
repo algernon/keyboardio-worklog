@@ -1,5 +1,19 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-03
+
+## Chrysalis
+
+* [Chrysalis#271][chrysalis/271]
+
+ [chrysalis/271]: https://github.com/keyboardio/Chrysalis/issues/271
+
+## Miscellaneous
+
+* Wrote a [blog post][asylum:nop-nop-nop] about a few fun things encountered while porting Kaleidoscope
+
+ [asylum:nop-nop-nop]: https://asylum.madhouse-project.org/blog/2019/02/03/nop-nop-nop-says-the-clock/
+
 # 2019-02-02
 
 ## Chrysalis
