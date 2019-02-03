@@ -6,9 +6,11 @@
 
 * [Chrysalis#271][chrysalis/271]
 * [Chrysalis#272][chrysalis/272]
+* [Chrysalis#273][chrysalis/273]
 
  [chrysalis/271]: https://github.com/keyboardio/Chrysalis/issues/271
  [chrysalis/272]: https://github.com/keyboardio/Chrysalis/issues/272
+ [chrysalis/273]: https://github.com/keyboardio/Chrysalis/pull/273
 
 ## Kaleidoscope
 
