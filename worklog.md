@@ -15,8 +15,10 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#557][kaleidoscope/557]
+* [Model01-Firmware#77][model01-firmware/77]
 
  [kaleidoscope/557]: https://github.com/keyboardio/Kaleidoscope/pull/557
+ [model01-firmware/77]: https://github.com/keyboardio/Model01-Firmware/pull/77
 
 ## Miscellaneous
 
