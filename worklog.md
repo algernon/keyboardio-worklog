@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#271][chrysalis/271]
+* [Chrysalis#272][chrysalis/272]
 
  [chrysalis/271]: https://github.com/keyboardio/Chrysalis/issues/271
+ [chrysalis/272]: https://github.com/keyboardio/Chrysalis/issues/272
 
 ## Miscellaneous
 
