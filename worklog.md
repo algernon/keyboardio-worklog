@@ -8,10 +8,12 @@
 * [Chrysalis#279][chrysalis/279], fixing [Chrysalis#270][chrysalis/270]
 * [Chrysalis#280][chrysalis/280]
 * Fixed a case of bad search & replace
+* [Chrysalis#281][chrysalis/281]
 
  [chrysalis/278]: https://github.com/keyboardio/Chrysalis/pull/278
  [chrysalis/279]: https://github.com/keyboardio/Chrysalis/pull/279
  [chrysalis/280]: https://github.com/keyboardio/Chrysalis/pull/280
+ [chrysalis/281]: https://github.com/keyboardio/Chrysalis/issues/281
 
 # 2019-02-03
 
