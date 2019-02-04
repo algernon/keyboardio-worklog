@@ -7,6 +7,7 @@
 * [Chrysalis#278][chrysalis/278]
 * [Chrysalis#279][chrysalis/279], fixing [Chrysalis#270][chrysalis/270]
 * [Chrysalis#280][chrysalis/280]
+* Fixed a case of bad search & replace
 
  [chrysalis/278]: https://github.com/keyboardio/Chrysalis/pull/278
  [chrysalis/279]: https://github.com/keyboardio/Chrysalis/pull/279
