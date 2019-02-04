@@ -9,11 +9,15 @@
 * [Chrysalis#280][chrysalis/280]
 * Fixed a case of bad search & replace
 * [Chrysalis#281][chrysalis/281]
+* [Chrysalis#282][chrysalis/282]
+* [Chrysalis#283][chrysalis/283]
 
  [chrysalis/278]: https://github.com/keyboardio/Chrysalis/pull/278
  [chrysalis/279]: https://github.com/keyboardio/Chrysalis/pull/279
  [chrysalis/280]: https://github.com/keyboardio/Chrysalis/pull/280
  [chrysalis/281]: https://github.com/keyboardio/Chrysalis/issues/281
+ [chrysalis/282]: https://github.com/keyboardio/Chrysalis/pull/282
+ [chrysalis/283]: https://github.com/keyboardio/Chrysalis/issues/283
 
 # 2019-02-03
 
