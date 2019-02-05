@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * [Chrysalis#289][chrysalis/289], fixing 6 issues
+* Triaged the Chrysalis bug list a little.
 
  [chrysalis/289]: https://github.com/keyboardio/Chrysalis/pull/289
 
