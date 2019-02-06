@@ -13,6 +13,12 @@
  [chrysalis/295]: https://github.com/keyboardio/Chrysalis/pull/295
  [chrysalis/290]: https://github.com/keyboardio/Chrysalis/issues/290
 
+## Kaleidoscope
+
+* [Kaleidoscope#564][kaleidoscope/564]
+
+ [kaleidoscope/564]: https://github.com/keyboardio/Kaleidoscope/issues/564
+
 # 2019-02-05
 
 ## Chrysalis
