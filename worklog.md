@@ -11,6 +11,12 @@
  [chrysalis/289]: https://github.com/keyboardio/Chrysalis/pull/289
  [chrysalis/267]: https://github.com/keyboardio/Chrysalis/pull/267
 
+## Kaleidoscope
+
+* [Kaleidoscope#561][kaleidoscope/561]
+
+ [kaleidoscope/561]: https://github.com/keyboardio/Kaleidoscope/pull/561
+
 # 2019-02-04
 
 ## Chrysalis
