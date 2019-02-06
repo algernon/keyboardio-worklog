@@ -1,15 +1,24 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-06
+
+## Chrysalis
+
+* Fixed a build issue. Something deep down the dependency chain broke, so we now tell Yarn to resolve the indirect dependency to a version that's fixed.
+
 # 2019-02-05
 
 ## Chrysalis
 
 * [Chrysalis#289][chrysalis/289], fixing 6 issues
 * Triaged the Chrysalis bug list a little.
-* Reviewed [Chrysalis#267][chrysalis/267]
+* Reviewed [Chrysalis#267][chrysalis/267], then merged it.
+* [Chrysalis#293][chrysalis/293], fixing [Chrysalis#292][chrysalis/292]
 
  [chrysalis/289]: https://github.com/keyboardio/Chrysalis/pull/289
  [chrysalis/267]: https://github.com/keyboardio/Chrysalis/pull/267
+ [chrysalis/292]: https://github.com/keyboardio/Chrysalis/issues/292
+ [chrysalis/293]: https://github.com/keyboardio/Chrysalis/pull/293
 
 ## Kaleidoscope
 
