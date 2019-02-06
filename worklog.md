@@ -6,8 +6,10 @@
 
 * Fixed a build issue. Something deep down the dependency chain broke, so we now tell Yarn to resolve the indirect dependency to a version that's fixed.
 * [Chrysalis#294][chrysalis/294], fixing [Chrysalis#290][chrysalis/290]
+* [Chrysalis#295][chrysalis/295]
 
  [chrysalis/294]: https://github.com/keyboardio/Chrysalis/pull/294
+ [chrysalis/295]: https://github.com/keyboardio/Chrysalis/pull/295
  [chrysalis/290]: https://github.com/keyboardio/Chrysalis/issues/290
 
 # 2019-02-05
