@@ -8,10 +8,12 @@
 * [Chrysalis#294][chrysalis/294], fixing [Chrysalis#290][chrysalis/290]
 * [Chrysalis#295][chrysalis/295]
 * Opened a few idea-issues, based on our chat with @samaaron. Thanks!
+* Released [Chrysalis 0.4.0][chrysalis:0.4.0]
 
  [chrysalis/294]: https://github.com/keyboardio/Chrysalis/pull/294
  [chrysalis/295]: https://github.com/keyboardio/Chrysalis/pull/295
  [chrysalis/290]: https://github.com/keyboardio/Chrysalis/issues/290
+ [chrysalis:0.4.0]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.4.0
 
 ## Kaleidoscope
 
