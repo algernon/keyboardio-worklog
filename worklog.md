@@ -6,6 +6,7 @@
 
 * [Chrysalis#304][chrysalis/304]
 * [Chrysalis#305][chrysalis/305]
+* Started extracting a `react-kle-keymap` library to make it easier to create keymap components for hardware libraries.
 
  [chrysalis/304]: https://github.com/keyboardio/Chrysalis/pull/304
  [chrysalis/305]: https://github.com/keyboardio/Chrysalis/pull/305
