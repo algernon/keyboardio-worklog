@@ -9,10 +9,12 @@
 * Started extracting a `react-kle-keymap` library to make it easier to create keymap components for hardware libraries. ([chrysalis-api#14][chrysalis-api/14])
 * [chrysalis-api#18][chrysalis-api/18]
 * Added a DFU programmer flasher to `@chrysalis-api/flash`
+* [Chrysalis#308][chrysalis/308]
 
  [chrysalis/304]: https://github.com/keyboardio/Chrysalis/pull/304
  [chrysalis/305]: https://github.com/keyboardio/Chrysalis/pull/305
  [chrysalis-api/18]: https://github.com/keyboardio/chrysalis-api/issues/18
+ [chrysalis/308]: https://github.com/keyboardio/Chrysalis/pull/308
 
 # 2019-02-06
 
