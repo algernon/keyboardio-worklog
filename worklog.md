@@ -2,9 +2,11 @@
 
 # 2019-02-08
 
-* [Chrysalis#308][chrysalis/308]
+* [Chrysalis#309][chrysalis/309]
+* [Chrysalis#310][chrysalis/310]
 
- [chrysalis/308]: https://github.com/keyboardio/Chrysalis/pull/309
+ [chrysalis/309]: https://github.com/keyboardio/Chrysalis/pull/309
+ [chrysalis/310]: https://github.com/keyboardio/Chrysalis/pull/310
 
 # 2019-02-07
 
