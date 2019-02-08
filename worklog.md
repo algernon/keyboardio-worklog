@@ -4,9 +4,11 @@
 
 * [Chrysalis#309][chrysalis/309]
 * [Chrysalis#310][chrysalis/310]
+* [Chrysalis#311][chrysalis/311]
 
  [chrysalis/309]: https://github.com/keyboardio/Chrysalis/pull/309
  [chrysalis/310]: https://github.com/keyboardio/Chrysalis/pull/310
+ [chrysalis/311]: https://github.com/keyboardio/Chrysalis/pull/311
 
 # 2019-02-07
 
