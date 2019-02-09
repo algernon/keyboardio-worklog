@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis/314][chrysalis/314]
+* [Chrysalis/317][chrysalis/317]
 
  [chrysalis/314]: https://github.com/keyboardio/Chrysalis/issues/314
+ [chrysalis/317]: https://github.com/keyboardio/Chrysalis/pull/317
 
 ## Kaleidoscope
 
