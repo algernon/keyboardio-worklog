@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-09
+
+## Kaleidoscope
+
+* [Kaleidoscope#567][kaleidoscope/567]
+
+ [kaleidoscope/567]: https://github.com/keyboardio/Kaleidoscope/pull/567
+
 # 2019-02-08
 
 * [Chrysalis#309][chrysalis/309]
