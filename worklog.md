@@ -2,6 +2,12 @@
 
 # 2019-02-09
 
+## Chrysalis
+
+* [Chrysalis/314][chrysalis/314]
+
+ [chrysalis/314]: https://github.com/keyboardio/Chrysalis/issues/314
+
 ## Kaleidoscope
 
 * [Kaleidoscope#567][kaleidoscope/567]
