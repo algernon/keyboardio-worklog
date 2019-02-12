@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-12
+
+## Chrysalis
+
+* Wrote a small demo to show how to use the `@chrysalis-api` libraries.
+
 # 2019-02-09
 
 ## Chrysalis
