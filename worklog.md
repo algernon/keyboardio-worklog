@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * [Kaleidoscope#578][kaleidoscope/578]
+* [Kaleidoscope#579][kaleidoscope/579]
 
  [kaleidoscope/578]: https://github.com/keyboardio/Kaleidoscope/pull/578
+ [kaleidoscope/579]: https://github.com/keyboardio/Kaleidoscope/pull/579
 
 # 2019-02-17
 
