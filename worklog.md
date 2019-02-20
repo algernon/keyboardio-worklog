@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * [Chrysalis#323][chrysalis/323]
+* Updated [Chrysalis#317][chrysalis/317]
 
  [chrysalis/323]: https://github.com/keyboardio/Chrysalis/issues/323
 
