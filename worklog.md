@@ -6,6 +6,7 @@
 
 * [Chrysalis#323][chrysalis/323]
 * Updated [Chrysalis#317][chrysalis/317]
+* Finished up [Chrysalis#322][chrysalis/322], and removed the WIP flag accordingly
 
  [chrysalis/323]: https://github.com/keyboardio/Chrysalis/issues/323
 
