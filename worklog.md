@@ -9,7 +9,9 @@
 * [Chrysalis#325][chrysalis/325], fixing [Chrysalis#312][chrysalis/312]
 * Closed [Chrysalis#259][chrysalis/259] in favour of [Chrysalis#297][chrysalis/297]
 * [Chrysalis#326][chrysalis/326], fixing [Chrysalis#283][chrysalis/283]
+* [Chrysalis#327][chrysalis/327]
 
+ [chrysalis/327]: https://github.com/keyboardio/Chrysalis/pull/327
  [chrysalis/326]: https://github.com/keyboardio/Chrysalis/pull/326
  [chrysalis/259]: https://github.com/keyboardio/Chrysalis/issues/259
  [chrysalis/297]: https://github.com/keyboardio/Chrysalis/issues/297
