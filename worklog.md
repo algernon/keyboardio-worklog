@@ -15,7 +15,9 @@
 * Triaged the Chrysalis bug list, closing a few things, splitting others, and setting up the [Chrysalis 0.6.0][chrysalis:0.6.0] and [Chrysalis 0.7.0][chrysalis:0.7.0] milestones.
 * [Chrysalis#330][chrysalis/330]
 * [Chrysalis#331][chrysalis/331]
+* [Chrysalis#332][chrysalis/332]
 
+ [chrysalis/332]: https://github.com/keyboardio/Chrysalis/pull/332
  [chrysalis/331]: https://github.com/keyboardio/Chrysalis/pull/331
  [chrysalis:0.6.0]: https://github.com/keyboardio/Chrysalis/milestone/8
  [chrysalis:0.7.0]: https://github.com/keyboardio/Chrysalis/milestone/9
