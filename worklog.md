@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Pushed a new `@chrysalis-api/hardware` release, and updated Chrysalis' dependency
+* Finished up [Chrysalis#295][chrysalis/295], and removed the WIP flag
 
 ## Miscellaneous
 
