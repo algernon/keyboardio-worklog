@@ -1,0 +1,6 @@
+#! /bin/sh
+log=$(tools/get-daily-log.pl $*)
+
+if [ ! -z "${log}" ]; then
+    echo "${log}" | msmtp -a csillger -t
+fi
