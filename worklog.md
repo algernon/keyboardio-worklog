@@ -6,6 +6,10 @@
 
 * Pushed a new `@chrysalis-api/hardware` release, and updated Chrysalis' dependency
 
+## Miscellaneous
+
+* Wrote a small tool to extract the previous day's log, and mail it to Jesse
+
 # 2019-02-20
 
 ## Chrysalis
