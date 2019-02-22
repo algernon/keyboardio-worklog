@@ -11,7 +11,9 @@
 * [Chrysalis#326][chrysalis/326], fixing [Chrysalis#283][chrysalis/283]
 * [Chrysalis#327][chrysalis/327]
 * [Chrysalis#328][chrysalis/328]
+* [Chrysalis#329][chrysalis/329]
 
+ [chrysalis/329]: https://github.com/keyboardio/Chrysalis/pull/329
  [chrysalis/328]: https://github.com/keyboardio/Chrysalis/pull/328
  [chrysalis/327]: https://github.com/keyboardio/Chrysalis/pull/327
  [chrysalis/326]: https://github.com/keyboardio/Chrysalis/pull/326
