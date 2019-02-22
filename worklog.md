@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-02-22
+
+## Chrysalis
+
+* Pushed a new `@chrysalis-api/hardware` release, and updated Chrysalis' dependency
+
 # 2019-02-20
 
 ## Chrysalis
