@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * [Chrysalis#333][chrysalis/333]
+* [Chrysalis#334][chrysalis/334]
 
  [chrysalis/333]: https://github.com/keyboardio/Chrysalis/issues/333
+ [chrysalis/334]: https://github.com/keyboardio/Chrysalis/pull/334
 
 # 2019-02-22
 
