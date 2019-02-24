@@ -6,7 +6,9 @@
 
 * [Chrysalis#337][chrysalis/337], fixing [Chrysalis#335][chrysalis/335]
 * [Chrysalis#338][chrysalis/338], fixing [Chrysalis#333][chrysalis/333]
+* [Chrysalis#339][chrysalis/339], fixing [Chrysalis#297][chrysalis/297]
 
+ [chrysalis/339]: https://github.com/keyboardio/Chrysalis/pull/339
  [chrysalis/338]: https://github.com/keyboardio/Chrysalis/pull/338
  [chrysalis/337]: https://github.com/keyboardio/Chrysalis/pull/337
 
