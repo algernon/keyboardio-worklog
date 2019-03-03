@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-03
+
+## Kaleidoscope
+
+* Posted an update on [Kaleidoscope#517][kaleidoscope/517]
+
+ [kaleidoscope/517]: https://github.com/keyboardio/Kaleidoscope/pull/517
+
 # 2019-03-02
 
 ## Kaleidoscope
