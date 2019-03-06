@@ -4,9 +4,10 @@
 
 ## Chrysalis
 
-* [Chrysalis#342][chrysalis/342]
+* [Chrysalis#342][chrysalis/342], and [Chrysalis#343][chrysalis/343] fixing it
 
  [chrysalis/342]: https://github.com/keyboardio/Chrysalis/issues/342
+ [chrysalis/343]: https://github.com/keyboardio/Chrysalis/pull/343
 
 # 2019-03-03
 
