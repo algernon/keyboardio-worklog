@@ -5,9 +5,12 @@
 ## Chrysalis
 
 * [Chrysalis#342][chrysalis/342], and [Chrysalis#343][chrysalis/343] fixing it
+* [Chrysalis#344][chrysalis/344], fixing [Chrisalis#218][chrysalis/218]
 
  [chrysalis/342]: https://github.com/keyboardio/Chrysalis/issues/342
  [chrysalis/343]: https://github.com/keyboardio/Chrysalis/pull/343
+ [chrysalis/218]: https://github.com/keyboardio/Chrysalis/issues/218
+ [chrysalis/344]: https://github.com/keyboardio/Chrysalis/pull/344
 
 # 2019-03-03
 
