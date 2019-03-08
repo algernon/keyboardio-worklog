@@ -11,7 +11,10 @@
 ## Kaleidoscope
 
 * Reviewed [Kaleidoscope#595][kaleidoscope/595] and [Model01-Firmware#82][model01-firmware/82]
+* Opened [Kaleidoscope#596][kaleidoscope/596], fixing [Chrysalis#341][chrysalis/341]
 
+ [kaleidoscope/596]: https://github.com/keyboardio/Kaleidoscope/pull/596
+ [chrysalis/341]: https://github.com/keyboardio/Chrysalis/issues/341
  [kaleidoscope/595]: https://github.com/keyboardio/Kaleidoscope/pull/595
  [model01-firmware/82]: https://github.com/keyboardio/Model01-Firmware/pull/82
 
