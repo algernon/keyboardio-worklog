@@ -2,6 +2,12 @@
 
 # 2019-03-08
 
+## Chrysalis
+
+* Opened [Chrysalis#345][chrysalis/345], fixing [Chrysalis#336][chrysalis/336]
+
+ [chrysalis/345]: https://github.com/keyboardio/Chrysalis/pull/345
+
 ## Kaleidoscope
 
 * Reviewed [Kaleidoscope#595][kaleidoscope/595] and [Model01-Firmware#82][model01-firmware/82]
