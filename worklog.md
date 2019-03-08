@@ -7,9 +7,11 @@
 * Opened [Chrysalis#345][chrysalis/345], fixing [Chrysalis#336][chrysalis/336]
 * Finished up [Chrysalis#331][chrysalis/331]
 * [Chrysalis#346][chrysalis/346]
+* [Chrysalis#347][chrysalis/347]
 
  [chrysalis/345]: https://github.com/keyboardio/Chrysalis/pull/345
  [chrysalis/346]: https://github.com/keyboardio/Chrysalis/issues/346
+ [chrysalis/347]: https://github.com/keyboardio/Chrysalis/pull/347
 
 ## Kaleidoscope
 
