@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Opened [Chrysalis#345][chrysalis/345], fixing [Chrysalis#336][chrysalis/336]
+* Finished up [Chrysalis#331][chrysalis/331]
 
  [chrysalis/345]: https://github.com/keyboardio/Chrysalis/pull/345
 
