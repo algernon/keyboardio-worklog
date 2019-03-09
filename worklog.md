@@ -5,9 +5,11 @@
 ## Kaleidoscope
 
 * Commented on, and approved [Model01-Firmware#79][model01-firmware/79] and [Kaleidoscope#575][kaleidoscope/575]
+* Closed [Kaleidoscope#590][kaleidoscope/590]
 
  [model01-firmware/79]: https://github.com/keyboardio/Model01-Firmware/pull/79
  [kaleidoscope/575]: https://github.com/keyboardio/Kaleidoscope/pull/575
+ [kaleidoscope/590]: https://github.com/keyboardio/Kaleidoscope/issues/590
 
 ## Chrysalis
 
