@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-10
+
+## Kaleidoscope
+
+* Further brain-storming on [Kaleidoscope#587][kaleidoscope/587]
+
 # 2019-03-09
 
 ## Kaleidoscope
