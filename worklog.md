@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-13
+
+## Chrysalis
+
+* Opened [Chrysalis#352][chrysalis/352]
+
+ [chrysalis/352]: https://github.com/keyboardio/Chrysalis/issues/352
+
 # 2019-03-12
 
 ## Kaleidoscope
