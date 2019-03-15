@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-15
+
+## Chrysalis
+
+* Fixed [Chrysalis#353][chrysalis/353]
+
+ [chrysalis/353]: https://github.com/keyboardio/Chrysalis/issues/353
+
 # 2019-03-14
 
 ## Chrysalis
