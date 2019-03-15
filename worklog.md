@@ -2,6 +2,13 @@
 
 # 2019-03-15
 
+## Kaleidoscope
+
+* Reviewed [Kaleidoscope#502][kaleidoscope/502] and [Kaleidoscope#505][kaleidoscope/505] again. Sadly they still break OneShot
+
+ [kaleidoscope/502]: https://github.com/keyboardio/Kaleidoscope/pull/502
+ [kaleidoscope/505]: https://github.com/keyboardio/Kaleidoscope/pull/505
+
 ## Chrysalis
 
 * Fixed [Chrysalis#353][chrysalis/353]
