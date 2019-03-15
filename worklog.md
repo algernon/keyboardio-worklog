@@ -4,10 +4,11 @@
 
 ## Kaleidoscope
 
-* Reviewed [Kaleidoscope#502][kaleidoscope/502] and [Kaleidoscope#505][kaleidoscope/505] again. Sadly they still break OneShot
+* Reviewed [Kaleidoscope#502][kaleidoscope/502] and [Kaleidoscope#505][kaleidoscope/505] again, approved both.
 * Merged [Kaleidoscope#575][kaleidoscope/575] and [Model01-Firmware#79][model01-firmware/79], and updated Kaleidoscope's `NEWS.md` about the breaking change.
 * Reviewed and commented on [Kaleidoscope#600][kaleidoscope/600]
 * Reviewed, and requested changes on [Kaleidoscope#601][kaleidoscope/601]
+* Opened [Kaleidoscope#603][kaleidoscope/603]
 
  [kaleidoscope/502]: https://github.com/keyboardio/Kaleidoscope/pull/502
  [kaleidoscope/505]: https://github.com/keyboardio/Kaleidoscope/pull/505
@@ -15,6 +16,7 @@
  [model01-firmware/79]: https://github.com/keyboardio/Model01-Firmware/pull/79
  [kaleidoscope/600]: https://github.com/keyboardio/Kaleidoscope/pull/600
  [kaleidoscope/601]: https://github.com/keyboardio/Kaleidoscope/pull/601
+ [kaleidoscope/603]: https://github.com/keyboardio/Kaleidoscope/issues/603
 
 ## Chrysalis
 
