@@ -15,8 +15,9 @@
 ## Chrysalis
 
 * Fixed [Chrysalis#353][chrysalis/353]
-* Debugged [Chrysalis#351][chrysalis/351]
+* Debugged [Chrysalis#351][chrysalis/351] and [Chrysalis#349][chrysalis/349]
 
+ [chrysalis/349]: https://github.com/keyboardio/Chrysalis/issues/349
  [chrysalis/353]: https://github.com/keyboardio/Chrysalis/issues/353
  [chrysalis/351]: https://github.com/keyboardio/Chrysalis/issues/351
 
