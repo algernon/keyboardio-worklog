@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-16
+
+## Kaleidoscope
+
+* Merged [Kaleidoscope#605][kaleidoscope/605]
+
+ [kaleidoscope/605]: https://github.com/keyboardio/Kaleidoscope/pull/605
+
 # 2019-03-15
 
 ## Kaleidoscope
