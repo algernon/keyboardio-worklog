@@ -6,9 +6,11 @@
 
 * Reviewed and merged [Chrysalis#355][chrysalis/355]
 * Opened [Chrysalis#356][chrysalis/356], fixing [Chrysalis#352][chrysalis/352]
+* Started setting up the [Chrysalis 0.5.1][chrysalis/0.5.1] milestone
 
  [chrysalis/355]: https://github.com/keyboardio/Chrysalis/pull/355
  [chrysalis/356]: https://github.com/keyboardio/Chrysalis/pull/356
+ [chrysalis/0.5.1]: https://github.com/keyboardio/Chrysalis/milestone/10
 
 # 2019-03-16
 
