@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * Reviewed and merged [Chrysalis#355][chrysalis/355]
+* Opened [Chrysalis#356][chrysalis/356], fixing [Chrysalis#352][chrysalis/352]
 
  [chrysalis/355]: https://github.com/keyboardio/Chrysalis/pull/355
+ [chrysalis/356]: https://github.com/keyboardio/Chrysalis/pull/356
 
 # 2019-03-16
 
