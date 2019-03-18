@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-18
+
+## Chrysalis
+
+* Merged [Chrysalis#357][chrysalis/357]
+* Reviewed and requested changes on [Chrysalis#358][chrysalis/358]
+
+ [chrysalis/357]: https://github.com/keyboardio/Chrysalis/pull/357
+ [chrysalis/358]: https://github.com/keyboardio/Chrysalis/pull/358
+
 # 2019-03-17
 
 ## Chrysalis
