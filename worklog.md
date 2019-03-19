@@ -9,6 +9,9 @@
 ## Kaleidoscope
 
 * Updated [Kaleidoscope#611][kaleidoscope/611] with in-code and developer-oriented documentation. It is now ready for review.
+* Opened [Kaleidoscope#614][kaleidoscope/614]
+
+ [kaleidoscope/614]: https://github.com/keyboardio/Kaleidoscope/pull/614
 
 # 2019-03-18
 
