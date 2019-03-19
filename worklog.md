@@ -6,6 +6,10 @@
 
 * Merged [Chrysalis#358][chrysalis/358]
 
+## Kaleidoscope
+
+* Updated [Kaleidoscope#611][kaleidoscope/611], not finished yet
+
 # 2019-03-18
 
 ## Chrysalis
