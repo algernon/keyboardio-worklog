@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-19
+
+## Chrysalis
+
+* Merged [Chrysalis#358][chrysalis/358]
+
 # 2019-03-18
 
 ## Chrysalis
