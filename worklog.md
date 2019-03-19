@@ -8,7 +8,7 @@
 
 ## Kaleidoscope
 
-* Updated [Kaleidoscope#611][kaleidoscope/611], not finished yet
+* Updated [Kaleidoscope#611][kaleidoscope/611] with in-code and developer-oriented documentation. It is now ready for review.
 
 # 2019-03-18
 
