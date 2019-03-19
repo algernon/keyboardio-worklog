@@ -10,6 +10,10 @@
  [chrysalis/357]: https://github.com/keyboardio/Chrysalis/pull/357
  [chrysalis/358]: https://github.com/keyboardio/Chrysalis/pull/358
 
+## Kaleidoscope
+
+* Commented on [Kaleidoscope#611][kaleidoscope/611]
+
 # 2019-03-17
 
 ## Chrysalis
