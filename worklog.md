@@ -4,9 +4,13 @@
 
 ## Chrysalis
 
-* Reviewed [Chrysalis#359][chrysalis/359]
+* Reviewed [Chrysalis#359][chrysalis/359], and merged it after updates
 
  [chrysalis/359]: https://github.com/keyboardio/Chrysalis/pull/359
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#611][kaleidoscope/611], splitting the Bootloader.h header
 
 # 2019-03-19
 
