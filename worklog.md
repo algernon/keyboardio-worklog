@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-21
+
+## Chrysalis
+
+* Merged [Chrysalis#360][chrysalis/360]
+
+ [chrysalis/360]: https://github.com/keyboardio/Chrysalis/pull/360
+
 # 2019-03-20
 
 ## Chrysalis
