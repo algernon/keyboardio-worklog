@@ -5,8 +5,12 @@
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#615][kaleidoscope/615]
+* Opened [Kaleidoscope#616][kaleidoscope/616]
+* Merged [Kaleidoscope#593][kaleidoscope/593]
 
  [kaleidoscope/615]: https://github.com/keyboardio/Kaleidoscope/pull/615
+ [kaleidoscope/616]: https://github.com/keyboardio/Kaleidoscope/issues/616
+ [kaleidoscope/593]: https://github.com/keyboardio/Kaleidoscope/pull/593
 
 # 2019-03-21
 
