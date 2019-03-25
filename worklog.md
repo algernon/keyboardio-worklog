@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-25
+
+## Kaleidoscope
+
+* Made some progress on [Kaleidoscope#344][kaleidoscope/344]. It's kind of working, and I started to move the Storage interface into the hardware classes. I think these will end up in a driver like the MCU and Bootloader classes.
+
 # 2019-03-22
 
 ## Kaleidoscope
