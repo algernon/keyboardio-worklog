@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-26
+
+## Chrysalis
+
+* Reviewed [Chrysalis#366][chrysalis/366]
+
+ [chrysalis/366]: https://github.com/keyboardio/Chrysalis/pull/366
+
 # 2019-03-25
 
 ## Kaleidoscope
