@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-27
+
+## Kaleidoscope
+
+* Approved [Model01-Firmware#83][model01-firmware/83]
+
+ [model01-firmware/83]: https://github.com/keyboardio/Model01-Firmware/pull/83
+
 # 2019-03-26
 
 ## Chrysalis
