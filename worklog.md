@@ -6,8 +6,10 @@
 
 * Reviewed the updated [Chrysalis#366][chrysalis/366], merged later.
 * Commented on [Chrysalis#367][chrysalis/367]
+* Reviewed [Chrysalis#370][chrysalis/370]
 
  [chrysalis/367]: https://github.com/keyboardio/Chrysalis/issues/367
+ [chrysalis/370]: https://github.com/keyboardio/Chrysalis/pull/370
 
 # 2019-03-27
 
