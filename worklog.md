@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-03-29
+
+## Chrysalis
+
+* Reviewed the updated [Chrysalis#366][chrysalis/366]
+
 # 2019-03-27
 
 ## Kaleidoscope
