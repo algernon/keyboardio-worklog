@@ -4,7 +4,7 @@
 
 ## Chrysalis
 
-* Reviewed the updated [Chrysalis#366][chrysalis/366]
+* Reviewed the updated [Chrysalis#366][chrysalis/366], merged later.
 * Commented on [Chrysalis#367][chrysalis/367]
 
  [chrysalis/367]: https://github.com/keyboardio/Chrysalis/issues/367
