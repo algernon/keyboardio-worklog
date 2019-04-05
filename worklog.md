@@ -5,6 +5,9 @@
 ## Keyboardio
 
 * Updated [Kaleidoscope#611][kaleidoscope/611], still need to test it and figure out the cause of the size increase.
+* [Kaleidoscope#622][kaleidoscope/622], and various attempts at bringing about some EEPROM abstractions.
+
+ [kaleidoscope/622]: https://github.com/keyboardio/Kaleidoscope/pull/622
 
 # 2019-03-29
 
