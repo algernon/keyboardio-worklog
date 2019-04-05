@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-05
+
+## Keyboardio
+
+* Updated [Kaleidoscope#611][kaleidoscope/611], still need to test it and figure out the cause of the size increase.
+
 # 2019-03-29
 
 ## Chrysalis
