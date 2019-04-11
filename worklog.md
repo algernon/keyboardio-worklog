@@ -1,8 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-11
+
+## Kaleidoscope
+
+* Reviewed and approved [Kaleidoscope#625][kaleidoscope/625]
+
+ [kaleidoscope/625]: https://github.com/keyboardio/Kaleidoscope/pull/625
+
 # 2019-04-05
 
-## Keyboardio
+## Kaleidoscope
 
 * Updated [Kaleidoscope#611][kaleidoscope/611], still need to test it and figure out the cause of the size increase.
 * [Kaleidoscope#622][kaleidoscope/622], and various attempts at bringing about some EEPROM abstractions.
