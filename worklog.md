@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Reviewed and approved [Kaleidoscope#617][kaleidoscope/617]
+* Started experimenting and building a website/blog for Kaleidoscope. Current progress at https://kaleidoscope.5ms.in/, built from https://github.com/algernon/Kaleidoscope-Website
 
  [kaleidoscope/617]: https://github.com/keyboardio/Kaleidoscope/pull/617
 
