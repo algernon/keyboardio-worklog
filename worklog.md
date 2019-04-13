@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-13
+
+## Kaleidoscope
+
+* Tweaking the Kaleidoscope website/blog further.
+
 # 2019-04-12
 
 ## Kaleidoscope
