@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-15
+
+## Kaleidoscope
+
+* Starting to prepare our [Season of Docs][google:SoD] application
+
+ [google:SoD]: https://opensource.googleblog.com/2019/04/season-of-docs-org-apps.html
+
 # 2019-04-13
 
 ## Kaleidoscope
