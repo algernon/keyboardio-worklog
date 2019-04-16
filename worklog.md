@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * [kaleidoscope.keyboard.io](https://github.com/keyboardio/Kaleidoscope-Website)
+* Started porting KeyboardioHID to SAMD, work-in-progress at [samd-port][keyboardiohid:samd-port]
+
+ [keyboardiohid:samd-port]: https://github.com/keyboardio/KeyboardioHID/tree/samd-port
 
 # 2019-04-15
 
