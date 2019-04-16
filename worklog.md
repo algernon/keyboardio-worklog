@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-16
+
+## Kaleidoscope
+
+* [kaleidoscope.keyboard.io](https://github.com/keyboardio/Kaleidoscope-Website)
+
 # 2019-04-15
 
 ## Kaleidoscope
