@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-17
+
+## Kaleidoscope
+
+* Started refactoring KeyboardioHID a bit, to make the SAMD port nicer, and future ports easier. It doesn't compile yet, but so far it feels much more manageable (and simpler too)
+* Started sketching up some Season of Docs ideas, they'll be going onto a Wiki (probably Kaleidoscope's) in the next day or two.
+
 # 2019-04-16
 
 ## Kaleidoscope
