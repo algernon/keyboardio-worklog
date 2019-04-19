@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-19
+
+## Kaleidoscope
+
+* [KeyboardioHID#51][keyboardiohid/51]
+
+ [keyboardiohid/51]: https://github.com/keyboardio/KeyboardioHID/pull/51
+
 # 2019-04-17
 
 ## Kaleidoscope
