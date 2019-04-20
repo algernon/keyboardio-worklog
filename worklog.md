@@ -9,6 +9,12 @@
  [issues:SoD]: https://github.com/keyboardio/Kaleidoscope/issues?utf8=%E2%9C%93&q=label%3A%22Season+of+Docs%22
  [wiki:SoD]: https://github.com/keyboardio/Kaleidoscope/wiki/Season-of-Docs-2019
 
+## Chrysalis
+
+* [Chrysalis#373][chrysalis/373]
+
+ [chrysalis/373]: https://github.com/keyboardio/Chrysalis/issues/373
+
 # 2019-04-19
 
 ## Kaleidoscope
