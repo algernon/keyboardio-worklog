@@ -12,8 +12,10 @@
 ## Chrysalis
 
 * [Chrysalis#373][chrysalis/373]
+* [Chrysalis#374][chrysalis/374]
 
  [chrysalis/373]: https://github.com/keyboardio/Chrysalis/issues/373
+ [chrysalis/374]: https://github.com/keyboardio/Chrysalis/issues/374
 
 # 2019-04-19
 
