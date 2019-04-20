@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened a number of [Season of Docs][issues:SoD] issues, and put up a [wiki page][wiki:SoD] about it too. Also sent @obra a draft of our application.
+* Pushed [Kaleidoscope#622][kaleidoscope/622] forward. It now compiles for all supported boards, and is a little nicer than before.
 
  [issues:SoD]: https://github.com/keyboardio/Kaleidoscope/issues?utf8=%E2%9C%93&q=label%3A%22Season+of+Docs%22
  [wiki:SoD]: https://github.com/keyboardio/Kaleidoscope/wiki/Season-of-Docs-2019
