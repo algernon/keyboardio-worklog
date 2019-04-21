@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-21
+
+## Kaleidoscope
+
+* Rebased [Kaleidoscope#622][kaleidoscope/622], and marked it as ready for review.
+* Started building up a SAMD port, partially based on Dygma's work, but on top of [Kaleidoscope#622][kaleidoscope/622].
+
 # 2019-04-20
 
 ## Kaleidoscope
