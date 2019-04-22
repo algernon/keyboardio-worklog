@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-22
+
+## Kaleidoscope
+
+* Updated [KeyboardioHID#51][keyboardiohid/51]
+
 # 2019-04-21
 
 ## Kaleidoscope
