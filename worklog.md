@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-23
+
+## Kaleidoscope
+
+* Sent in our Season of Docs application
+* Updated the [ideas list][wiki:SoD] with a few more ideas (thanks @obra!)
+
 # 2019-04-22
 
 ## Kaleidoscope
