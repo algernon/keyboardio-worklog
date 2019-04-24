@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-24
+
+## Kaleidoscope
+
+* Started working on a small library that adds support for rotary encoders ([this one][adafruit/377] in particular). It's going to be a driver, which hardware plugins can use. At least that's the plan, but it might end up being a plugin instead.
+
+ [adafruit/377]: https://www.adafruit.com/product/377
+
 # 2019-04-23
 
 ## Kaleidoscope
