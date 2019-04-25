@@ -16,7 +16,7 @@ my @log = ();
 my @links = ();
 
 my $header = <<"END_MESSAGE";
-From: Gergely Nagy <algernon\@keyboard.io>
+From: Gergely Nagy <gergo\@csillger.hu>
 To: Jesse Vincent <jesse\@keyboard.io>
 Cc: Gergely Nagy <algernon\@keyboard.io>
 Subject: algernon's worklog for $date
