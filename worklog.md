@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-25
+
+## Kaleidoscope
+
+* A bunch of SAMD porting work in various repos, mostly WIP for now.
+
 # 2019-04-24
 
 ## Kaleidoscope
