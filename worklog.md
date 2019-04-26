@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-04-26
+
+## Kaleidoscope
+
+* Yet more work on [Kaleidoscope#622][kaleidoscope/622]
+* SAMD port is getting along nicely, there's only a few cleanups left before the branches can be turned into pull requests.
+
 # 2019-04-25
 
 ## Kaleidoscope
