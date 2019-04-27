@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Reviewed, tested, and approved [Kaleidoscope#632][kaleidoscope/632]
+* Commented on [Kaleidoscope#634][kaleidoscope/634], and proposed a solution
 
  [kaleidoscope/632]: https://github.com/keyboardio/Kaleidoscope/pull/632
+ [kaleidoscope/634]: https://github.com/keyboardio/Kaleidoscope/issues/634
 
 # 2019-04-26
 
