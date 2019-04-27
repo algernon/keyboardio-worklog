@@ -6,9 +6,11 @@
 
 * Reviewed, tested, and approved [Kaleidoscope#632][kaleidoscope/632]
 * Commented on [Kaleidoscope#634][kaleidoscope/634], and proposed a solution
+* Reviewed and approved [Kaleidoscope#635][kaleidoscope/635]
 
  [kaleidoscope/632]: https://github.com/keyboardio/Kaleidoscope/pull/632
  [kaleidoscope/634]: https://github.com/keyboardio/Kaleidoscope/issues/634
+ [kaleidoscope/635]: https://github.com/keyboardio/Kaleidoscope/pull/635
 
 # 2019-04-26
 
