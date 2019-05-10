@@ -6,9 +6,17 @@
 
 * [Chrysalis#387][chrysalis/387]
 * Tried reproducing [Chrysalis#365][chrysalis/365], no luck yet
+* Updated the Dygma hardware plugin
+* Upgraded the `@chrysalis-api/keymap` and `@chrysalis-api/hardware` dependencies
 
  [chrysalis/387]: https://github.com/keyboardio/Chrysalis/pull/387
  [chrysalis/365]: https://github.com/keyboardio/Chrysalis/issues/365
+
+## Kaleidoscope
+
+* Commented on [Kaleidoscope#643][kaleidoscope643]
+
+ [kaleidoscope/643]: https://github.com/keyboardio/Kaleidoscope/issues/643
 
 # 2019-04-27
 
