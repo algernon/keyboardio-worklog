@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-05-10
+
+## Chrysalis
+
+* [Chrysalis#387][chrysalis/387]
+* Tried reproducing [Chrysalis#365][chrysalis/365], no luck yet
+
+ [chrysalis/387]: https://github.com/keyboardio/Chrysalis/pull/387
+ [chrysalis/365]: https://github.com/keyboardio/Chrysalis/issues/365
+
 # 2019-04-27
 
 ## Kaleidoscope
