@@ -15,6 +15,7 @@
 ## Kaleidoscope
 
 * Commented on [Kaleidoscope#643][kaleidoscope643]
+* Cleaned up some old issues (Thanks Michael Richters)
 
  [kaleidoscope/643]: https://github.com/keyboardio/Kaleidoscope/issues/643
 
