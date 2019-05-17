@@ -11,6 +11,7 @@
 * Commented on [Chrysalis#385][chrysalis/385] with some ideas.
 * Opened [Chrysalis#389][chrysalis/389] implementing some of the changes suggested in [Chrysalis#385][chrysalis/385].
 * Commented on [Chrysalis/386][chrysalis/386].
+* Commented on [Chrysalis/375][chrysalis/375].
 
  [chrysalis/381]: https://github.com/keyboardio/Chrysalis/issues/381
  [chrysalis/388]: https://github.com/keyboardio/Chrysalis/issues/388
@@ -18,6 +19,7 @@
  [chrysalis/385]: https://github.com/keyboardio/Chrysalis/issues/385
  [chrysalis/389]: https://github.com/keyboardio/Chrysalis/pull/389
  [chrysalis/386]: https://github.com/keyboardio/Chrysalis/issues/386
+ [chrysalis/375]: https://github.com/keyboardio/Chrysalis/issues/375
 
 # 2019-05-10
 
