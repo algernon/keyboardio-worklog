@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-05-17
+
+## Chrysalis
+
+* [Chrysalis#365][chrysalis/365] reproduced, and a workaround found - a proper fix is yet to come, but this should work for the time being.
+
 # 2019-05-10
 
 ## Chrysalis
