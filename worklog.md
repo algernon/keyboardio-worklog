@@ -5,6 +5,13 @@
 ## Chrysalis
 
 * [Chrysalis#365][chrysalis/365] reproduced, and a workaround found - a proper fix is yet to come, but this should work for the time being.
+* Commented on [Chrysalis#381][chrysalis/381], with a few suggestions.
+* Commented on [Chrysalis#388][chrysalis/388].
+* Closed [Chrysalis#384][chrysalis/384], as a duplicate of [Chrysalis#381][chrysalis/381].
+
+ [chrysalis/381]: https://github.com/keyboardio/Chrysalis/issues/381
+ [chrysalis/388]: https://github.com/keyboardio/Chrysalis/issues/388
+ [chrysalis/384]: https://github.com/keyboardio/Chrysalis/issues/384
 
 # 2019-05-10
 
