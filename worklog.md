@@ -6,8 +6,12 @@
 
 * Recorded a small [howto][asciinema:chrysalis-yarn-link] about how to use a custom version of a `@chrysalis-api` package when building Chrysalis.
 * Helped Matt with a few questions.
+* Reviewed [Chrysalis#392][chrysalis/392].
+* Opened [Chrysalis#393][chrysalis/393].
 
  [asciinema:chrysalis-yarn-link]: https://asciinema.org/a/MDbp7Fzwz4WOypbBMfJaR4Fuj
+ [chrysalis/393]: https://github.com/keyboardio/Chrysalis/issues/393
+ [chrysalis/392]: https://github.com/keyboardio/Chrysalis/pull/392
 
 ## Kaleidoscope
 
