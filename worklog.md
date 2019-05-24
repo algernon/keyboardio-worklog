@@ -1,5 +1,20 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-05-24
+
+## Chrysalis
+
+* Recorded a small [howto][asciinema:chrysalis-yarn-link] about how to use a custom version of a `@chrysalis-api` package when building Chrysalis.
+* Helped Matt with a few questions.
+
+ [asciinema:chrysalis-yarn-link]: https://asciinema.org/a/MDbp7Fzwz4WOypbBMfJaR4Fuj
+
+## Kaleidoscope
+
+* Approved [Kaleidoscope#648][kaleidoscope/648]
+
+ [kaleidoscope/648]: https://github.com/keyboardio/Kaleidoscope/pull/648
+
 # 2019-05-17
 
 ## Chrysalis
