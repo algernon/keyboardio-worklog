@@ -19,6 +19,10 @@
 
  [kaleidoscope/648]: https://github.com/keyboardio/Kaleidoscope/pull/648
 
+## Season of Docs
+
+* Started reviewing incoming inquiries, drafts written, will post tomorrow.
+
 # 2019-05-17
 
 ## Chrysalis
