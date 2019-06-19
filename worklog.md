@@ -7,10 +7,12 @@
 * Reviewed [chrysalis-api#22][chrysalis-api/22]
 * Commented on [Chrysalis#380][chrysalis/380]
 * Reviewed [Chrysalis#400][chrysalis/400]
+* Commented on [Chrysalis#397][chrysalis/397]
 
  [chrysalis-api/22]: https://github.com/keyboardio/chrysalis-api/pull/22
  [chrysalis/380]: https://github.com/keyboardio/Chrysalis/issues/380
  [chrysalis/400]: https://github.com/keyboardio/Chrysalis/pull/400
+ [chrysalis/397]: https://github.com/keyboardio/Chrysalis/issues/397
 
 # 2019-05-24
 
