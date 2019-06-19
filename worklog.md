@@ -8,11 +8,14 @@
 * Commented on [Chrysalis#380][chrysalis/380]
 * Reviewed [Chrysalis#400][chrysalis/400]
 * Commented on [Chrysalis#397][chrysalis/397]
+* Reviewed and approved [KeyboardioHID#55][keyboardiohid/55]
+* Started going through all pending issues and PRs
 
  [chrysalis-api/22]: https://github.com/keyboardio/chrysalis-api/pull/22
  [chrysalis/380]: https://github.com/keyboardio/Chrysalis/issues/380
  [chrysalis/400]: https://github.com/keyboardio/Chrysalis/pull/400
  [chrysalis/397]: https://github.com/keyboardio/Chrysalis/issues/397
+ [keyboardiohid/55]: https://github.com/keyboardio/KeyboardioHID/pull/55
 
 # 2019-05-24
 
