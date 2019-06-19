@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-19
+
+## Chrysalis
+
+* Reviewed [chrysalis-api#22][chrysalis-api/22]
+* Commented on [Chrysalis#380][chrysalis/380]
+
+ [chrysalis-api/22]: https://github.com/keyboardio/chrysalis-api/pull/22
+ [chrysalis/380]: https://github.com/keyboardio/Chrysalis/issues/380
+
 # 2019-05-24
 
 ## Chrysalis
