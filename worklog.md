@@ -9,6 +9,9 @@
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#511][kaleidoscope/511]
+* Tried reproducing [Kaleidoscope#639][kaleidoscope/639] - without success
+
+ [kaleidoscope/639]: https://github.com/keyboardio/Kaleidoscope/issues/639
 
 # 2019-06-19
 
