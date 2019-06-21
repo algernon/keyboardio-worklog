@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-21
+
+## Chrysalis
+
+* Had a talk with Matt Venn, to clear up how to proceed with Raise-related issues and pull requests.
+
+## Kaleidoscope
+
+* Merged [Kaleidoscope#511][kaleidoscope/511]
+
 # 2019-06-19
 
 ## Chrysalis
