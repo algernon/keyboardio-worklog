@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-24
+
+## Kaleidoscope
+
+* Caught up on the forums and Discord.
+* Also read through every pending PR and issue that had been opened or commented on in the past month and a half.
+
 # 2019-06-21
 
 ## Chrysalis
