@@ -6,6 +6,9 @@
 
 * Merged [chrysalis-api#22][chrysalis-api/22].
 * Proposed an alternative for [Chrysalis#400][chrysalis/400].
+* Opened [chrysalis-api#23][chrysalis-api/23].
+
+ [chrysalis-api/23]: https://github.com/keyboardio/chrysalis-api/pull/23
 
 # 2019-06-24
 
