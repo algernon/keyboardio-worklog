@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-26
+
+## Chrysalis
+
+* Merged [chrysalis-api#22][chrysalis-api/22].
+
 # 2019-06-24
 
 ## Kaleidoscope
