@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Merged [chrysalis-api#22][chrysalis-api/22].
+* Proposed an alternative for [Chrysalis#400][chrysalis/400].
 
 # 2019-06-24
 
