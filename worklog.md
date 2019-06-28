@@ -7,6 +7,8 @@
 * Published new `@chrysalis-api` packages.
 * Updated the `@chrysalis-api/hardware` package to depend on the correct Dygma packages.
 * Updated Chrysalis to use the newly released packages.
+* Updated the bundled Model01 firmwares to use the latest factory firmware for the default, and the experimental one was rebased on top of that.
+* Recompiled all the bundled firmware with the latest Kaleidoscope.
 
 # 2019-06-27
 
