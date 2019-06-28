@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-28
+
+## Chrysalis
+
+* Published new `@chrysalis-api` packages.
+* Updated the `@chrysalis-api/hardware` package to depend on the correct Dygma packages.
+* Updated Chrysalis to use the newly released packages.
+
 # 2019-06-27
 
 ## Chrysalis
