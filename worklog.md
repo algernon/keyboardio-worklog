@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-06-27
+
+## Chrysalis
+
+* In the process of updating the bundled firmware. Since we want to ship with test-mode even in the Model01's experimental firmware, there are some size issues to work out. Might end up removing one of the extra packages (likely SpaceCadet).
+* Tried to figure out a good way to fix [Chrysalis#374][chrysalis/374] and related issues, may end up temporarily disabling layer copy / paste for the next release.
+
 # 2019-06-26
 
 ## Chrysalis
