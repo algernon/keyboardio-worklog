@@ -5,9 +5,11 @@
 ## Chrysalis
 
 * Reviewed [chrysalis-api#27][chrysalis-api/27], then merged it once fixed.
+* Reviewed [Chrysalis#403][chrysalis/403].
 * Identified issues and incompatibilities with the default and experimental firmware file bundled with Chrysalis.
 
  [chrysalis-api/27]: https://github.com/keyboardio/chrysalis-api/pull/27
+ [chrysalis/403]: https://github.com/keyboardio/Chrysalis/pull/403
 
 # 2019-06-28
 
