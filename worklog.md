@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Reviewed [chrysalis-api#27][chrysalis-api/27].
+* Identified issues and incompatibilities with the default and experimental firmware file bundled with Chrysalis.
 
  [chrysalis-api/27]: https://github.com/keyboardio/chrysalis-api/pull/27
 
