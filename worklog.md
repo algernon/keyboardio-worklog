@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-07-04
+
+## Kaleidoscope
+
+* Opened [Model01-Firmware#86][model01-firmware/86].
+
+ [model01-firmware/86]: https://github.com/keyboardio/Model01-Firmware/issues/86
+
 # 2019-07-01
 
 ## Chrysalis
