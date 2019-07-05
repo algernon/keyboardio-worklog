@@ -8,6 +8,11 @@
 
  [model01-firmware/86]: https://github.com/keyboardio/Model01-Firmware/issues/86
 
+## Chrysalis
+
+* Started working on a way to backup/restore the EEPROM from the dev console, supporting layout changes (ie. not using `eeprom.contents`). This is a bit stalled for now, because it isn't immediately required as it turns out.
+* Started writing release notes.
+
 # 2019-07-01
 
 ## Chrysalis
