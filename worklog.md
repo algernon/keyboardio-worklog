@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Commented on [Kaleidoscope#611][kaleidoscope/611], and started rebasing it on top of master.
+* Opened [Model01-Firmware#88][model01-firmware/88], fixing [Model01-Firmware#86][model01-firmware/86].
+
+ [model01-firmware/88]: https://github.com/keyboardio/Model01-Firmware/pull/88
 
 # 2019-07-08
 
