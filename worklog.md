@@ -2,6 +2,12 @@
 
 # 2019-07-09
 
+## Chrysalis
+
+* Opened [Chrysalis#404][chrysalis/404].
+
+ [chrysalis/404]: https://github.com/keyboardio/Chrysalis/pull/404
+
 ## Kaleidoscope
 
 * Commented on [Kaleidoscope#611][kaleidoscope/611], and started rebasing it on top of master.
