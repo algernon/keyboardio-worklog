@@ -4,7 +4,7 @@
 
 ## Kaleidoscope
 
-* Commented on [Kaleidoscope#611][kaleidoscope/611].
+* Commented on [Kaleidoscope#611][kaleidoscope/611], and started rebasing it on top of master.
 
 # 2019-07-08
 
