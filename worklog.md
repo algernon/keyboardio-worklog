@@ -8,6 +8,10 @@
 
  [chrysalis-api/28]: https://github.com/keyboardio/chrysalis-api/pull/28
 
+## Kaleidoscope
+
+* Figured out why [Kaleidoscope#611][kaleidoscope/611] doesn't compile, but no solution yet.
+
 # 2019-07-09
 
 ## Chrysalis
