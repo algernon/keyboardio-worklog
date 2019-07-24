@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-07-24
+
+## Chrysalis
+
+* Reproduced [Chrysalis#412][chrysalis/412]
+
+ [chrysalis/412]: https://github.com/keyboardio/Chrysalis/issues/412
+
+# 2019-07-22
+
+There were a few things in the past few days, but I didn't have time to update the worklog, and I don't have the resources to go back and update now. Sorry!
+
+## Chrysalis
+
+* Released Chrysalis 0.6.0
+
 # 2019-07-14
 
 ## Chrysalis
