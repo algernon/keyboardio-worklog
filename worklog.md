@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-08-02
+
+## Kaleidoscope
+
+* Been playing with various implementations of [Kaleidoscope#665][kaleidoscope/665] for the past few days.
+
+ [kaleidoscope/665]: https://github.com/keyboardio/Kaleidoscope/issues/665
+
+## Chrysalis
+
+* Opened [Chrysalis#416][chrysalis/416], fixing [Chrysalis#414][chrysalis/414].
+* Released Chrysalis 0.6.1 a while ago, fixing [Chrysalis#412][chrysalis/412] via a bugfix in `@chrysalis-api/focus`.
+
+ [chrysalis/416]: https://github.com/keyboardio/Chrysalis/pull/416
+ [chrysalis/414]: https://github.com/keyboardio/Chrysalis/issues/414
+
 # 2019-07-24
 
 ## Chrysalis
