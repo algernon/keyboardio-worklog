@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Commented on [Kaleidoscope#665][kaleidoscope/665].
+* Read the issues and PRs of the past week and a half.
 
 # 2019-08-02
 
