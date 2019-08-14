@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-08-14
+
+## Kaleidoscope
+
+* Almost finished redoing my proposed PR for [Kaleidoscope#665][kaleidoscope/665]. Plenty of naming work will be left, but the shape of it is encouraging.
+
 # 2019-08-13
 
 ## Kaleidoscope
