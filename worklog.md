@@ -6,7 +6,12 @@
 
 * [Chrysalis#422][chrysalis/422]
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#674][kaleidoscope/674], fixing [Kaleidoscope#670][kaleidoscope/670].
+
  [chrysalis/422]: https://github.com/keyboardio/Chrysalis/pull/422
+ [kaleidoscope/674]: https://github.com/keyboardio/Kaleidoscope/pull/674
 
 # 2019-08-15
 
