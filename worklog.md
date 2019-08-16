@@ -5,8 +5,11 @@
 ## Chrysalis
 
 * [chrysalis-api#30][chrysalis-api/30]
+* Had a few attempts at [Kaleidoscope#670][kaleidoscope/670], but it turns out to be not as trivial as I had hoped.
+* More progress on [Kaleidoscope#665][kaleidoscope/665], but got a bit side-tracked by trying to incorporate HID selection too. Backing out, will do that as a separate step instead.
 
  [chrysalis-api/30]: https://github.com/keyboardio/chrysalis-api/pull/30
+ [kaleidoscope/670]: https://github.com/keyboardio/Kaleidoscope/issues/670
 
 # 2019-08-14
 
