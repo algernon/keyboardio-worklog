@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-08-18
+
+## Kaleidoscope
+
+* Merged [Kaleidoscope#666][kaleidoscope/666].
+* Opened [Kaleidoscope#675][kaleidoscope/675].
+
+ [kaleidoscope/666]: https://github.com/keyboardio/Kaleidoscope/pull/666
+ [kaleidoscope/675]: https://github.com/keyboardio/Kaleidoscope/pull/675
+
 # 2019-08-16
 
 ## Chrysalis
