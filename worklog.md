@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-08-23
+
+## Chrysalis
+
+* Increased a number of flashing-related timeouts in `@chrysalis-api/focus`, for the `Avr109` flasher.
+* Updated Chrysalis to use the new libraries, and also updated the shipped firmware.
+* Released [Chrysalis 0.6.2][chrysalis:0.6.2].
+
+ [chrysalis:0.6.2]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.6.2
+
 # 2019-08-22
 
 ## Kaleidoscope
