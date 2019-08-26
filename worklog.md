@@ -5,9 +5,11 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#676][kaleidoscope/676], replacing [Kaleidoscope#664][kaleidoscope/664].
+* Reviewed & approved [Kaleidoscope#677][kaleidoscope/677].
 
  [kaleidoscope/676]: https://github.com/keyboardio/Kaleidoscope/pull/676
  [kaleidoscope/664]: https://github.com/keyboardio/Kaleidoscope/pull/664
+ [kaleidoscope/677]: https://github.com/keyboardio/Kaleidoscope/pull/677
 
 # 2019-08-23
 
