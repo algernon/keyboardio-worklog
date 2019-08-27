@@ -6,6 +6,7 @@
 
 * Opened [Kaleidoscope#676][kaleidoscope/676], replacing [Kaleidoscope#664][kaleidoscope/664].
 * Reviewed & approved [Kaleidoscope#677][kaleidoscope/677].
+* Dived into ARM/SAMD code a bit, in an attempt to figure out why protocol switching doesn't appear to work there. (Also had a short look to see how hard it would be to add support for noticing when the host goes to sleep, but that's a tougher one it seems)
 
  [kaleidoscope/676]: https://github.com/keyboardio/Kaleidoscope/pull/676
  [kaleidoscope/664]: https://github.com/keyboardio/Kaleidoscope/pull/664
