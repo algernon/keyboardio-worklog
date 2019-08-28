@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-08-27
+
+## Kaleidoscope
+
+* A bit more ARM/SAMD debugging.
+
+## Chrysalis
+
+* Started looking into the diffs between upstream and Dygma's fork.
+
 # 2019-08-26
 
 ## Kaleidoscope
