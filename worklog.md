@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-09-09
+
+## Chrysalis
+
+* Reviewed [chrysalis-api#29][chrysalis-api/29].
+
+ [chrysalis-api/29]: https://github.com/keyboardio/chrysalis-api/pull/29
+
 # 2019-08-27
 
 ## Kaleidoscope
