@@ -5,8 +5,10 @@
 ## Chrysalis
 
 * Reviewed [chrysalis-api#29][chrysalis-api/29].
+* Investigated [Chrysalis#412][chrysalis/412] further, and it _seems_ that flashing does fail with an unpowered hub, but works with a powered one. Asked on [Chrysalis#415][chrysalis/415] for confirmation.
 
  [chrysalis-api/29]: https://github.com/keyboardio/chrysalis-api/pull/29
+ [chrysalis/415]: https://github.com/keyboardio/Chrysalis/issues/415
 
 ## Kaleidoscope
 
