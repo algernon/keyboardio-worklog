@@ -8,6 +8,13 @@
 
  [chrysalis-api/29]: https://github.com/keyboardio/chrysalis-api/pull/29
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#681][kaleidoscope/681], fixing [Kaleidoscope#660][kaleidoscope/660].
+
+ [kaleidoscope/683]: https://github.com/keyboardio/Kaleidoscope/pull/681
+ [kaleidoscope/660]: https://github.com/keyboardio/Kaleidoscope/issues/660
+
 # 2019-08-27
 
 ## Kaleidoscope
