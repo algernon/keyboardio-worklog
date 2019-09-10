@@ -6,6 +6,10 @@
 
 * Proposed a build fix for [Kaleidoscope#678][kaleidoscope/678].
 
+## Miscellaneous
+
+* Talked with Matt about Raise and Dygma plans.
+
 # 2019-09-09
 
 ## Chrysalis
