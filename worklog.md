@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Proposed a build fix for [Kaleidoscope#678][kaleidoscope/678].
+* Submitted a proposal for EEPROM-stored macros to [Kaleidoscope#370][kaleidoscope/370].
+
+ [kaleidoscope/370]: https://github.com/keyboardio/Kaleidoscope/issues/370
 
 ## Miscellaneous
 
