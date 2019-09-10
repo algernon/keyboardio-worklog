@@ -13,9 +13,11 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#681][kaleidoscope/681], fixing [Kaleidoscope#660][kaleidoscope/660].
+* Started looking at [Kaleidoscope#678][kaleidoscope/678].
 
  [kaleidoscope/683]: https://github.com/keyboardio/Kaleidoscope/pull/681
  [kaleidoscope/660]: https://github.com/keyboardio/Kaleidoscope/issues/660
+ [kaleidoscope/678]: https://github.com/keyboardio/Kaleidoscope/pull/678
 
 # 2019-08-27
 
