@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-09-10
+
+## Kaleidoscope
+
+* Proposed a build fix for [Kaleidoscope#678][kaleidoscope/678].
+
 # 2019-09-09
 
 ## Chrysalis
