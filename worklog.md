@@ -7,6 +7,7 @@
 <!-- Dygma -->
 * Posted a few updates on [Kaleidoscope#370][kaleidoscope/370].
 * Opened [Kaleidoscope#683][Kaleidoscope#683], implementing two new macro action steps.
+* Started working on EEPROM-stored macros. Turns out there won't be much that I can reuse from the Macros plugin, except for copying some of its code. But making the code be able to handle both PROGMEM and EEPROM macros makes it far too complicated and messy.
 <!-- /Dygma -->
 
  [kaleidoscope/683]: https://github.com/keyboardio/Kaleidoscope/pull/683
