@@ -1,5 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-09-11
+
+## Kaleidoscope
+
+<!-- Dygma -->
+* Posted a few updates on [Kaleidoscope#370][kaleidoscope/370].
+* Opened [Kaleidoscope#683][Kaleidoscope#683], implementing two new macro action steps.
+<!-- /Dygma -->
+
+ [kaleidoscope/683]: https://github.com/keyboardio/Kaleidoscope/pull/683
+
 # 2019-09-10
 
 ## Kaleidoscope
