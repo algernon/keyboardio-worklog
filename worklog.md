@@ -6,8 +6,10 @@
 
 <!-- Dygma -->
 * Posted a suspicion on [Kaleidoscope#685][kaleidoscope/685].
+* Opened [Kaleidoscope#687][kaleidoscope/687], which - when done - will address [Kaleidoscope#370][kaleidoscope/370].
 <!-- /Dygma -->
 
+ [kaleidoscope/687]: https://github.com/keyboardio/Kaleidoscope/pull/687
  [kaleidoscope/685]: https://github.com/keyboardio/Kaleidoscope/issues/685
 
 # 2019-09-11
