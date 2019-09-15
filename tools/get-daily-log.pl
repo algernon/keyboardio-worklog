@@ -35,6 +35,7 @@ for (@lines) {
         push @links, qr/^\s+\[$1\/$2\]:/;
     }
     next if ($extracting && /^ \[[^:]*\]:/);
+    next if ($extracting && /^<!--/);
     push @log, $_ if $extracting;
 }
 
