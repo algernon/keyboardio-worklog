@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-09-15
+
+## Kaleidoscope
+
+<!-- Dygma -->
+* Updated [Kaleidoscope#687][kaleidoscope/687], it is now ready for review.
+<!-- /Dygma -->
+
 # 2019-09-14
 
 ## Kaleidoscope
