@@ -8,6 +8,14 @@
 * Updated [Kaleidoscope#687][kaleidoscope/687], it is now ready for review.
 <!-- /Dygma -->
 
+## Chrysalis
+
+<!-- Dygma -->
+* Opened [chrysalis-api#31][chrysalis-api/31], replacing [chrysalis-api#29][chrysalis-api/29].
+<!-- /Dygma -->
+
+ [chrysalis-api/31]: https://github.com/keyboardio/chrysalis-api/pull/31
+
 # 2019-09-14
 
 ## Kaleidoscope
