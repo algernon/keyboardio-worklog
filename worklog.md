@@ -1,5 +1,20 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-09-18
+
+## Kaleidoscope
+
+* Figured out what the issue Matt found with [Kaleidoscope#687][kaleidoscope/687] is.
+* Tried understanding the KeyAddr-related issue Jesse found on Atreus2 (see [here][gh:keyaddr-hack] for more info). No solution yet, but getting closer.
+
+ [gh:keyaddr-hack]: https://github.com/keyboardio/Kaleidoscope/commit/ebeb173cb8fe7f3f0572a68be7557d5e621e985d
+
+## Miscellaneous
+
+<!-- Dygma -->
+* Had a meeting with Matt and Luis with regards to Dygma and Kaleidoscope and Chrysalis.
+<!-- /Dygma -->
+
 # 2019-09-15
 
 ## Kaleidoscope
