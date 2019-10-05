@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Reviewed [Kaleidoscope#692][kaleidoscope/692].
+<!-- Dygma -->
+* Updated [Kaleidoscope#687][kaleidoscope/687].
+<!-- /Dygma -->
 
  [kaleidoscope/692]: https://github.com/keyboardio/Kaleidoscope/pull/692
 
