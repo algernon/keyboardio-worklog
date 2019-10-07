@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#692][kaleidoscope/692].
+* Made heavy progress on [Kaleidoscope#665][kaleidoscope/665]: the Atreus keyboard is now fully ported over to the new API, along with the base `ATMegaScanner` (`ATMegaKeyboard` will be going away).
 
 # 2019-10-05
 
