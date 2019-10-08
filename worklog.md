@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-08
+
+## Kaleidoscope
+
+* Finished porting all of the supported boards to the API proposed in [Kaleidoscope#665][kaleidoscope/665]. Except for the Model01 and ErgoDox, they're in a good state. Draft PR is up at [Kaleidoscope#695][kaleidoscope/695].
+* Opened [Kaleidoscope#696][kaleidoscope/696], cleaning up the examples dir a bit.
+
+ [kaleidoscope/695]: https://github.com/keyboardio/Kaleidoscope/pull/695
+ [kaleidoscope/696]: https://github.com/keyboardio/Kaleidoscope/pull/696
+
 # 2019-10-07
 
 ## Kaleidoscope
