@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-09
+
+## Kaleidoscope
+
+* Further polishing of [Kaleidoscope#695][kaleidoscope/695].
+
 # 2019-10-08
 
 ## Kaleidoscope
