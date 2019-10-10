@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-10
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#698][kaleidoscope/698], fixing [Kaleidoscope#697][kaleidoscope/697].
+
+ [kaleidoscope/698]: https://github.com/keyboardio/Kaleidoscope/pull/698
+ [kaleidoscope/697]: https://github.com/keyboardio/Kaleidoscope/issues/697
+
 # 2019-10-09
 
 ## Kaleidoscope
