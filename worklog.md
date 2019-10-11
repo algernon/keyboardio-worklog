@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#698][kaleidoscope/698], fixing [Kaleidoscope#697][kaleidoscope/697].
+* Further polishing of [Kaleidoscope#695][kaleidoscope/695].
 
  [kaleidoscope/698]: https://github.com/keyboardio/Kaleidoscope/pull/698
  [kaleidoscope/697]: https://github.com/keyboardio/Kaleidoscope/issues/697
