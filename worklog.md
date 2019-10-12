@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#699][kaleidoscope/699].
+* Further polishing of [Kaleidoscope#695][kaleidoscope/695], trying various ways to port the Model01 sanely. (Not pushed yet, still trying to find a way that feels right.)
 
  [kaleidoscope/699]: https://github.com/keyboardio/Kaleidoscope/pull/699
 
