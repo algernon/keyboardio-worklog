@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-12
+
+## Kaleidoscope
+
+* [Kaleidoscope#695][kaleidoscope/695], the Model01 is now fairly well ported, uses all the appropriate APIs. It's also almost 100 progmem bigger, which is far from ideal.
+
 # 2019-10-11
 
 ## Kaleidoscope
