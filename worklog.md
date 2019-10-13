@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-13
+
+## Kaleidoscope
+
+* Cleaned up the commits of [Kaleidoscope#695][kaleidoscope/695]. They still require rewording, but the ordering is now as I want them to be.
+
 # 2019-10-12
 
 ## Kaleidoscope
