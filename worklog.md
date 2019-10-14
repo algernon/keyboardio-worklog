@@ -7,6 +7,7 @@
 * Some polishing of [Kaleidoscope#695][kaleidoscope/695].
 * Rebased [Kaleidoscope#611][kaleidoscope/611] on top of [Kaleidoscope#695][kaleidoscope/695].
 * Closed [Kaleidoscope#475][kaleidoscope/475], as it is obsolete by now.
+* Rebased [Kaleidoscope#622][kaleidoscope/622] on top of [Kaleidoscope#695][kaleidoscope/695] and [Kaleidoscope#611][kaleidoscope/611].
 
  [kaleidoscope/475]: https://github.com/keyboardio/Kaleidoscope/pull/475
 
