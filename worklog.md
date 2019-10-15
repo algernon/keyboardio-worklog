@@ -7,6 +7,8 @@
 * Rolled [Kaleidoscope#611][kaleidoscope/611] and [Kaleidoscope#622][kaleidoscope/622] into [Kaleidoscope#695][kaleidoscope/695] for ease of development. They will stay reasonably separate, but its much easier to work with all three on the same branch.
 * Completely re-did the ErgoDox port, on top of the new Device APIs, even using `ATMegaKeyScanner`.
 * Cleaned up the [Kaleidoscope#695][kaleidoscope/695] branch and the commit messages.
+* Figured out one of the reasons why [Kaleidoscope#695][kaleidoscope/695] increased the size of some firmware (ErgoDox most, Model01 by a noticable amount too).
+* Started pulling out the debouncing code into a generic driver/component.
 
 # 2019-10-14
 
