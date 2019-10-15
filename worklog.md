@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-15
+
+## Kaleidoscope
+
+* Rolled [Kaleidoscope#611][kaleidoscope/611] and [Kaleidoscope#622][kaleidoscope/622] into [Kaleidoscope#695][kaleidoscope/695] for ease of development. They will stay reasonably separate, but its much easier to work with all three on the same branch.
+
 # 2019-10-14
 
 ## Kaleidoscope
