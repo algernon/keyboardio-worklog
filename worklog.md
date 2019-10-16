@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-16
+
+## Kaleidoscope
+
+* Added `KALEIDOSCOPE_VIRTUAL_BUILD` guards to the appropriate places in [Kaleidoscope#695][kaleidoscope/695].
+* Experimented with pulling out the debouncing code, but ultimately decided to postpone that, and not do it as part of [Kaleidoscope#695][kaleidoscope/695].
+
 # 2019-10-15
 
 ## Kaleidoscope
