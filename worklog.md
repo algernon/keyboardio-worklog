@@ -9,6 +9,7 @@
 ## Kaleidoscope
 
 * Reverted (removed) the `KALEIDOSCOPE_VIRTUAL_BUILD` commit from [Kaleidoscope#695][kaleidoscope/695]. With agreement from @noseglasses, this will become a separate PR.
+* Added a way to the new hardware API in [Kaleidoscope#695][kaleidoscope/695] to specify the interface Focus should use (`Serial`, `SerialUSB`, etc).
 
 # 2019-10-16
 
