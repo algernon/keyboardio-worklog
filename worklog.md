@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-17
+
+## Chrysalis
+
+* Added initial support for the Atreus2.
+
 # 2019-10-16
 
 ## Kaleidoscope
