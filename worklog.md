@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-18
+
+## Kaleidoscope
+
+* Remade [Kaleidoscope#676][kaleidoscope/676], slightly differently, with more comments.
+
 # 2019-10-17
 
 ## Chrysalis
