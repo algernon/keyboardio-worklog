@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Remade [Kaleidoscope#676][kaleidoscope/676], slightly differently, with more comments.
+* Tried a number of ways to improve the `KeyAddr` situation in [Kaleidoscope#695][kaleidoscope/695], but ultimately failed to come up with anything sensible.
 
 # 2019-10-17
 
