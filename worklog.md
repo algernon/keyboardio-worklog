@@ -4,7 +4,16 @@
 
 ## Kaleidoscope
 
-* Started integrating the feedback into [Kaleidoscope#695][kaleidoscope/695].
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Started integrating the feedback into the PR.
+* Made a plan to considerably reduce the complexity and boilerplate of hardware plugins. Depends on wrapping `handleKeyswitchEvent` to delay the evaluation of `KeyAddr`.
+
+## Chrysalis
+
+* Commented on [Chrysalis#432][chrysalis/432].
+
+ [chrysalis/432]: https://github.com/keyboardio/Chrysalis/issues/432
 
 # 2019-10-18
 
