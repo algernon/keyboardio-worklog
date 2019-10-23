@@ -7,6 +7,9 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Opened [Kaleidoscope#701][kaleidoscope/701], introducing a thin layer over EEPROM and Serial. With the plugin changes to the new API, this should reduce the amount of code to review in [Kaleidoscope#695][kaleidoscope/695].
+* Rebased the PR on top of [Kaleidoscope#701][kaleidoscope/701].
+* Cleaned up some of the older commits which had dead code lingering around.
+* Integrated some of the feedback (eg, using `key_scanner_` in the Model01 plugin, instead of reaching into the device description manually).
 
  [kaleidoscope/701]: https://github.com/keyboardio/Kaleidoscope/pull/701
 
