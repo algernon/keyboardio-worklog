@@ -10,8 +10,10 @@
 * Rebased the PR on top of [Kaleidoscope#701][kaleidoscope/701].
 * Cleaned up some of the older commits which had dead code lingering around.
 * Integrated some of the feedback (eg, using `key_scanner_` in the Model01 plugin, instead of reaching into the device description manually).
+* Continued failing at addressing the `KeyAddr` issue. Thankfully @noseglasses did with [Kaleidoscope#702][kaleidoscope/702].
 
  [kaleidoscope/701]: https://github.com/keyboardio/Kaleidoscope/pull/701
+ [kaleidoscope/702]: https://github.com/keyboardio/Kaleidoscope/pull/702
 
 ## Chrysalis
 
