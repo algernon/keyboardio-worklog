@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-23
+
+## Chrysalis
+
+* Added a default firmware for the Keyboardio Atreus2.
+
 # 2019-10-22
 
 ## Kaleidoscope
