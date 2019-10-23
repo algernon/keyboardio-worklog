@@ -12,8 +12,10 @@
 ## Chrysalis
 
 * Commented on [Chrysalis#432][chrysalis/432].
+* Merged [Chrysalis-Firmware-Bundle#6][chrysalis-firmware-bundle/6], and patched up the top-level Makefile.
 
  [chrysalis/432]: https://github.com/keyboardio/Chrysalis/issues/432
+ [chrysalis-firmware-bundle/6]: https://github.com/keyboardio/Chrysalis-Firmware-Bundle/pull/6
 
 # 2019-10-18
 
