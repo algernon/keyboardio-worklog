@@ -8,6 +8,7 @@
 
 * Started integrating the feedback into the PR.
 * Made a plan to considerably reduce the complexity and boilerplate of hardware plugins. Depends on wrapping `handleKeyswitchEvent` to delay the evaluation of `KeyAddr`.
+* Started pulling out the Focus and Storage abstractions, to have the plugin updates in a smaller PR prior to the big one. This way the big one will be considerably smaller, because it doesn't need to touch the plugins.
 
 ## Chrysalis
 
