@@ -2,6 +2,14 @@
 
 # 2019-10-23
 
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Opened [Kaleidoscope#701][kaleidoscope/701], introducing a thin layer over EEPROM and Serial. With the plugin changes to the new API, this should reduce the amount of code to review in [Kaleidoscope#695][kaleidoscope/695].
+
+ [kaleidoscope/701]: https://github.com/keyboardio/Kaleidoscope/pull/701
+
 ## Chrysalis
 
 * Added a default firmware for the Keyboardio Atreus2.
