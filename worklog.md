@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-25
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Deprecate `Model01-TestMode` in favour of `HardwareTestMode`. By turning the plugin into a no-op, we were able to remove a few accessors from the Model01 hardware plugin that were there solely for this plugin.
+
 # 2019-10-24
 
 ## Kaleidoscope
