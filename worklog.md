@@ -7,6 +7,9 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Deprecate `Model01-TestMode` in favour of `HardwareTestMode`. By turning the plugin into a no-op, we were able to remove a few accessors from the Model01 hardware plugin that were there solely for this plugin.
+* Applied the merge-y treatment to the Model01 too.
+* Renamed `*Description` to `*Blueprint`, and the `_DATA` macros to `_IMPLEMENTATION`.
+* Simplified the `ATMEGA_KEYSCANNER_IMPLEMENTATION` macro, so that one doesn't have to specify the full classname from root to `KeyScanner`, only the `vendor::board` part.
 
 # 2019-10-24
 
