@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-24
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Merged [Kaleidoscope#702][kaleidoscope/702] into the PR, and updated all of the other boards.
+* ErgoDox is back to the naive port for the time being.
+* Dropped a few commits from the branch, which were only required for the ErgoDox.
+* All boards but the Model01 have been refactored to single header + implementation, with as little boilerplate and repetition as possible.
+* Started working on the Model01 refactor too.
+
 # 2019-10-23
 
 ## Kaleidoscope
