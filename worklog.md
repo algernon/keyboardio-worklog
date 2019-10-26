@@ -4,6 +4,10 @@
 
 ## Kaleidoscope
 
+* Had a quick look at [Kaleidoscope#703][kaleidoscope/703], will likely merge tomorrow.
+
+ [kaleidoscope/703]: https://github.com/keyboardio/Kaleidoscope/pull/703
+
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Renamed `*Blueprint` to `*Props`.
