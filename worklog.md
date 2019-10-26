@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-26
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Renamed `*Blueprint` to `*Props`.
+* Moved all of the `Props` structs to the matching driver header: the drivers already included the props headers anyway. This way we're scattered around less files, and they're closely tied together anyway.
+* Renamed `Device::BootLoader` to `Device::Bootloader`.
+* Renamed all the `Base*.h` headers to `*/Base.h`, and updated their namespaces accordingly.
+* `KALEIDOSCOPE_BOOTLOADER_FLIP` now has a `_WORKAROUND` suffix: `KALEIDOSCOPE_BOOTLOADER_FLIP_WORKAROUND`.
+
 # 2019-10-25
 
 ## Kaleidoscope
