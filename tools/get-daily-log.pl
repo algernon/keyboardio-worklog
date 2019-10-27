@@ -49,6 +49,8 @@ for (@log) {
     print;
 }
 
+print;
+
 for my $line (@lines) {
     for (@links) {
         print $line if $line =~ $_;
