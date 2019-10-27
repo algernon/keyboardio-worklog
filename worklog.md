@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-27
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Moved `Model01KeyScanner::leftHand` and `Model01KeyScanner::rightHand` into their own struct, so `Model01KeyScanner` and `Model01LEDDriver` can access it both, instead of the latter accessing the former directly, which looked weird.
+
 # 2019-10-26
 
 ## Kaleidoscope
