@@ -7,6 +7,8 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Moved `Model01KeyScanner::leftHand` and `Model01KeyScanner::rightHand` into their own struct, so `Model01KeyScanner` and `Model01LEDDriver` can access it both, instead of the latter accessing the former directly, which looked weird.
+* Moved `Model01LEDDriver::enableHighpowerLeds()` to `Model01Hands::setup()`, where the things it does makes much more sense.
+* Simplified `ATMEGA_KEYSCANNER_IMPLEMENTATION`: it no longer requires an argument! But added the namespace declarations surrounding it back, to make it easier to add custom methods and whatnot, if need be.
 
 # 2019-10-26
 
