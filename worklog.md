@@ -9,6 +9,11 @@
 * Moved `Model01KeyScanner::leftHand` and `Model01KeyScanner::rightHand` into their own struct, so `Model01KeyScanner` and `Model01LEDDriver` can access it both, instead of the latter accessing the former directly, which looked weird.
 * Moved `Model01LEDDriver::enableHighpowerLeds()` to `Model01Hands::setup()`, where the things it does makes much more sense.
 * Simplified `ATMEGA_KEYSCANNER_IMPLEMENTATION`: it no longer requires an argument! But added the namespace declarations surrounding it back, to make it easier to add custom methods and whatnot, if need be.
+* Added an initial port of the `device/imago` branch to the new API, with minor cleanups.
+* Did a quick attempt at lifting out the IS31FL3741 LED driver from Imago, but it fails to link at the moment ([`tmp/imago-leddriver-extraction`][b:tmp/imago-leddriver-extraction] branch)
+
+ [b:tmp/imago-leddriver-extraction]:
+https://github.com/keyboardio/Kaleidoscope/tree/tmp/imago-leddriver-extraction
 
 # 2019-10-26
 
