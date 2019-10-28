@@ -13,6 +13,7 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Fixed the `ImagoLEDTest` example.
+* Added `KeyboardHardware.storage().commit()` calls to all places where it will be needed.
 
 # 2019-10-27
 
