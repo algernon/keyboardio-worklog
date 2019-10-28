@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-28
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Fixed the `ImagoLEDTest` example.
+
 # 2019-10-27
 
 ## Kaleidoscope
