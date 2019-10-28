@@ -14,6 +14,7 @@
 
 * Fixed the `ImagoLEDTest` example.
 * Added `KeyboardHardware.storage().commit()` calls to all places where it will be needed.
+* Updated a few places that were using `int8_t` for LED indexes to use `LEDCountType`, as defined by the hardware's LEDDriverProps.
 
 # 2019-10-27
 
