@@ -4,6 +4,10 @@
 
 ## Kaleidoscope
 
+* Opened [Kaleidoscope#704][kaleidoscope/704], an update to `LEDPaletteTheme` for boards where the number of LEDs != the number of keys.
+
+ [kaleidoscope/704]: https://github.com/keyboardio/Kaleidoscope/pull/704
+
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Fixed the `ImagoLEDTest` example.
