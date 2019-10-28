@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#704][kaleidoscope/704], an update to `LEDPaletteTheme` for boards where the number of LEDs != the number of keys.
+* Opened [Kaleidoscope#705][kaleidoscope/705], removing the AVR restriction from Kaleidoscope's `library.properties`.
 
  [kaleidoscope/704]: https://github.com/keyboardio/Kaleidoscope/pull/704
+ [kaleidoscope/705]: https://github.com/keyboardio/Kaleidoscope/pull/705
 
 ### [Kaleidoscope#695][kaleidoscope/695]
 
