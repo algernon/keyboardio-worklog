@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-29
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Transitioned from `LEDCountType` to `KeyboardHardware.LEDs().all()` and `.isValid(x)`.
+* All plugins that iterated over keys and assumed LEDs, will now iterate over LEDs.
+* Fixed a few astyle issues.
+
 # 2019-10-28
 
 ## Kaleidoscope
