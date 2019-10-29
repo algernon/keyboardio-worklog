@@ -9,6 +9,8 @@
 * Transitioned from `LEDCountType` to `KeyboardHardware.LEDs().all()` and `.isValid(x)`.
 * All plugins that iterated over keys and assumed LEDs, will now iterate over LEDs.
 * Fixed a few astyle issues.
+* Pushed the Raise port a bit forward, only a few things left to bridge over and clean up.
+* Responded to feedback to the recent changes.
 
 # 2019-10-28
 
