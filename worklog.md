@@ -10,7 +10,7 @@
 * Renamed `kaleidoscope::hardware` to `kaleidoscope::device`.
 * `kaleidoscope::Device` is now `kaleidoscope::device::Base`.
 * `HARDWARE_IMPLEMENTATION` is `DEVICE_CLASS_NAME`, and we have an `EXPORT_DEVICE()` macro.
-* `KeyboardHardware` became `kaleidoscope::Device`.
+* `KeyboardHardware` became `Device`.
 * `AVRDevice` became `device::avr::ATMega32U4`.
 * `AVREEPROMProps` became `storage::ATMega32u4Props`
 * Dropped the `Device` part of the final device property names. Eg, `Model01DeviceProps` became `Model01Props`.
