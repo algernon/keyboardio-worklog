@@ -1,5 +1,25 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-10-30
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Folded `kaleidoscope::driver::leddriver` into `kaleidoscope::driver::led`.
+* Renamed `kaleidoscope::hardware` to `kaleidoscope::device`.
+* `kaleidoscope::Device` is now `kaleidoscope::device::Base`.
+* `HARDWARE_IMPLEMENTATION` is `DEVICE_CLASS_NAME`, and we have an `EXPORT_DEVICE()` macro.
+* `KeyboardHardware` became `kaleidoscope::Device`.
+* `AVRDevice` became `device::avr::ATMega32U4`.
+* `AVREEPROMProps` became `storage::ATMega32u4Props`
+* Dropped the `Device` part of the final device property names. Eg, `Model01DeviceProps` became `Model01Props`.
+* `ATMegaKeyScanner` became `keyscanner::AVR`.
+* The various `_IMPLEMENTATION` macros were renamed to `_BOILERPLATE`.
+* We no longer have `NoProps` aliases. The `device::Base` class will use the appropriate `BaseProps` as defaults instead.
+* Dropped the `ImagoLEDTest` example.
+* `StorageProps` is now exposed in `device::Base`, like all the other props.
+
 # 2019-10-29
 
 ## Kaleidoscope
