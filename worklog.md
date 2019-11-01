@@ -4,6 +4,10 @@
 
 ## Kaleidoscope
 
+* Opened [Kaleidoscope#706][kaleidoscope/706], a proposal for a new Atreus2 default layout. Been pondering and playing with variations of this for the past few days, this is what I ended up settling with.
+
+ [kaleidoscope/706]: https://github.com/keyboardio/Kaleidoscope/pull/706
+
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Made `kaleidoscope::device::Base` call the Storage and Bootloader setup methods too.
