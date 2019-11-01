@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-01
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Made `kaleidoscope::device::Base` call the Storage and Bootloader setup methods too.
+
 # 2019-10-30
 
 ## Kaleidoscope
