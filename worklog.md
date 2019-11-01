@@ -7,6 +7,8 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Made `kaleidoscope::device::Base` call the Storage and Bootloader setup methods too.
+* Got rid of `DEVICE_CLASS_NAME` and `EXPORT_DEVICE`, and while there, simplified the definition of the global `Device`, and turned `keyIndex()` from a macro to a constexpr.
+* Folded `device::avr` into `device` with members having names that don't look funny (tacked a `Keyboard` suffix at the end).
 
 # 2019-10-30
 
