@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-02
+
+## Kaleidoscope
+
+* Tweaked [Kaleidoscope#706][kaleidoscope/706] based on feedback. I still like my second iteration of it best, but now there's three variants to try!
+
 # 2019-11-01
 
 ## Kaleidoscope
