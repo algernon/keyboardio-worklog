@@ -6,6 +6,11 @@
 
 * Tweaked [Kaleidoscope#706][kaleidoscope/706] based on feedback. I still like my second iteration of it best, but now there's three variants to try!
 
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* `Device` became `kaleidoscope_internal::device`, and `Kaleidoscope` grew a `device()` method. All users were updated to use the latter whenever possible, and the internal one when not.
+* Removed a number of obsolete includes.
+
 # 2019-11-01
 
 ## Kaleidoscope
