@@ -10,6 +10,7 @@
 
 * `Device` became `kaleidoscope_internal::device`, and `Kaleidoscope` grew a `device()` method. All users were updated to use the latter whenever possible, and the internal one when not.
 * Removed a number of obsolete includes.
+* Moved the ifdefs in Atreus.h inside `AVR_KEYSCANNER_PROPS`.
 
 # 2019-11-01
 
