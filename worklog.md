@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-03
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Use the `auto &serialPort = Kaleidoscope.serialPort();` pattern in examples that use the serialport enough times for the pattern to be worth it. In-firmware users were left as-is.
+
 # 2019-11-02
 
 ## Kaleidoscope
