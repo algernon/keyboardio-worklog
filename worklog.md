@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#707][kaleidoscope/707], based on feedback received on [Kaleidoscope#695][kaleidoscope/695].
+* Opened [Kaleidoscope#708][kaleidoscope/708], porting Dygma's IdleLEDs changes to Kaleidoscope master, though a bit differently than their solution, but compatible nevertheless.
 
  [kaleidoscope/707]: https://github.com/keyboardio/Kaleidoscope/issues/707
+ [kaleidoscope/708]: https://github.com/keyboardio/Kaleidoscope/pull/708
 
 ### [Kaleidoscope#695][kaleidoscope/695]
 
