@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-04
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#707][kaleidoscope/707], based on feedback received on [Kaleidoscope#695][kaleidoscope/695].
+
+ [kaleidoscope/707]: https://github.com/keyboardio/Kaleidoscope/issues/707
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Updated the examples touched yesterday to use `auto &serial_port` instead of `&serialPort`, to match our naming convention.
+
 # 2019-11-03
 
 ## Kaleidoscope
