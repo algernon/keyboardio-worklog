@@ -11,6 +11,7 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Updated the examples touched yesterday to use `auto &serial_port` instead of `&serialPort`, to match our naming convention.
+* Updated the bootloader docs to use the latest naming scheme.
 
 # 2019-11-03
 
