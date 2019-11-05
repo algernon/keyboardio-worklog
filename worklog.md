@@ -4,6 +4,10 @@
 
 ## Kaleidoscope
 
+* Opened [Kaleidoscope#711][kaleidoscope/711], with a workaround for the Travis CI failures.
+
+ [kaleidoscope/711]: https://github.com/keyboardio/Kaleidoscope/pull/711
+
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Deprecated `ROWS`, `COLS` and `LED_COUNT`.
