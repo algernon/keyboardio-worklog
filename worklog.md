@@ -16,6 +16,8 @@
 * Updated the bootloader docs to use the latest naming scheme.
 * Simplified the way key indexes are made available, so that hardware plugins do not need to include `key_indexes.h` themselves, Kaleidoscope.h will do that for them.
 * Opened [Kaleidoscope#709][kaleidoscope/709].
+* `device::Base::DummySerial` became `NoOpSerial`.
+* Fixed a comment in `driver/storage/None.h`.
 
  [kaleidoscope/709]: https://github.com/keyboardio/Kaleidoscope/issues/709
 
