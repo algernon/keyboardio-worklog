@@ -7,6 +7,11 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Deprecated `ROWS`, `COLS` and `LED_COUNT`.
+* Collapsed and cleaned up the branch history in a major way.
+* Opened [Kaleidoscope#710][kaleidoscope/710], as a preparation step. It includes a lot of moving things around, but none of the new APIs yet.
+* Rebased [Kaleidoscope#695][kaleidoscope/695] on top of [Kaleidoscope#710][kaleidoscope/710], with history collapsed and cleaned.
+
+ [kaleidoscope/710]: https://github.com/keyboardio/Kaleidoscope/pull/710
 
 # 2019-11-04
 
