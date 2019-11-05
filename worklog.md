@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-05
+
+## Kaleidoscope
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Deprecated `ROWS`, `COLS` and `LED_COUNT`.
+
 # 2019-11-04
 
 ## Kaleidoscope
