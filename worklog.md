@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#711][kaleidoscope/711], with a workaround for the Travis CI failures.
+* Merged [Kaleidoscope#703][kaleidoscope/703].
 
  [kaleidoscope/711]: https://github.com/keyboardio/Kaleidoscope/pull/711
 
