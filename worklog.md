@@ -7,6 +7,7 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Started writing docs. It's going slow.
+* Closed [Kaleidoscope#611][kaleidoscope/611] and [Kaleidoscope#622][kaleidoscope/622], bootloaders and storage drivers have been merged into [Kaleidoscope#695][kaleidoscope/695].
 
 # 2019-11-05
 
