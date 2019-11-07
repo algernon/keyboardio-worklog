@@ -4,6 +4,7 @@
 
 ## Kaleidoscope
 
+* Updated [Kaleidoscope#708][kaleidoscope/708], rebasing on top of master, and addressing most concerns.
 
 ### [Kaleidoscope#695][kaleidoscope/695]
 
