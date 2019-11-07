@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Updated [Kaleidoscope#708][kaleidoscope/708], rebasing on top of master, and addressing most concerns.
+* Closed [Kaleidoscope#649][kaleidoscope/649], I will be submitting a different take on implementing a similar thing.
+
+ [kaleidoscope/649]: https://github.com/keyboardio/Kaleidoscope/pull/649
 
 ### [Kaleidoscope#695][kaleidoscope/695]
 
