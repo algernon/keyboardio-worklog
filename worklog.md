@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-07
+
+## Kaleidoscope
+
+
+### [Kaleidoscope#695][kaleidoscope/695]
+
+* Got some docs done, and updated `NEWS.md` and `UPGRADING.md` too.
+
 # 2019-11-06
 
 ## Kaleidoscope
