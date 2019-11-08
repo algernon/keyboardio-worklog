@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Fixed `PersistentIdleLEDs` on master to not use deprecated interfaces.
+* Ported a couple of SAMD-related fixes over to KeyboardioHID: [KeyboardioHID#58][keyboardiohid/58]. Draft for now, because I need to test on real hardware.
+
+ [keyboardiohid/58]: https://github.com/keyboardio/KeyboardioHID/pull/58
 
 # 2019-11-07
 
