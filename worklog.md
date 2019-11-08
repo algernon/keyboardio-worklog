@@ -6,8 +6,10 @@
 
 * Fixed `PersistentIdleLEDs` on master to not use deprecated interfaces.
 * Ported a couple of SAMD-related fixes over to KeyboardioHID: [KeyboardioHID#58][keyboardiohid/58]. Draft for now, because I need to test on real hardware.
+* Started laying out the remaining tasks for the Raise merge, as [project#3][project/3].
 
  [keyboardiohid/58]: https://github.com/keyboardio/KeyboardioHID/pull/58
+ [project/3]: https://github.com/orgs/keyboardio/projects/3
 
 # 2019-11-07
 
