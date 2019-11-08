@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-08
+
+## Kaleidoscope
+
+* Fixed `PersistentIdleLEDs` on master to not use deprecated interfaces.
+
 # 2019-11-07
 
 ## Kaleidoscope
@@ -13,6 +19,14 @@
 ### [Kaleidoscope#695][kaleidoscope/695]
 
 * Got some docs done, and updated `NEWS.md` and `UPGRADING.md` too.
+* Opened a few follow-up issues in light of the PR getting merged:
+  - [Kaleidoscope#714][kaleidoscope/714]
+  - [Kaleidoscope#715][kaleidoscope/715]
+  - [Kaleidoscope#716][kaleidoscope/716]
+
+ [kaleidoscope/714]: https://github.com/keyboardio/Kaleidoscope/issues/714
+ [kaleidoscope/715]: https://github.com/keyboardio/Kaleidoscope/issues/715
+ [kaleidoscope/716]: https://github.com/keyboardio/Kaleidoscope/issues/716
 
 # 2019-11-06
 
