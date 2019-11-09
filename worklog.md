@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-09
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#718][kaleidoscope/718], as I discovered that some places need to be AVR-restricted. [Kaleidoscope#719][kaleidoscope/719] is the fix for that.
+
+ [kaleidoscope/718]: https://github.com/keyboardio/Kaleidoscope/issues/718
+ [kaleidoscope/719]: https://github.com/keyboardio/Kaleidoscope/pull/719
+
 # 2019-11-08
 
 ## Kaleidoscope
