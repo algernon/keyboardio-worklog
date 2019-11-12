@@ -5,6 +5,8 @@
 ## Kaleidoscope
 
 * Updated [Kaleidoscope#719][kaleidoscope/719] with a few more changes. With these changes, Kaleidoscope can be compiled for the SAMD architecture.
+* Got the Dygma Raise port on top of [Kaleidoscope#719][kaleidoscope/719] to about 90%. There's a few small things left to port over, but the bulk of it is in a fairly good shape. It's not feature-complete yet, the side-version and side-flashing parts aren't ported yet, those will come in a second batch of changes in a day or two.
+* Tried to figure out how to compile the Raise firmware with Kaleidoscope tooling, but ran out of time - will stick to the build system already in palace there, for the time being.
 
  [kaleidoscope/719]: https://github.com/keyboardio/Kaleidoscope/pull/719
 

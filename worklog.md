@@ -5,6 +5,8 @@
 ## Kaleidoscope
 
 * Updated [Kaleidoscope#719][kaleidoscope/719] with a few more changes.
+* Got the Dygma Raise port on top of [Kaleidoscope#719][kaleidoscope/719] to about 90%. There's a few small things left to port over, but the bulk of it is in a fairly good shape.
+* Tried to figure out how to compile the Raise firmware with Kaleidoscope tooling, but ran out of time - will stick to the build system already in palace there, for the time being.
 
 # 2019-11-09
 
