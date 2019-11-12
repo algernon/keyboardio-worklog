@@ -9,7 +9,7 @@ my $date = $ARGV[0] || $now->ymd;
 
 my $extracting = 0;
 
-open(my $fh, "<", "worklog.md") or die "Error opening worklog.md: $!";
+open(my $fh, "<", "worklog.dygma.md") or die "Error opening worklog.dygma.md: $!";
 
 my @lines = <$fh>;
 my @log = ();
@@ -17,8 +17,8 @@ my @links = ();
 
 my $header = <<"END_MESSAGE";
 From: Gergely Nagy <gergo\@csillger.hu>
-To: Jesse Vincent <jesse\@keyboard.io>
-Cc: Gergely Nagy <algernon\@keyboard.io>
+To: Luis Sevilla <deilor\@dygma.com>
+Cc: Gergely Nagy <raise\@gergo.csillger.hu>
 Subject: algernon's worklog for $date
 User-Agent: get-daily-log.pl Perl/$]
 
