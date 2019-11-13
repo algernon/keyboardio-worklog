@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-12
+
+## Kaleidoscope
+
+* Got the Dygma Raise port to a state where it _works_ on real hardware. Still need to clean up the code, because it's a huge mess at the moment. But it works!
+
 # 2019-11-11
 
 ## Kaleidoscope
