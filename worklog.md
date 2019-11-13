@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-13
+
+## Kaleidoscope
+
+* Updated [KeyboardioHID#58][keyboardiohid/58] after testing it on real hardware. The code is now clear, concise and commented. This allows us to compile upstream KeyboardioHID for SAMD, and fixes one SAMD-specific issue in it. Host wakeup still doesn't work yet, though.
+
 # 2019-11-12
 
 ## Kaleidoscope
