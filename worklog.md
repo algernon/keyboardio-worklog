@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Updated [KeyboardioHID#58][keyboardiohid/58] after testing it on real hardware. The code is now clear, concise and commented. This allows us to compile upstream KeyboardioHID for SAMD, and fixes one SAMD-specific issue in it. Host wakeup still doesn't work yet, though.
+* Opened [Kaleidoscope#722][kaleidoscope/722], first draft of the Dygma Raise port.
+
+ [kaleidoscope/722]: https://github.com/keyboardio/Kaleidoscope/pull/722
 
 # 2019-11-12
 
