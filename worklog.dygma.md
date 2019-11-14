@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-14
+
+## Kaleidoscope
+
+* More work on [Kaleidoscope#722][kaleidoscope/722].
+
+## Miscellaneous
+
+* Commented on a few cards on Trello, mostly explaining things.
+
 # 2019-11-13
 
 ## Kaleidoscope

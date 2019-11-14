@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-14
+
+## Kaleidoscope
+
+* More work on [Kaleidoscope#722][kaleidoscope/722].
+
 # 2019-11-13
 
 ## Kaleidoscope
