@@ -4,7 +4,7 @@
 
 ## Kaleidoscope
 
-* More work on [Kaleidoscope#722][kaleidoscope/722].
+* More work on [Kaleidoscope#722][kaleidoscope/722]: refactoring the code here and there, and porting over most of the Focus commands. Also started working on the attiny flashing, but that needs a bit more thought.
 
 # 2019-11-13
 
