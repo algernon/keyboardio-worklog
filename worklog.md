@@ -6,6 +6,9 @@
 
 * Closed [Kaleidoscope#552][kaleidoscope/552], we're pretty much synced up.
 * Finished the Focus commands for [Kaleidoscope#722][kaleidoscope/722].
+* Opened [Kaleidoscope#723][kaleidoscope/723], about supporting host suspend detection in the `HostPowerManagement` plugin.
+
+ [kaleidoscope/723]: https://github.com/keyboardio/Kaleidoscope/issues/723
 
 # 2019-11-14
 
