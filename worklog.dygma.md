@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-15
+
+## Kaleidoscope
+
+* Closed [Kaleidoscope#552][kaleidoscope/552], we're pretty much synced up.
+* Finished the Focus commands for [Kaleidoscope#722][kaleidoscope/722].
+
+ [kaleidoscope/522]: https://github.com/keyboardio/Kaleidoscope/issues/552
+
 # 2019-11-14
 
 ## Kaleidoscope
