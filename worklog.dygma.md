@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-17
+
+## Kaleidoscope
+
+* Tried to figure out how to get host suspend detection working on SAMD, but so far, no luck.
+
 # 2019-11-15
 
 ## Kaleidoscope
