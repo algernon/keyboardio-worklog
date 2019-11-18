@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-18
+
+## Kaleidoscope
+
+* Ported the ATTiny flashing code from Dygma's fork to [Kaleidoscope#722][kaleidoscope/722]. There's still some work left to do, but the shape of it feels okay.
+
 # 2019-11-17
 
 ## Kaleidoscope
