@@ -11,6 +11,7 @@
 ## Kaleidoscope
 
 * Closed [Kaleidoscope#433][kaleidoscope/433], it's been fixed by the hardware API rework.
+* Updated [Kaleidoscope#722][kaleidoscope/722]. The ATTiny firmware data is now pushed down to the sketch level. This puts control of it into Dygma's hands, and can be updated independently of Kaleidoscope. Nor does Kaleidoscope include "binary blobs" this way, so everybody wins! The ATTiny flashing feature is also completely optional this way, so if someone decides they don't want it in their sketch, it's easy to remove it too.
 
  [kaleidoscope/433]: https://github.com/keyboardio/Kaleidoscope/issues/433
 
