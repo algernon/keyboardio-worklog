@@ -8,6 +8,12 @@
 
  [chrysalis/439]: https://github.com/keyboardio/Chrysalis/pull/439
 
+## Kaleidoscope
+
+* Closed [Kaleidoscope#433][kaleidoscope/433], it's been fixed by the hardware API rework.
+
+ [kaleidoscope/433]: https://github.com/keyboardio/Kaleidoscope/issues/433
+
 # 2019-11-18
 
 ## Kaleidoscope
