@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-19
+
+## Chrysalis
+
+* Opened [Chrysalis#439][chrysalis/439], adding support for `AltGr`-based DualUse keys.
+
+ [chrysalis/439]: https://github.com/keyboardio/Chrysalis/pull/439
+
 # 2019-11-18
 
 ## Kaleidoscope
