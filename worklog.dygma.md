@@ -9,6 +9,10 @@
 
  [kaleidoscope/433]: https://github.com/keyboardio/Kaleidoscope/issues/433
 
+## Miscellaneous
+
+* Spent way more time on trying to figure out how USB suspend is supposed to function on SAMD than I care to admit.
+
 # 2019-11-18
 
 ## Kaleidoscope
