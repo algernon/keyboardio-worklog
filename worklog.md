@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#725][kaleidoscope/725], fixing an issue when compiling through the Arduino IDE.
+* Commented on [Kaleidoscope#726][kaleidoscope/726].
 
  [kaleidoscope/725]: https://github.com/keyboardio/Kaleidoscope/pull/725
+ [kaleidoscope/726]: https://github.com/keyboardio/Kaleidoscope/issues/726
 
 # 2019-11-20
 
