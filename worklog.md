@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-21
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#725][kaleidoscope/725], fixing an issue when compiling through the Arduino IDE.
+
+ [kaleidoscope/725]: https://github.com/keyboardio/Kaleidoscope/pull/725
+
 # 2019-11-20
 
 ## Kaleidoscope
