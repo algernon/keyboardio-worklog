@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-20
+
+## Kaleidoscope
+
+* Touched up a few things in [Kaleidoscope#722][kaleidoscope/722] based on the reviews.
+
 # 2019-11-19
 
 ## Kaleidoscope

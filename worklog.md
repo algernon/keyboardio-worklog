@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-20
+
+## Kaleidoscope
+
+* Commented on [Kaleidoscope#720][kaleidoscope/720].
+* Touched up a few things in [Kaleidoscope#722][kaleidoscope/722] based on the reviews.
+
+ [kaleidoscope/720]: https://github.com/keyboardio/Kaleidoscope/pull/720
+
 # 2019-11-19
 
 ## Chrysalis
