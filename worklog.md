@@ -9,6 +9,16 @@
 
  [kaleidoscope-hidadaptor-keyboardiohid/21]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/21
 
+## Chrysalis
+
+* Fixed a number of Atreus2 issues: [Chrysalis#440][chrysalis/440], [Chrysalis#441][chrysalis/441], [Chrysalis#442][chrysalis/442], [Chrysalis#443][chrysalis/443], [Chrysalis#445][chrysalis/445].
+
+ [chrysalis/440]: https://github.com/keyboardio/Chrysalis/issues/440
+ [chrysalis/441]: https://github.com/keyboardio/Chrysalis/issues/441
+ [chrysalis/442]: https://github.com/keyboardio/Chrysalis/issues/442
+ [chrysalis/443]: https://github.com/keyboardio/Chrysalis/issues/443
+ [chrysalis/445]: https://github.com/keyboardio/Chrysalis/issues/445
+
 # 2019-11-21
 
 ## Kaleidoscope
