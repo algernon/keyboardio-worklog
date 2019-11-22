@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-22
+
+## Kaleidoscope
+
+* Merged [Kaleidoscope-HIDAdaptor-KeyboardioHID#21][kaleidoscope-hidadaptor-keyboardiohid/21].
+* Redid [Kaleidoscope#725][kaleidoscope/725], fixing the real issue instead of bandaiding.
+
+ [kaleidoscope-hidadaptor-keyboardiohid/21]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/21
+
 # 2019-11-21
 
 ## Kaleidoscope
