@@ -1,5 +1,9 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-23
+
+* Further cleanups of [Kaleidoscope#722][kaleidoscope/722], only a few little things left to address.
+
 # 2019-11-22
 
 ## Kaleidoscope
