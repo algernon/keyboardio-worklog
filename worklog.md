@@ -8,10 +8,12 @@
 * Opened [Kaleidoscope#730][kaleidoscope/730], detailing what I think we need to do to be able to store TapDance actions (limited to key sequences only, so no custom actions) in EEPROM, which is required to have GUI support for TapDance.
 * Opened [Kaleidoscope#731][kaleidoscope/731]: we need a way to store the LED mode in EEPROM, reliably, with this being completely optional (the current fork made this mandatory).
 * Opened [Kaleidoscope#733][kaleidoscope/733] adding a new hook, `onLEDModeChange()`, and adjusting the `PersistentLEDMode` plugin to make use of it. Fixes [Kaleidoscope#731][kaleidoscope/731].
+* Opened [KeyboardioHID#59][keyboardiohid/59], to figure out how to make it possible to choose a default keyboard report protocol. Also offered a few solutions in the issue.
 
  [kaleidoscope/730]: https://github.com/keyboardio/Kaleidoscope/issues/730
  [kaleidoscope/731]: https://github.com/keyboardio/Kaleidoscope/issues/731
  [kaleidoscope/733]: https://github.com/keyboardio/Kaleidoscope/pull/733
+ [keyboardiohid/59]: https://github.com/keyboardio/KeyboardioHID/issues/59
 
 # 2019-11-23
 
