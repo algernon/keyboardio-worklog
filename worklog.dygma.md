@@ -9,6 +9,7 @@
 * Published my updates to the [Raise-Firmware][raise-firmware] repo, at [algernon/Raise-Firmware][raise-firmware:algernon]. This is the factory firmware, the thing that builds upon Kaleidoscope & plugins to form the firmware that is flashed onto the keyboard. This includes an updated `IdleLEDs` plugin that fixes the issue with lights not turning on when pressing keys like the `Dygma` key. That plugin will eventually be lifted out into its own repo, but to get things rolling, it was easier to place it beside the firmware sketch.
 * Opened [Kaleidoscope#730][kaleidoscope/730], detailing what I think we need to do to be able to store TapDance actions (limited to key sequences only, so no custom actions) in EEPROM, which is required to have GUI support for TapDance.
 * Opened [Kaleidoscope#731][kaleidoscope/731]: we need a way to store the LED mode in EEPROM, reliably, with this being completely optional (the current fork made this mandatory).
+* Opened [Kaleidoscope#733][kaleidoscope/733] adding a new hook, `onLEDModeChange()`, and adjusting the `PersistentLEDMode` plugin to make use of it. Fixes [Kaleidoscope#731][kaleidoscope/731].
 
  [kaleidoscope-ledeffect-joint/1]: https://github.com/Dygmalab/Kaleidoscope-LEDEffect-Joint/pull/1
  [plugin:ledeffect-joint]: https://github.com/Dygmalab/Kaleidoscope-LEDEffect-Joint
@@ -16,6 +17,7 @@
  [raise-firmware:algernon]: https://github.com/algernon/Raise-Firmware/tree/kaleidoscope/722
  [kaleidoscope/730]: https://github.com/keyboardio/Kaleidoscope/issues/730
  [kaleidoscope/731]: https://github.com/keyboardio/Kaleidoscope/issues/731
+ [kaleidoscope/733]: https://github.com/keyboardio/Kaleidoscope/pull/733
 
 # 2019-11-23
 
