@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-25
+
+## Kaleidoscope
+
+* Addressed all pending feedback on [Kaleidoscope#722][kaleidoscope/722], and requested another round of review.
+
 # 2019-11-23
 
 * Further cleanups of [Kaleidoscope#722][kaleidoscope/722], only a few little things left to address.
@@ -55,6 +61,8 @@
 ## Kaleidoscope
 
 * More work on [Kaleidoscope#722][kaleidoscope/722]: refactoring the code here and there, and porting over most of the Focus commands. Also started working on the attiny flashing, but that needs a bit more thought.
+
+ [kaleidoscope/722]: https://github.com/keyboardio/Kaleidoscope/pull/722
 
 ## Miscellaneous
 

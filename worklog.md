@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-25
+
+## Kaleidoscope
+
+* Addressed all pending feedback on [Kaleidoscope#722][kaleidoscope/722], and requested another round of review.
+
 # 2019-11-23
 
 * Further cleanups of [Kaleidoscope#722][kaleidoscope/722], only a few little things left to address.
