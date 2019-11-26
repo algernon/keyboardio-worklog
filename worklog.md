@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#729][kaleidoscope/729].
+* Rebased [Kaleidoscope#722][kaleidoscope/722] on top of latest master.
 
  [kaleidoscope/729]: https://github.com/keyboardio/Kaleidoscope/pull/729
 

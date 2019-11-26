@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-26
+
+## Kaleidoscope
+
+* Rebased [Kaleidoscope#722][kaleidoscope/722] on top of latest master.
+
 # 2019-11-25
 
 ## Kaleidoscope
