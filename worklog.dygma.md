@@ -5,6 +5,9 @@
 ## Kaleidoscope
 
 * Rebased [Kaleidoscope#722][kaleidoscope/722] on top of latest master.
+* Opened [Kaleidoscope#734][kaleidoscope/734], implementing the ideas in [Kaleidoscope#730][kaleidoscope/730], in the form of `DynamicTapDance`. This plugin allows us to store `TapDance` lists in EEPROM, and provides a Focus API to list and update them, similar to how the `DynamicMacros` plugin works.
+
+ [kaleidoscope/734]: https://github.com/keyboardio/Kaleidoscope/pull/734
 
 # 2019-11-25
 

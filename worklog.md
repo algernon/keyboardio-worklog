@@ -6,8 +6,10 @@
 
 * Merged [Kaleidoscope#729][kaleidoscope/729].
 * Rebased [Kaleidoscope#722][kaleidoscope/722] on top of latest master.
+* Opened [Kaleidoscope#734][kaleidoscope/734], implementing the ideas in [Kaleidoscope#730][kaleidoscope/730], in the form of `DynamicTapDance`.
 
  [kaleidoscope/729]: https://github.com/keyboardio/Kaleidoscope/pull/729
+ [kaleidoscope/734]: https://github.com/keyboardio/Kaleidoscope/pull/734
 
 # 2019-11-25
 
