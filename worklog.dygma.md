@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-27
+
+## Kaleidoscope
+
+* [KeyboardioHID#59][keyboardiohid/59] is now at a state where it compiles and works, can do everything our current facade can, and more. It has a few downsides like increased size for now, but I have a plan to fix that too. This paves the way towards being able to more easily set a default protocol. We can also get rid of the `Kaleidoscope-HIDAdaptor-KeyboardioHID` library!
+
 # 2019-11-26
 
 ## Kaleidoscope
