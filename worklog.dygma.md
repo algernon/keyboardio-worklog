@@ -6,6 +6,7 @@
 
 * Rebased [Kaleidoscope#722][kaleidoscope/722] on top of latest master.
 * Opened [Kaleidoscope#734][kaleidoscope/734], implementing the ideas in [Kaleidoscope#730][kaleidoscope/730], in the form of `DynamicTapDance`. This plugin allows us to store `TapDance` lists in EEPROM, and provides a Focus API to list and update them, similar to how the `DynamicMacros` plugin works.
+* Started working on turning `KeyboardioHID` into a HID driver. The main goal with this is to allow boards to easily set their preferred default report protocol.
 
  [kaleidoscope/734]: https://github.com/keyboardio/Kaleidoscope/pull/734
 
