@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-28
+
+## Kaleidoscope
+
+* [KeyboardioHID#59][keyboardiohid/59] was reworked, so that object instantiation still happens in `KeyboardioHID`. This is required for the linker to be able to optimize unneeded objects out. Sadly, we have to use a wrapper in Kaleidoscope then, which is a screenful of boring code. But in the end, things appear to function well.
+* Commented on [Kaleidoscope#735][kaleidoscope/735].
+
+ [kaleidoscope/735]: https://github.com/keyboardio/Kaleidoscope/pull/735
+
 # 2019-11-27
 
 ## Kaleidoscope
