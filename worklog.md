@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-11-29
+
+## Kaleidoscope
+
+* After failing to figure out why we end up calling a few constructors twice, I gave up on turning `kaleidoscope::hid` into a proper driver. Thankfully, there are other ways to solve [KeyboardioHID#59][keyboardiohid/59].
+* Cleaned up the history of [Kaleidoscope#722][kaleidoscope/722], and marked it ready for review, removing the WIP/Draft status.
+
 # 2019-11-28
 
 ## Kaleidoscope
