@@ -6,8 +6,10 @@
 
 * [KeyboardioHID#59][keyboardiohid/59] was reworked, so that object instantiation still happens in `KeyboardioHID`. This is required for the linker to be able to optimize unneeded objects out. Sadly, we have to use a wrapper in Kaleidoscope then, which is a screenful of boring code. But in the end, things appear to function well. Major roadblock right now is size: we seem to be initializing Keyboard-related things twice, which results in lots of extra progmem used.
 * Commented on [Kaleidoscope#735][kaleidoscope/735].
+* Commented on [Kaleidoscope#736][kaleidoscope/736].
 
  [kaleidoscope/735]: https://github.com/keyboardio/Kaleidoscope/pull/735
+ [kaleidoscope/736]: https://github.com/keyboardio/Kaleidoscope/issues/736
 
 # 2019-11-27
 
