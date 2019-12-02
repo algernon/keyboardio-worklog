@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-02
+
+## Kaleidoscope
+
+* Closed [Kaleidoscope#517][kaleidoscope/517] and [Kaleidoscope-Build-Tools#5][kaleidoscope-build-tools/5].
+
+ [kaleidoscope-build-tools/5]: https://github.com/keyboardio/Kaleidoscope-Build-Tools/pull/5
+
 # 2019-11-29
 
 ## Kaleidoscope
