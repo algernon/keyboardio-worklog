@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-03
+
+## Miscellaneous
+
+* Had a chat with Luis about keymap-related plugins and the configurator.
+
 # 2019-11-29
 
 ## Kaleidoscope
