@@ -2,6 +2,11 @@
 
 # 2019-12-03
 
+## Raise Firmware
+
+* Started pretty much rebuilding the current Raise-Firmware, with more comments, and more plugins enabled. All of this was done with keeping the EEPROM layout the same, to be compatible with the factory firmware the keyboards will initially ship with.
+* While working on the firmware sketch, I also started to explore how to make it easier to build, possibly automatically in Travis. Building the Raise firmware is... not quite as easy as building for other devices supported by Kaleidoscope, because the building tool used for those, does not support SAMD, and is ripe for a replacement (as in, adding SAMD support to it would be more work than finding something better, or coming up with a replacement).
+
 ## Miscellaneous
 
 * Had a chat with Luis about keymap-related plugins and the configurator.
