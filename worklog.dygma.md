@@ -8,6 +8,7 @@
 * Together with Florian, figured out how to un-break the Raise after the sketch exploration feature: had to upgrade gcc from 4.8 to 7.
 * Opened [Kaleidoscope#741][kaleidoscope/741], to fix the Raise build with gcc7.
 * Explained a few plugin-related things in [Trello#19][trello/19].
+* Continued hunting the root cause behind no HID reports being sent. At this point, I'm starting to doubt my initial hunch that this is HID related. Might be something else. Maybe even unrelated to the Raise port itself. Will try bisecting over older Kaleidoscope versions tomorrow.
 
  [kaleidoscope/739]: https://github.com/keyboardio/Kaleidoscope/pull/739
  [kaleidoscope/741]: https://github.com/keyboardio/Kaleidoscope/pull/741
