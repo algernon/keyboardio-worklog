@@ -7,9 +7,11 @@
 * Merged [Kaleidoscope#739][kaleidoscope/739], which was needed to make the Raise compile with current Kaleidoscope master.
 * Together with Florian, figured out how to un-break the Raise after the sketch exploration feature: had to upgrade gcc from 4.8 to 7.
 * Opened [Kaleidoscope#741][kaleidoscope/741], to fix the Raise build with gcc7.
+* Explained a few plugin-related things in [Trello#19][trello/19].
 
  [kaleidoscope/739]: https://github.com/keyboardio/Kaleidoscope/pull/739
  [kaleidoscope/741]: https://github.com/keyboardio/Kaleidoscope/pull/741
+ [trello/19]: https://trello.com/c/vxP9E4Bz/19
 
 # 2019-12-04
 
