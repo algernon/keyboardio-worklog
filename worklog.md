@@ -15,6 +15,7 @@
 * Merged [Kaleidoscope#746][kaleidoscope/746].
 * Merged [Kaleidoscope#743][kaleidoscope/743].
 * Reviewed and commented on [Kaleidoscope#737][kaleidoscope/737].
+* Merged [Kaleidoscope#740][kaleidoscope/740].
 
  [kaleidoscope/738]: https://github.com/keyboardio/Kaleidoscope/pull/738
  [kaleidoscope/739]: https://github.com/keyboardio/Kaleidoscope/pull/739
@@ -26,6 +27,7 @@
  [kaleidoscope/746]: https://github.com/keyboardio/Kaleidoscope/pull/746
  [kaleidoscope/743]: https://github.com/keyboardio/Kaleidoscope/pull/743
  [kaleidoscope/737]: https://github.com/keyboardio/Kaleidoscope/pull/737
+ [kaleidoscope/740]: https://github.com/keyboardio/Kaleidoscope/pull/740
 
 # 2019-12-02
 
