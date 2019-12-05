@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#739][kaleidoscope/739].
+* Together with Florian, figured out how to un-break the Raise after the sketch exploration feature: had to upgrade gcc from 4.8 to 7.
 
  [kaleidoscope/739]: https://github.com/keyboardio/Kaleidoscope/pull/739
 
