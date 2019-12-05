@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-04
+
+## Kaleidoscope
+
+* Received a DVT Raise today, and started playing with it, only to discover a few problems that weren't obvious with the bare-bones PCB:
+  - While LEDs, Focus, and key scanning works with the merged Kaleidoscope, no report is sent to the host. This suggests a HID issue, but I wasn't able to track it down yet. Curiously, the bare-bones PCB did work with the merged firmware, but doesn't anymore, either. Not sure what's up yet.
+  - Either the key coordinates, or the key->led map is wrong. Using Stalker, the top row worked flawlessly, but pressing `Tab` highlighted `E` for example. Didn't look into this yet.
+
+## Miscellaneous
+
+* Reviewed a plugin chart with Luis, quickly.
+
 # 2019-12-03
 
 ## Raise Firmware
