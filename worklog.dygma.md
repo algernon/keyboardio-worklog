@@ -6,6 +6,8 @@
 
 * Opened [Kaleidoscope#753][kaleidoscope/753], fixing the key and led mapping issues on the Raise. ([Trello#18][trello/18])
 * Opened [KeyboardioHID#60][keyboardiohid/60], fixing the HID report issues seen on the Raise. ([Trello#17][trello/17])
+* Updated my fork of `Raise-Firmware` to have a layout matching that of the factory firmware.
+* Updated my fork of `Raise-Firmware` to have a few extra plugins enabled (OneShot, Escape-OneShot, Qukeys for DualUse). A few others (DynamicMacros, DynamicTapDance) aren't enabled yet.
 
  [kaleidoscope/753]: https://github.com/keyboardio/Kaleidoscope/pull/753
  [trello/18]: https://trello.com/c/R70MWTSO/18
