@@ -18,6 +18,7 @@
 * Merged [Kaleidoscope#740][kaleidoscope/740].
 * Merged [Kaleidoscope#748][kaleidoscope/748].
 * Opened [Kaleidoscope#749][kaleidoscope/749].
+* Naming brainstorming with Jesse, with regards to [Kaleidoscope#737][kaleidoscope/737].
 
  [kaleidoscope/738]: https://github.com/keyboardio/Kaleidoscope/pull/738
  [kaleidoscope/739]: https://github.com/keyboardio/Kaleidoscope/pull/739
