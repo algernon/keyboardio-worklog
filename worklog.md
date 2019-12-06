@@ -7,6 +7,7 @@
 * Opened [Kaleidoscope#753][kaleidoscope/753], fixing the key and led mapping issues on the Raise.
 * Opened [KeyboardioHID#60][keyboardiohid/60], fixing the HID report issues seen on the Raise.
 * Merged [Kaleidoscope#755][kaleidoscope/755].
+* Updated [Kaleidoscope#734][kaleidoscope/734].
 
  [kaleidoscope/753]: https://github.com/keyboardio/Kaleidoscope/pull/753
  [keyboardiohid/60]: https://github.com/keyboardio/KeyboardioHID/pull/60
