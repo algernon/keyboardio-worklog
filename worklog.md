@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-06
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#753][kaleidoscope/753], fixing the key and led mapping issues on the Raise.
+
+ [kaleidoscope/753]: https://github.com/keyboardio/Kaleidoscope/pull/753
+
 # 2019-12-05
 
 ## Kaleidoscope
