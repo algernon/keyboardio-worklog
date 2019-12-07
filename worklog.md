@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-07
+
+## Kaleidoscope
+
+* Opened and closed [KeyboardioHID#61][keyboardiohid/61] shortly after.
+* Updated [KeyboardioHID#60][keyboardiohid/60].
+
+ [keyboardiohid/61]: https://github.com/keyboardio/KeyboardioHID/pull/61
+
 # 2019-12-06
 
 ## Kaleidoscope
