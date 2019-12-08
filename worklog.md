@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-08
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#758][kaleidoscope/758].
+
+ [kaleidoscope/758]: https://github.com/keyboardio/Kaleidoscope/issues/758
+
 # 2019-12-07
 
 ## Kaleidoscope
