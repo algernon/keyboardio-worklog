@@ -5,7 +5,9 @@
 ## Kaleidoscope
 
 * Updated the Raise plugin to compile with Kaleidoscope master, again.
-* Reopened [KeyboardioHID#61][keyboardiohid/61].
+* Reopened [KeyboardioHID#61][keyboardiohid/61], and opened [Kaleidoscope#760][kaleidoscope/760] as its Kaleidoscope-side counterpart.
+
+ [kaleidoscope/760]: https://github.com/keyboardio/Kaleidoscope/pull/760
 
 # 2019-12-08
 
