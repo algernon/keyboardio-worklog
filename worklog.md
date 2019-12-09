@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-09
+
+## Kaleidoscope
+
+* Updated the Raise plugin to compile with Kaleidoscope master, again.
+
 # 2019-12-08
 
 ## Kaleidoscope
