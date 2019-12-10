@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Updated the Raise plugin to compile with Kaleidoscope master, again.
+* Spent quite some time trying to figure out how to switch to boot protocol by default, in a sane way. In a terrible, hacky way, it's easy. Doing it so that it isn't fragile is considerably more challenging. I do have something that appears to work, though.
 
 # 2019-12-06
 
