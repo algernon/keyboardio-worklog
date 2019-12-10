@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-10
+
+## Miscellaneous
+
+* Had a productive call with Luis about firmware tasks, prioritizing, and future work.
+
 # 2019-12-09
 
 ## Kaleidoscope
