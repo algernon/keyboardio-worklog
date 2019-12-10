@@ -1,5 +1,23 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-10
+
+## Chrysalis
+
+* Merged [Chrysalis#450][chrysalis/450].
+* Opened [Chrysalis#451][chrysalis/451].
+
+ [chrysalis/450]: https://github.com/keyboardio/Chrysalis/pull/450
+ [chrysalis/451]: https://github.com/keyboardio/Chrysalis/issues/451
+
+## Kaleidoscope
+
+* Reviewed and commented on [Kaleidoscope-Keyboardio-Bundle#23][kaleidoscope-keyboardio-bundle/23].
+* Reviewed and commented on [Kaleidoscope#762][kaleidoscope/762].
+
+ [kaleidoscope-keyboardio-bundle/23]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/23
+ [kaleidoscope/762]: https://github.com/keyboardio/Kaleidoscope/pull/762
+
 # 2019-12-09
 
 ## Kaleidoscope
