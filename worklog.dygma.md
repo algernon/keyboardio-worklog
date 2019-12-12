@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-11
+
+## Kaleidoscope
+
+* Managed to push the change that will make it easy to change to boot protocol by default, forward. It's now at a stage where I'm fairly happy with, but there's one more thing I need to check before it's ready. Basically, right now, it increases the firmware size considerably if we're using Arduino 1.8.9 or earlier. Using Arduino 1.8.10 makes the increase negligible. I have one trick up my sleeve which might help with older Arduinos. The size increase is not very important for the Raise right now, but it is for pretty much every other keyboard supported by Kaleidoscope. Since I want to avoid forking Kaleidoscope, even in the short term, now that we managed to merge it, I'm exploring every sensible possibility to lessen the impact of a big change.
+
+## Bazecor
+
+* Started looking into unblocking Roman, not there yet.
+
 # 2019-12-10
 
 ## Miscellaneous

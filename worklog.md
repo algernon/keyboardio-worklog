@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#765][kaleidoscope/765].
+* Pushed the HID driver stuff forward considerably.
 
  [kaleidoscope/765]: https://github.com/keyboardio/Kaleidoscope/pull/765
 
