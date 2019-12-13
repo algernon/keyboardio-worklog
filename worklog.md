@@ -1,15 +1,26 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-13
+
+## Kaleidoscope
+
+* Opened [KeyboardioHID#62][keyboardiohid/62].
+
+ [keyboardiohid/62]: https://github.com/keyboardio/KeyboardioHID/pull/62
+
 # 2019-12-12
 
 ## Kaleidoscope
 
 * Merged [Kaleidoscope#763][kaleidoscope/763].
 * Merged [Kaleidoscope-Keyboardio-Bundle#23][kaleidoscope-keyboardio-bundle/23] and [Kaleidoscope-Keyboardio-Bundle#24][kaleidoscope-keyboardio-bundle/24].
+* Opened [Kaleidoscope#771][kaleidoscope/711] and [Kaleidoscope-HIDAdaptor-KeyboardioHID#22][kaleidoscope-hidadaptor-keyboardiohid/22].
 
  [kaleidoscope/763]: https://github.com/keyboardio/Kaleidoscope/pull/763
  [kaleidoscope-keyboardio-bundle/23]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/23
  [kaleidoscope-keyboardio-bundle/24]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/24
+ [kaleidoscope/771]: https://github.com/keyboardio/Kaleidoscope/pull/771
+ [kaleidoscope-hidadaptor-keyboardiohid/22]: https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID/pull/22
 
 # 2019-12-11
 
