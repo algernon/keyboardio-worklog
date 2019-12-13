@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [KeyboardioHID#62][keyboardiohid/62].
+* Opened [Kaleidoscope#772][kaleidoscope/772].
 
  [keyboardiohid/62]: https://github.com/keyboardio/KeyboardioHID/pull/62
+ [kaleidoscope/772]: https://github.com/keyboardio/Kaleidoscope/pull/772
 
 # 2019-12-12
 
