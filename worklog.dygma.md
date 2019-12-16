@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-16
+
+## Bazecor
+
+* Opened [Bazecor#20][bazecor/20], which rebrands README, NEWS and the CoC.
+
+ [bazecor/20]: https://github.com/Dygmalab/Bazecor/pull/20
+
+## Miscellaneous
+
+* Talked with Luis about licenses, branding, bazecor-api, and a few other things.
+
 # 2019-12-11
 
 ## Kaleidoscope
