@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-17
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#775][kaleidoscope/775], a request to implement brightness control for LED modes. We need this to be able to implement reliable fading out when idle.
+
+ [kaleidoscope/775]: https://github.com/keyboardio/Kaleidoscope/issues/775
+
 # 2019-12-13
 
 ## Kaleidoscope
