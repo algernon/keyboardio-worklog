@@ -5,8 +5,15 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#775][kaleidoscope/775], a request to implement brightness control for LED modes. We need this to be able to implement reliable fading out when idle.
+* Opened [KeyboardioHID#63][keyboardiohid/63], reverting [KeyboardioHID#62][keyboardiohid/62]. Sadly the late-delay causes problems on the Raise.
+* Continued cleaning up the Kaleidoscope bundle repo. Locally for now, will need to rebase & squash commits before pushing to GitHub.
 
  [kaleidoscope/775]: https://github.com/keyboardio/Kaleidoscope/issues/775
+ [keyboardiohid/62]: https://github.com/keyboardio/KeyboardioHID/pull/62
+
+## Miscellaneous
+
+* Cleaned up the Bazecor branches a bit.
 
 # 2019-12-16
 
