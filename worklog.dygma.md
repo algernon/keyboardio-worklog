@@ -11,9 +11,16 @@
  [kaleidoscope/775]: https://github.com/keyboardio/Kaleidoscope/issues/775
  [keyboardiohid/62]: https://github.com/keyboardio/KeyboardioHID/pull/62
 
+## Bazecor
+
+* Opened [Bazecor#21][bazecor/21], which changes the last remaining Chrysalis references to Bazecor.
+
+ [bazecor/21]: https://github.com/Dygmalab/Bazecor/pull/21
+
 ## Miscellaneous
 
 * Cleaned up the Bazecor branches a bit.
+* Helped Luis archive old/obsolete/unused repositories.
 
 # 2019-12-16
 
