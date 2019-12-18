@@ -10,6 +10,10 @@
  [bazecor-api/8]: https://github.com/Dygmalab/chrysalis-api/pull/8
  [bazecor/22]: https://github.com/Dygmalab/Bazecor/pull/22
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope-LEDEffect-DigitalRain#12][kaleidoscope-ledeffect-digitalrain/12], asking its author if its ok to pull the plugin into Kaleidoscope proper. Pulling it in isn't necessary to use it in the factory firmware, but makes continued maintenance a little easier, I believe. (If the author says no, no problem, we can still include DigitalRain in the factory firmware.)
+
 # 2019-12-17
 
 ## Kaleidoscope
