@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-18
+
+## Bazecor
+
+* Reviewed [bazecor-api#8][bazecor-api/8] (the `chrysalis-api`->`bazecor-api` pull request), listing a whole lot of things that need to be fixed with it.
+* Reviewed, and approved [Bazecor#22][bazecor/22]. But it depends on [bazecor-api#8][bazecor-api/8], so that needs to be fixed and merged first.
+
+ [bazecor-api/8]: https://github.com/Dygmalab/chrysalis-api/pull/8
+ [bazecor/22]: https://github.com/Dygmalab/Bazecor/pull/22
+
 # 2019-12-17
 
 ## Kaleidoscope
