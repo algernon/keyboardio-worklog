@@ -9,6 +9,7 @@
 ## Kaleidoscope
 
 * Enabled `DynamicMacros` and `DynamicTapDance` for the `Raise-Firmware` (my fork for now, until I get back to updating the bundle repo).
+* Enabled `Left Control + Left Shift + Left Alt + 6` as the magic NKRO/6KRO toggle.
 
 # 2019-12-18
 
