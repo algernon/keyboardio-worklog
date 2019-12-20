@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-20
+
+## Bazecor
+
+* Reviewed and approved the updated [bazecor-api#8][bazecor-api/8].
+
 # 2019-12-18
 
 ## Bazecor
