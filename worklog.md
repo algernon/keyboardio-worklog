@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-20
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#760][kaleidoscope/760], removed the WIP flag, as it is now ready for review.
+
 # 2019-12-17
 
 ## Kaleidoscope

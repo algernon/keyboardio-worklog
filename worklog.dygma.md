@@ -6,6 +6,10 @@
 
 * Reviewed and approved the updated [bazecor-api#8][bazecor-api/8].
 
+## Kaleidoscope
+
+* Enabled `DynamicMacros` and `DynamicTapDance` for the `Raise-Firmware` (my fork for now, until I get back to updating the bundle repo).
+
 # 2019-12-18
 
 ## Bazecor
