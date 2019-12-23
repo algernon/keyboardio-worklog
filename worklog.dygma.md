@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-23
+
+## Bazecor
+
+* Updated `Bazecor` to use the `@bazecor-api` libraries everywhere (it still had some `@chrysalis-api` calls), and updated the dependencies to use published versions. Now Bazecor can be built using the steps in the README, it runs, and can connect to the Raise. All that, without additional helper scripts.
+
 # 2019-12-22
 
 ## Bazecor
