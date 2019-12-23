@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-22
+
+## Bazecor
+
+* Updated the `bazecor-api` master branch, and published the packages.
+
+## Kaleidoscope
+
+* Made a few attempts at updating `Kaleidoscope-Bundle-Dygma`, but in the end, had to fall back to just doing minimal upgrades (not done yet). The original plan was to use the upstream `ArduinoCore-samd`, so that `Kaleidoscope-Bundle-Dygma` would only contain what's needed on top of that (the changed bootloader, additional libraries, etc). Turns out, a couple of things were changed within the core that cannot be done this way. So next time I work on this, I'll just upgrade the libraries to point to the appropriate repos.
+
 # 2019-12-20
 
 ## Bazecor
