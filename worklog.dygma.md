@@ -6,6 +6,10 @@
 
 * Updated `Bazecor` to use the `@bazecor-api` libraries everywhere (it still had some `@chrysalis-api` calls), and updated the dependencies to use published versions. Now Bazecor can be built using the steps in the README, it runs, and can connect to the Raise. All that, without additional helper scripts.
 
+## Kaleidoscope
+
+* Started cleaning up my `Raise-Firmware` and `Kaleidoscope-Bundle-Dygma` history, in preparation for pushing the updates.
+
 ## Miscellaneous
 
 * Had a long chat with Luis about the shorter-term Bazecor roadmap. Went over all the backlog, talking about all the cards, and categorizing them into easy/mid/hard columns.
