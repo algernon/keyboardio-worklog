@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-27
+
+## Bazecor
+
+* Remove the language selection option - stick to English only.
+* Show the "Select a keyboard" menu item in the hamburger menu.
+* Disable the "Software update" menu item in the hamburger menu, with a "Coming soon..." subtext.
+* `XXX` keys renamed to "No key".
+* Transparent keys have a "Trans" top label.
+* Hard-coded layers no longer error out, they do not show a palette for now.
+* Fixed the double backtick issue on the Spanish layout, the appropriate one was changed to `º`.
+
 # 2019-12-23
 
 ## Bazecor
