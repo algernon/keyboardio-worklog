@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-27
+
+## Kaleidoscope
+
+* Rebased [Kaleidoscope#771][kaleidoscope/771] on top of master, and checked the size difference for select examples: it's `SingleAbsoluteMouse` getting optimized out. All is well!
+* Started looking into [Kaleidoscope#764][kaleidoscope/764].
+
+ [kaleidoscope/764]: https://github.com/keyboardio/Kaleidoscope/pull/764
+
 # 2019-12-23
 
 ## Chrysalis
