@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-28
+
+## Miscellaneous
+
+* Answered two customer questions via e-mail.
+
 # 2019-12-27
 
 ## Bazecor
