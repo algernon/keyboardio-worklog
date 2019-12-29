@@ -6,6 +6,7 @@
 
 * Reviewed and merged [Kaleidoscope#778][kaleidoscope/778].
 * Commented on [Kaleidoscope#777][kaleidoscope/777].
+* Further [Kaleidoscope#764][kaleidoscope/764] experiments.
 
  [kaleidoscope/778]: https://github.com/keyboardio/Kaleidoscope/pull/778
  [kaleidoscope/777]: https://github.com/keyboardio/Kaleidoscope/pull/777
