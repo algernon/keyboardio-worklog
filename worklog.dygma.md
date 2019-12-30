@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-30
+
+## Kaleidoscope
+
+* Helped with, and commented on [Kaleidoscope-LEDEffect-DigitalRain#13][kaleidoscope-ledeffect-digitalrain/13] and [Kaleidoscope-LEDEffect-DigitalRain#12][kaleidoscope-ledeffect-digitalrain/12]. These steps are necessary to update the plugin, and eventually add it to the Raise firmware.
+
+ [kaleidoscope-ledeffect-digitalrain/12]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/issues/12
+ [kaleidoscope-ledeffect-digitalrain/13]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/13
+
 # 2019-12-28
 
 ## Miscellaneous
