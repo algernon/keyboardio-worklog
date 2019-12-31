@@ -9,6 +9,10 @@
  [kaleidoscope-ledeffect-digitalrain/12]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/issues/12
  [kaleidoscope-ledeffect-digitalrain/13]: https://github.com/tremby/Kaleidoscope-LEDEffect-DigitalRain/pull/13
 
+## Miscellaneous
+
+* Started moving cards over to a new Trello board, to be made public. Many of them were rewritten to be more useful for the intended audience, and also to us.
+
 # 2019-12-28
 
 ## Miscellaneous
