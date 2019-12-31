@@ -1,5 +1,22 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2019-12-31
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#779][kaleidoscope/779], implementing `MoveToLayer()`.
+
+ [kaleidoscope/779]: https://github.com/keyboardio/Kaleidoscope/pull/779
+
+## Bazecor
+
+* Cleaned up most of the "Key config" menu.
+* Updated the blank key labels again (capitalized).
+
+## Miscellaneous
+
+* Mostly finished with transferring the important parts to the new Trello board.
+
 # 2019-12-30
 
 ## Kaleidoscope
