@@ -4,9 +4,10 @@
 
 ## Kaleidoscope
 
-* Opened [Kaleidoscope#779][kaleidoscope/779], implementing `MoveToLayer()`.
+* Opened [Kaleidoscope#779][kaleidoscope/779], implementing `MoveToLayer()`. Closed it soon after, see [Kaleidoscope#564][kaleidoscope/564] for my most current idea.
 
  [kaleidoscope/779]: https://github.com/keyboardio/Kaleidoscope/pull/779
+ [kaleidoscope/564]: https://github.com/keyboardio/Kaleidoscope/issues/564
 
 ## Bazecor
 
@@ -16,6 +17,8 @@
 ## Miscellaneous
 
 * Mostly finished with transferring the important parts to the new Trello board.
+* Had a chat with Luis and Fabian.
+* Chatted with Luis even more, about customer questions, layers, and a few other topics.
 
 # 2019-12-30
 

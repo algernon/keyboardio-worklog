@@ -4,9 +4,10 @@
 
 ## Kaleidoscope
 
-* Opened [Kaleidoscope#779][kaleidoscope/779].
+* Opened [Kaleidoscope#779][kaleidoscope/779], but promptly closed it. Wrote down my reasons, and current ideas in [Kaleidoscope#564][kaleidoscope/564].
 
  [kaleidoscope/779]: https://github.com/keyboardio/Kaleidoscope/pull/779
+ [kaleidoscope/564]: https://github.com/keyboardio/Kaleidoscope/issues/564
 
 # 2019-12-30
 
