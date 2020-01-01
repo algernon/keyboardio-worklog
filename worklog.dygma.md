@@ -14,6 +14,12 @@
  [trello/41]: https://trello.com/c/pvf5rdjy/41
  [trello/29]: https://trello.com/c/9HbWyuz2/29
 
+## Bazecor
+
+* Added `Numpad Enter` and `NumLock` to the numpad group. ([Trello#45][trello/45])
+
+ [trello/45]: https://trello.com/c/5XZtJwsC/45
+
 <!--
 ; Local variables:
 ; eval: (variable-pitch-mode nil)
