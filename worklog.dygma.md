@@ -8,17 +8,24 @@
 * Changed `Raise-Firmware` to use `MoveToLayer(n)` ([Trello#40][trello/40]).
 * Commented on [Trello#41][trello/41], seeking feedback.
 * Some small Kaleidoscope fixes for the Raise.
+* Opened [Kaleidoscope#780][kaleidoscope/780], about controlling layers from the host side. ([Trello#48][trello/48])
 
  [kaleidoscope/779]: https://github.com/keyboardio/Kaleidoscope/pull/779
+ [kaleidoscope/780]: https://github.com/keyboardio/Kaleidoscope/issues/780
  [trello/40]: https://trello.com/c/zNfuaC8Z/40
  [trello/41]: https://trello.com/c/pvf5rdjy/41
  [trello/29]: https://trello.com/c/9HbWyuz2/29
+ [trello/48]: https://trello.com/c/jt408d2I/48
 
 ## Bazecor
 
 * Added `Numpad Enter` and `NumLock` to the numpad group. ([Trello#45][trello/45])
 
  [trello/45]: https://trello.com/c/5XZtJwsC/45
+
+## Miscellaneous
+
+* Answered a number of support questions.
 
 <!--
 ; Local variables:
