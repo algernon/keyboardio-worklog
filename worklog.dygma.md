@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-02
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#781][kaleidoscope/781], fixing the USB-Quirks plugin, which is responsible for switching between 6KRO and NKRO.
+* Fixed the `pressedKeyswitchCount()` and `previousPressedKeyswitchCount()` methods on the Raise. We were counting the first 32 bits of our per-hand state, instead of the full 64 bits.
+
+ [kaleidoscope/781]: https://github.com/keyboardio/Kaleidoscope/pull/781
+
 # 2020-01-01
 
 ## Kaleidoscope
