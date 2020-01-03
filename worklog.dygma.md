@@ -8,10 +8,12 @@
 * Fixed the `pressedKeyswitchCount()` and `previousPressedKeyswitchCount()` methods on the Raise. We were counting the first 32 bits of our per-hand state, instead of the full 64 bits.
 * Updated `Kaleidoscope-Bundle-Dygma` and `Raise-Firmware`. ([Trello#14][trello/14])
 * Updated the 6KRO<->NKRO magic combo in Raise-Firmware so that it breathes with different colors when switching. ([Trello#11][trello/11])
+* Started working on a PR to address [Kaleidoscope#780][kaleidoscope/780], which will add Focus commands for working with layers. ([Trello#48][trello/48])
 
  [kaleidoscope/781]: https://github.com/keyboardio/Kaleidoscope/pull/781
  [trello/14]: https://trello.com/c/wA2KA8JW/14
  [trello/11]: https://trello.com/c/XiUDSYVD/11
+ [trello/48]: https://trello.com/c/jt408d2I/48
 
 # 2020-01-01
 
