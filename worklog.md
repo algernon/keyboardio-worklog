@@ -10,9 +10,12 @@
 
 * Opened [Kaleidoscope#783][kaleidoscope/783].
 * Opened [Kaleidoscope#784][kaleidoscope/784].
+* Opened [Kaleidoscope#785][kaleidoscope/785] and [KeyboardioScanner#19][keyboardioscanner/19].
 
  [kaleidoscope/783]: https://github.com/keyboardio/Kaleidoscope/pull/783
  [kaleidoscope/784]: https://github.com/keyboardio/Kaleidoscope/pull/784
+ [kaleidoscope/785]: https://github.com/keyboardio/Kaleidoscope/pull/785
+ [keyboardioscanner/19]: https://github.com/keyboardio/KeyboardioScanner/pull/19
 
 # 2020-01-03
 

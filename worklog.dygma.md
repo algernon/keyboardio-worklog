@@ -5,9 +5,12 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#784][kaleidoscope/784], implementing a `LEDToggle` key. ([Trello#51][trello/51])
+* Opened [Kaleidoscope#785][kaleidoscope/785], implementing global brightness control, required for [Trello#12][trello/12].
 
+ [trello/12]: https://trello.com/c/1hFIxr76/12
  [trello/51]: https://trello.com/c/u6HdGpvj/51
  [kaleidoscope/784]: https://github.com/keyboardio/Kaleidoscope/pull/784
+ [kaleidoscope/785]: https://github.com/keyboardio/Kaleidoscope/pull/785
 
 # 2020-01-03
 
