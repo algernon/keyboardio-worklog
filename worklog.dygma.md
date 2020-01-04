@@ -1,5 +1,18 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-03
+
+## Kaleidoscope
+
+* Posted an idea about layers to [Kaleidoscope#564][kaleidoscope/564].
+* Began testing the newly updated `Raise-Firmware`, with focus on making sure it is compatible with the previous factory firmware in every possible way. Looks like there's work to be done on that front, but haven't isolated the incompatibility yet.
+
+ [kaleidoscope/564]: https://github.com/keyboardio/Kaleidoscope/issues/564
+
+## Miscellaneous
+
+* Had a long talk with Luis about a whole lot of topics.
+
 # 2020-01-02
 
 ## Kaleidoscope
