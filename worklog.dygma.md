@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-04
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#784][kaleidoscope/784], implementing a `LEDToggle` key. ([Trello#51][trello/51])
+
+ [trello/51]: https://trello.com/c/u6HdGpvj/51
+ [kaleidoscope/784]: https://github.com/keyboardio/Kaleidoscope/pull/784
+
 # 2020-01-03
 
 ## Kaleidoscope

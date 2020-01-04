@@ -9,8 +9,10 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#783][kaleidoscope/783].
+* Opened [Kaleidoscope#784][kaleidoscope/784].
 
  [kaleidoscope/783]: https://github.com/keyboardio/Kaleidoscope/pull/783
+ [kaleidoscope/784]: https://github.com/keyboardio/Kaleidoscope/pull/784
 
 # 2020-01-03
 
