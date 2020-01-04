@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-03
+
+## Kaleidoscope
+
+* Posted an idea about layers to [Kaleidoscope#564][kaleidoscope/564].
+
+ [kaleidoscope/564]: https://github.com/keyboardio/Kaleidoscope/issues/564
+
 # 2020-01-02
 
 ## Kaleidoscope
