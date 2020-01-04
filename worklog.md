@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-04
+
+## Miscellaneous
+
+* Reviewed the Keyboardio Atreus layout card for Jesse.
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#783][kaleidoscope/783].
+
+ [kaleidoscope/783]: https://github.com/keyboardio/Kaleidoscope/pull/783
+
 # 2020-01-03
 
 ## Kaleidoscope
