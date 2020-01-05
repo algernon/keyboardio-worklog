@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-05
+
+## Kaleidoscope
+
+* Commented on [Kaleidoscope#564][kaleidoscope/564].
+* Also commented on [Kaleidoscope#784][kaleidoscope/784].
+
 # 2020-01-04
 
 ## Miscellaneous
