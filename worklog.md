@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-06
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#784][kaleidoscope/784] based on feedback received.
+* Opened [Kaleidoscope#786][kaleidoscope/786].
+
+ [kaleidoscope/786]: https://github.com/keyboardio/Kaleidoscope/issues/786
+
 # 2020-01-05
 
 ## Kaleidoscope
