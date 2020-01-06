@@ -6,8 +6,10 @@
 
 * Updated [Kaleidoscope#784][kaleidoscope/784] based on feedback received.
 * Opened [Kaleidoscope#786][kaleidoscope/786].
+* Opened [Kaleidoscope#787][kaleidoscope/787].
 
  [kaleidoscope/786]: https://github.com/keyboardio/Kaleidoscope/issues/786
+ [kaleidoscope/787]: https://github.com/keyboardio/Kaleidoscope/pull/787
 
 # 2020-01-05
 
