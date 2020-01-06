@@ -6,6 +6,10 @@
 
 * Updated [Kaleidoscope#784][kaleidoscope/784] based on feedback received.
 
+## Miscellaneous
+
+* Reviewed all the new cards on the Trello board, labelling and commenting as appropriate.
+
 # 2020-01-04
 
 ## Kaleidoscope
