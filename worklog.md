@@ -6,10 +6,12 @@
 
 * Quickly rebased [Kaleidoscope#785][kaleidoscope/785] on top of master.
 * Opened [Kaleidoscope#790][kaleidoscope/790], and [Kaleidoscope#791][kaleidoscope/791] fixing it.
+* Opened [Kaleidoscope#792][kaleidoscope/792].
 * Experimented with trying to make the breathe/exhale docs better, not much luck there.
 
  [kaleidoscope/790]: https://github.com/keyboardio/Kaleidoscope/issues/790
  [kaleidoscope/791]: https://github.com/keyboardio/Kaleidoscope/pull/791
+ [kaleidoscope/792]: https://github.com/keyboardio/Kaleidoscope/pull/792
 
 # 2020-01-06
 

@@ -5,9 +5,11 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#790][kaleidoscope/790], and [Kaleidoscope#791][kaleidoscope/791] fixing it. There was an issue with the new LED toggle key and IdleLEDs not playing well together, this is the fix.
+* Opened [Kaleidoscope#792][kaleidoscope/792], exposing the LED brightness controls via Focus.
 
  [kaleidoscope/790]: https://github.com/keyboardio/Kaleidoscope/issues/790
  [kaleidoscope/791]: https://github.com/keyboardio/Kaleidoscope/pull/791
+ [kaleidoscope/792]: https://github.com/keyboardio/Kaleidoscope/pull/792
 
 ## Miscellaneous
 
