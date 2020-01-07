@@ -1,5 +1,18 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-07
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#790][kaleidoscope/790], and [Kaleidoscope#791][kaleidoscope/791] fixing it. There was an issue with the new LED toggle key and IdleLEDs not playing well together, this is the fix.
+
+ [kaleidoscope/790]: https://github.com/keyboardio/Kaleidoscope/issues/790
+ [kaleidoscope/791]: https://github.com/keyboardio/Kaleidoscope/pull/791
+
+## Miscellaneous
+
+* Had a chat with Luis about layers and the way forward. Continued that with reviewing the next milestone label on Trello, and deciding to aim for a new release by the end of next week.
+
 # 2020-01-06
 
 ## Kaleidoscope
