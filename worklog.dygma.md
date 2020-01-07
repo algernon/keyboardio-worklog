@@ -11,6 +11,11 @@
  [kaleidoscope/791]: https://github.com/keyboardio/Kaleidoscope/pull/791
  [kaleidoscope/792]: https://github.com/keyboardio/Kaleidoscope/pull/792
 
+## Bazecor
+
+* Added the `Key_LEDToggle` key to the keymap.
+* Implemented brightness adjustment controls.
+
 ## Miscellaneous
 
 * Had a chat with Luis about layers and the way forward. Continued that with reviewing the next milestone label on Trello, and deciding to aim for a new release by the end of next week.
