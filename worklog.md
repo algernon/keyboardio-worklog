@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-08
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#793][kaleidoscope/793].
+* Opened [Model01-Firmware#95][model01-firmware/95].
+
+ [kaleidoscope/793]: https://github.com/keyboardio/Kaleidoscope/issues/793
+ [model01-firmware/95]: https://github.com/keyboardio/Model01-Firmware/pull/95
+
 # 2020-01-07
 
 ## Kaleidoscope
