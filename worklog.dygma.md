@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-09
+
+## Kaleidoscope
+
+* Figured out why the EEPROM layout of the new firmware changed, and applied a fix to Raise-Firmware. ([Trello#52][trello/52])
+
+ [trello/52]: https://trello.com/c/XsYgbt1H/52
+
 # 2020-01-07
 
 ## Kaleidoscope
