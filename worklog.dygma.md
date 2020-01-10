@@ -5,8 +5,11 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#796][kaleidoscope/796], implementing a way to temporarily disable the `IdleLEDs` plugin, by setting the timeout to zero.
+* Opened [Kaleidoscope#797][kaleidoscope/797], implementing a way to control layers from the host side. ([Trello#48][trello/48])
 
  [kaleidoscope/796]: https://github.com/keyboardio/Kaleidoscope/pull/796
+ [kaleidoscope/797]: https://github.com/keyboardio/Kaleidoscope/pull/797
+ [trello/48]: https://trello.com/c/jt408d2I/48
 
 # 2020-01-09
 

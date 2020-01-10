@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#796][kaleidoscope/796].
+* Opened [Kaleidoscope#797][kaleidoscope/797].
 
  [kaleidoscope/796]: https://github.com/keyboardio/Kaleidoscope/pull/796
+ [kaleidoscope/797]: https://github.com/keyboardio/Kaleidoscope/pull/797
 
 # 2020-01-08
 
