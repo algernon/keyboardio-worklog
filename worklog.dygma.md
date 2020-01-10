@@ -11,6 +11,10 @@
  [kaleidoscope/797]: https://github.com/keyboardio/Kaleidoscope/pull/797
  [trello/48]: https://trello.com/c/jt408d2I/48
 
+## Bazecor
+
+* Implemented idle timeout controls. Depends on [Kaleidoscope#796][kaleidoscope/796] for full functionality.
+
 # 2020-01-09
 
 ## Kaleidoscope
