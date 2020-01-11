@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-11
+
+## Bazecor
+
+* Merged the keyboard settings into `Preferences`. ([Trello#35][trello/35])
+
+ [trello/35]: https://trello.com/c/GuAz8Ul9/35-merge-keyboard-settings-into-preferences
+
 # 2020-01-10
 
 ## Kaleidoscope
