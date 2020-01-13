@@ -1,12 +1,25 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-13
+
+## Kaleidoscope
+
+* Found a few bugs (with Luis) in the new firmware.
+* Started sketching up a plugin that will help us upgrade from one firmware version to another (ie, in-sketch migration).
+
+## Miscellaneous
+
+* Had a chat with Luis about flashing new firmware and related things.
+
 # 2020-01-11
 
 ## Bazecor
 
 * Merged the keyboard settings into `Preferences`. ([Trello#35][trello/35])
+* Made the `Navigation` and `Miscellaneous` groups in the key config moddable. ([Trello#58][trello/58])
 
  [trello/35]: https://trello.com/c/GuAz8Ul9/35-merge-keyboard-settings-into-preferences
+ [trello/58]: https://trello.com/c/HsGDgo85/58-add-navigation-miscellaneous-modifiers
 
 # 2020-01-10
 
