@@ -1,5 +1,18 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-14
+
+## Kaleidoscope
+
+* Rearranged the LED modes, removing unneeded ones.
+* Implemented a migration plugin.
+
+## Bazecor
+
+* Updated the keymap database, so GUI keys show the OS name, and a few more keys can be augmented with modifiers.
+* Modifiers can't be set DualUse anymore.
+* Dark mode has been (temporarily) disabled.
+
 # 2020-01-13
 
 ## Kaleidoscope
