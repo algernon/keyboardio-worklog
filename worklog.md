@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-14
+
+## Chrysalis
+
+* Opened [Chrysalis#456][chrysalis/456].
+* Opened [Chrysalis#457][chrysalis/457].
+* Opened [Chrysalis#458][chrysalis/458].
+
+ [chrysalis/456]: https://github.com/keyboardio/Chrysalis/pull/456
+ [chrysalis/457]: https://github.com/keyboardio/Chrysalis/pull/457
+ [chrysalis/458]: https://github.com/keyboardio/Chrysalis/issues/458
+
 # 2020-01-10
 
 ## Kaleidoscope
