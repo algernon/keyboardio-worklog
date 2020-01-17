@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-17
+
+## Kaleidoscope
+
+* Reviewed and approved [Kaleidoscope-Bundle-Keyboardio#26][kaleidoscope-bundle-keyboardio/26] and [Kaleidoscope#802][kaleidoscope/802].
+
+ [kaleidoscope-bundle-keyboardio/26]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/26
+ [kaleidoscope/802]: https://github.com/keyboardio/Kaleidoscope/pull/802
+
 # 2020-01-14
 
 ## Chrysalis
