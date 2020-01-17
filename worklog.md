@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Reviewed and approved [Kaleidoscope-Bundle-Keyboardio#26][kaleidoscope-bundle-keyboardio/26] and [Kaleidoscope#802][kaleidoscope/802].
+* Reviewed [Kaleidoscope-Bundle-Keyboardio#24][kaleidoscope-bundle-keyboardio/24].
 
  [kaleidoscope-bundle-keyboardio/26]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/26
+ [kaleidoscope-bundle-keyboardio/24]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/24
  [kaleidoscope/802]: https://github.com/keyboardio/Kaleidoscope/pull/802
 
 # 2020-01-14
