@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-19
+
+## Miscellaneous
+
+* Answered a lot of customer e-mail.
+
 # 2020-01-14
 
 ## Kaleidoscope
