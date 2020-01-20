@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-19
+
+## Kaleidoscope
+
+* Experimenting a bit with a variant of MagicCombo that consumes combos instead of applying the combo action on top of normal keys. It doesn't quite work yet...
+
 # 2020-01-17
 
 ## Kaleidoscope
