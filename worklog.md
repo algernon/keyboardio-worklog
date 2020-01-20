@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-20
+
+## Kaleidoscope
+
+* Debugged, reproduced, and fixed [Kaleidoscope-Bundle-Keyboardio#27][kaleidoscope-bundle-keyboardio/27], via [Kaleidoscope-Bundle-Keyboardio#28][kaleidoscope-bundle-keyboardio/28].
+
+ [kaleidoscope-bundle-keyboardio/27]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/issues/27
+ [kaleidoscope-bundle-keyboardio/28]: https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio/pull/28
+
 # 2020-01-19
 
 ## Kaleidoscope
