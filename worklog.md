@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-21
+
+## Kaleidoscope
+
+* Fixed the `Kaleidoscope-Bundle-Keyboardio` build on Travis - by removing the cache.
+
 # 2020-01-20
 
 ## Kaleidoscope
