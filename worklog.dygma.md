@@ -6,6 +6,14 @@
 
 * Triaged all the issues opened on GitHub against the Bazecor repo.
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#804][kaleidoscope/804], based on an idea from [Bazecor#34][bazecor/34]. Also opened [Kaleidoscope#805][kaleidoscope/805] implementing it. The idea is that we should have a layer shift key that acts like a modifier: in itself, it does nothing. But pressed together with a layer index, we move to that layer. See [Bazecor#34][bazecor/34] for the original idea.
+
+ [kaleidoscope/804]: https://github.com/keyboardio/Kaleidoscope/issues/804
+ [kaleidoscope/805]: https://github.com/keyboardio/Kaleidoscope/pull/805
+ [bazecor/34]: https://github.com/Dygmalab/Bazecor/issues/34
+
 # 2020-01-19
 
 ## Miscellaneous
