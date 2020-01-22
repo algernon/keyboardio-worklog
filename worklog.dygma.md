@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-20
+
+## Bazecor
+
+* Triaged all the issues opened on GitHub against the Bazecor repo.
+
 # 2020-01-19
 
 ## Miscellaneous
