@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-23
+
+## Bazecor
+
+* Fixed most of the flashing issues.
+* Fixed an error when switching to a layer with unselected keys, which resulted in a white screen.
+* Updated where the Support menu item points to.
+* Made the flashing error notification dismissable.
+
 # 2020-01-22
 
 ## Kaleidoscope
