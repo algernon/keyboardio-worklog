@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-22
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#804][kaleidoscope/804], based on an idea from [Bazecor#34][bazecor/34]. Also opened [Kaleidoscope#805][kaleidoscope/805] implementing it.
+
+ [kaleidoscope/804]: https://github.com/keyboardio/Kaleidoscope/issues/804
+ [kaleidoscope/805]: https://github.com/keyboardio/Kaleidoscope/pull/805
+ [bazecor/34]: https://github.com/Dygmalab/Bazecor/issues/34
+
 # 2020-01-20
 
 ## Bazecor
