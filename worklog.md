@@ -4,7 +4,7 @@
 
 ## Kaleidoscope
 
-* Updated [Kaleidoscope#779][kaleidoscope/779], now it actually works.
+* Updated [Kaleidoscope#779][kaleidoscope/779], now it actually works, and plays well with other plugins.
 * Fixed the RGB component orders on the Raise, again, to match the order on the factory firmware.
 
 # 2020-01-23

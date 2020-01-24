@@ -4,7 +4,7 @@
 
 ## Kaleidoscope
 
-* Updated [Kaleidoscope#779][kaleidoscope/779], our `MoveToLayer` implementation.
+* Updated [Kaleidoscope#779][kaleidoscope/779], our `MoveToLayer` implementation. It now works, and plays well with other plugins.
 * Fixed the RGB component order on the Raise, again, to match the order in the factory firmware.
 
 ## Raise-Firmware
