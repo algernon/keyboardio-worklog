@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-24
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#779][kaleidoscope/779], now it actually works.
+* Fixed the RGB component orders on the Raise, again, to match the order on the factory firmware.
+
 # 2020-01-23
 
 ## Kaleidoscope
