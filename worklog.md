@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-23
+
+## Kaleidoscope
+
+* Tried to reproduce the Travis error from [Kaleidoscope#774][kaleidoscope/774], but no luck yet.
+
+ [kaleidoscope/774]: https://github.com/keyboardio/Kaleidoscope/pull/774
+
 # 2020-01-22
 
 ## Kaleidoscope
