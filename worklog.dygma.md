@@ -1,5 +1,25 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-24
+
+## Kaleidoscope
+
+* Updated [Kaleidoscope#779][kaleidoscope/779], our `MoveToLayer` implementation.
+* Fixed the RGB component order on the Raise, again, to match the order in the factory firmware.
+
+## Raise-Firmware
+
+* Updated to default to using Colormap on upgrade.
+* Updated to use `MoveToLayer`.
+
+## Bazecor
+
+* Released a new version of the `@bazecor-api` libraries, and updated Bazecor's dependencies accordingly.
+* Bumped the package version to 0.2.0 in preparation for the release.
+* Updated the firmware HEX shipping with Bazecor to the latest firmware.
+* Replaced `LockLayer` with `MoveToLayer` in the key config menus. `LockLayer` is now shown on the keymap, but is hidden in key config.
+* Moved one of the `+`s on the Spanish layout to its proper group (Numpad->Punctuation & special keys).
+
 # 2020-01-23
 
 ## Bazecor
