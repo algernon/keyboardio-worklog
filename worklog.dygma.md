@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-26
+
+## Bazecor
+
+* Made it possible to flash new firmware onto a Raise in bootloader mode. Not in an elegant way, and the user experience isn't the smoothest, but it appears to work fairly reliably.
+
 # 2020-01-24
 
 ## Kaleidoscope
