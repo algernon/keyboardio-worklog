@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-29
+
+## Bazecor
+
+* Tried to figure out a solution for the flashing problems, no luck yet. Managed to find exact scenarios where things break, I have ways to get back to a working state, but the experience is not something we want to show to users. :/
+* Mailed Matt about it.
+
 # 2020-01-27
 
 ## Bazecor

@@ -6,6 +6,12 @@
 
 * Fixed the PID of the Keyboardio Atreus, so Chrysalis should be able to detect and connect to the keyboard now.
 
+## Kaleidoscope
+
+* Opened [Kaleidoscope#807][kaleidoscope/807], forcing Travis to always use the current Kaleidoscope, not the copy from the Bundle. This should unbreak [Kaleidoscope#774][kaleidoscope/774].
+
+ [kaleidoscope/807]: https://github.com/keyboardio/Kaleidoscope/pull/807
+
 # 2020-01-24
 
 ## Kaleidoscope
