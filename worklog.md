@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-29
+
+## Chrysalis
+
+* Fixed the PID of the Keyboardio Atreus, so Chrysalis should be able to detect and connect to the keyboard now.
+
 # 2020-01-24
 
 ## Kaleidoscope
