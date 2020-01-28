@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-01-27
+
+## Bazecor
+
+* Managed to figure out why flashing broke in the normal case: missing bootloader!
+* Also polished the bootloader-flashing flow a little.
+
 # 2020-01-26
 
 ## Bazecor
