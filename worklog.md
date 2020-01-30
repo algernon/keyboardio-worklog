@@ -2,6 +2,18 @@
 
 # 2020-01-29
 
+## Kaleidoscope
+
+* Since Travis is still failing, I've been trying to unbreak it, and make our builds more stable. I'm starting to think we'll need to drop smoke-tests, and have a few big sketches we build, to speed up the process.
+
+ [kaleidoscope/807]: https://github.com/keyboardio/Kaleidoscope/pull/807
+
+## Miscellaneous
+
+* Looked into code signing on OSX, and found that we can do that, for an annual fee. We can't get into the App Store, but we can code sign Chrysalis builds. See [here](https://www.electronjs.org/docs/tutorial/code-signing) for more information.
+
+# 2020-01-28
+
 ## Chrysalis
 
 * Fixed the PID of the Keyboardio Atreus, so Chrysalis should be able to detect and connect to the keyboard now.

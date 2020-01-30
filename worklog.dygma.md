@@ -4,6 +4,16 @@
 
 ## Bazecor
 
+* Still trying to figure out flashing problems.
+
+## Miscellaneous
+
+* Looked into code signing on OSX, and found that we can do that, for an annual fee. We can't get into the App Store, but we can code sign Bazecor builds. See [here](https://www.electronjs.org/docs/tutorial/code-signing) for more information.
+
+# 2020-01-28
+
+## Bazecor
+
 * Tried to figure out a solution for the flashing problems, no luck yet. Managed to find exact scenarios where things break, I have ways to get back to a working state, but the experience is not something we want to show to users. :/
 * Mailed Matt about it.
 
