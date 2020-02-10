@@ -4,7 +4,7 @@
 
 ## Chrysalis
 
-* For the past week and a half, I've been working on updating Chrysalis to node >= 12 and Electron 7.
+* For the past week and a half, I've been working on updating Chrysalis to node >= 12 and Electron 7. This is now done, Chrysalis master builds and runs with node 12 and Electron 7 (binaries included).
 
 # 2020-01-29
 
