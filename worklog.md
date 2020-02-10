@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-10
+
+## Chrysalis
+
+* For the past week and a half, I've been working on updating Chrysalis to node >= 12 and Electron 7.
+
 # 2020-01-29
 
 ## Kaleidoscope

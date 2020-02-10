@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-10
+
+## Bazecor
+
+* For the past week and a half, I've been working on updating Bazecor to node >= 12 and Electron 7.
+* Re-enabled Travis builds, and uploads to S3.
+
 # 2020-01-29
 
 ## Bazecor
