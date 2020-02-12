@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-12
+
+## Bazecor
+
+* Disabled mouse warp keys for the time being, until they're working reliably with the Raise.
+
 # 2020-02-11
 
 ## Bazecor
