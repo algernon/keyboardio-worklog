@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-11
+
+## Bazecor
+
+* Various attempts at fixing the packaged app. on OSX.
+* Linux & Windows binaries built, and are functioning.
+
 # 2020-02-10
 
 ## Bazecor

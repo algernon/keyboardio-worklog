@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-11
+
+## Chrysalis
+
+* Various attempts at fixing the packaged app. on OSX.
+
 # 2020-02-10
 
 ## Chrysalis
