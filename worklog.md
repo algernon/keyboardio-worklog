@@ -7,6 +7,7 @@
 * Various attempts at fixing the packaged app. on OSX.
 * Opened [Chrysalis#461][chrysalis/461], fixing [Chrysalis#458][chrysalis/458].
 * Closed [Chrysalis#452][chrysalis/452].
+* Pinged Jesse about [Chrysalis#457][chrysalis/457].
 
  [chrysalis/461]: https://github.com/keyboardio/Chrysalis/pull/461
  [chrysalis/452]: https://github.com/keyboardio/Chrysalis/issues/452
