@@ -8,9 +8,12 @@
 * Opened [Chrysalis#461][chrysalis/461], fixing [Chrysalis#458][chrysalis/458].
 * Closed [Chrysalis#452][chrysalis/452].
 * Pinged Jesse about [Chrysalis#457][chrysalis/457].
+* Opened [Chrysalis#462][chrysalis/464], fixing [Chrysalis#446][chrysalis/446].
 
  [chrysalis/461]: https://github.com/keyboardio/Chrysalis/pull/461
  [chrysalis/452]: https://github.com/keyboardio/Chrysalis/issues/452
+ [chrysalis/446]: https://github.com/keyboardio/Chrysalis/issues/446
+ [chrysalis/462]: https://github.com/keyboardio/Chrysalis/pull/462
 
 # 2020-02-10
 
