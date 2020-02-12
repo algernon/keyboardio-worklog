@@ -5,6 +5,9 @@
 ## Chrysalis
 
 * Various attempts at fixing the packaged app. on OSX.
+* Opened [Chrysalis#461][chrysalis/461], fixing [Chrysalis#458][chrysalis/458].
+
+ [chrysalis/461]: https://github.com/keyboardio/Chrysalis/pull/461
 
 # 2020-02-10
 
