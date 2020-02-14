@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-13
+
+## Bazecor
+
+* OSX debugging...
+
 # 2020-02-12
 
 ## Bazecor
