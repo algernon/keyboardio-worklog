@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-18
+
+## Bazecor
+
+* Released [Bazecor 0.2.0][bazecor:0.2.0].
+* Commented on a number of cards on Trello.
+
+ [bazecor:0.2.0]: https://github.com/Dygmalab/Bazecor/releases/tag/bazecor-0.2.0
+
 # 2020-02-13
 
 ## Bazecor

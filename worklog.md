@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-18
+
+## Kaleidoscope
+
+* Reproduced and started debugging [Kaleidoscope#812][kaleidoscope/812]. Some suspicions (moveToLayer) were ruled out, there's more to test.
+
+ [kaleidoscope/812]: https://github.com/keyboardio/Kaleidoscope/issues/812
+
+## Chrysalis
+
+* Figured out what's behind [Chrysalis#465][chrysalis/465].
+* Tried reproducing [Chrysalis#463][chrysalis/463], did not succeed.
+
+ [chrysalis/465]: https://github.com/keyboardio/Chrysalis/issues/465
+ [chrysalis/463]: https://github.com/keyboardio/Chrysalis/issues/463
+
 # 2020-02-13
 
 ## Chrysalis
