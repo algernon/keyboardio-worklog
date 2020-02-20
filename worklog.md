@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-19
+
+## Kaleidoscope
+
+* Continued working on [Kaleidoscope#812][kaleidoscope/812], bisecting, because other, easier paths were exhausted.
+
+## Chrysalis
+
+* Started looking into the serialport issues.
+
 # 2020-02-18
 
 ## Kaleidoscope

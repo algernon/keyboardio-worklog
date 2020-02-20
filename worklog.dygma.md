@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-19
+
+## Bazecor
+
+* Started looking into the serialport issues, that prevent us from connecting to the Raise when running a production build.
+
+## Miscellaneous
+
+* Had a chat with Luis.
+
 # 2020-02-18
 
 ## Bazecor
