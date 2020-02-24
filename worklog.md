@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-24
+
+## Kaleidoscope
+
+* Finished bisecting [Kaleidoscope#812][kaleidoscope/812], opened [Kaleidoscope#815][kaleidoscope/815] with a fix.
+
+ [kaleidoscope/815]: https://github.com/keyboardio/Kaleidoscope/pull/815
+
 # 2020-02-19
 
 ## Kaleidoscope
