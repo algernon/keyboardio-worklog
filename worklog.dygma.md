@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-24
+
+## Bazecor
+
+* Made _some_ progress on the serialport issues, managed to get a Linux binary working. Yet to try OSX, but since we were having the same issue on Linux too, I have high hopes.
+
 # 2020-02-19
 
 ## Bazecor

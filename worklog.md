@@ -5,8 +5,11 @@
 ## Kaleidoscope
 
 * Finished bisecting [Kaleidoscope#812][kaleidoscope/812], opened [Kaleidoscope#815][kaleidoscope/815] with a fix.
+* Opened [Kaleidoscope#816][kaleidoscope/816].
+* Looked into keyboard detection in `kaleidoscope-builder`, but no substantial progress yet.
 
  [kaleidoscope/815]: https://github.com/keyboardio/Kaleidoscope/pull/815
+ [kaleidoscope/816]: https://github.com/keyboardio/Kaleidoscope/issues/816
 
 # 2020-02-19
 
