@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-25
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#819][kaleidoscope/819], fixing [Kaleidoscope#816][kaleidoscope/816]. Needs a bit more testing to get out of draft state.
+
+ [kaleidoscope/819]: https://github.com/keyboardio/Kaleidoscope/pull/819
+
 # 2020-02-24
 
 ## Kaleidoscope
