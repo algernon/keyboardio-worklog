@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-26
+
+## Bazecor
+
+* Added a workaround for the serialport & mac issues.
+* Updated the Linux AppImage to automatically disable the sandbox on older kernels, so users do not need to run Bazecor with `--no-sandbox` on these older systems.
+
 # 2020-02-24
 
 ## Bazecor

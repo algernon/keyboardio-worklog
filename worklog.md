@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-02-26
+
+## Chrysalis
+
+* Opened [Chrysalis#466][chrysalis/466].
+* Had a few attempts at working around [electron-webpack#275][electron-webpack/275].
+
+ [chrysalis/466]: https://github.com/keyboardio/Chrysalis/pull/466
+ [electron-webpack/275]: https://github.com/electron-userland/electron-webpack/issues/275
+
 # 2020-02-25
 
 ## Kaleidoscope
