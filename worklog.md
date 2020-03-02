@@ -5,6 +5,9 @@
 ## Chrysalis
 
 * Updated [Chrysalis#466][chrysalis/466] with a better explanation.
+* Opened [Chrysalis#469][chrysalis/469], merging `@chrysalis-api` into Chrysalis itself.
+
+ [chrysalis/469]: https://github.com/keyboardio/Chrysalis/pull/469
 
 # 2020-02-27
 
