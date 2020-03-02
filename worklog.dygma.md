@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-02
+
+## Bazecor
+
+* Check device file permissions on Linux, before allowing one to connect to the Raise. ([Trello#163][trello/163])
+
+ [trello/163]: https://trello.com/c/24a2459A/163
+
 # 2020-02-26
 
 ## Bazecor
