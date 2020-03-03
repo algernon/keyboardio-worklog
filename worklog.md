@@ -6,8 +6,11 @@
 
 * Updated [Chrysalis#466][chrysalis/466] with a better explanation.
 * Opened [Chrysalis#469][chrysalis/469], merging `@chrysalis-api` into Chrysalis itself.
+* Updated the firmware bundle to the new APIs.
+* Released [Chrysalis 0.7.0][chrysalis:0.7.0].
 
  [chrysalis/469]: https://github.com/keyboardio/Chrysalis/pull/469
+ [chrysalis:0.7.0]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.0
 
 # 2020-02-27
 
