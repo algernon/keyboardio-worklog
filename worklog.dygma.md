@@ -8,6 +8,10 @@
 
  [trello/163]: https://trello.com/c/24a2459A/163
 
+## Miscellaneous
+
+* Went through a fair number of Trello cards, labelling, commenting, moving them to the right column.
+
 # 2020-02-26
 
 ## Bazecor
