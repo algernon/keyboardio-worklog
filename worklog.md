@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-05
+
+## Chrysalis
+
+* Merged [Chrysalis#469][chrysalis/469].
+* Opened [Chrysalis#473][chrysalis/473], [Chrysalis#474][chrysalis/474], [Chrysalis#475][chrysalis/475], and [Chrysalis#476][chrysalis/476].
+* Updated the keymap database a little: `XXX` was turned into `Blocked`, `Backspace` got its shorthand modified to `Bksp`, digits got their shifted symbols added to the top, and the Gui key is displayed specific to the OS Chrysalis is running on, and arrow keys display as Unicode arrow symbols.
+* Touched up a few things about the Atreus background image.
+* Released [Chrysalis 0.7.1][chrysalis:0.7.1].
+
+ [chrysalis/473]: https://github.com/keyboardio/Chrysalis/issues/473
+ [chrysalis/474]: https://github.com/keyboardio/Chrysalis/issues/474
+ [chrysalis/475]: https://github.com/keyboardio/Chrysalis/issues/475
+ [chrysalis/476]: https://github.com/keyboardio/Chrysalis/issues/476
+ [chrysalis:0.7.1]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.1
+
 # 2020-03-02
 
 ## Chrysalis
