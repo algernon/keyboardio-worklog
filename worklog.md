@@ -5,8 +5,11 @@
 ## Chrysalis
 
 * Fixed [Chrysalis#479][chrysalis/479].
+* Opened [Chrysalis#481][chrysalis/481].
+* Fixed the vendor text for the Keyboardio Atreus, and moved the default firmware to the place Chrysalis was expecting it at.
 
  [chrysalis/479]: https://github.com/keyboardio/Chrysalis/issues/479
+ [chrysalis/481]: https://github.com/keyboardio/Chrysalis/issues/481
 
 # 2020-03-05
 
