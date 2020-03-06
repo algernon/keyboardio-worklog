@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-06
+
+## Chrysalis
+
+* Fixed [Chrysalis#479][chrysalis/479].
+
+ [chrysalis/479]: https://github.com/keyboardio/Chrysalis/issues/479
+
 # 2020-03-05
 
 ## Chrysalis
