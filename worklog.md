@@ -10,6 +10,7 @@
 * Touched up a few things about the Atreus background image.
 * Released [Chrysalis 0.7.1][chrysalis:0.7.1].
 * Opened [Chrysalis#477][chrysalis/477].
+* Opened [Chrysalis#478][chrysalis/478].
 
  [chrysalis/473]: https://github.com/keyboardio/Chrysalis/issues/473
  [chrysalis/474]: https://github.com/keyboardio/Chrysalis/issues/474
@@ -17,6 +18,7 @@
  [chrysalis/476]: https://github.com/keyboardio/Chrysalis/issues/476
  [chrysalis:0.7.1]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.1
  [chrysalis/477]: https://github.com/keyboardio/Chrysalis/issues/477
+ [chrysalis/478]: https://github.com/keyboardio/Chrysalis/issues/478
 
 # 2020-03-02
 
