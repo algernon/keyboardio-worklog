@@ -7,9 +7,13 @@
 * Fixed [Chrysalis#479][chrysalis/479].
 * Opened [Chrysalis#481][chrysalis/481].
 * Fixed the vendor text for the Keyboardio Atreus, and moved the default firmware to the place Chrysalis was expecting it at.
+* Released [Chrysalis 0.7.2][chrysalis:0.7.2].
+* Helped Jesse debug an issue with flashing the Atreus and the Model01. This resulted in [avrgirl-arduino#193][avrgirl-arduino/193].
 
  [chrysalis/479]: https://github.com/keyboardio/Chrysalis/issues/479
  [chrysalis/481]: https://github.com/keyboardio/Chrysalis/issues/481
+ [avrgirl-arduino/193]: https://github.com/noopkat/avrgirl-arduino/issues/193
+ [chrysalis:0.7.2]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.2
 
 # 2020-03-05
 
