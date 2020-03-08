@@ -1,5 +1,21 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-08
+
+## Chrysalis
+
+* Commented on [Chrysalis#480][chrysalis/480] and [Chrysalis#481][chrysalis/481].
+
+ [chrysalis/480]: https://github.com/keyboardio/Chrysalis/issues/480
+
+# 2020-03-07
+
+## Chrysalis
+
+* Released [Chrysalis 0.7.3][chrysalis:0.7.3].
+
+ [chrysalis:0.7.3]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.3
+
 # 2020-03-06
 
 ## Chrysalis
