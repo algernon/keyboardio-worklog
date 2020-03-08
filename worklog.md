@@ -6,9 +6,11 @@
 
 * Commented on [Chrysalis#480][chrysalis/480] and [Chrysalis#481][chrysalis/481].
 * Opened [Chrysalis#483][chrysalis/483], fixing [Chrysalis#478][chrysalis/478].
+* Opened [Chrysalis#484][chrysalis/484], fixing [Chrysalis#477][chrysalis/477].
 
  [chrysalis/480]: https://github.com/keyboardio/Chrysalis/issues/480
  [chrysalis/483]: https://github.com/keyboardio/Chrysalis/pull/483
+ [chrysalis/484]: https://github.com/keyboardio/Chrysalis/pull/484
 
 # 2020-03-07
 
