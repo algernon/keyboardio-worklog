@@ -1,5 +1,17 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-09
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#822][kaleidoscope/822], working around the pinkish white LED problem.
+
+ [kaleidoscope/822]: https://github.com/keyboardio/Kaleidoscope/pull/822
+
+## Miscellaneous
+
+* Had a meeting with Luis.
+
 # 2020-03-02
 
 ## Bazecor

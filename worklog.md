@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-09
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#822][kaleidoscope/822].
+
+ [kaleidoscope/822]: https://github.com/keyboardio/Kaleidoscope/pull/822
+
 # 2020-03-08
 
 ## Chrysalis
