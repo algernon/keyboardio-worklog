@@ -5,16 +5,23 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#822][kaleidoscope/822], working around the pinkish white LED problem.
-* Commented on [Trello#170][trello/170], explaining why LockLayer might still be in use in that particular case.
-* Commented on [Trello#166][trello/166], with a suggestion about what to add to the FAQ, to explain why the Raise may end up being detected as an USB modem.
 
  [kaleidoscope/822]: https://github.com/keyboardio/Kaleidoscope/pull/822
- [trello/170]: https://trello.com/c/Ohgsopgo/170
- [trello/166]: https://trello.com/c/NTZH4Qnq/166
+
+## Bazecor
+
+* Added the mouse back/forward buttons to Bazecor ([Trello#165][trello/165]).
+
+ [trello/165]: https://trello.com/c/h98UvdUk/165
 
 ## Miscellaneous
 
+* Commented on [Trello#170][trello/170], explaining why LockLayer might still be in use in that particular case.
+* Commented on [Trello#166][trello/166], with a suggestion about what to add to the FAQ, to explain why the Raise may end up being detected as an USB modem.
 * Had a meeting with Luis.
+
+ [trello/170]: https://trello.com/c/Ohgsopgo/170
+ [trello/166]: https://trello.com/c/NTZH4Qnq/166
 
 # 2020-03-02
 
