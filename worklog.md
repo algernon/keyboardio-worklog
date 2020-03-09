@@ -8,6 +8,12 @@
 
  [kaleidoscope/822]: https://github.com/keyboardio/Kaleidoscope/pull/822
 
+## Chrysalis
+
+* Opened [Chrysalis#485][chrysalis/485].
+
+ [chrysalis/485]: https://github.com/keyboardio/Chrysalis/pull/485
+
 # 2020-03-08
 
 ## Chrysalis
