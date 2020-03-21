@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Reviewed [Kaleidoscope#824][kaleidoscope/824].
+* Fixed [Kaleidoscope#823][kaleidoscope/823], the issue was in `Chrysalis-Firmware-Bundle`.
 
  [kaleidoscope/824]: https://github.com/keyboardio/Kaleidoscope/pull/824
+ [kaleidoscope/823]: https://github.com/keyboardio/Kaleidoscope/issues/823
 
 # 2020-03-09
 
