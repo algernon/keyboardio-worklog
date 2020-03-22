@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-22
+
+## Chrysalis
+
+* Wrote a script to update the shipped firmware more easily.
+* Released [Chrysalis 0.7.4][chrysalis:0.7.4].
+
+ [chrysalis:0.7.4]: https://github.com/keyboardio/Chrysalis/releases/tag/chrysalis-0.7.4
+
 # 2020-03-21
 
 ## Kaleidoscope
