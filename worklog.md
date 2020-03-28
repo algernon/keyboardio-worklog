@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-03-28
+
+## Chrysalis
+
+* Updated [Chrysalis#489][chrysalis/489].
+
 # 2020-03-25
 
 ## Chrysalis
