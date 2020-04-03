@@ -7,10 +7,12 @@
 * Opened [Chrysalis#495][chrysalis/495].
 * Opened [Chrysalis#497][chrysalis/497], fixing [Chrysalis#496][chrysalis/496].
 * Narrowed down the Win10 flashing issues to SerialPort, continued poking at older versions of it.
+* Reviewed [Chrysalis#494][chrysalis/494].
 
  [chrysalis/495]: https://github.com/keyboardio/Chrysalis/pull/495
  [chrysalis/497]: https://github.com/keyboardio/Chrysalis/pull/497
  [chrysalis/496]: https://github.com/keyboardio/Chrysalis/issues/496
+ [chrysalis/494]: https://github.com/keyboardio/Chrysalis/pull/494
 
 # 2020-04-02
 
