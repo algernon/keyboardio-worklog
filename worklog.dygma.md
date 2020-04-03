@@ -1,5 +1,12 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-04-02
+
+## Kaleidoscope
+
+* Reproduced the Raise crash the other day, continued narrowing it down.
+* Found the root cause of the Raise not working with the macOS login screen, have a workaround, working on a proper fix.
+
 # 2020-03-09
 
 ## Kaleidoscope

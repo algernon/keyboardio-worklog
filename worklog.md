@@ -5,9 +5,12 @@
 ## Chrysalis
 
 * Opened [Chrysalis#493][chrysalis/493], implementing [Chrysalis#492][chrysalis/492].
+* Started working on [Chrysalis#491][chrysalis/491].
+* Reproduced an error on Windows10, started bisecting.
 
  [chrysalis/492]: https://github.com/keyboardio/Chrysalis/issues/492
  [chrysalis/493]: https://github.com/keyboardio/Chrysalis/pull/493
+ [chrysalis/491]: https://github.com/keyboardio/Chrysalis/issues/491
 
 # 2020-03-28
 
