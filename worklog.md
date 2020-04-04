@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-04-04
+
+## Chrysalis
+
+* Updated [Chrysalis#493][chrysalis/493], it is now translatable.
+
 # 2020-04-03
 
 ## Chrysalis
