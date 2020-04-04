@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Updated [Chrysalis#493][chrysalis/493], it is now translatable.
+* Commented on [Chrysalis#466][chrysalis/466].
 
 # 2020-04-03
 
