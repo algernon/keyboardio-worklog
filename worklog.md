@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-15
+
+## Kaleidoscope
+
+* Reviewed [Kaleidoscope#892][kaleidoscope/892]: posted some suggestions, but as it is an improvement as it is, approved it too.
+
+ [kaleidoscope/892]: https://github.com/keyboardio/Kaleidoscope/pull/892
+
 # 2020-04-04
 
 ## Chrysalis
