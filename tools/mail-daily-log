@@ -4,9 +4,3 @@ log=$(tools/get-daily-log.pl $*)
 if [ ! -z "${log}" ]; then
     echo "${log}" | msmtp -a csillger -t
 fi
-
-log=$(tools/get-daily-log.dygma.pl $*)
-
-if [ ! -z "${log}" ]; then
-    echo "${log}" | msmtp -a csillger -t
-fi
