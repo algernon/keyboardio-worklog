@@ -6,6 +6,7 @@
 
 * Reviewed [Kaleidoscope#892][kaleidoscope/892]: posted some suggestions, but as it is an improvement as it is, approved it too.
 * Closed [Kaleidoscope#805][kaleidoscope/805], because the proposed feature is too niche, and the Raise ended up not using it anyway. Keeping the branch around a bit, so I can lift it out into a 3rd party plugin, in case anyone (myself included) ends up wanting it.
+* Started reviewing & testing merlin's OneShot and OneShot-related PRs.
 
  [kaleidoscope/892]: https://github.com/keyboardio/Kaleidoscope/pull/892
  [kaleidoscope/805]: https://github.com/keyboardio/Kaleidoscope/pull/805
