@@ -1,5 +1,14 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-16
+
+## Kaleidoscope
+
+* Looked more into [Kaleidoscope#904][kaleidoscope/904] and [Kaleidoscope#905][kaleidoscope/905]. Not conclusive yet, but I'm liking what I'm seeing.
+
+ [kaleidoscope/904]: https://github.com/keyboardio/Kaleidoscope/pull/904
+ [kaleidoscope/905]: https://github.com/keyboardio/Kaleidoscope/pull/905
+
 # 2020-09-15
 
 ## Kaleidoscope
