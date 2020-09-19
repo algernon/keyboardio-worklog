@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-18
+
+## Kaleidoscope
+
+* Going over [Kaleidoscope#898][kaleidoscope/898]. Got it to compile, in and outside of Docker. Also identified a scary part that might delete unintended files. A day before, tried a few ways to make the build system have less copy & paste, but ended up overengineering. Tried a few other ways today, but nothing conclusive yet. Accidentally switched branches on the bundle, and had trouble compiling for some time, until Eric set me back on the right track.
+
+ [kaleidoscope/898]: https://github.com/keyboardio/Kaleidoscope/pull/898
+
 # 2020-09-16
 
 ## Kaleidoscope
