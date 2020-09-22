@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-21
+
+## Kaleidoscope
+
+* More progress on [Kaleidoscope#898][kaleidoscope/898]: made it use a separate build dir for cmake, fixed `make clean`, and it is now possible to safely and reliably run the googletest-based tests in Docker, with `bin/run-docker make -C testing cmake-clean all` (with `cmake-clean` being optional, and only required if one ran the tests on the host too).
+
 # 2020-09-18
 
 ## Kaleidoscope
