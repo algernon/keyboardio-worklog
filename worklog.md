@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-26
+
+## Kaleidoscope
+
+* Worked on [Kaleidoscope#908][kaleidoscope/908] (the continuation of [Kaleidoscope#898][kaleidoscope/898]) for the past couple of days, getting it to compile on Travis with the new tests, cleaning up the build system, and pushing it to a merge-ready state.
+* Rebased [Kaleidoscope#867][kaleidoscope/867] (activation-order layering) on top of master, with the intent of writing tests for it.
+
+ [kaleidoscope/908]: https://github.com/keyboardio/Kaleidoscope/pull/908
+ [kaleidoscope/867]: https://github.com/keyboardio/Kaleidoscope/pull/867
+
 # 2020-09-21
 
 ## Kaleidoscope
