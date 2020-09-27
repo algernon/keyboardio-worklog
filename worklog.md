@@ -6,6 +6,7 @@
 
 * Worked on [Kaleidoscope#908][kaleidoscope/908] (the continuation of [Kaleidoscope#898][kaleidoscope/898]) for the past couple of days, getting it to compile on Travis with the new tests, cleaning up the build system, and pushing it to a merge-ready state.
 * Rebased [Kaleidoscope#867][kaleidoscope/867] (activation-order layering) on top of master, with the intent of writing tests for it.
+* Writing the tests didn't quite go as planned, because it turns out we do not have the tools for that just yet.
 
  [kaleidoscope/908]: https://github.com/keyboardio/Kaleidoscope/pull/908
  [kaleidoscope/867]: https://github.com/keyboardio/Kaleidoscope/pull/867
