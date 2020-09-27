@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Wrote a test for [Kaleidoscope#867][kaleidoscope/867], and marked the PR as ready for review.
+* Opened [Kaleidoscope#909][kaleidoscope/909], which runs the gtest-based suite batched together.
 
 # 2020-09-26
 
