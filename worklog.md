@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-27
+
+## Kaleidoscope
+
+* Wrote a test for [Kaleidoscope#867][kaleidoscope/867], and marked the PR as ready for review.
+
 # 2020-09-26
 
 ## Kaleidoscope
