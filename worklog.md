@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-28
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#910][kaleidoscope/910].
+
+ [kaleidoscope/910]: https://github.com/keyboardio/Kaleidoscope/issues/910
+
 # 2020-09-27
 
 ## Kaleidoscope
