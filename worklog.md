@@ -5,6 +5,7 @@
 ## Kaleidoscope
 
 * Opened [Kaleidoscope#910][kaleidoscope/910].
+* Dug into whether it is feasible to compile more of our new test harness with arduino, the tests themselves in particular (that way, we'd have easier access to some Kaleidoscope internals). Long story short: it's not feasible, not without substantial changes to googletest, which isn't something we want to do.
 
  [kaleidoscope/910]: https://github.com/keyboardio/Kaleidoscope/issues/910
 
