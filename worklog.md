@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-09-30
+
+## Kaleidoscope
+
+* Went through Qukeys, in order to figure out if I can fix [Kaleidoscope#399][kaleidoscope/399] myself. No PR yet, but I know much more about Qukeys, and with Michael's comments on the issue, I should have a PR ready soon.
+
+ [kaleidoscope/399]: https://github.com/keyboardio/Kaleidoscope/issues/399
+
 # 2020-09-28
 
 ## Kaleidoscope
