@@ -4,7 +4,7 @@ use warnings;
 use DateTime;
 
 my $now = DateTime->now;
-$now->set( day => $now->day - 1);
+$now->subtract( days => 1 );
 my $date = $ARGV[0] || $now->ymd;
 
 my $extracting = 0;
