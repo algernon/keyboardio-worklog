@@ -1,10 +1,25 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-02
+
+## Kaleidoscope
+
+* Reviewed and merged [Kaleidoscope#912][kaleidoscope/912].
+
+ [kaleidoscope/912]: https://github.com/keyboardio/Kaleidoscope/pull/912
+
+## Chrysalis
+
+* Fixed [Chrysalis#561][chrysalis/561].
+
+ [chrysalis/561]: https://github.com/keyboardio/Chrysalis/issues/561
+
 # 2020-10-01
 
 ## Kaleidoscope
 
 * Reviewed [Kaleidoscope#911][kaleidoscope/911], and pushed some updates to it too.
+* Had a short chat with Jesse about providing a key queuing system for plugins at some point.
 
  [kaleidoscope/911]: https://github.com/keyboardio/Kaleidoscope/pull/911
 
