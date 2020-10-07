@@ -10,12 +10,14 @@
 * Reviewed [Chrysalis#552][chrysalis/552].
 * Merged a few dependabot PRs.
 * Opened [Chrysalis#573][chrysalis/573].
+* Commented on [Chrysalis#572][chrysalis/572].
 
  [chrysalis/570]: https://github.com/keyboardio/Chrysalis/pull/570
  [chrysalis/534]: https://github.com/keyboardio/Chrysalis/issues/534
  [chrysalis/569]: https://github.com/keyboardio/Chrysalis/pull/569
  [chrysalis/552]: https://github.com/keyboardio/Chrysalis/pull/552
  [chrysalis/573]: https://github.com/keyboardio/Chrysalis/pull/573
+ [chrysalis/572]: https://github.com/keyboardio/Chrysalis/issues/572
 
 # 2020-10-02
 
