@@ -6,9 +6,13 @@
 
 * I've been working on redesigning the key selector the past few days.
 * Opened [Chrysalis#570][chrysalis/570], fixing [Chrysalis#534][chrysalis/534].
+* Reviewed [Chrysalis#569][chrysalis/569].
+* Reviewed [Chrysalis#552][chrysalis/552].
 
  [chrysalis/570]: https://github.com/keyboardio/Chrysalis/pull/570
  [chrysalis/534]: https://github.com/keyboardio/Chrysalis/issues/534
+ [chrysalis/569]: https://github.com/keyboardio/Chrysalis/pull/569
+ [chrysalis/552]: https://github.com/keyboardio/Chrysalis/pull/552
 
 # 2020-10-02
 
