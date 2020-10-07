@@ -8,6 +8,7 @@
 * Opened [Chrysalis#570][chrysalis/570], fixing [Chrysalis#534][chrysalis/534].
 * Reviewed [Chrysalis#569][chrysalis/569].
 * Reviewed [Chrysalis#552][chrysalis/552].
+* Merged a few dependabot PRs.
 
  [chrysalis/570]: https://github.com/keyboardio/Chrysalis/pull/570
  [chrysalis/534]: https://github.com/keyboardio/Chrysalis/issues/534
