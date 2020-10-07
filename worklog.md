@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-07
+
+## Chrysalis
+
+* I've been working on redesigning the key selector the past few days.
+* Opened [Chrysalis#570][chrysalis/570], fixing [Chrysalis#534][chrysalis/534].
+
+ [chrysalis/570]: https://github.com/keyboardio/Chrysalis/pull/570
+ [chrysalis/534]: https://github.com/keyboardio/Chrysalis/issues/534
+
 # 2020-10-02
 
 ## Kaleidoscope
