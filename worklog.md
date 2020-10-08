@@ -1,5 +1,16 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-08
+
+## Chrysalis
+
+* Reviewed and merged [Chrysalis#574][chrysalis/574].
+* Opened [Chrysalis#575][chrysalis/575], which fixes [Chrysalis#563][chrysalis/563], and partially addresses [Chrysalis#572][chrysalis/572].
+
+ [chrysalis/574]: https://github.com/keyboardio/Chrysalis/pull/574
+ [chrysalis/575]: https://github.com/keyboardio/Chrysalis/pull/575
+ [chrysalis/563]: https://github.com/keyboardio/Chrysalis/issues/563
+
 # 2020-10-07
 
 ## Chrysalis
