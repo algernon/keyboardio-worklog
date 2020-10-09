@@ -11,6 +11,9 @@
 * Closed [Chrysalis#252][chrysalis/252].
 * Commented on [Chrysalis#531][chrysalis/531].
 * Opened [Chrysalis#576][chrysalis/576], fixing [Chrysalis#524][chrysalis/524].
+* Commented on [Chrysalis#491][chrysalis/491].
+* Closed [Chrysalis#473][chrysalis/473].
+* Closed [Chrysalis#365][chrysalis/365].
 
  [chrysalis/559]: https://github.com/keyboardio/Chrysalis/issues/559
  [chrysalis/548]: https://github.com/keyboardio/Chrysalis/issues/548
@@ -20,6 +23,9 @@
  [chrysalis/531]: https://github.com/keyboardio/Chrysalis/issues/531
  [chrysalis/576]: https://github.com/keyboardio/Chrysalis/pull/576
  [chrysalis/524]: https://github.com/keyboardio/Chrysalis/issues/524
+ [chrysalis/491]: https://github.com/keyboardio/Chrysalis/issues/491
+ [chrysalis/473]: https://github.com/keyboardio/Chrysalis/issues/473
+ [chrysalis/365]: https://github.com/keyboardio/Chrysalis/issues/365
 
 # 2020-10-08
 
