@@ -5,8 +5,21 @@
 ## Chrysalis
 
 * Commented on [Chrysalis#559][chrysalis/559], and updated the 0.7.6 NEWS entry.
+* Fixed [Chrysalis#548][chrysalis/548].
+* Closed [Chrysalis#471][chrysalis/471].
+* Fixed [Chrysalis#543][chrysalis/543].
+* Closed [Chrysalis#252][chrysalis/252].
+* Commented on [Chrysalis#531][chrysalis/531].
+* Opened [Chrysalis#576][chrysalis/576], fixing [Chrysalis#524][chrysalis/524].
 
  [chrysalis/559]: https://github.com/keyboardio/Chrysalis/issues/559
+ [chrysalis/548]: https://github.com/keyboardio/Chrysalis/issues/548
+ [chrysalis/471]: https://github.com/keyboardio/Chrysalis/issues/471
+ [chrysalis/543]: https://github.com/keyboardio/Chrysalis/issues/543
+ [chrysalis/252]: https://github.com/keyboardio/Chrysalis/issues/252
+ [chrysalis/531]: https://github.com/keyboardio/Chrysalis/issues/531
+ [chrysalis/576]: https://github.com/keyboardio/Chrysalis/pull/576
+ [chrysalis/524]: https://github.com/keyboardio/Chrysalis/issues/524
 
 # 2020-10-08
 
