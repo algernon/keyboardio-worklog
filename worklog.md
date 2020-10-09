@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-09
+
+## Chrysalis
+
+* Commented on [Chrysalis#559][chrysalis/559], and updated the 0.7.6 NEWS entry.
+
+ [chrysalis/559]: https://github.com/keyboardio/Chrysalis/issues/559
+
 # 2020-10-08
 
 ## Chrysalis
