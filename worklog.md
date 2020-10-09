@@ -14,6 +14,10 @@
 * Commented on [Chrysalis#491][chrysalis/491].
 * Closed [Chrysalis#473][chrysalis/473].
 * Closed [Chrysalis#365][chrysalis/365].
+* Closed [Chrysalis#351][chrysalis/351].
+* Closed [Chrysalis#349][chrysalis/349].
+* Commented on [Chrysalis#572][chrysalis/572].
+* Opened [Chrysalis#577][chrysalis/577].
 
  [chrysalis/559]: https://github.com/keyboardio/Chrysalis/issues/559
  [chrysalis/548]: https://github.com/keyboardio/Chrysalis/issues/548
@@ -26,6 +30,9 @@
  [chrysalis/491]: https://github.com/keyboardio/Chrysalis/issues/491
  [chrysalis/473]: https://github.com/keyboardio/Chrysalis/issues/473
  [chrysalis/365]: https://github.com/keyboardio/Chrysalis/issues/365
+ [chrysalis/351]: https://github.com/keyboardio/Chrysalis/issues/351
+ [chrysalis/349]: https://github.com/keyboardio/Chrysalis/issues/349
+ [chrysalis/577]: https://github.com/keyboardio/Chrysalis/pull/577
 
 # 2020-10-08
 
