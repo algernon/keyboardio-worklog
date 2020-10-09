@@ -18,6 +18,7 @@
 * Closed [Chrysalis#349][chrysalis/349].
 * Commented on [Chrysalis#572][chrysalis/572].
 * Opened [Chrysalis#577][chrysalis/577].
+* Opened [Chrysalis#578][chrysalis/578].
 
  [chrysalis/559]: https://github.com/keyboardio/Chrysalis/issues/559
  [chrysalis/548]: https://github.com/keyboardio/Chrysalis/issues/548
@@ -33,6 +34,7 @@
  [chrysalis/351]: https://github.com/keyboardio/Chrysalis/issues/351
  [chrysalis/349]: https://github.com/keyboardio/Chrysalis/issues/349
  [chrysalis/577]: https://github.com/keyboardio/Chrysalis/pull/577
+ [chrysalis/578]: https://github.com/keyboardio/Chrysalis/pull/578
 
 # 2020-10-08
 
