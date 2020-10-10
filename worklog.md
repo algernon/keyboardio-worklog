@@ -5,6 +5,7 @@
 ## Chrysalis
 
 * Opened [Chrysalis#581][chrysalis/581].
+* Fixed the colormap editor on master.
 
  [chrysalis/581]: https://github.com/keyboardio/Chrysalis/pull/581
 
