@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-10
+
+## Chrysalis
+
+* Opened [Chrysalis#581][chrysalis/581].
+
+ [chrysalis/581]: https://github.com/keyboardio/Chrysalis/pull/581
+
 # 2020-10-09
 
 ## Chrysalis
