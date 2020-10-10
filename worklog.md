@@ -9,6 +9,10 @@
 
  [chrysalis/581]: https://github.com/keyboardio/Chrysalis/pull/581
 
+## Kaleidoscope
+
+* Updated [Kaleidoscope#867][kaleidoscope/867]: rebased on top of master, and updated the docs a tiny bit.
+
 # 2020-10-09
 
 ## Chrysalis
