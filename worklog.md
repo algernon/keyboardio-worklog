@@ -2,6 +2,12 @@
 
 # 2020-10-11
 
+## Chrysalis
+
+* Commented on [Chrysalis#582][chrysalis/582].
+
+ [chrysalis/582]: https://github.com/keyboardio/Chrysalis/issues/582
+
 ## Kaleidoscope
 
 * Reviewed, updated, and merged [Kaleidoscope#923][kaleidoscope/923].
