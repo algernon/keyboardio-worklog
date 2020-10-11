@@ -5,8 +5,10 @@
 ## Kaleidoscope
 
 * Reviewed, updated, and merged [Kaleidoscope#923][kaleidoscope/923].
+* Reviewed, updated, and merged [Kaleidoscope#924][kaleidoscope/924].
 
  [kaleidoscope/923]: https://github.com/keyboardio/Kaleidoscope/pull/923
+ [kaleidoscope/924]: https://github.com/keyboardio/Kaleidoscope/pull/924
 
 # 2020-10-10
 
