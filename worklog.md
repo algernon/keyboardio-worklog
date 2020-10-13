@@ -1,5 +1,19 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-13
+
+## Kaleidoscope
+
+* Reviewed, updated, and merged [Kaleidoscope#926][kaleidoscope/926].
+
+ [kaleidoscope/926]: https://github.com/keyboardio/Kaleidoscope/pull/926
+
+# 2020-10-12
+
+## Kaleidoscope
+
+* Started doing some docker-tuning on `docker/tuning`.
+
 # 2020-10-11
 
 ## Chrysalis
