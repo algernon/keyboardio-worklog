@@ -2,6 +2,12 @@
 
 # 2020-10-13
 
+## Chrysalis
+
+* Opened [Chrysalis#591][chrysalis/591].
+
+ [chrysalis/591]: https://github.com/keyboardio/Chrysalis/pull/591
+
 ## Kaleidoscope
 
 * Reviewed, updated, and merged [Kaleidoscope#926][kaleidoscope/926].
