@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-10-16
+
+## Kaleidoscope
+
+* Reviewed and merged [Kaleidoscope#931][kaleidoscope/932].
+
+ [kaleidoscope/932]: https://github.com/keyboardio/Kaleidoscope/pull/932
+
 # 2020-10-15
 
 ## Kaleidoscope
