@@ -1,5 +1,11 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-11-09
+
+## Chrysalis
+
+* For the past couple of weeks, I've been working on the new key selector, [Chrysalis#591][chrysalis/591]. Still a work in progress.
+
 # 2020-10-17
 
 ## Kaleidoscope
