@@ -5,6 +5,9 @@
 ## Chrysalis
 
 * For the past couple of weeks, I've been working on the new key selector, [Chrysalis#591][chrysalis/591]. Still a work in progress.
+* Opened [Chrysalis#602][chrysalis/602].
+
+ [chrysalis/602]: https://github.com/keyboardio/Chrysalis/pull/602
 
 # 2020-10-17
 
