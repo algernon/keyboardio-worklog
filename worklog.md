@@ -10,6 +10,12 @@
  [kaleidoscope/975]: https://github.com/keyboardio/Kaleidoscope/issues/975
  [kaleidoscope/976]: https://github.com/keyboardio/Kaleidoscope/issues/976
 
+## 2020-11-12
+
+## Chrysalis
+
+* Updated [Chrysalis#591][chrysalis/591] with a more up-to-date TODO list.
+
 # 2020-11-09
 
 ## Chrysalis
