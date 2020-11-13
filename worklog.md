@@ -1,5 +1,15 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2020-11-13
+
+## Kaleidoscope
+
+* Opened [Kaleidoscope#974][kaleidoscope/974], [Kaleidoscope#975][kaleidoscope/975], and [Kaleidoscope#976][kaleidoscope/976] - all related to the test infra.
+
+ [kaleidoscope/974]: https://github.com/keyboardio/Kaleidoscope/issues/974
+ [kaleidoscope/975]: https://github.com/keyboardio/Kaleidoscope/issues/975
+ [kaleidoscope/976]: https://github.com/keyboardio/Kaleidoscope/issues/976
+
 # 2020-11-09
 
 ## Chrysalis
