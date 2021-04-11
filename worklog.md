@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2021-04-09
+
+## Chrysalis
+
+* Further experiments with semi-global state in Chrysalis. Currently trying to decide between React Contexts and react-global-state. Latter is less boilerplate, but unmaintained, former would be the Right Way, but more boilerplate. Both appear to get the job done, nevertheless.
+
+  We're not going to store _all_ state global, only parts that need to be. This currently includes the list of plugins enabled in the firmware, and the keymap - but ideally, we'd store them separately, so we don't trigger a redraw on the sidebar when the keymap changes. This favours React Context, tho.
+
 # 2021-04-08
 
 ## Kaleidoscope
