@@ -1,5 +1,13 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2021-04-10
+
+## Chrysalis
+
+* Reviewed and merged [Chrysalis#684][chrysalis/684].
+
+ [chrysalis/684]: https://github.com/keyboardio/Chrysalis/pull/684
+
 # 2021-04-09
 
 ## Chrysalis
