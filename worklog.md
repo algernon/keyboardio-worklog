@@ -1,5 +1,23 @@
 <!-- -*- mode: markdown; fill-column: 8192 -*- -->
 
+# 2021-04-14
+
+## Kaleidoscope
+
+* Merged [KeyboardioHID#68][keyboardiohid/68].
+* Merged [Kaleidoscope#1028][kaleidoscope/1028].
+* Merged [Kaleidoscope#1012][kaleidoscope/1012].
+
+ [keyboardiohid/68]: https://github.com/keyboardio/KeyboardioHID/pull/68
+ [kaleidoscope/1028]: https://github.com/keyboardio/Kaleidoscope/pull/1028
+ [kaleidoscope/1012]: https://github.com/keyboardio/Kaleidoscope/pull/1012
+
+# 2021-04-13
+
+## Kaleidoscope
+
+* Combing through [Kaleidoscope#1024][kaleidoscope/1024] for the past two days.
+
 # 2021-04-10
 
 ## Chrysalis
